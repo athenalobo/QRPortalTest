@@ -6676,7 +6676,7 @@
     },
     {
         "id": 8032,
-        "name": "Avoid using a break statement in 'for' loops",
+        "name": "Avoid using break statement in FOR loops",
         "href": "AIP/quality-rules/8032",
         "critical": false,
         "severity": 10,
@@ -7978,7 +7978,7 @@
     },
     {
         "id": 8518,
-        "name": "Avoid Regular expression injection",
+        "name": "Avoid regular expression injection",
         "href": "AIP/quality-rules/8518",
         "critical": true,
         "severity": 30,
@@ -8244,6 +8244,26 @@
             "C#",
             "JEE",
             "VB.NET"
+        ]
+    },
+    {
+        "id": 8566,
+        "name": "Avoid cyclic references in the definition of CDS views (S4/HAHA)",
+        "href": "AIP/quality-rules/8566",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SAP SQL"
+        ]
+    },
+    {
+        "id": 8568,
+        "name": "Avoid calculated fields in WHERE-clauses and ON-clauses of CDS views (S4/HANA)",
+        "href": "AIP/quality-rules/8568",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SAP SQL"
         ]
     },
     {
