@@ -189,13 +189,13 @@
         "id": "API2-2019",
         "name": "Broken User Authentication",
         "href": "AIP/quality-standards/OWASP/items/API2-2019",
-        "count": 18
+        "count": 19
     },
     {
         "id": "API3-2019",
         "name": "Excessive Data Exposure",
         "href": "AIP/quality-standards/OWASP/items/API3-2019",
-        "count": 3
+        "count": 4
     },
     {
         "id": "API4-2019",
@@ -261,7 +261,7 @@
         "id": "M4-2016",
         "name": "Insecure Authentication",
         "href": "AIP/quality-standards/OWASP/items/M4-2016",
-        "count": 35
+        "count": 36
     },
     {
         "id": "M5-2016",
