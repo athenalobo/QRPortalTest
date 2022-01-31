@@ -1479,7 +1479,7 @@
     },
     {
         "id": 1101052,
-        "name": "Avoid using WHEN OTHERS without exception management (SQL)",
+        "name": "Use WHEN OTHERS in exception management (SQL)",
         "href": "AIP/quality-rules/1101052",
         "critical": true,
         "severity": 20,
