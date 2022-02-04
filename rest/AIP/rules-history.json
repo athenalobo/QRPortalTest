@@ -15094,6 +15094,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.4.0-beta8",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.reactjs": [
