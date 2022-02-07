@@ -7023,6 +7023,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.4.7",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.jaxws": [
