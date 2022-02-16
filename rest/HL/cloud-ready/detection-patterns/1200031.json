@@ -6,7 +6,10 @@
         "href": "HL/cloud-ready/contributions/1",
         "name": "Blocker"
     },
-    "category": null,
+    "category": {
+        "href": "HL/cloud-ready/categories/14",
+        "name": "Security & User Authentication"
+    },
     "scope": [
         {
             "platform": {
