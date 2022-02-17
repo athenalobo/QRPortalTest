@@ -9702,6 +9702,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.0.14-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.mips-redux-index": [
@@ -20088,6 +20097,15 @@
         },
         {
             "version": "3.5.10-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
+            "version": "3.6.0-beta1",
             "addedRules": [
                 
             ],
