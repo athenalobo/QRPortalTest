@@ -586,6 +586,16 @@
         ]
     },
     {
+        "id": 7642,
+        "name": "Avoid SQL queries on XXL tables not using the first column of a composite index in the WHERE clause",
+        "href": "AIP/quality-rules/7642",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
         "id": 7650,
         "name": "Ensure to have every field of a serializable class either serializable or transient to avoid failure to implement serialization capabilities",
         "href": "AIP/quality-rules/7650",
@@ -3026,6 +3036,16 @@
         "href": "AIP/quality-rules/1040044",
         "critical": true,
         "severity": 20,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
+        "id": 1042024,
+        "name": "Ensure activating tags for escaping string in order to sanitize user input and prevent XSS attacks",
+        "href": "AIP/quality-rules/1042024",
+        "critical": true,
+        "severity": 30,
         "technologyNames": [
             "JEE"
         ]
