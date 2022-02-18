@@ -12254,6 +12254,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "20220218.0.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.peoplesoft": [

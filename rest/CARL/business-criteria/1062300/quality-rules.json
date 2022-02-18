@@ -20,6 +20,16 @@
         ]
     },
     {
+        "id": 7150,
+        "name": "Prefer using PreparedStatement or CallableStatement over CreateStatement to prevent SQL Injection Attacks",
+        "href": "AIP/quality-rules/7150",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 7190,
         "name": "Struts1: Validate() Method of Struts Validator form must call super.validate()",
         "href": "AIP/quality-rules/7190",
@@ -45,6 +55,26 @@
         "href": "AIP/quality-rules/7362",
         "critical": true,
         "severity": 20,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
+        "id": 7380,
+        "name": "Ensure to update the validation.xml's entries according to the form used in your application",
+        "href": "AIP/quality-rules/7380",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
+        "id": 7382,
+        "name": "Ensure to update the validation.xml's entries according to the form used in your application",
+        "href": "AIP/quality-rules/7382",
+        "critical": false,
+        "severity": 10,
         "technologyNames": [
             "JEE"
         ]
@@ -1370,6 +1400,16 @@
         ]
     },
     {
+        "id": 1020724,
+        "name": "Ensure enabling sanitize option for marked component to avoid any security hole",
+        "href": "AIP/quality-rules/1020724",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "HTML5"
+        ]
+    },
+    {
         "id": 1020726,
         "name": "Ensure you have enable CSRF Protection to avoid Cross-Site forgery risk.",
         "href": "AIP/quality-rules/1020726",
@@ -2085,6 +2125,16 @@
         "href": "AIP/quality-rules/1024024",
         "critical": true,
         "severity": 20,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
+        "id": 1024026,
+        "name": "Prefer not using MODE_WORLD_READABLE or MODE_WORLD_WRITABLE to share files with other apps",
+        "href": "AIP/quality-rules/1024026",
+        "critical": false,
+        "severity": 10,
         "technologyNames": [
             "JEE"
         ]

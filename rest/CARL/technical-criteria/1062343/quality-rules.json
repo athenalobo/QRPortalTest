@@ -10,6 +10,16 @@
         ]
     },
     {
+        "id": 7380,
+        "name": "Struts 1: Avoid unused validation form",
+        "href": "AIP/quality-rules/7380",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 7732,
         "name": "Avoid non validated inputs in JSP files that use JSF",
         "href": "AIP/quality-rules/7732",

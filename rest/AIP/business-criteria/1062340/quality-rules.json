@@ -70,11 +70,41 @@
         ]
     },
     {
+        "id": 7380,
+        "name": "Struts 1: Avoid unused validation form",
+        "href": "AIP/quality-rules/7380",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
+        "id": 7382,
+        "name": "Struts1: Avoid Struts Validator field without Form Field",
+        "href": "AIP/quality-rules/7382",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 7416,
         "name": "Struts1: Avoid Action Form Field without Validator",
         "href": "AIP/quality-rules/7416",
         "critical": true,
         "severity": 20,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
+        "id": 7444,
+        "name": "Avoid Using Non-Serialized Beans with Session Scope",
+        "href": "AIP/quality-rules/7444",
+        "critical": false,
+        "severity": 10,
         "technologyNames": [
             "JEE"
         ]
@@ -343,6 +373,16 @@
         "href": "AIP/quality-rules/8116",
         "critical": true,
         "severity": 30,
+        "technologyNames": [
+            "ABAP"
+        ]
+    },
+    {
+        "id": 8118,
+        "name": "Avoid using the RFC_ABAP_INSTALL_AND_RUN function",
+        "href": "AIP/quality-rules/8118",
+        "critical": true,
+        "severity": 20,
         "technologyNames": [
             "ABAP"
         ]
@@ -1035,6 +1075,42 @@
         "severity": 20,
         "technologyNames": [
             "Cobol"
+        ]
+    },
+    {
+        "id": 8560,
+        "name": "Avoid server-side request forgery",
+        "href": "AIP/quality-rules/8560",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8562,
+        "name": "Avoid server-side request forgery through API requests",
+        "href": "AIP/quality-rules/8562",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8564,
+        "name": "Avoid second order server-side request forgery",
+        "href": "AIP/quality-rules/8564",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
         ]
     },
     {
@@ -1861,6 +1937,16 @@
         "id": 1020602,
         "name": "Avoid using \"sap.ui.model.odata.ODataModel\" as deprecated in version: SAPUI5 1.48",
         "href": "AIP/quality-rules/1020602",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 1020614,
+        "name": "Prefer using sap.base.Log Instead of console.log (SAPUI5)",
+        "href": "AIP/quality-rules/1020614",
         "critical": false,
         "severity": 10,
         "technologyNames": [
@@ -2758,6 +2844,16 @@
         ]
     },
     {
+        "id": 1024026,
+        "name": "Avoid using MODE_WORLD_READABLE and MODE_WORLD_WRITEABLE",
+        "href": "AIP/quality-rules/1024026",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 1024028,
         "name": "Avoid using \"Android Protected Confirmation\" without User Confirmation",
         "href": "AIP/quality-rules/1024028",
@@ -2834,6 +2930,17 @@
         "id": 1027010,
         "name": "Avoid weak encryption providing insufficient key size (.NET)",
         "href": "AIP/quality-rules/1027010",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1027012,
+        "name": "Avoid storing Non-Serializable Object as HttpSessionState attributes.",
+        "href": "AIP/quality-rules/1027012",
         "critical": true,
         "severity": 20,
         "technologyNames": [
@@ -3254,6 +3361,16 @@
         "id": 1039066,
         "name": "Avoid creating cookie with an overly broad path (JEE)",
         "href": "AIP/quality-rules/1039066",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
+        "id": 1039068,
+        "name": "Avoid using the Non-Serializable Object Stored in Session",
+        "href": "AIP/quality-rules/1039068",
         "critical": true,
         "severity": 20,
         "technologyNames": [
@@ -3971,6 +4088,26 @@
         "href": "AIP/quality-rules/1050028",
         "critical": true,
         "severity": 20,
+        "technologyNames": [
+            "Objective-C"
+        ]
+    },
+    {
+        "id": 1050032,
+        "name": "Ensure that LAContext evaluatePolicy: reply block success is checked (Objective-C)",
+        "href": "AIP/quality-rules/1050032",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "Objective-C"
+        ]
+    },
+    {
+        "id": 1050034,
+        "name": "Ensure that LAContext evaluatePolicy: reply block is not empty (Objective-C)",
+        "href": "AIP/quality-rules/1050034",
+        "critical": false,
+        "severity": 10,
         "technologyNames": [
             "Objective-C"
         ]

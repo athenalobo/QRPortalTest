@@ -20,6 +20,16 @@
         ]
     },
     {
+        "id": 7150,
+        "name": "Avoid string interpolations to prevent SQL injections by using  PreparedStatement or CallableStatement",
+        "href": "AIP/quality-rules/7150",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 7190,
         "name": "Struts1: Validate() Method of Struts Validator form must call super.validate()",
         "href": "AIP/quality-rules/7190",
@@ -45,6 +55,26 @@
         "href": "AIP/quality-rules/7362",
         "critical": true,
         "severity": 20,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
+        "id": 7380,
+        "name": "Struts 1: Avoid unused validation form",
+        "href": "AIP/quality-rules/7380",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
+        "id": 7382,
+        "name": "Struts1: Avoid Struts Validator field without Form Field",
+        "href": "AIP/quality-rules/7382",
+        "critical": false,
+        "severity": 10,
         "technologyNames": [
             "JEE"
         ]
@@ -303,6 +333,16 @@
         "href": "AIP/quality-rules/8116",
         "critical": true,
         "severity": 30,
+        "technologyNames": [
+            "ABAP"
+        ]
+    },
+    {
+        "id": 8118,
+        "name": "Avoid using the RFC_ABAP_INSTALL_AND_RUN function",
+        "href": "AIP/quality-rules/8118",
+        "critical": true,
+        "severity": 20,
         "technologyNames": [
             "ABAP"
         ]
@@ -1796,6 +1836,16 @@
         ]
     },
     {
+        "id": 1020614,
+        "name": "Prefer using sap.base.Log Instead of console.log (SAPUI5)",
+        "href": "AIP/quality-rules/1020614",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "HTML5"
+        ]
+    },
+    {
         "id": 1020618,
         "name": "Avoid using \"jQuery.sap.storage.Type.local\"",
         "href": "AIP/quality-rules/1020618",
@@ -1869,6 +1919,16 @@
         "id": 1020722,
         "name": "Avoid enabling unsecure Node.js server",
         "href": "AIP/quality-rules/1020722",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 1020724,
+        "name": "Ensure that marked is sanitized",
+        "href": "AIP/quality-rules/1020724",
         "critical": true,
         "severity": 20,
         "technologyNames": [
@@ -2671,6 +2731,16 @@
         "href": "AIP/quality-rules/1024024",
         "critical": true,
         "severity": 20,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
+        "id": 1024026,
+        "name": "Avoid using MODE_WORLD_READABLE and MODE_WORLD_WRITEABLE",
+        "href": "AIP/quality-rules/1024026",
+        "critical": false,
+        "severity": 10,
         "technologyNames": [
             "JEE"
         ]
@@ -3868,6 +3938,26 @@
         "href": "AIP/quality-rules/1050028",
         "critical": true,
         "severity": 20,
+        "technologyNames": [
+            "Objective-C"
+        ]
+    },
+    {
+        "id": 1050032,
+        "name": "Ensure that LAContext evaluatePolicy: reply block success is checked (Objective-C)",
+        "href": "AIP/quality-rules/1050032",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "Objective-C"
+        ]
+    },
+    {
+        "id": 1050034,
+        "name": "Ensure that LAContext evaluatePolicy: reply block is not empty (Objective-C)",
+        "href": "AIP/quality-rules/1050034",
+        "critical": false,
+        "severity": 10,
         "technologyNames": [
             "Objective-C"
         ]
