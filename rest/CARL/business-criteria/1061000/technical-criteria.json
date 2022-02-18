@@ -128,7 +128,7 @@
     {
         "id": 1061041,
         "name": "CWE-391 - Unchecked Error Condition",
-        "description": "[PLANNED FOR DEPRECATION. SEE MAINTENANCE NOTES.] Ignoring exceptions and other error conditions may allow an attacker to induce unexpected behavior unnoticed.",
+        "description": "[PLANNED FOR DEPRECATION. SEE MAINTENANCE NOTES AND CONSIDER CWE-252, CWE-248, OR CWE-1069.] Ignoring exceptions and other error conditions may allow an attacker to induce unexpected behavior unnoticed.",
         "href": "CARL/technical-criteria/1061041",
         "weight": 5
     },
@@ -275,7 +275,7 @@
     {
         "id": 1061068,
         "name": "CWE-597 - Use of Wrong Operator in String Comparison",
-        "description": "The product uses the wrong operator when comparing a string, such as using == when the equals() method should be used instead.",
+        "description": "The product uses the wrong operator when comparing a string, such as using == when the .equals() method should be used instead.",
         "href": "CARL/technical-criteria/1061068",
         "weight": 5
     },
@@ -641,6 +641,13 @@
         "name": "CWE-1091 - Use of Object without Invoking Destructor Method",
         "description": "The software contains a method that accesses an object but does not later invoke the element's associated finalize/destructor method.",
         "href": "CARL/technical-criteria/1061142",
+        "weight": 5
+    },
+    {
+        "id": 1061144,
+        "name": "CWE-1094 - Excessive Index Range Scan for a Data Resource",
+        "description": "The software contains an index range scan for a large data table, but the scan can cover a large number of rows.",
+        "href": "CARL/technical-criteria/1061144",
         "weight": 5
     },
     {

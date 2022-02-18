@@ -20,6 +20,16 @@
         ]
     },
     {
+        "id": 592,
+        "name": "Ensure you provide a user-defined copy constructor or disable copy when a class allocates memory in its constructor",
+        "href": "AIP/quality-rules/592",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C++"
+        ]
+    },
+    {
         "id": 610,
         "name": "Avoid circular references between header files",
         "href": "AIP/quality-rules/610",
@@ -572,6 +582,16 @@
         "severity": 10,
         "technologyNames": [
             "JEE"
+        ]
+    },
+    {
+        "id": 7642,
+        "name": "Avoid SQL queries on XXL tables not using the first column of a composite index in the WHERE clause",
+        "href": "AIP/quality-rules/7642",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
         ]
     },
     {
@@ -1254,6 +1274,17 @@
         ]
     },
     {
+        "id": 8086,
+        "name": "Avoid types that own disposable fields and are not disposable",
+        "href": "AIP/quality-rules/8086",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "C#",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 8092,
         "name": "Avoid Objects having exposed pointers allowed to access unmanaged memory",
         "href": "AIP/quality-rules/8092",
@@ -1761,18 +1792,6 @@
         ]
     },
     {
-        "id": 8516,
-        "name": "Ensure your application does not redirect to an untrusted site",
-        "href": "AIP/quality-rules/8516",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "C#",
-            "JEE",
-            "VB.NET"
-        ]
-    },
-    {
         "id": 8524,
         "name": "Avoid deserialization injection",
         "href": "AIP/quality-rules/8524",
@@ -1908,16 +1927,6 @@
         "id": 1020008,
         "name": "Replace for-in loop with a regular for loop with index to avoid slower performance",
         "href": "AIP/quality-rules/1020008",
-        "critical": false,
-        "severity": 10,
-        "technologyNames": [
-            "HTML5"
-        ]
-    },
-    {
-        "id": 1020010,
-        "name": "Replace forEach() with a regular loop to ensure better performance",
-        "href": "AIP/quality-rules/1020010",
         "critical": false,
         "severity": 10,
         "technologyNames": [
@@ -2965,6 +2974,16 @@
         ]
     },
     {
+        "id": 1024030,
+        "name": "Prefer using BiometricPrompt API instead of FingerprintManager as the latter is deprecated",
+        "href": "AIP/quality-rules/1024030",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 1024034,
         "name": "Ensure to check all the BiometricPrompt error options in the onAuthenticationError method",
         "href": "AIP/quality-rules/1024034",
@@ -3254,6 +3273,16 @@
         "href": "AIP/quality-rules/1040044",
         "critical": true,
         "severity": 20,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
+        "id": 1042024,
+        "name": "Ensure activating tags for escaping string in order to sanitize user input and prevent XSS attacks",
+        "href": "AIP/quality-rules/1042024",
+        "critical": true,
+        "severity": 30,
         "technologyNames": [
             "JEE"
         ]

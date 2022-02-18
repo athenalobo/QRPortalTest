@@ -60,6 +60,16 @@
         ]
     },
     {
+        "id": 1024030,
+        "name": "Avoid using FingerprintManager as biometric API",
+        "href": "AIP/quality-rules/1024030",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 1027004,
         "name": "Avoid using deprecated XmlTextReader .NET API",
         "href": "AIP/quality-rules/1027004",

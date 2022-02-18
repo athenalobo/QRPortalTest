@@ -20,6 +20,16 @@
         ]
     },
     {
+        "id": 592,
+        "name": "Ensure you provide a user-defined copy constructor or disable copy when a class allocates memory in its constructor",
+        "href": "AIP/quality-rules/592",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C++"
+        ]
+    },
+    {
         "id": 610,
         "name": "Avoid circular references between header files",
         "href": "AIP/quality-rules/610",
@@ -885,6 +895,16 @@
         ]
     },
     {
+        "id": 7642,
+        "name": "Avoid SQL queries on XXL tables not using the first column of a composite index in the WHERE clause",
+        "href": "AIP/quality-rules/7642",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
         "id": 7650,
         "name": "All types of a serializable Class must be serializable",
         "href": "AIP/quality-rules/7650",
@@ -948,6 +968,16 @@
         "id": 7692,
         "name": "Each opened file must be closed",
         "href": "AIP/quality-rules/7692",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "Cobol"
+        ]
+    },
+    {
+        "id": 7698,
+        "name": "Files should be declared with a FILE-STATUS",
+        "href": "AIP/quality-rules/7698",
         "critical": false,
         "severity": 10,
         "technologyNames": [
@@ -1062,6 +1092,16 @@
             "C#",
             "JEE",
             "VB.NET"
+        ]
+    },
+    {
+        "id": 7756,
+        "name": "Avoid using READ statement without AT END clause or INVALID KEY clause",
+        "href": "AIP/quality-rules/7756",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "Cobol"
         ]
     },
     {
@@ -1808,6 +1848,17 @@
         ]
     },
     {
+        "id": 8086,
+        "name": "Avoid types that own disposable fields and are not disposable",
+        "href": "AIP/quality-rules/8086",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "C#",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 8092,
         "name": "Avoid Objects having exposed pointers allowed to access unmanaged memory",
         "href": "AIP/quality-rules/8092",
@@ -2426,18 +2477,6 @@
         "id": 8514,
         "name": "Avoid NoSQL injection through API requests",
         "href": "AIP/quality-rules/8514",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "C#",
-            "JEE",
-            "VB.NET"
-        ]
-    },
-    {
-        "id": 8516,
-        "name": "Avoid URL redirection to untrusted site through API requests",
-        "href": "AIP/quality-rules/8516",
         "critical": true,
         "severity": 30,
         "technologyNames": [
@@ -4189,16 +4228,6 @@
         ]
     },
     {
-        "id": 1020010,
-        "name": "Avoid using forEach()",
-        "href": "AIP/quality-rules/1020010",
-        "critical": false,
-        "severity": 10,
-        "technologyNames": [
-            "HTML5"
-        ]
-    },
-    {
         "id": 1020012,
         "name": "Avoid using a web service with WebSocket inside a loop",
         "href": "AIP/quality-rules/1020012",
@@ -5399,6 +5428,16 @@
         ]
     },
     {
+        "id": 1024030,
+        "name": "Avoid using FingerprintManager as biometric API",
+        "href": "AIP/quality-rules/1024030",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 1024034,
         "name": "Always check all the BiometricPrompt error options in the onAuthenticationError method",
         "href": "AIP/quality-rules/1024034",
@@ -5769,6 +5808,16 @@
         "href": "AIP/quality-rules/1040044",
         "critical": true,
         "severity": 20,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
+        "id": 1042024,
+        "name": "Avoid Unescaped User-controlled Input attribute in Struts 1.x and 2.x",
+        "href": "AIP/quality-rules/1042024",
+        "critical": true,
+        "severity": 30,
         "technologyNames": [
             "JEE"
         ]
@@ -6200,6 +6249,16 @@
             "C#",
             "JEE",
             "VB.NET"
+        ]
+    },
+    {
+        "id": 1060112,
+        "name": "Review APIs not accessed by frontend functions",
+        "href": "AIP/quality-rules/1060112",
+        "critical": false,
+        "severity": 30,
+        "technologyNames": [
+            "JEE"
         ]
     },
     {
