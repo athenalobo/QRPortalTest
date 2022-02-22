@@ -116,6 +116,12 @@
             "standard": "CWE"
         },
         {
+            "id": "CWE-778",
+            "name": "Insufficient Logging",
+            "href": "AIP/quality-standards/CWE/items/CWE-778",
+            "standard": "CWE"
+        },
+        {
             "id": "CWE-252",
             "name": "Unchecked Return Value",
             "href": "AIP/quality-standards/ISO-5055/items/CWE-252",
@@ -125,6 +131,12 @@
             "id": "CWE-391",
             "name": "Unchecked Error Condition",
             "href": "AIP/quality-standards/ISO-5055/items/CWE-391",
+            "standard": "ISO-5055"
+        },
+        {
+            "id": "CWE-778",
+            "name": "Insufficient Logging",
+            "href": "AIP/quality-standards/ISO-5055/items/CWE-778",
             "standard": "ISO-5055"
         },
         {
@@ -143,6 +155,12 @@
             "id": "CWE-391",
             "name": "Unchecked Error Condition",
             "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-391",
+            "standard": "OMG-ASCQM"
+        },
+        {
+            "id": "CWE-778",
+            "name": "Insufficient Logging",
+            "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-778",
             "standard": "OMG-ASCQM"
         },
         {

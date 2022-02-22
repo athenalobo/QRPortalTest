@@ -597,7 +597,7 @@
         "id": "CWE-778",
         "name": "Insufficient Logging",
         "href": "AIP/quality-standards/ISO-5055/items/CWE-778",
-        "count": 3
+        "count": 4
     },
     {
         "id": "CWE-789",

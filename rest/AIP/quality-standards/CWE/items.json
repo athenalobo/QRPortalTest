@@ -234,6 +234,12 @@
         "count": 1
     },
     {
+        "id": "CWE-11",
+        "name": "ASP.NET Misconfiguration: Creating Debug Binary",
+        "href": "AIP/quality-standards/CWE/items/CWE-11",
+        "count": 2
+    },
+    {
         "id": "CWE-12",
         "name": "ASP.NET Misconfiguration: Missing Custom Error Page",
         "href": "AIP/quality-standards/CWE/items/CWE-12",
@@ -1011,7 +1017,7 @@
         "id": "CWE-778",
         "name": "Insufficient Logging",
         "href": "AIP/quality-standards/CWE/items/CWE-778",
-        "count": 3
+        "count": 4
     },
     {
         "id": "CWE-779",
