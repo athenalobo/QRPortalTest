@@ -164,49 +164,6 @@
         ]
     },
     {
-        "id": 1040026,
-        "name": "Avoid not providing an explicit HTTP method in @RequestMapping methods",
-        "href": "AIP/quality-rules/1040026",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "JEE"
-        ]
-    },
-    {
-        "id": 1043044,
-        "name": "Avoid disabling the XSRF/CSRF Protection (ASP.NET MVC)",
-        "href": "AIP/quality-rules/1043044",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "ASP.NET",
-            "C#"
-        ]
-    },
-    {
-        "id": 1043046,
-        "name": "Avoid creating cookie with overly broad path (C#)",
-        "href": "AIP/quality-rules/1043046",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "ASP.NET",
-            "C#"
-        ]
-    },
-    {
-        "id": 1043048,
-        "name": "Avoid having cookie with an overly broad domain (C#)",
-        "href": "AIP/quality-rules/1043048",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "ASP.NET",
-            "C#"
-        ]
-    },
-    {
         "id": 1043050,
         "name": "Avoid having long timeout for HttpCookie (> 5 mn)",
         "href": "AIP/quality-rules/1043050",

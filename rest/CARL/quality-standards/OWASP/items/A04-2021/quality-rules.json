@@ -72,16 +72,6 @@
         ]
     },
     {
-        "id": 8042,
-        "name": "Ensure all defined validation forms are used",
-        "href": "AIP/quality-rules/8042",
-        "critical": false,
-        "severity": 10,
-        "technologyNames": [
-            "JEE"
-        ]
-    },
-    {
         "id": 8218,
         "name": "Always check the content type when receiving a HTTP post",
         "href": "AIP/quality-rules/8218",

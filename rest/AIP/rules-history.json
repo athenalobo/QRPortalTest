@@ -21776,6 +21776,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.9.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.vuejs": [

@@ -9,7 +9,7 @@
         "id": "A02-2021",
         "name": "Cryptographic Failures",
         "href": "AIP/quality-standards/OWASP/items/A02-2021",
-        "count": 63
+        "count": 60
     },
     {
         "id": "A03-2021",
@@ -21,13 +21,13 @@
         "id": "A04-2021",
         "name": "Insecure Design",
         "href": "AIP/quality-standards/OWASP/items/A04-2021",
-        "count": 26
+        "count": 25
     },
     {
         "id": "A05-2021",
         "name": "Security Misconfiguration",
         "href": "AIP/quality-standards/OWASP/items/A05-2021",
-        "count": 86
+        "count": 85
     },
     {
         "id": "A06-2021",
@@ -45,7 +45,7 @@
         "id": "A08-2021",
         "name": "Software and Data Integrity Failures",
         "href": "AIP/quality-standards/OWASP/items/A08-2021",
-        "count": 17
+        "count": 16
     },
     {
         "id": "A09-2021",

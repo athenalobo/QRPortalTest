@@ -282,6 +282,17 @@
         ]
     },
     {
+        "id": 1043020,
+        "name": "Ensure you have reviewed the web config file and update the value of debug property to false",
+        "href": "AIP/quality-rules/1043020",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ASP.NET",
+            "C#"
+        ]
+    },
+    {
         "id": 1043030,
         "name": "Ensure you have setup the X-Frame-Options in HTTP Response (ASP.NET)",
         "href": "AIP/quality-rules/1043030",

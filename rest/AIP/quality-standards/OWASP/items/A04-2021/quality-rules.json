@@ -72,16 +72,6 @@
         ]
     },
     {
-        "id": 8042,
-        "name": "Struts 2: Avoid unused validation form",
-        "href": "AIP/quality-rules/8042",
-        "critical": false,
-        "severity": 10,
-        "technologyNames": [
-            "JEE"
-        ]
-    },
-    {
         "id": 8218,
         "name": "DEPRECATED: Content type should be checked when receiving a HTTP Post",
         "href": "AIP/quality-rules/8218",

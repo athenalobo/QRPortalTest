@@ -9,19 +9,19 @@
         "id": "A2-2013",
         "name": "Broken Authentication and Session Management",
         "href": "CARL/quality-standards/OWASP/items/A2-2013",
-        "count": 16
+        "count": 12
     },
     {
         "id": "A3-2013",
         "name": "Cross-Site Scripting (XSS)",
         "href": "CARL/quality-standards/OWASP/items/A3-2013",
-        "count": 44
+        "count": 45
     },
     {
         "id": "A4-2013",
         "name": "Insecure Direct Object References",
         "href": "CARL/quality-standards/OWASP/items/A4-2013",
-        "count": 5
+        "count": 4
     },
     {
         "id": "A5-2013",
@@ -33,7 +33,7 @@
         "id": "A6-2013",
         "name": "Sensitive Data Exposure",
         "href": "CARL/quality-standards/OWASP/items/A6-2013",
-        "count": 79
+        "count": 77
     },
     {
         "id": "A7-2013",
@@ -69,25 +69,25 @@
         "id": "A2-2017",
         "name": "Broken Authentication",
         "href": "CARL/quality-standards/OWASP/items/A2-2017",
-        "count": 21
+        "count": 19
     },
     {
         "id": "A3-2017",
         "name": "Sensitive Data Exposure",
         "href": "CARL/quality-standards/OWASP/items/A3-2017",
-        "count": 79
+        "count": 77
     },
     {
         "id": "A4-2017",
         "name": "XML External Entities (XXE)",
         "href": "CARL/quality-standards/OWASP/items/A4-2017",
-        "count": 6
+        "count": 5
     },
     {
         "id": "A5-2017",
         "name": "Broken Access Control",
         "href": "CARL/quality-standards/OWASP/items/A5-2017",
-        "count": 21
+        "count": 20
     },
     {
         "id": "A6-2017",
@@ -105,7 +105,7 @@
         "id": "A8-2017",
         "name": "Insecure Deserialization",
         "href": "CARL/quality-standards/OWASP/items/A8-2017",
-        "count": 13
+        "count": 12
     },
     {
         "id": "A9-2017",
@@ -129,7 +129,7 @@
         "id": "A02-2021",
         "name": "Cryptographic Failures",
         "href": "CARL/quality-standards/OWASP/items/A02-2021",
-        "count": 37
+        "count": 34
     },
     {
         "id": "A03-2021",
@@ -141,13 +141,13 @@
         "id": "A04-2021",
         "name": "Insecure Design",
         "href": "CARL/quality-standards/OWASP/items/A04-2021",
-        "count": 23
+        "count": 22
     },
     {
         "id": "A05-2021",
         "name": "Security Misconfiguration",
         "href": "CARL/quality-standards/OWASP/items/A05-2021",
-        "count": 54
+        "count": 53
     },
     {
         "id": "A06-2021",
@@ -165,7 +165,7 @@
         "id": "A08-2021",
         "name": "Software and Data Integrity Failures",
         "href": "CARL/quality-standards/OWASP/items/A08-2021",
-        "count": 15
+        "count": 14
     },
     {
         "id": "A09-2021",
@@ -183,7 +183,7 @@
         "id": "API1-2019",
         "name": "Broken Object Level Authorization",
         "href": "CARL/quality-standards/OWASP/items/API1-2019",
-        "count": 3
+        "count": 2
     },
     {
         "id": "API2-2019",
@@ -207,7 +207,7 @@
         "id": "API7-2019",
         "name": "Security Misconfiguration",
         "href": "CARL/quality-standards/OWASP/items/API7-2019",
-        "count": 38
+        "count": 39
     },
     {
         "id": "API8-2019",

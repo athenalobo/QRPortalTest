@@ -82,16 +82,6 @@
         ]
     },
     {
-        "id": 1020018,
-        "name": "Make sure that you do not use Web SQL databases",
-        "href": "AIP/quality-rules/1020018",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "HTML5"
-        ]
-    },
-    {
         "id": 1020720,
         "name": "Ensure setting the Strict-Transport-Security HTTP header to secure and encrypt communications to the Node.js server",
         "href": "AIP/quality-rules/1020720",
@@ -324,33 +314,11 @@
         ]
     },
     {
-        "id": 1043020,
-        "name": "Ensure you have reviewed the web config file and update the value of debug property to false",
-        "href": "AIP/quality-rules/1043020",
-        "critical": false,
-        "severity": 10,
-        "technologyNames": [
-            "ASP.NET",
-            "C#"
-        ]
-    },
-    {
         "id": 1043034,
         "name": "Ensure you did not keep the tracing activated in your web config file to not expose sensitive information for the hackers",
         "href": "AIP/quality-rules/1043034",
         "critical": false,
         "severity": 10,
-        "technologyNames": [
-            "ASP.NET",
-            "C#"
-        ]
-    },
-    {
-        "id": 1043048,
-        "name": "Ensure you do not allow access to all domain when defining cookie domain (C#)",
-        "href": "AIP/quality-rules/1043048",
-        "critical": true,
-        "severity": 30,
         "technologyNames": [
             "ASP.NET",
             "C#"
