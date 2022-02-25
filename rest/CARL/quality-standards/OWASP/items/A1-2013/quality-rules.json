@@ -560,56 +560,6 @@
         ]
     },
     {
-        "id": 1042026,
-        "name": "Ensure note using wildcards for action mapping name to avoid executing arbitrary Java code on server side",
-        "href": "AIP/quality-rules/1042026",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "JEE"
-        ]
-    },
-    {
-        "id": 1042028,
-        "name": "configured without namespace or with wildcard namespace is vulnerable to remote code execution attack",
-        "href": "AIP/quality-rules/1042028",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "JEE"
-        ]
-    },
-    {
-        "id": 1042042,
-        "name": "Using invoking dataHandler.createXStream method with type filtering to Remote Code Execution when deserializing XML payloads",
-        "href": "AIP/quality-rules/1042042",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "JEE"
-        ]
-    },
-    {
-        "id": 1042046,
-        "name": "Using Dynamic Method Invocation for Apache Struts 2.x allows remote attackers to execute arbitrary code via method: prefix, related to chained expressions.",
-        "href": "AIP/quality-rules/1042046",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "JEE"
-        ]
-    },
-    {
-        "id": 1042052,
-        "name": "Ensure not using JSON-lib library for Rest Plugin of Struts 2.5 to 2.5.14",
-        "href": "AIP/quality-rules/1042052",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "JEE"
-        ]
-    },
-    {
         "id": 1101096,
         "name": "Preventing SQL injection in Oracle dynamic SQL",
         "href": "AIP/quality-rules/1101096",

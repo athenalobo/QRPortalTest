@@ -3,7 +3,7 @@
         "id": "A1-2017",
         "name": "Injection",
         "href": "CARL/quality-standards/OWASP/items/A1-2017",
-        "count": 49
+        "count": 46
     },
     {
         "id": "A2-2017",
@@ -45,7 +45,7 @@
         "id": "A8-2017",
         "name": "Insecure Deserialization",
         "href": "CARL/quality-standards/OWASP/items/A8-2017",
-        "count": 12
+        "count": 7
     },
     {
         "id": "A9-2017",

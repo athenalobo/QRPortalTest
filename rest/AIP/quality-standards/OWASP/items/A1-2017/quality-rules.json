@@ -477,7 +477,7 @@
         "id": 8550,
         "name": "Avoid using ABAP command GENERATE SUBROUTINE POOL",
         "href": "AIP/quality-rules/8550",
-        "critical": false,
+        "critical": true,
         "severity": 30,
         "technologyNames": [
             "ABAP"
@@ -722,36 +722,6 @@
         "technologyNames": [
             "C#",
             "VB.NET"
-        ]
-    },
-    {
-        "id": 1042026,
-        "name": "Avoid Action Mapping based on wildcards with Struts 2.3.14.2 and older",
-        "href": "AIP/quality-rules/1042026",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "JEE"
-        ]
-    },
-    {
-        "id": 1042028,
-        "name": "Avoid activating alwaysSelectFullNamespace when actions configured without namespace or with a wildcard namespace for Struts pre 2.3.34 and pre 2.5.1",
-        "href": "AIP/quality-rules/1042028",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "JEE"
-        ]
-    },
-    {
-        "id": 1042046,
-        "name": "Avoid Using Dynamic Method Invocation for Apache Struts 2.x",
-        "href": "AIP/quality-rules/1042046",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "JEE"
         ]
     },
     {

@@ -219,16 +219,6 @@
         ]
     },
     {
-        "id": 1042040,
-        "name": "Avoid using Struts URLValidator with version before 2.5.13",
-        "href": "AIP/quality-rules/1042040",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "JEE"
-        ]
-    },
-    {
         "id": 1043030,
         "name": "Ensure the X-Frame-Options header is setup (ASP.NET)",
         "href": "AIP/quality-rules/1043030",

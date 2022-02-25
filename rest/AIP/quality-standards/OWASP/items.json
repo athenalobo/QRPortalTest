@@ -3,7 +3,7 @@
         "id": "A1-2013",
         "name": "Injection",
         "href": "AIP/quality-standards/OWASP/items/A1-2013",
-        "count": 80
+        "count": 75
     },
     {
         "id": "A2-2013",
@@ -51,7 +51,7 @@
         "id": "A9-2013",
         "name": "Using Components with Known Vulnerabilities",
         "href": "AIP/quality-standards/OWASP/items/A9-2013",
-        "count": 60
+        "count": 61
     },
     {
         "id": "A10-2013",
@@ -63,7 +63,7 @@
         "id": "A1-2017",
         "name": "Injection",
         "href": "AIP/quality-standards/OWASP/items/A1-2017",
-        "count": 72
+        "count": 69
     },
     {
         "id": "A2-2017",
@@ -105,13 +105,13 @@
         "id": "A8-2017",
         "name": "Insecure Deserialization",
         "href": "AIP/quality-standards/OWASP/items/A8-2017",
-        "count": 13
+        "count": 8
     },
     {
         "id": "A9-2017",
         "name": "Using Components with Known Vulnerabilities",
         "href": "AIP/quality-standards/OWASP/items/A9-2017",
-        "count": 60
+        "count": 61
     },
     {
         "id": "A10-2017",
@@ -123,7 +123,7 @@
         "id": "A01-2021",
         "name": "Broken Access Control",
         "href": "AIP/quality-standards/OWASP/items/A01-2021",
-        "count": 38
+        "count": 37
     },
     {
         "id": "A02-2021",
@@ -135,13 +135,13 @@
         "id": "A03-2021",
         "name": "Injection",
         "href": "AIP/quality-standards/OWASP/items/A03-2021",
-        "count": 121
+        "count": 118
     },
     {
         "id": "A04-2021",
         "name": "Insecure Design",
         "href": "AIP/quality-standards/OWASP/items/A04-2021",
-        "count": 25
+        "count": 24
     },
     {
         "id": "A05-2021",
@@ -153,7 +153,7 @@
         "id": "A06-2021",
         "name": "Vulnerable and Outdated Components",
         "href": "AIP/quality-standards/OWASP/items/A06-2021",
-        "count": 57
+        "count": 61
     },
     {
         "id": "A07-2021",
@@ -165,7 +165,7 @@
         "id": "A08-2021",
         "name": "Software and Data Integrity Failures",
         "href": "AIP/quality-standards/OWASP/items/A08-2021",
-        "count": 16
+        "count": 11
     },
     {
         "id": "A09-2021",
@@ -219,7 +219,7 @@
         "id": "API7-2019",
         "name": "Security Misconfiguration",
         "href": "AIP/quality-standards/OWASP/items/API7-2019",
-        "count": 43
+        "count": 44
     },
     {
         "id": "API8-2019",
@@ -243,25 +243,25 @@
         "id": "M1-2016",
         "name": "Improper Platform Usage",
         "href": "AIP/quality-standards/OWASP/items/M1-2016",
-        "count": 13
+        "count": 11
     },
     {
         "id": "M2-2016",
         "name": "Insecure Data Storage",
         "href": "AIP/quality-standards/OWASP/items/M2-2016",
-        "count": 10
+        "count": 9
     },
     {
         "id": "M3-2016",
         "name": "Insecure Communication",
         "href": "AIP/quality-standards/OWASP/items/M3-2016",
-        "count": 12
+        "count": 10
     },
     {
         "id": "M4-2016",
         "name": "Insecure Authentication",
         "href": "AIP/quality-standards/OWASP/items/M4-2016",
-        "count": 36
+        "count": 35
     },
     {
         "id": "M5-2016",
@@ -279,6 +279,6 @@
         "id": "M7-2016",
         "name": "Poor Code Quality",
         "href": "AIP/quality-standards/OWASP/items/M7-2016",
-        "count": 60
+        "count": 59
     }
 ]

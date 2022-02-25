@@ -111,18 +111,6 @@
             "standard": "CWE"
         },
         {
-            "id": "A1-2013",
-            "name": "Injection",
-            "href": "AIP/quality-standards/OWASP/items/A1-2013",
-            "standard": "OWASP"
-        },
-        {
-            "id": "A1-2017",
-            "name": "Injection",
-            "href": "AIP/quality-standards/OWASP/items/A1-2017",
-            "standard": "OWASP"
-        },
-        {
             "id": "A9-2013",
             "name": "Using Components with Known Vulnerabilities",
             "href": "AIP/quality-standards/OWASP/items/A9-2013",
@@ -132,12 +120,6 @@
             "id": "A9-2017",
             "name": "Using Components with Known Vulnerabilities",
             "href": "AIP/quality-standards/OWASP/items/A9-2017",
-            "standard": "OWASP"
-        },
-        {
-            "id": "A03-2021",
-            "name": "Injection",
-            "href": "AIP/quality-standards/OWASP/items/A03-2021",
             "standard": "OWASP"
         },
         {

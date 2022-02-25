@@ -5415,7 +5415,7 @@
         "id": 8550,
         "name": "Avoid using ABAP command GENERATE SUBROUTINE POOL",
         "href": "AIP/quality-rules/8550",
-        "critical": false,
+        "critical": true,
         "severity": 30,
         "technologyNames": [
             "ABAP"

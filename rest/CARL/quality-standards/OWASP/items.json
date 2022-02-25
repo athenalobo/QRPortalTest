@@ -3,7 +3,7 @@
         "id": "A1-2013",
         "name": "Injection",
         "href": "CARL/quality-standards/OWASP/items/A1-2013",
-        "count": 57
+        "count": 52
     },
     {
         "id": "A2-2013",
@@ -63,7 +63,7 @@
         "id": "A1-2017",
         "name": "Injection",
         "href": "CARL/quality-standards/OWASP/items/A1-2017",
-        "count": 49
+        "count": 46
     },
     {
         "id": "A2-2017",
@@ -105,7 +105,7 @@
         "id": "A8-2017",
         "name": "Insecure Deserialization",
         "href": "CARL/quality-standards/OWASP/items/A8-2017",
-        "count": 12
+        "count": 7
     },
     {
         "id": "A9-2017",
@@ -123,7 +123,7 @@
         "id": "A01-2021",
         "name": "Broken Access Control",
         "href": "CARL/quality-standards/OWASP/items/A01-2021",
-        "count": 22
+        "count": 21
     },
     {
         "id": "A02-2021",
@@ -135,13 +135,13 @@
         "id": "A03-2021",
         "name": "Injection",
         "href": "CARL/quality-standards/OWASP/items/A03-2021",
-        "count": 94
+        "count": 91
     },
     {
         "id": "A04-2021",
         "name": "Insecure Design",
         "href": "CARL/quality-standards/OWASP/items/A04-2021",
-        "count": 22
+        "count": 21
     },
     {
         "id": "A05-2021",
@@ -153,7 +153,7 @@
         "id": "A06-2021",
         "name": "Vulnerable and Outdated Components",
         "href": "CARL/quality-standards/OWASP/items/A06-2021",
-        "count": 50
+        "count": 53
     },
     {
         "id": "A07-2021",
@@ -165,7 +165,7 @@
         "id": "A08-2021",
         "name": "Software and Data Integrity Failures",
         "href": "CARL/quality-standards/OWASP/items/A08-2021",
-        "count": 14
+        "count": 9
     },
     {
         "id": "A09-2021",
@@ -226,12 +226,6 @@
         "name": "Improper Platform Usage",
         "href": "CARL/quality-standards/OWASP/items/M1-2016",
         "count": 7
-    },
-    {
-        "id": "M2-2016",
-        "name": "Insecure Data Storage",
-        "href": "CARL/quality-standards/OWASP/items/M2-2016",
-        "count": 1
     },
     {
         "id": "M3-2016",

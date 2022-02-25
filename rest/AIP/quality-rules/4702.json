@@ -101,6 +101,12 @@
             "standard": "CWE"
         },
         {
+            "id": "CWE-497",
+            "name": "Exposure of Sensitive System Information to an Unauthorized Control Sphere",
+            "href": "AIP/quality-standards/CWE/items/CWE-497",
+            "standard": "CWE"
+        },
+        {
             "id": "NIST-AC-3",
             "name": "Access Enforcement",
             "href": "AIP/quality-standards/NIST-SP-800-53R4/items/NIST-AC-3",

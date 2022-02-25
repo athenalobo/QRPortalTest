@@ -2643,7 +2643,7 @@
         "id": "CWE-497",
         "name": "Exposure of Sensitive System Information to an Unauthorized Control Sphere",
         "href": "AIP/quality-standards/CWE/items/CWE-497",
-        "count": 0
+        "count": 2
     },
     {
         "id": "CWE-498",

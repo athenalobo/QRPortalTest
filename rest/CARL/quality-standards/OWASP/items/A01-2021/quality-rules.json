@@ -182,16 +182,6 @@
         ]
     },
     {
-        "id": 1042010,
-        "name": "Ensure excluding class parameter for ParametersInterceptor when using Struts 2.3.16 (and older)",
-        "href": "AIP/quality-rules/1042010",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "JEE"
-        ]
-    },
-    {
         "id": 1043044,
         "name": "Ensure you have not disable AntiForgery token in Razor Pages (ASP.NET MVC)",
         "href": "AIP/quality-rules/1043044",

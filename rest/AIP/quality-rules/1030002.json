@@ -131,6 +131,12 @@
             "standard": "CWE"
         },
         {
+            "id": "CWE-497",
+            "name": "Exposure of Sensitive System Information to an Unauthorized Control Sphere",
+            "href": "AIP/quality-standards/CWE/items/CWE-497",
+            "standard": "CWE"
+        },
+        {
             "id": "NIST-SI-11",
             "name": "Error Handling",
             "href": "AIP/quality-standards/NIST-SP-800-53R4/items/NIST-SI-11",

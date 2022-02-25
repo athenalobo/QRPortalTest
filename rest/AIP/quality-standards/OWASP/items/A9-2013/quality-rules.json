@@ -582,6 +582,16 @@
         ]
     },
     {
+        "id": 1050040,
+        "name": "Avoid using SecTransform API",
+        "href": "AIP/quality-rules/1050040",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "Objective-C"
+        ]
+    },
+    {
         "id": 1101958,
         "name": "Avoid artifacts having db.collection.ensureIndex() to create new indexes",
         "href": "AIP/quality-rules/1101958",
