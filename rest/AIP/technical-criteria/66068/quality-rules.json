@@ -183,7 +183,7 @@
         "id": 7954,
         "name": "Avoid indirect String concatenation inside loops",
         "href": "AIP/quality-rules/7954",
-        "critical": false,
+        "critical": true,
         "weight": 7,
         "technologyNames": [
             "JEE"
