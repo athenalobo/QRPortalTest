@@ -10299,6 +10299,16 @@
         ]
     },
     {
+        "id": 1104008,
+        "name": "CDS View AccessControl.authorizationCheck should not be set to '#NOT_REQUIRED' (S4/HANA)",
+        "href": "AIP/quality-rules/1104008",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SAP SQL"
+        ]
+    },
+    {
         "id": 1520102,
         "name": "SiebelReview: Custom BC Based On S_PARTY Table Missing the \"Inner Join Extension Table\" User Property",
         "href": "AIP/quality-rules/1520102",

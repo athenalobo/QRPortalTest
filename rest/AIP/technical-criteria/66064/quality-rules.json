@@ -1401,6 +1401,16 @@
         ]
     },
     {
+        "id": 1104008,
+        "name": "CDS View AccessControl.authorizationCheck should not be set to '#NOT_REQUIRED' (S4/HANA)",
+        "href": "AIP/quality-rules/1104008",
+        "critical": false,
+        "weight": 7,
+        "technologyNames": [
+            "SAP SQL"
+        ]
+    },
+    {
         "id": 1600720,
         "name": "All new menu item must be into a permission list (PeopleSoft)",
         "href": "AIP/quality-rules/1600720",

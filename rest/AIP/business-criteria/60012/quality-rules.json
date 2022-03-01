@@ -7920,6 +7920,16 @@
         ]
     },
     {
+        "id": 1104006,
+        "name": "CDS view association name should be defined according to the naming convention (S4/HANA)",
+        "href": "AIP/quality-rules/1104006",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SAP SQL"
+        ]
+    },
+    {
         "id": 1520102,
         "name": "SiebelReview: Custom BC Based On S_PARTY Table Missing the \"Inner Join Extension Table\" User Property",
         "href": "AIP/quality-rules/1520102",
