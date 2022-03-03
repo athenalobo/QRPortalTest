@@ -10,6 +10,16 @@
         ]
     },
     {
+        "id": 4612,
+        "name": "Avoid using native Methods (JNI)",
+        "href": "AIP/quality-rules/4612",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 7190,
         "name": "Struts1: Validate() Method of Struts Validator form must call super.validate()",
         "href": "AIP/quality-rules/7190",
