@@ -1746,6 +1746,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.0.0-beta1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.coremetrics": [
