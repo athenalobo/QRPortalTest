@@ -94,6 +94,12 @@
             "standard": "CWE"
         },
         {
+            "id": "CWE-523",
+            "name": "Unprotected Transport of Credentials",
+            "href": "AIP/quality-standards/CWE/items/CWE-523",
+            "standard": "CWE"
+        },
+        {
             "id": "NIST-SC-12",
             "name": "Cryptographic Key Establishment and Management",
             "href": "AIP/quality-standards/NIST-SP-800-53R4/items/NIST-SC-12",

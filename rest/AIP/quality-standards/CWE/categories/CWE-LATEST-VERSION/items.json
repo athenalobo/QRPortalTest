@@ -2757,7 +2757,7 @@
         "id": "CWE-523",
         "name": "Unprotected Transport of Credentials",
         "href": "AIP/quality-standards/CWE/items/CWE-523",
-        "count": 1
+        "count": 2
     },
     {
         "id": "CWE-524",
