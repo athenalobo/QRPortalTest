@@ -20254,6 +20254,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "3.6.0-beta2",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.struts": [
