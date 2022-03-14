@@ -33,7 +33,7 @@
         "id": "ASCRM-CWE-456",
         "name": "Storable and Member Data Element Missing Initialization",
         "href": "AIP/quality-standards/CISQ/items/ASCRM-CWE-456",
-        "count": 8
+        "count": 9
     },
     {
         "id": "ASCRM-CWE-674",
@@ -165,7 +165,7 @@
         "id": "ASCRM-RLB-18",
         "name": "Storable and Member Data Element Initialization with Hard-Coded Network Resource Configuration Data",
         "href": "AIP/quality-standards/CISQ/items/ASCRM-RLB-18",
-        "count": 8
+        "count": 9
     },
     {
         "id": "ASCRM-RLB-19",

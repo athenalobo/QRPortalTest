@@ -195,7 +195,7 @@
         "id": "CWE-456",
         "name": "Missing Initialization of a Variable",
         "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-456",
-        "count": 8
+        "count": 9
     },
     {
         "id": "CWE-457",
@@ -207,7 +207,7 @@
         "id": "CWE-477",
         "name": "Use of Obsolete Function",
         "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-477",
-        "count": 22
+        "count": 25
     },
     {
         "id": "CWE-480",

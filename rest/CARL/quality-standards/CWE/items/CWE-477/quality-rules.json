@@ -20,6 +20,16 @@
         ]
     },
     {
+        "id": 1020018,
+        "name": "Make sure that you do not use Web SQL databases",
+        "href": "AIP/quality-rules/1020018",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "HTML5"
+        ]
+    },
+    {
         "id": 1020318,
         "name": "Ensure you don't use officially jQuery deprecated methods",
         "href": "AIP/quality-rules/1020318",

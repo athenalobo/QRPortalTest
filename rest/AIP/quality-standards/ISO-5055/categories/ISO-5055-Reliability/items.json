@@ -69,7 +69,7 @@
         "id": "CWE-248",
         "name": "Uncaught Exception",
         "href": "AIP/quality-standards/ISO-5055/items/CWE-248",
-        "count": 0
+        "count": 2
     },
     {
         "id": "CWE-252",
@@ -147,7 +147,7 @@
         "id": "CWE-456",
         "name": "Missing Initialization of a Variable",
         "href": "AIP/quality-standards/ISO-5055/items/CWE-456",
-        "count": 8
+        "count": 9
     },
     {
         "id": "CWE-459",
@@ -357,7 +357,7 @@
         "id": "CWE-1051",
         "name": "Initialization with Hard-Coded Network Resource Configuration Data",
         "href": "AIP/quality-standards/ISO-5055/items/CWE-1051",
-        "count": 8
+        "count": 9
     },
     {
         "id": "CWE-1058",

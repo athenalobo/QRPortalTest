@@ -519,7 +519,7 @@
         "id": "CWE-477",
         "name": "Use of Obsolete Function",
         "href": "CARL/quality-standards/OMG-ASCQM/items/CWE-477",
-        "count": 9
+        "count": 10
     },
     {
         "id": "CWE-502",

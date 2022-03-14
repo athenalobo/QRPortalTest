@@ -444,6 +444,12 @@
         "count": 1
     },
     {
+        "id": "CWE-248",
+        "name": "Uncaught Exception",
+        "href": "AIP/quality-standards/CWE/items/CWE-248",
+        "count": 2
+    },
+    {
         "id": "CWE-252",
         "name": "Unchecked Return Value",
         "href": "AIP/quality-standards/CWE/items/CWE-252",
@@ -657,7 +663,7 @@
         "id": "CWE-456",
         "name": "Missing Initialization of a Variable",
         "href": "AIP/quality-standards/CWE/items/CWE-456",
-        "count": 8
+        "count": 9
     },
     {
         "id": "CWE-457",
@@ -687,7 +693,7 @@
         "id": "CWE-477",
         "name": "Use of Obsolete Function",
         "href": "AIP/quality-standards/CWE/items/CWE-477",
-        "count": 22
+        "count": 25
     },
     {
         "id": "CWE-478",
@@ -1125,7 +1131,7 @@
         "id": "CWE-1041",
         "name": "Use of Redundant Code",
         "href": "AIP/quality-standards/CWE/items/CWE-1041",
-        "count": 2
+        "count": 3
     },
     {
         "id": "CWE-1043",
@@ -1173,7 +1179,7 @@
         "id": "CWE-1051",
         "name": "Initialization with Hard-Coded Network Resource Configuration Data",
         "href": "AIP/quality-standards/CWE/items/CWE-1051",
-        "count": 8
+        "count": 9
     },
     {
         "id": "CWE-1052",

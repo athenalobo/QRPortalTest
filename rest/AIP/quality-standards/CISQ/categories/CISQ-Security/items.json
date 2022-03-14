@@ -81,7 +81,7 @@
         "id": "ASCSM-CWE-456",
         "name": "Storable and Member Data Element Missing Initialization",
         "href": "AIP/quality-standards/CISQ/items/ASCSM-CWE-456",
-        "count": 7
+        "count": 8
     },
     {
         "id": "ASCSM-CWE-606",

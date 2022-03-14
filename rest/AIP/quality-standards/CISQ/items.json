@@ -105,7 +105,7 @@
         "id": "ASCMM-MNT-19",
         "name": "Named Callable and Method Control Element Excessive Similarity",
         "href": "AIP/quality-standards/CISQ/items/ASCMM-MNT-19",
-        "count": 2
+        "count": 3
     },
     {
         "id": "ASCMM-MNT-20",
@@ -219,7 +219,7 @@
         "id": "ASCRM-CWE-456",
         "name": "Storable and Member Data Element Missing Initialization",
         "href": "AIP/quality-standards/CISQ/items/ASCRM-CWE-456",
-        "count": 8
+        "count": 9
     },
     {
         "id": "ASCRM-CWE-674",
@@ -345,7 +345,7 @@
         "id": "ASCRM-RLB-18",
         "name": "Storable and Member Data Element Initialization with Hard-Coded Network Resource Configuration Data",
         "href": "AIP/quality-standards/CISQ/items/ASCRM-RLB-18",
-        "count": 8
+        "count": 9
     },
     {
         "id": "ASCRM-RLB-19",
@@ -435,7 +435,7 @@
         "id": "ASCSM-CWE-456",
         "name": "Storable and Member Data Element Missing Initialization",
         "href": "AIP/quality-standards/CISQ/items/ASCSM-CWE-456",
-        "count": 7
+        "count": 8
     },
     {
         "id": "ASCSM-CWE-667",
