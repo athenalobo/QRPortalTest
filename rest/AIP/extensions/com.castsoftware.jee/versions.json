@@ -63,6 +63,13 @@
         "transactionsConfigurationCRC": 3215395158
     },
     {
+        "name": "1.2.23",
+        "href": "AIP/extensions/com.castsoftware.jee/versions/1.2.23",
+        "metaModelCRC": 3935842336,
+        "rulesCRC": 3383035393,
+        "transactionsConfigurationCRC": 3215395158
+    },
+    {
         "name": "1.2.22",
         "href": "AIP/extensions/com.castsoftware.jee/versions/1.2.22",
         "metaModelCRC": 3935842336,

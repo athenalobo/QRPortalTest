@@ -8000,6 +8000,18 @@
             ]
         },
         {
+            "version": "1.2.23",
+            "addedRules": [
+                {
+                    "id": 7254,
+                    "name": "Declare as Static all methods not using instance members"
+                }
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.3.0-beta2",
             "addedRules": [
                 {
@@ -8317,10 +8329,6 @@
                 {
                     "id": 7252,
                     "name": "Call 'super.finalize ()' in the \"finally\" block of 'finalize ()' methods"
-                },
-                {
-                    "id": 7254,
-                    "name": "Declare as Static all methods not using instance members"
                 },
                 {
                     "id": 7256,
