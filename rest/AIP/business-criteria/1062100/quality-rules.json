@@ -769,6 +769,16 @@
         ]
     },
     {
+        "id": 7526,
+        "name": "Avoid using hard-coded paths",
+        "href": "AIP/quality-rules/7526",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ABAP"
+        ]
+    },
+    {
         "id": 7532,
         "name": "Avoid nested SELECT ... ENDSELECT statements",
         "href": "AIP/quality-rules/7532",
@@ -3068,6 +3078,16 @@
         ]
     },
     {
+        "id": 1005026,
+        "name": "Avoid Too Many Copy Pasted Artifacts (EGL)",
+        "href": "AIP/quality-rules/1005026",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "EGL"
+        ]
+    },
+    {
         "id": 1005028,
         "name": "Avoid Functions with High Cyclomatic Complexity (EGL)",
         "href": "AIP/quality-rules/1005028",
@@ -3753,6 +3773,16 @@
         "href": "AIP/quality-rules/1018304",
         "critical": false,
         "severity": 10,
+        "technologyNames": [
+            "TIBCO"
+        ]
+    },
+    {
+        "id": 1018862,
+        "name": "JDBC connection must use Global variable for username and password parametrization of database url (TIBCO BW)",
+        "href": "AIP/quality-rules/1018862",
+        "critical": true,
+        "severity": 20,
         "technologyNames": [
             "TIBCO"
         ]
@@ -4958,6 +4988,16 @@
         ]
     },
     {
+        "id": 1021022,
+        "name": "'Initialize ancestors when overriding __init__'",
+        "href": "AIP/quality-rules/1021022",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
         "id": 1021024,
         "name": "Avoid return statement in finally block",
         "href": "AIP/quality-rules/1021024",
@@ -5190,6 +5230,17 @@
         "id": 1027086,
         "name": "Avoid having the same implementation in a conditional structure",
         "href": "AIP/quality-rules/1027086",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "C#",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1027090,
+        "name": "Avoid improper instantiation of argument exceptions",
+        "href": "AIP/quality-rules/1027090",
         "critical": false,
         "severity": 10,
         "technologyNames": [

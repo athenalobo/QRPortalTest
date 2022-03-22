@@ -785,6 +785,16 @@
         ]
     },
     {
+        "id": 7526,
+        "name": "Avoid using hard-coded paths",
+        "href": "AIP/quality-rules/7526",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ABAP"
+        ]
+    },
+    {
         "id": 7532,
         "name": "Avoid nested SELECT ... ENDSELECT statements",
         "href": "AIP/quality-rules/7532",
@@ -3328,6 +3338,16 @@
         ]
     },
     {
+        "id": 1005026,
+        "name": "Avoid Too Many Copy Pasted Artifacts (EGL)",
+        "href": "AIP/quality-rules/1005026",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "EGL"
+        ]
+    },
+    {
         "id": 1005028,
         "name": "Avoid Functions with High Cyclomatic Complexity (EGL)",
         "href": "AIP/quality-rules/1005028",
@@ -3348,9 +3368,29 @@
         ]
     },
     {
+        "id": 1005068,
+        "name": "Avoid SQL query outside try-on block (EGL)",
+        "href": "AIP/quality-rules/1005068",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "EGL"
+        ]
+    },
+    {
         "id": 1005070,
         "name": "Avoid Program calls without checking the return code (EGL)",
         "href": "AIP/quality-rules/1005070",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "EGL"
+        ]
+    },
+    {
+        "id": 1005078,
+        "name": "Avoid program calls outside a try end block (EGL)",
+        "href": "AIP/quality-rules/1005078",
         "critical": true,
         "severity": 20,
         "technologyNames": [
@@ -4258,6 +4298,16 @@
         ]
     },
     {
+        "id": 1020018,
+        "name": "Avoid using Web SQL databases",
+        "href": "AIP/quality-rules/1020018",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "HTML5"
+        ]
+    },
+    {
         "id": 1020022,
         "name": "Avoid using submitted markup containing \"form\" and \"formaction\" attributes",
         "href": "AIP/quality-rules/1020022",
@@ -4858,6 +4908,26 @@
         ]
     },
     {
+        "id": 1020600,
+        "name": "Avoid using namespace \"jQuery.sap.*\" as deprecated ( SAPUI5)",
+        "href": "AIP/quality-rules/1020600",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 1020602,
+        "name": "Avoid using \"sap.ui.model.odata.ODataModel\" as deprecated in version: SAPUI5 1.48",
+        "href": "AIP/quality-rules/1020602",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "HTML5"
+        ]
+    },
+    {
         "id": 1020700,
         "name": "Avoid the lack of error handling in the Node.js callbacks",
         "href": "AIP/quality-rules/1020700",
@@ -5313,6 +5383,16 @@
         "href": "AIP/quality-rules/1021018",
         "critical": true,
         "severity": 20,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
+        "id": 1021022,
+        "name": "'Initialize ancestors when overriding __init__'",
+        "href": "AIP/quality-rules/1021022",
+        "critical": false,
+        "severity": 10,
         "technologyNames": [
             "Python"
         ]

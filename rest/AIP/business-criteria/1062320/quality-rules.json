@@ -110,16 +110,6 @@
         ]
     },
     {
-        "id": 7526,
-        "name": "Avoid using hard-coded paths",
-        "href": "AIP/quality-rules/7526",
-        "critical": false,
-        "severity": 10,
-        "technologyNames": [
-            "ABAP"
-        ]
-    },
-    {
         "id": 7732,
         "name": "Avoid non validated inputs in JSP files that use JSF",
         "href": "AIP/quality-rules/7732",
@@ -1269,16 +1259,6 @@
         "id": 1019004,
         "name": "Avoid to set client credential type other than Certificate or Windows when using message mode",
         "href": "AIP/quality-rules/1019004",
-        "critical": false,
-        "severity": 10,
-        "technologyNames": [
-            "WCF"
-        ]
-    },
-    {
-        "id": 1019006,
-        "name": "Avoid wrong suppressAuditFailure and serviceAuthorizationAuditLevel parameters when enabling WCF service security audit feature",
-        "href": "AIP/quality-rules/1019006",
         "critical": false,
         "severity": 10,
         "technologyNames": [
@@ -3958,6 +3938,16 @@
         "href": "AIP/quality-rules/1050034",
         "critical": false,
         "severity": 10,
+        "technologyNames": [
+            "Objective-C"
+        ]
+    },
+    {
+        "id": 1050040,
+        "name": "Avoid using SecTransform API",
+        "href": "AIP/quality-rules/1050040",
+        "critical": true,
+        "severity": 20,
         "technologyNames": [
             "Objective-C"
         ]

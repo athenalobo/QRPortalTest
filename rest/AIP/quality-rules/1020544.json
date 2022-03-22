@@ -70,16 +70,9 @@
             "critical": false
         },
         {
-            "id": 1062305,
-            "name": "OWASP-2013-A5 - Security Misconfiguration",
-            "href": "AIP/technical-criteria/1062305",
-            "weight": 5,
-            "critical": false
-        },
-        {
-            "id": 1062326,
-            "name": "OWASP-2017-A6 - Security Misconfiguration",
-            "href": "AIP/technical-criteria/1062326",
+            "id": 1062303,
+            "name": "OWASP-2013-A3 - Cross-Site Scripting (XSS)",
+            "href": "AIP/technical-criteria/1062303",
             "weight": 5,
             "critical": false
         },
@@ -94,13 +87,6 @@
             "id": 1062343,
             "name": "OWASP-2021-A03 - Injection",
             "href": "AIP/technical-criteria/1062343",
-            "weight": 5,
-            "critical": false
-        },
-        {
-            "id": 1062345,
-            "name": "OWASP-2021-A05 - Security Misconfiguration",
-            "href": "AIP/technical-criteria/1062345",
             "weight": 5,
             "critical": false
         },

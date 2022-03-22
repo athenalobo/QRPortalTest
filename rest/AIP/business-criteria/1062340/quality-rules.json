@@ -20,6 +20,16 @@
         ]
     },
     {
+        "id": 4612,
+        "name": "Avoid using native Methods (JNI)",
+        "href": "AIP/quality-rules/4612",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 4702,
         "name": "Avoid using 'Throwable.printStackTrace()' with no argument",
         "href": "AIP/quality-rules/4702",
@@ -125,16 +135,6 @@
         "href": "AIP/quality-rules/7524",
         "critical": true,
         "severity": 20,
-        "technologyNames": [
-            "ABAP"
-        ]
-    },
-    {
-        "id": 7526,
-        "name": "Avoid using hard-coded paths",
-        "href": "AIP/quality-rules/7526",
-        "critical": false,
-        "severity": 10,
         "technologyNames": [
             "ABAP"
         ]
@@ -4108,6 +4108,16 @@
         "href": "AIP/quality-rules/1050034",
         "critical": false,
         "severity": 10,
+        "technologyNames": [
+            "Objective-C"
+        ]
+    },
+    {
+        "id": 1050040,
+        "name": "Avoid using SecTransform API",
+        "href": "AIP/quality-rules/1050040",
+        "critical": true,
+        "severity": 20,
         "technologyNames": [
             "Objective-C"
         ]

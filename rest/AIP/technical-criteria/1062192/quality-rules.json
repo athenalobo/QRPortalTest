@@ -12,6 +12,16 @@
         ]
     },
     {
+        "id": 1018862,
+        "name": "JDBC connection must use Global variable for username and password parametrization of database url (TIBCO BW)",
+        "href": "AIP/quality-rules/1018862",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "TIBCO"
+        ]
+    },
+    {
         "id": 1018864,
         "name": "Avoid JDBC Connections having password type as string (TIBCO BW)",
         "href": "AIP/quality-rules/1018864",

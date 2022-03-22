@@ -105,6 +105,13 @@
         "weight": 5
     },
     {
+        "id": 1061034,
+        "name": "CWE-248 - Uncaught Exception",
+        "description": "An exception is thrown from a function, but it is not caught.",
+        "href": "AIP/technical-criteria/1061034",
+        "weight": 5
+    },
+    {
         "id": 1061035,
         "name": "CWE-252 - Unchecked Return Value",
         "description": "The software does not check the return value from a method or function, which can prevent it from detecting unexpected states and conditions.",

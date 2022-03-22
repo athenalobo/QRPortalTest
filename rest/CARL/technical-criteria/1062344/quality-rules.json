@@ -10,6 +10,16 @@
         ]
     },
     {
+        "id": 4612,
+        "name": "Avoid using native Methods (JNI)",
+        "href": "AIP/quality-rules/4612",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 7190,
         "name": "Struts1: Validate() Method of Struts Validator form must call super.validate()",
         "href": "AIP/quality-rules/7190",
@@ -65,16 +75,6 @@
         "id": 8038,
         "name": "Struts 2: Avoid Struts Validator field without Form Field",
         "href": "AIP/quality-rules/8038",
-        "critical": false,
-        "weight": 5,
-        "technologyNames": [
-            "JEE"
-        ]
-    },
-    {
-        "id": 8042,
-        "name": "Struts 2: Avoid unused validation form",
-        "href": "AIP/quality-rules/8042",
         "critical": false,
         "weight": 5,
         "technologyNames": [
@@ -202,16 +202,6 @@
         "id": 1040018,
         "name": "Ensure the X-Frame-Options header is setup (Spring)",
         "href": "AIP/quality-rules/1040018",
-        "critical": false,
-        "weight": 5,
-        "technologyNames": [
-            "JEE"
-        ]
-    },
-    {
-        "id": 1042040,
-        "name": "Avoid using Struts URLValidator with version before 2.5.13",
-        "href": "AIP/quality-rules/1042040",
         "critical": false,
         "weight": 5,
         "technologyNames": [

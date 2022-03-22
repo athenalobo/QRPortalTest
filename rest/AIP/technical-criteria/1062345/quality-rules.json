@@ -192,16 +192,6 @@
         ]
     },
     {
-        "id": 1020544,
-        "name": "Avoid disabling Strict Contextual Escaping (SCE) when created",
-        "href": "AIP/quality-rules/1020544",
-        "critical": false,
-        "weight": 5,
-        "technologyNames": [
-            "HTML5"
-        ]
-    },
-    {
         "id": 1020554,
         "name": "Avoid using unsecured cookie (AngularJS)",
         "href": "AIP/quality-rules/1020554",
@@ -349,17 +339,6 @@
         "weight": 5,
         "technologyNames": [
             "Python"
-        ]
-    },
-    {
-        "id": 1027004,
-        "name": "Avoid using deprecated XmlTextReader .NET API",
-        "href": "AIP/quality-rules/1027004",
-        "critical": false,
-        "weight": 5,
-        "technologyNames": [
-            "C#",
-            "VB.NET"
         ]
     },
     {
@@ -530,6 +509,17 @@
         "id": 1043018,
         "name": "Avoid storing passwords in the config files",
         "href": "AIP/quality-rules/1043018",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "ASP.NET",
+            "C#"
+        ]
+    },
+    {
+        "id": 1043020,
+        "name": "Avoid having applications with the debug mode activated",
+        "href": "AIP/quality-rules/1043020",
         "critical": false,
         "weight": 5,
         "technologyNames": [

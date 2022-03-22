@@ -1964,6 +1964,16 @@
         ]
     },
     {
+        "id": 1020018,
+        "name": "Make sure that you do not use Web SQL databases",
+        "href": "AIP/quality-rules/1020018",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "HTML5"
+        ]
+    },
+    {
         "id": 1020022,
         "name": "Prevent Cross Site Scripting on your page by making sure you do not use form and formaction attributes in submitted markup",
         "href": "AIP/quality-rules/1020022",

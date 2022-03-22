@@ -212,16 +212,6 @@
         ]
     },
     {
-        "id": 1042010,
-        "name": "Avoid using ParametersInterceptor with class parameter for Struts 2.3.16 (and older)",
-        "href": "AIP/quality-rules/1042010",
-        "critical": false,
-        "weight": 5,
-        "technologyNames": [
-            "JEE"
-        ]
-    },
-    {
         "id": 1043044,
         "name": "Avoid disabling the XSRF/CSRF Protection (ASP.NET MVC)",
         "href": "AIP/quality-rules/1043044",

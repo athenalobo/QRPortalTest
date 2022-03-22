@@ -4,7 +4,7 @@
     "href": "AIP/quality-rules/1027090",
     "critical": false,
     "severity": 10,
-    "maxWeight": 4,
+    "maxWeight": 5,
     "extension": {
         "name": "com.castsoftware.dotnet",
         "href": "AIP/extensions/com.castsoftware.dotnet"
@@ -20,6 +20,11 @@
     "total": "Number of Methods",
     "alternativeName": "Avoid improper instantiation of argument exceptions",
     "businessCriteria": [
+        {
+            "id": 1062100,
+            "name": "CISQ-Index",
+            "href": "AIP/business-criteria/1062100"
+        },
         {
             "id": 20140522,
             "name": "GreenIT-Index",
@@ -37,6 +42,20 @@
         }
     ],
     "technicalCriteria": [
+        {
+            "id": 1062149,
+            "name": "ASCRM-CWE-397 - Declaration of Throws for Generic Exception",
+            "href": "AIP/technical-criteria/1062149",
+            "weight": 5,
+            "critical": false
+        },
+        {
+            "id": 1062181,
+            "name": "ASCSM-CWE-397 - Declaration of Throws for Generic Exception",
+            "href": "AIP/technical-criteria/1062181",
+            "weight": 5,
+            "critical": false
+        },
         {
             "id": 66069,
             "name": "Programming Practices - Unexpected Behavior",

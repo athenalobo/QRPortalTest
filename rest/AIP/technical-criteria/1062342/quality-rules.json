@@ -20,16 +20,6 @@
         ]
     },
     {
-        "id": 7526,
-        "name": "Avoid using hard-coded paths",
-        "href": "AIP/quality-rules/7526",
-        "critical": false,
-        "weight": 5,
-        "technologyNames": [
-            "ABAP"
-        ]
-    },
-    {
         "id": 7824,
         "name": "Avoid directly throwing instance of Exception class",
         "href": "AIP/quality-rules/7824",
@@ -179,16 +169,6 @@
         "weight": 5,
         "technologyNames": [
             "WCF"
-        ]
-    },
-    {
-        "id": 1020018,
-        "name": "Avoid using Web SQL databases",
-        "href": "AIP/quality-rules/1020018",
-        "critical": false,
-        "weight": 5,
-        "technologyNames": [
-            "HTML5"
         ]
     },
     {
@@ -484,31 +464,9 @@
         ]
     },
     {
-        "id": 1043020,
-        "name": "Avoid having applications with the debug mode activated",
-        "href": "AIP/quality-rules/1043020",
-        "critical": false,
-        "weight": 5,
-        "technologyNames": [
-            "ASP.NET",
-            "C#"
-        ]
-    },
-    {
         "id": 1043034,
         "name": "Avoid having applications with the tracing activated in the web config file",
         "href": "AIP/quality-rules/1043034",
-        "critical": false,
-        "weight": 5,
-        "technologyNames": [
-            "ASP.NET",
-            "C#"
-        ]
-    },
-    {
-        "id": 1043048,
-        "name": "Avoid having cookie with an overly broad domain (C#)",
-        "href": "AIP/quality-rules/1043048",
         "critical": false,
         "weight": 5,
         "technologyNames": [
