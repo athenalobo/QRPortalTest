@@ -537,7 +537,7 @@
         "id": "CWE-393",
         "name": "Return of Wrong Status Code",
         "href": "CARL/quality-standards/CWE/items/CWE-393",
-        "count": 2
+        "count": 3
     },
     {
         "id": "CWE-394",
@@ -561,7 +561,7 @@
         "id": "CWE-397",
         "name": "Declaration of Throws for Generic Exception",
         "href": "CARL/quality-standards/CWE/items/CWE-397",
-        "count": 3
+        "count": 4
     },
     {
         "id": "CWE-401",
@@ -874,6 +874,12 @@
         "name": "Incorrect Conversion between Numeric Types",
         "href": "CARL/quality-standards/CWE/items/CWE-681",
         "count": 4
+    },
+    {
+        "id": "CWE-687",
+        "name": "Function Call With Incorrectly Specified Argument Value",
+        "href": "CARL/quality-standards/CWE/items/CWE-687",
+        "count": 1
     },
     {
         "id": "CWE-704",

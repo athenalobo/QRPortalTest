@@ -213,7 +213,7 @@
         "id": "ASCRM-CWE-397",
         "name": "Declaration of Throws for Generic Exception",
         "href": "AIP/quality-standards/CISQ/items/ASCRM-CWE-397",
-        "count": 5
+        "count": 6
     },
     {
         "id": "ASCRM-CWE-456",
@@ -423,7 +423,7 @@
         "id": "ASCSM-CWE-397",
         "name": "Declaration of Throws for Generic Exception",
         "href": "AIP/quality-standards/CISQ/items/ASCSM-CWE-397",
-        "count": 7
+        "count": 8
     },
     {
         "id": "ASCSM-CWE-434",
@@ -471,6 +471,6 @@
         "id": "ASCSM-CWE-798",
         "name": "Hard-Coded Credentials Usage for Remote Authentication",
         "href": "AIP/quality-standards/CISQ/items/ASCSM-CWE-798",
-        "count": 9
+        "count": 10
     }
 ]

@@ -2103,7 +2103,7 @@
         "id": "CWE-393",
         "name": "Return of Wrong Status Code",
         "href": "AIP/quality-standards/CWE/items/CWE-393",
-        "count": 2
+        "count": 3
     },
     {
         "id": "CWE-394",
@@ -2127,7 +2127,7 @@
         "id": "CWE-397",
         "name": "Declaration of Throws for Generic Exception",
         "href": "AIP/quality-standards/CWE/items/CWE-397",
-        "count": 4
+        "count": 5
     },
     {
         "id": "CWE-400",
@@ -3633,7 +3633,7 @@
         "id": "CWE-687",
         "name": "Function Call With Incorrectly Specified Argument Value",
         "href": "AIP/quality-standards/CWE/items/CWE-687",
-        "count": 0
+        "count": 1
     },
     {
         "id": "CWE-688",
@@ -4029,7 +4029,7 @@
         "id": "CWE-798",
         "name": "Use of Hard-coded Credentials",
         "href": "AIP/quality-standards/CWE/items/CWE-798",
-        "count": 8
+        "count": 9
     },
     {
         "id": "CWE-799",
@@ -5565,7 +5565,7 @@
         "id": "CWE-1322",
         "name": "Use of Blocking Code in Single-threaded, Non-blocking Context",
         "href": "AIP/quality-standards/CWE/items/CWE-1322",
-        "count": 0
+        "count": 1
     },
     {
         "id": "CWE-1323",

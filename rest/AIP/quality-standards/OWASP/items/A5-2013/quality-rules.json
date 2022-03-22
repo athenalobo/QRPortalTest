@@ -100,6 +100,16 @@
         ]
     },
     {
+        "id": 1018862,
+        "name": "JDBC connection must use Global variable for username and password parametrization of database url (TIBCO BW)",
+        "href": "AIP/quality-rules/1018862",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "TIBCO"
+        ]
+    },
+    {
         "id": 1019004,
         "name": "Avoid to set client credential type other than Certificate or Windows when using message mode",
         "href": "AIP/quality-rules/1019004",
