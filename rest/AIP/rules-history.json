@@ -16855,6 +16855,34 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.0.1-funcrel",
+            "addedRules": [
+                {
+                    "id": 7520,
+                    "name": "Avoid unchecked return code (SY-SUBRC) after OPEN SQL or READ statement"
+                },
+                {
+                    "id": 7534,
+                    "name": "Avoid READ TABLE without BINARY SEARCH"
+                },
+                {
+                    "id": 7538,
+                    "name": "DEPRECATED: Avoid using SELECT ... INTO CORRESPONDING FIELDS OF"
+                },
+                {
+                    "id": 7544,
+                    "name": "Avoid using SELECT ... ENDSELECT statement"
+                },
+                {
+                    "id": 7666,
+                    "name": "Avoid using SELECT ... ENDSELECT statement on XXL Tables"
+                }
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.sap.hybris": [

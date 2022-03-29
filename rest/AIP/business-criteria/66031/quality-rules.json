@@ -2531,7 +2531,7 @@
     },
     {
         "id": 7538,
-        "name": "Avoid using SELECT ... INTO CORRESPONDING FIELDS OF",
+        "name": "DEPRECATED: Avoid using SELECT ... INTO CORRESPONDING FIELDS OF",
         "href": "AIP/quality-rules/7538",
         "critical": true,
         "severity": 20,

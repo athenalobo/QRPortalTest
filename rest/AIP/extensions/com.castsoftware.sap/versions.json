@@ -1,5 +1,12 @@
 [
     {
+        "name": "1.0.1-funcrel",
+        "href": "AIP/extensions/com.castsoftware.sap/versions/1.0.1-funcrel",
+        "metaModelCRC": 2587209817,
+        "rulesCRC": 455355097,
+        "transactionsConfigurationCRC": null
+    },
+    {
         "name": "1.0.0-funcrel",
         "href": "AIP/extensions/com.castsoftware.sap/versions/1.0.0-funcrel",
         "metaModelCRC": 2587209817,
