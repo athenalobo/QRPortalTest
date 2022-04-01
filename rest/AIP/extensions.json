@@ -331,6 +331,12 @@
     },
     {
         "qualityModel": true,
+        "transactionsConfiguration": false,
+        "name": "com.castsoftware.securityanalyzer",
+        "href": "AIP/extensions/com.castsoftware.securityanalyzer"
+    },
+    {
+        "qualityModel": true,
         "transactionsConfiguration": true,
         "name": "com.castsoftware.shell",
         "href": "AIP/extensions/com.castsoftware.shell"

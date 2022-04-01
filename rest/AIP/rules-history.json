@@ -17153,6 +17153,20 @@
             ]
         }
     ],
+    "com.castsoftware.securityanalyzer": [
+        {
+            "version": "1.0.0-funcrel",
+            "addedRules": [
+                {
+                    "id": 1025000,
+                    "name": "Avoid second order OS command injection"
+                }
+            ],
+            "detachedRules": [
+                
+            ]
+        }
+    ],
     "com.castsoftware.shell": [
         {
             "version": "1.0.2",

@@ -1,0 +1,72 @@
+{
+    "id": 1025000,
+    "name": "Avoid second order OS command injection",
+    "href": "AIP/quality-rules/1025000",
+    "critical": true,
+    "severity": 20,
+    "maxWeight": 9,
+    "extension": {
+        "name": "com.castsoftware.securityanalyzer",
+        "href": "AIP/extensions/com.castsoftware.securityanalyzer"
+    },
+    "associatedValueName": "Call stack from user input source down to the target method",
+    "description": "Using CAST data-flow engine, this metric detects paths from user input methods down to system call API methods, paths which are open vulnerabilities to operating system injection flaws.",
+    "output": "List all methods that make resource calls forged by database content\n\nIt provides the following information:\n - Method full name\n - Call stack from user input source down to the target method.",
+    "rationale": "The software constructs all or part of an OS command using externally-influenced input from an upstream component, but it does not neutralize or incorrectly neutralizes special elements that could modify the intended OS command when it is sent to a downstream component.\n\nThis could allow attackers to execute unexpected, dangerous commands directly on the operating system. This weakness can lead to a vulnerability in environments in which the attacker does not have direct access to the operating system, such as in web applications.\n\nOS command injection (second order) - The application stores data in a database. At a later time, the data is subsequently read back into the application and included in an OS command without sanitization.",
+    "reference": "CWE-78: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')\nhttps://cwe.mitre.org/data/definitions/78.html\n\nOpen Web Application Security Project (OWASP) \nhttps://www.owasp.org/index.php/Top_10_2007\n\nCISQ rule: ASCSM-CWE-078.",
+    "remediation": "Assume all input is malicious. \nAvoid using inputs. If it is not possible, use an \"accept known good\" input validation strategy, i.e., use stringent white-lists that limit the character set based on the expected value of the parameter in the request. This will indirectly limit the scope of an attack.",
+    "remediationSample": "...\nresultSet = preparedStatement.executeQuery();\nscript = resultSet.getString(1);\n//code a validate function for the input recieved \"script\"\n...\nSystem.exec(script);",
+    "sample": "...\nresultSet = preparedStatement.executeQuery();\nscript = resultSet.getString(1);\n...\nSystem.exec(script);",
+    "total": "Number of potentially vulnerable methods",
+    "alternativeName": null,
+    "businessCriteria": [
+        {
+            "id": 66031,
+            "name": "Programming Practices",
+            "href": "AIP/business-criteria/66031"
+        },
+        {
+            "id": 60016,
+            "name": "Security",
+            "href": "AIP/business-criteria/60016"
+        }
+    ],
+    "technicalCriteria": [
+        {
+            "id": 66062,
+            "name": "Secure Coding - Input Validation",
+            "href": "AIP/technical-criteria/66062",
+            "weight": 9,
+            "critical": true
+        }
+    ],
+    "technologies": [
+        {
+            "id": 138383,
+            "name": "C#",
+            "href": "AIP/technologies/138383"
+        },
+        {
+            "id": 140029,
+            "name": "JEE",
+            "href": "AIP/technologies/140029"
+        },
+        {
+            "id": 138385,
+            "name": "VB.NET",
+            "href": "AIP/technologies/138385"
+        }
+    ],
+    "qualityStandards": [
+        
+    ],
+    "parameters": [
+        
+    ],
+    "thresholds": [
+        98.0,
+        99.0,
+        99.5,
+        99.99
+    ]
+}
