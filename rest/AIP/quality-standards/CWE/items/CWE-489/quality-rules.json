@@ -132,6 +132,16 @@
         ]
     },
     {
+        "id": 1030002,
+        "name": "Avoid using \"Throwable.printStackTrace()\" with no argument (Kotlin)",
+        "href": "AIP/quality-rules/1030002",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "Kotlin"
+        ]
+    },
+    {
         "id": 1040014,
         "name": "Avoid using Spring Security's debug mode",
         "href": "AIP/quality-rules/1040014",

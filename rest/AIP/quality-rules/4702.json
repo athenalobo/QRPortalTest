@@ -95,6 +95,12 @@
     ],
     "qualityStandards": [
         {
+            "id": "CWE-209",
+            "name": "Generation of Error Message Containing Sensitive Information",
+            "href": "AIP/quality-standards/CWE/items/CWE-209",
+            "standard": "CWE"
+        },
+        {
             "id": "CWE-489",
             "name": "Active Debug Code",
             "href": "AIP/quality-standards/CWE/items/CWE-489",
@@ -107,9 +113,9 @@
             "standard": "CWE"
         },
         {
-            "id": "NIST-AC-3",
-            "name": "Access Enforcement",
-            "href": "AIP/quality-standards/NIST-SP-800-53R4/items/NIST-AC-3",
+            "id": "NIST-SI-11",
+            "name": "Error Handling",
+            "href": "AIP/quality-standards/NIST-SP-800-53R4/items/NIST-SI-11",
             "standard": "NIST-SP-800-53R4"
         },
         {
@@ -125,9 +131,9 @@
             "standard": "OWASP"
         },
         {
-            "id": "A02-2021",
-            "name": "Cryptographic Failures",
-            "href": "AIP/quality-standards/OWASP/items/A02-2021",
+            "id": "A01-2021",
+            "name": "Broken Access Control",
+            "href": "AIP/quality-standards/OWASP/items/A01-2021",
             "standard": "OWASP"
         },
         {

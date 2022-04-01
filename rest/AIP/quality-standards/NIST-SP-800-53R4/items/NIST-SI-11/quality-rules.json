@@ -145,6 +145,16 @@
         ]
     },
     {
+        "id": 4702,
+        "name": "Avoid using 'Throwable.printStackTrace()' with no argument",
+        "href": "AIP/quality-rules/4702",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 5050,
         "name": "Avoid using HANDLE CONDITION",
         "href": "AIP/quality-rules/5050",

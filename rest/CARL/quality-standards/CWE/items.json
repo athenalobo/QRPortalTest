@@ -378,6 +378,12 @@
         "count": 1
     },
     {
+        "id": "CWE-209",
+        "name": "Generation of Error Message Containing Sensitive Information",
+        "href": "CARL/quality-standards/CWE/items/CWE-209",
+        "count": 1
+    },
+    {
         "id": "CWE-215",
         "name": "Insertion of Sensitive Information Into Debugging Code",
         "href": "CARL/quality-standards/CWE/items/CWE-215",

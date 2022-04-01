@@ -100,6 +100,12 @@
             "standard": "CWE"
         },
         {
+            "id": "CWE-532",
+            "name": "Insertion of Sensitive Information into Log File",
+            "href": "AIP/quality-standards/CWE/items/CWE-532",
+            "standard": "CWE"
+        },
+        {
             "id": "NIST-AC-3",
             "name": "Access Enforcement",
             "href": "AIP/quality-standards/NIST-SP-800-53R4/items/NIST-AC-3",
@@ -134,6 +140,12 @@
             "name": "Remove development, test and/or custom application accounts, user IDs, and passwords before applications become active or are released to customers.",
             "href": "AIP/quality-standards/PCI-DSS-V3.2.1/items/PCI-Requirement-6.3.1",
             "standard": "PCI-DSS-V3.2.1"
+        },
+        {
+            "id": "STIG-V-222444",
+            "name": "The application must not write sensitive data into the application logs.",
+            "href": "AIP/quality-standards/STIG-V5/items/STIG-V-222444",
+            "standard": "STIG-V5"
         }
     ],
     "parameters": [

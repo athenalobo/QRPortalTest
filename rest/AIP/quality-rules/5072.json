@@ -60,10 +60,34 @@
             "standard": "CWE"
         },
         {
+            "id": "CWE-497",
+            "name": "Exposure of Sensitive System Information to an Unauthorized Control Sphere",
+            "href": "AIP/quality-standards/CWE/items/CWE-497",
+            "standard": "CWE"
+        },
+        {
             "id": "NIST-AC-3",
             "name": "Access Enforcement",
             "href": "AIP/quality-standards/NIST-SP-800-53R4/items/NIST-AC-3",
             "standard": "NIST-SP-800-53R4"
+        },
+        {
+            "id": "A3-2017",
+            "name": "Sensitive Data Exposure",
+            "href": "AIP/quality-standards/OWASP/items/A3-2017",
+            "standard": "OWASP"
+        },
+        {
+            "id": "A6-2013",
+            "name": "Sensitive Data Exposure",
+            "href": "AIP/quality-standards/OWASP/items/A6-2013",
+            "standard": "OWASP"
+        },
+        {
+            "id": "A01-2021",
+            "name": "Broken Access Control",
+            "href": "AIP/quality-standards/OWASP/items/A01-2021",
+            "standard": "OWASP"
         },
         {
             "id": "PCI-Requirement-6.3.1",

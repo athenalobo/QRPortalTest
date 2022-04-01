@@ -10,16 +10,6 @@
         ]
     },
     {
-        "id": 5072,
-        "name": "Avoid DISPLAY ... UPON CONSOLE",
-        "href": "AIP/quality-rules/5072",
-        "critical": false,
-        "severity": 10,
-        "technologyNames": [
-            "Cobol"
-        ]
-    },
-    {
         "id": 1030002,
         "name": "Avoid using \"Throwable.printStackTrace()\" with no argument (Kotlin)",
         "href": "AIP/quality-rules/1030002",
