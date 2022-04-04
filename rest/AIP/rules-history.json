@@ -16901,6 +16901,22 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.0.2-funcrel",
+            "addedRules": [
+                {
+                    "id": 8114,
+                    "name": "Avoid data corruption during incompatible mutation (ABAP)"
+                },
+                {
+                    "id": 8132,
+                    "name": "Avoid using CHECK, EXIT,or RETURN in SELECT ... ENDSELECT loops"
+                }
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.sap.hybris": [
