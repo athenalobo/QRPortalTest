@@ -2,13 +2,13 @@
     {
         "name": "AIP-CloudReady",
         "href": "CARL/quality-standards/AIP/categories/AIP-CloudReady",
-        "count": 132,
+        "count": 133,
         "description": null
     },
     {
         "name": "AIP-Features",
         "href": "CARL/quality-standards/AIP/categories/AIP-Features",
-        "count": 981,
+        "count": 982,
         "description": null
     },
     {
@@ -20,7 +20,7 @@
     {
         "name": "AIP-High-Availability",
         "href": "CARL/quality-standards/AIP/categories/AIP-High-Availability",
-        "count": 228,
+        "count": 229,
         "description": null
     },
     {
@@ -32,7 +32,7 @@
     {
         "name": "AIP-Security",
         "href": "CARL/quality-standards/AIP/categories/AIP-Security",
-        "count": 221,
+        "count": 222,
         "description": null
     }
 ]

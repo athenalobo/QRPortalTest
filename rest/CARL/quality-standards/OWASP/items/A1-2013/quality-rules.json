@@ -530,6 +530,18 @@
         ]
     },
     {
+        "id": 1025000,
+        "name": "Ensure your application does not run OS command without sanitization",
+        "href": "AIP/quality-rules/1025000",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1039056,
         "name": "Always make sure to use a Yaml instance that is constructed either with a SafeConstructor.",
         "href": "AIP/quality-rules/1039056",

@@ -5,7 +5,7 @@
         "href": "AIP/quality-rules/1025000",
         "status": "added",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",

@@ -9,7 +9,7 @@
         "id": "CWE-78",
         "name": "Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
         "href": "AIP/quality-standards/CWE/items/CWE-78",
-        "count": 22
+        "count": 23
     },
     {
         "id": "CWE-79",
@@ -285,7 +285,7 @@
         "id": "CWE-88",
         "name": "Improper Neutralization of Argument Delimiters in a Command ('Argument Injection')",
         "href": "AIP/quality-standards/CWE/items/CWE-88",
-        "count": 10
+        "count": 11
     },
     {
         "id": "CWE-90",
