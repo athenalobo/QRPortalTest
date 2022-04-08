@@ -795,7 +795,7 @@
         "id": "CWE-561",
         "name": "Dead Code",
         "href": "AIP/quality-standards/CWE/items/CWE-561",
-        "count": 78
+        "count": 79
     },
     {
         "id": "CWE-563",
@@ -1221,6 +1221,12 @@
         "id": "CWE-1058",
         "name": "Invokable Control Element in Multi-Thread Context with non-Final Static Storable or Member Element",
         "href": "AIP/quality-standards/CWE/items/CWE-1058",
+        "count": 1
+    },
+    {
+        "id": "CWE-1059",
+        "name": "Incomplete Documentation",
+        "href": "AIP/quality-standards/CWE/items/CWE-1059",
         "count": 1
     },
     {
