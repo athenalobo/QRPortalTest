@@ -1010,6 +1010,26 @@
         ]
     },
     {
+        "id": 1101000,
+        "name": "Never use SQL queries with a cartesian product (SQL)",
+        "href": "AIP/quality-rules/1101000",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1101002,
+        "name": "Never use SQL queries with a cartesian product on XXL Tables (SQL)",
+        "href": "AIP/quality-rules/1101002",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
         "id": 1101022,
         "name": "Avoid Tables without Primary Key (SQL)",
         "href": "AIP/quality-rules/1101022",

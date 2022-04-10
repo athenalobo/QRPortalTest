@@ -8,13 +8,13 @@
     {
         "name": "CWE-2019-Top25",
         "href": "CARL/quality-standards/CWE/categories/CWE-2019-Top25",
-        "count": 144,
+        "count": 146,
         "description": null
     },
     {
         "name": "CWE-2020-Top25",
         "href": "CARL/quality-standards/CWE/categories/CWE-2020-Top25",
-        "count": 138,
+        "count": 140,
         "description": null
     },
     {
@@ -26,7 +26,7 @@
     {
         "name": "CWE-LATEST-VERSION",
         "href": "CARL/quality-standards/CWE/categories/CWE-LATEST-VERSION",
-        "count": 657,
+        "count": 659,
         "description": null
     }
 ]

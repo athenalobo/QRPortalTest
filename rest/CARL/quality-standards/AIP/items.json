@@ -75,7 +75,7 @@
         "id": "AIP-HA-WORKLOAD",
         "name": "HA - unexpected workload mitigation",
         "href": "CARL/quality-standards/AIP/items/AIP-HA-WORKLOAD",
-        "count": 51
+        "count": 53
     },
     {
         "id": "AIP-MIPS-ALGORITHMIC-COST",
@@ -87,7 +87,7 @@
         "id": "AIP-MIPS-DATA-ACCESS",
         "name": "MIPS Reduction - focus on data access efficiency",
         "href": "CARL/quality-standards/AIP/items/AIP-MIPS-DATA-ACCESS",
-        "count": 20
+        "count": 24
     },
     {
         "id": "AIP-GDPR",
