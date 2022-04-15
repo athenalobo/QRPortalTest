@@ -22137,6 +22137,18 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.9.1-funcrel",
+            "addedRules": [
+                {
+                    "id": 1020928,
+                    "name": "Always unsubscribe events in Angular onDestroy method"
+                }
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.vuejs": [
@@ -22697,6 +22709,15 @@
         },
         {
             "version": "1.7.6-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
+            "version": "1.7.7-funcrel",
             "addedRules": [
                 
             ],

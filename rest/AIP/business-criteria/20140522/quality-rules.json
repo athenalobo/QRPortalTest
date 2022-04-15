@@ -5946,6 +5946,16 @@
         ]
     },
     {
+        "id": 1020928,
+        "name": "Always unsubscribe events in Angular onDestroy method",
+        "href": "AIP/quality-rules/1020928",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "HTML5"
+        ]
+    },
+    {
         "id": 1021002,
         "name": "Avoid using a web service with Python httplib HTTPConnection inside a loop",
         "href": "AIP/quality-rules/1021002",

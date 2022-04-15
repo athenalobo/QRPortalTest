@@ -171,7 +171,7 @@
         "id": "CWE-404",
         "name": "Improper Resource Shutdown or Release",
         "href": "AIP/quality-standards/ISO-5055/items/CWE-404",
-        "count": 7
+        "count": 8
     },
     {
         "id": "CWE-424",
