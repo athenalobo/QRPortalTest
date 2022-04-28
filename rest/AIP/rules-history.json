@@ -15652,6 +15652,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.2.6-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.rpg": [
