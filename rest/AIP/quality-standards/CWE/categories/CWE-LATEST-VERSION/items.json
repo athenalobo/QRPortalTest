@@ -1647,7 +1647,7 @@
         "id": "CWE-306",
         "name": "Missing Authentication for Critical Function",
         "href": "AIP/quality-standards/CWE/items/CWE-306",
-        "count": 4
+        "count": 3
     },
     {
         "id": "CWE-307",
@@ -2259,7 +2259,7 @@
         "id": "CWE-424",
         "name": "Improper Protection of Alternate Path",
         "href": "AIP/quality-standards/CWE/items/CWE-424",
-        "count": 4
+        "count": 3
     },
     {
         "id": "CWE-425",
@@ -2973,7 +2973,7 @@
         "id": "CWE-561",
         "name": "Dead Code",
         "href": "AIP/quality-standards/CWE/items/CWE-561",
-        "count": 79
+        "count": 78
     },
     {
         "id": "CWE-562",
@@ -4527,7 +4527,7 @@
         "id": "CWE-1059",
         "name": "Incomplete Documentation",
         "href": "AIP/quality-standards/CWE/items/CWE-1059",
-        "count": 1
+        "count": 0
     },
     {
         "id": "CWE-1060",

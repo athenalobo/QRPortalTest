@@ -494,6 +494,18 @@
         ]
     },
     {
+        "id": 1025000,
+        "name": "Avoid second order OS command injection",
+        "href": "AIP/quality-rules/1025000",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1101096,
         "name": "Avoid SQL injection in dynamic SQL for Oracle",
         "href": "AIP/quality-rules/1101096",

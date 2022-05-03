@@ -4898,6 +4898,16 @@
         ]
     },
     {
+        "id": 1020928,
+        "name": "Always unsubscribe events in Angular onDestroy method",
+        "href": "AIP/quality-rules/1020928",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "HTML5"
+        ]
+    },
+    {
         "id": 1021000,
         "name": "Avoid Artifacts with High Cyclomatic Complexity (Python)",
         "href": "AIP/quality-rules/1021000",
@@ -5118,6 +5128,18 @@
         ]
     },
     {
+        "id": 1025000,
+        "name": "Avoid second order OS command injection",
+        "href": "AIP/quality-rules/1025000",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1027000,
         "name": "Avoid Managed type declaration for Win32 API using Overlapped IO",
         "href": "AIP/quality-rules/1027000",
@@ -5252,16 +5274,6 @@
         "id": 1030000,
         "name": "Avoid \"when\" statement or expression without an else (Kotlin)",
         "href": "AIP/quality-rules/1030000",
-        "critical": false,
-        "severity": 10,
-        "technologyNames": [
-            "Kotlin"
-        ]
-    },
-    {
-        "id": 1030002,
-        "name": "Avoid using \"Throwable.printStackTrace()\" with no argument (Kotlin)",
-        "href": "AIP/quality-rules/1030002",
         "critical": false,
         "severity": 10,
         "technologyNames": [

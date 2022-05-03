@@ -1,5 +1,15 @@
 [
     {
+        "id": 4702,
+        "name": "Avoid using 'Throwable.printStackTrace()' with no argument",
+        "href": "AIP/quality-rules/4702",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 8516,
         "name": "Avoid URL redirection to untrusted site through API requests",
         "href": "AIP/quality-rules/8516",

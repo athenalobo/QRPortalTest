@@ -40,6 +40,16 @@
         ]
     },
     {
+        "id": 5072,
+        "name": "Avoid DISPLAY ... UPON CONSOLE",
+        "href": "AIP/quality-rules/5072",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "Cobol"
+        ]
+    },
+    {
         "id": 7190,
         "name": "Struts1: Validate() Method of Struts Validator form must call super.validate()",
         "href": "AIP/quality-rules/7190",
@@ -1361,6 +1371,16 @@
         "severity": 10,
         "technologyNames": [
             "PHP"
+        ]
+    },
+    {
+        "id": 1018862,
+        "name": "JDBC connection must use Global variable for username and password parametrization of database url (TIBCO BW)",
+        "href": "AIP/quality-rules/1018862",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "TIBCO"
         ]
     },
     {
@@ -2891,6 +2911,18 @@
         "severity": 30,
         "technologyNames": [
             "JEE"
+        ]
+    },
+    {
+        "id": 1025000,
+        "name": "Avoid second order OS command injection",
+        "href": "AIP/quality-rules/1025000",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
         ]
     },
     {

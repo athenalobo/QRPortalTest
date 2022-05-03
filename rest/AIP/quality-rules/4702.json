@@ -72,9 +72,9 @@
             "critical": false
         },
         {
-            "id": 1062342,
-            "name": "OWASP-2021-A02 - Cryptographic Failures",
-            "href": "AIP/technical-criteria/1062342",
+            "id": 1062341,
+            "name": "OWASP-2021-A01 - Broken Access Control",
+            "href": "AIP/technical-criteria/1062341",
             "weight": 5,
             "critical": false
         },
