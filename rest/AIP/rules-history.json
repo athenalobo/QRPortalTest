@@ -3799,6 +3799,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.4.4-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.ead4j": [
@@ -9729,6 +9738,15 @@
         },
         {
             "version": "1.0.7-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
+            "version": "1.0.8-funcrel",
             "addedRules": [
                 
             ],
