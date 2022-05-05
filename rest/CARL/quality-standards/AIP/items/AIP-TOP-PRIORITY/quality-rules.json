@@ -11,16 +11,6 @@
         ]
     },
     {
-        "id": 7210,
-        "name": "Ensure to not do object initialization inside a loop since it reduces performance",
-        "href": "AIP/quality-rules/7210",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "JEE"
-        ]
-    },
-    {
         "id": 7212,
         "name": "Ensure you don't instantiate objects in loops",
         "href": "AIP/quality-rules/7212",
