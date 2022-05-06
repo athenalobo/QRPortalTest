@@ -10,6 +10,18 @@
         ]
     },
     {
+        "id": 7740,
+        "name": "Ensure your application does not execute HTTP requests without sanitization",
+        "href": "AIP/quality-rules/7740",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 7742,
         "name": "Ensure you don't unsanitized queries to SQL databases",
         "href": "AIP/quality-rules/7742",
@@ -25,6 +37,18 @@
         "id": 7746,
         "name": "Ensure your application does not run LDAP methods without sanitization",
         "href": "AIP/quality-rules/7746",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 7748,
+        "name": "Ensure your application does not run OS commande without sanitization",
+        "href": "AIP/quality-rules/7748",
         "critical": true,
         "severity": 30,
         "technologyNames": [
@@ -266,7 +290,7 @@
         "name": "Ensure your application properly neutralize XML content before it is processed",
         "href": "AIP/quality-rules/8504",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",

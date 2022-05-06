@@ -11,17 +11,6 @@
         ]
     },
     {
-        "id": 7212,
-        "name": "Ensure you don't instantiate objects in loops",
-        "href": "AIP/quality-rules/7212",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "C#",
-            "VB.NET"
-        ]
-    },
-    {
         "id": 7358,
         "name": "Avoid call to AcceptChanges in a loop",
         "href": "AIP/quality-rules/7358",
@@ -347,6 +336,18 @@
         "id": 8498,
         "name": "Ensure your application does not process thread with unsanitized stream",
         "href": "AIP/quality-rules/8498",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8504,
+        "name": "Ensure your application properly neutralize XML content before it is processed",
+        "href": "AIP/quality-rules/8504",
         "critical": true,
         "severity": 30,
         "technologyNames": [

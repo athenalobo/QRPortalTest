@@ -111,7 +111,7 @@
         "id": "COMMAND-INJECTION",
         "name": "OS/LDAP Command Injection or Expression evaluation injection",
         "href": "AIP/quality-standards/AIP/items/COMMAND-INJECTION",
-        "count": 62
+        "count": 60
     },
     {
         "id": "CROSS-SITE-VULNERABILITY",

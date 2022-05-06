@@ -34,18 +34,6 @@
         ]
     },
     {
-        "id": 7750,
-        "name": "Avoid XPath injection",
-        "href": "AIP/quality-rules/7750",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "C#",
-            "JEE",
-            "VB.NET"
-        ]
-    },
-    {
         "id": 8098,
         "name": "Avoid uncontrolled format string",
         "href": "AIP/quality-rules/8098",
@@ -237,18 +225,6 @@
         "id": 8502,
         "name": "Avoid reflection injection through API requests",
         "href": "AIP/quality-rules/8502",
-        "critical": true,
-        "severity": 20,
-        "technologyNames": [
-            "C#",
-            "JEE",
-            "VB.NET"
-        ]
-    },
-    {
-        "id": 8504,
-        "name": "Avoid XPath injection through API requests",
-        "href": "AIP/quality-rules/8504",
         "critical": true,
         "severity": 20,
         "technologyNames": [

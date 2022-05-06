@@ -919,7 +919,7 @@
         "name": "Ensure you don't instantiate objects in loops",
         "href": "AIP/quality-rules/7212",
         "critical": true,
-        "severity": 30,
+        "severity": 20,
         "technologyNames": [
             "C#",
             "VB.NET"
@@ -3053,7 +3053,7 @@
         "name": "Ensure your application properly neutralize XML content before it is processed",
         "href": "AIP/quality-rules/8504",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",

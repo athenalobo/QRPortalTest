@@ -10,6 +10,18 @@
         ]
     },
     {
+        "id": 7740,
+        "name": "Avoid HTTP response splitting",
+        "href": "AIP/quality-rules/7740",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 7742,
         "name": "Avoid SQL injection",
         "href": "AIP/quality-rules/7742",
@@ -25,6 +37,18 @@
         "id": 7746,
         "name": "Avoid LDAP injection",
         "href": "AIP/quality-rules/7746",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 7748,
+        "name": "Avoid OS command injection",
+        "href": "AIP/quality-rules/7748",
         "critical": true,
         "severity": 30,
         "technologyNames": [
@@ -296,7 +320,7 @@
         "name": "Avoid XPath injection through API requests",
         "href": "AIP/quality-rules/8504",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",

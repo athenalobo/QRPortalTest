@@ -22,17 +22,6 @@
         ]
     },
     {
-        "id": 7212,
-        "name": "Avoid instantiations inside loops (.NET)",
-        "href": "AIP/quality-rules/7212",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "C#",
-            "VB.NET"
-        ]
-    },
-    {
         "id": 7218,
         "name": "Avoid OPEN/CLOSE inside loops",
         "href": "AIP/quality-rules/7218",
@@ -492,6 +481,18 @@
         "id": 8498,
         "name": "Avoid thread injection through API requests",
         "href": "AIP/quality-rules/8498",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8504,
+        "name": "Avoid XPath injection through API requests",
+        "href": "AIP/quality-rules/8504",
         "critical": true,
         "severity": 30,
         "technologyNames": [

@@ -3413,7 +3413,7 @@
         "href": "AIP/quality-rules/7212",
         "status": "renewed",
         "critical": true,
-        "severity": 30,
+        "severity": 20,
         "technologyNames": [
             ".NET (Legacy Analyzer)",
             "C#",
@@ -8723,7 +8723,7 @@
         "href": "AIP/quality-rules/8504",
         "status": "renewed",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
