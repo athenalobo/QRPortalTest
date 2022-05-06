@@ -11510,6 +11510,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.6.0-alpha4",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.nosqljava": [
