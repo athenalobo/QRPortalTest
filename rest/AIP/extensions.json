@@ -37,6 +37,12 @@
     },
     {
         "qualityModel": false,
+        "transactionsConfiguration": true,
+        "name": "com.castsoftware.birt",
+        "href": "AIP/extensions/com.castsoftware.birt"
+    },
+    {
+        "qualityModel": false,
         "transactionsConfiguration": false,
         "name": "com.castsoftware.bpel",
         "href": "AIP/extensions/com.castsoftware.bpel"
