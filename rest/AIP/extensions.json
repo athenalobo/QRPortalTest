@@ -38,6 +38,12 @@
     {
         "qualityModel": false,
         "transactionsConfiguration": true,
+        "name": "com.castsoftware.azure.java",
+        "href": "AIP/extensions/com.castsoftware.azure.java"
+    },
+    {
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.birt",
         "href": "AIP/extensions/com.castsoftware.birt"
     },
