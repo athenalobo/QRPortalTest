@@ -1133,6 +1133,17 @@
             ]
         }
     ],
+    "com.castsoftware.azure.dotnet": [
+        {
+            "version": "1.0.0-alpha1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        }
+    ],
     "com.castsoftware.azure.java": [
         {
             "version": "1.0.0-alpha1",

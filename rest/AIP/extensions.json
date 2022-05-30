@@ -38,6 +38,12 @@
     {
         "qualityModel": false,
         "transactionsConfiguration": true,
+        "name": "com.castsoftware.azure.dotnet",
+        "href": "AIP/extensions/com.castsoftware.azure.dotnet"
+    },
+    {
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.azure.java",
         "href": "AIP/extensions/com.castsoftware.azure.java"
     },
