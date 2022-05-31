@@ -84,27 +84,21 @@
     ],
     "qualityStandards": [
         {
-            "id": "CWE-390",
-            "name": "Detection of Error Condition Without Action",
-            "href": "AIP/quality-standards/CWE/items/CWE-390",
+            "id": "ASCRM-CWE-252-data",
+            "name": "Unchecked Return Parameter Value of named Callable and Method Control Element with Read, Write, and Manage Access to Data Resource",
+            "href": "AIP/quality-standards/CISQ/items/ASCRM-CWE-252-data",
+            "standard": "CISQ"
+        },
+        {
+            "id": "CWE-252",
+            "name": "Unchecked Return Value",
+            "href": "AIP/quality-standards/CWE/items/CWE-252",
             "standard": "CWE"
         },
         {
-            "id": "CWE-394",
-            "name": "Unexpected Status Code or Return Value",
-            "href": "AIP/quality-standards/CWE/items/CWE-394",
-            "standard": "CWE"
-        },
-        {
-            "id": "CWE-390",
-            "name": "Detection of Error Condition Without Action",
-            "href": "AIP/quality-standards/ISO-5055/items/CWE-390",
-            "standard": "ISO-5055"
-        },
-        {
-            "id": "CWE-394",
-            "name": "Unexpected Status Code or Return Value",
-            "href": "AIP/quality-standards/ISO-5055/items/CWE-394",
+            "id": "CWE-252",
+            "name": "Unchecked Return Value",
+            "href": "AIP/quality-standards/ISO-5055/items/CWE-252",
             "standard": "ISO-5055"
         },
         {
@@ -120,15 +114,9 @@
             "standard": "NIST-SP-800-53R4"
         },
         {
-            "id": "CWE-390",
-            "name": "Detection of Error Condition Without Action",
-            "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-390",
-            "standard": "OMG-ASCQM"
-        },
-        {
-            "id": "CWE-394",
-            "name": "Unexpected Status Code or Return Value",
-            "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-394",
+            "id": "CWE-252",
+            "name": "Unchecked Return Value",
+            "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-252",
             "standard": "OMG-ASCQM"
         },
         {

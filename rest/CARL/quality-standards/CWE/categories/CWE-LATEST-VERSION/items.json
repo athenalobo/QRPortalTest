@@ -1353,7 +1353,7 @@
         "id": "CWE-252",
         "name": "Unchecked Return Value",
         "href": "CARL/quality-standards/CWE/items/CWE-252",
-        "count": 0
+        "count": 1
     },
     {
         "id": "CWE-253",
@@ -2085,7 +2085,7 @@
         "id": "CWE-390",
         "name": "Detection of Error Condition Without Action",
         "href": "CARL/quality-standards/CWE/items/CWE-390",
-        "count": 4
+        "count": 3
     },
     {
         "id": "CWE-391",
@@ -2109,7 +2109,7 @@
         "id": "CWE-394",
         "name": "Unexpected Status Code or Return Value",
         "href": "CARL/quality-standards/CWE/items/CWE-394",
-        "count": 3
+        "count": 2
     },
     {
         "id": "CWE-395",
