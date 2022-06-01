@@ -2541,7 +2541,7 @@
         "id": "CWE-478",
         "name": "Missing Default Case in Switch Statement",
         "href": "AIP/quality-standards/CWE/items/CWE-478",
-        "count": 11
+        "count": 12
     },
     {
         "id": "CWE-479",
@@ -4623,7 +4623,7 @@
         "id": "CWE-1075",
         "name": "Unconditional Control Flow Transfer outside of Switch Block",
         "href": "AIP/quality-standards/CWE/items/CWE-1075",
-        "count": 24
+        "count": 25
     },
     {
         "id": "CWE-1076",

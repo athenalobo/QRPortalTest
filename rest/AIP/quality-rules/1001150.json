@@ -69,15 +69,33 @@
     ],
     "qualityStandards": [
         {
+            "id": "ASCMM-MNT-1",
+            "name": "Control Flow Transfer Control Element outside Switch Block",
+            "href": "AIP/quality-standards/CISQ/items/ASCMM-MNT-1",
+            "standard": "CISQ"
+        },
+        {
             "id": "CWE-478",
             "name": "Missing Default Case in Switch Statement",
             "href": "AIP/quality-standards/CWE/items/CWE-478",
             "standard": "CWE"
         },
         {
+            "id": "CWE-1075",
+            "name": "Unconditional Control Flow Transfer outside of Switch Block",
+            "href": "AIP/quality-standards/CWE/items/CWE-1075",
+            "standard": "CWE"
+        },
+        {
             "id": "CWE-478",
             "name": "Missing Default Case in Switch Statement",
             "href": "AIP/quality-standards/ISO-5055/items/CWE-478",
+            "standard": "ISO-5055"
+        },
+        {
+            "id": "CWE-1075",
+            "name": "Unconditional Control Flow Transfer outside of Switch Block",
+            "href": "AIP/quality-standards/ISO-5055/items/CWE-1075",
             "standard": "ISO-5055"
         },
         {
@@ -96,6 +114,12 @@
             "id": "CWE-478",
             "name": "Missing Default Case in Switch Statement",
             "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-478",
+            "standard": "OMG-ASCQM"
+        },
+        {
+            "id": "CWE-1075",
+            "name": "Unconditional Control Flow Transfer outside of Switch Block",
+            "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-1075",
             "standard": "OMG-ASCQM"
         },
         {

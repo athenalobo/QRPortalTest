@@ -2541,7 +2541,7 @@
         "id": "CWE-478",
         "name": "Missing Default Case in Switch Statement",
         "href": "CARL/quality-standards/CWE/items/CWE-478",
-        "count": 1
+        "count": 2
     },
     {
         "id": "CWE-479",
