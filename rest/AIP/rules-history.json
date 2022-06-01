@@ -21450,6 +21450,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.2.0-alpha2",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.swing": [
