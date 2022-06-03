@@ -14,6 +14,13 @@
         "transactionsConfigurationCRC": 1490185730
     },
     {
+        "name": "1.4.1-funcrel",
+        "href": "AIP/extensions/com.castsoftware.python/versions/1.4.1-funcrel",
+        "metaModelCRC": 2284747512,
+        "rulesCRC": 3470973444,
+        "transactionsConfigurationCRC": 1490185730
+    },
+    {
         "name": "1.4.0-funcrel",
         "href": "AIP/extensions/com.castsoftware.python/versions/1.4.0-funcrel",
         "metaModelCRC": 2284747512,
