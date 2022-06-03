@@ -30,6 +30,12 @@
         "description": null
     },
     {
+        "name": "AIP-Move-To-Cloud",
+        "href": "CARL/quality-standards/AIP/categories/AIP-Move-To-Cloud",
+        "count": 0,
+        "description": null
+    },
+    {
         "name": "AIP-Security",
         "href": "CARL/quality-standards/AIP/categories/AIP-Security",
         "count": 222,

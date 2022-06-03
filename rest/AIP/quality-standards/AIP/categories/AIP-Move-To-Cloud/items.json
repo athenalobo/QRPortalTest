@@ -1,0 +1,44 @@
+[
+    {
+        "id": "AIP-M2C-AWS",
+        "name": "Amazon Web Services",
+        "href": "AIP/quality-standards/AIP/items/AIP-M2C-AWS",
+        "count": 0
+    },
+    {
+        "id": "AIP-M2C-Azure",
+        "name": "Microsoft Azure",
+        "href": "AIP/quality-standards/AIP/items/AIP-M2C-Azure",
+        "count": 0
+    },
+    {
+        "id": "AIP-M2C-GCP",
+        "name": "Google Cloud Platform",
+        "href": "AIP/quality-standards/AIP/items/AIP-M2C-GCP",
+        "count": 0
+    },
+    {
+        "id": "AIP-M2C-Rehost",
+        "name": "Rehost Recommendation",
+        "href": "AIP/quality-standards/AIP/items/AIP-M2C-Rehost",
+        "count": 0
+    },
+    {
+        "id": "AIP-M2C-Replatform",
+        "name": "Replatform Recommendation",
+        "href": "AIP/quality-standards/AIP/items/AIP-M2C-Replatform",
+        "count": 0
+    },
+    {
+        "id": "AIP-M2C-Retain",
+        "name": "Retain Recommendation",
+        "href": "AIP/quality-standards/AIP/items/AIP-M2C-Retain",
+        "count": 0
+    },
+    {
+        "id": "AIP-M2C-Retire",
+        "name": "Retire Recommendation",
+        "href": "AIP/quality-standards/AIP/items/AIP-M2C-Retire",
+        "count": 0
+    }
+]
