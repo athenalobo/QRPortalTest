@@ -1880,6 +1880,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.0.0-beta3",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.cpp": [
