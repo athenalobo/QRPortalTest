@@ -1,5 +1,15 @@
 [
     {
+        "id": 5094,
+        "name": "Avoid using MOVE CORRESPONDING ... TO ...",
+        "href": "AIP/quality-rules/5094",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "Cobol"
+        ]
+    },
+    {
         "id": 7446,
         "name": "Avoid double checked locking for JSE 4.x and previous version",
         "href": "AIP/quality-rules/7446",

@@ -53,7 +53,48 @@
         }
     ],
     "qualityStandards": [
-        
+        {
+            "id": "CWE-197",
+            "name": "Numeric Truncation Error",
+            "href": "AIP/quality-standards/CWE/items/CWE-197",
+            "standard": "CWE"
+        },
+        {
+            "id": "CWE-197",
+            "name": "Numeric Truncation Error",
+            "href": "AIP/quality-standards/ISO-5055/items/CWE-197",
+            "standard": "ISO-5055"
+        },
+        {
+            "id": "NIST-SI-16",
+            "name": "Memory Protection",
+            "href": "AIP/quality-standards/NIST-SP-800-53/items/NIST-SI-16",
+            "standard": "NIST-SP-800-53"
+        },
+        {
+            "id": "NIST-SI-16",
+            "name": "Memory Protection",
+            "href": "AIP/quality-standards/NIST-SP-800-53R4/items/NIST-SI-16",
+            "standard": "NIST-SP-800-53R4"
+        },
+        {
+            "id": "CWE-197",
+            "name": "Numeric Truncation Error",
+            "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-197",
+            "standard": "OMG-ASCQM"
+        },
+        {
+            "id": "PCI-Requirement-6.5.2",
+            "name": "Buffer overflows",
+            "href": "AIP/quality-standards/PCI-DSS-V3.1/items/PCI-Requirement-6.5.2",
+            "standard": "PCI-DSS-V3.1"
+        },
+        {
+            "id": "PCI-Requirement-6.5.2",
+            "name": "Buffer overflows",
+            "href": "AIP/quality-standards/PCI-DSS-V3.2.1/items/PCI-Requirement-6.5.2",
+            "standard": "PCI-DSS-V3.2.1"
+        }
     ],
     "parameters": [
         

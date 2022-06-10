@@ -387,7 +387,7 @@
         "id": "CWE-79",
         "name": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
         "href": "AIP/quality-standards/CWE/items/CWE-79",
-        "count": 51
+        "count": 52
     },
     {
         "id": "CWE-80",
@@ -1041,7 +1041,7 @@
         "id": "CWE-197",
         "name": "Numeric Truncation Error",
         "href": "AIP/quality-standards/CWE/items/CWE-197",
-        "count": 0
+        "count": 1
     },
     {
         "id": "CWE-198",

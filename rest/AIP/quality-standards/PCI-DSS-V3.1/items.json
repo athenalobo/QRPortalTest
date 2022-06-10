@@ -51,7 +51,7 @@
         "id": "PCI-Requirement-6.5.2",
         "name": "Buffer overflows",
         "href": "AIP/quality-standards/PCI-DSS-V3.1/items/PCI-Requirement-6.5.2",
-        "count": 22
+        "count": 23
     },
     {
         "id": "PCI-Requirement-6.5.3",
@@ -81,7 +81,7 @@
         "id": "PCI-Requirement-6.5.7",
         "name": "  Cross-site scripting (XSS)",
         "href": "AIP/quality-standards/PCI-DSS-V3.1/items/PCI-Requirement-6.5.7",
-        "count": 59
+        "count": 60
     },
     {
         "id": "PCI-Requirement-6.5.8",

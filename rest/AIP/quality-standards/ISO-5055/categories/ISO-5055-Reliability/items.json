@@ -63,7 +63,7 @@
         "id": "CWE-197",
         "name": "Numeric Truncation Error",
         "href": "AIP/quality-standards/ISO-5055/items/CWE-197",
-        "count": 0
+        "count": 1
     },
     {
         "id": "CWE-248",

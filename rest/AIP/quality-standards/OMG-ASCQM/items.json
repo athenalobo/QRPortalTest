@@ -264,6 +264,12 @@
         "count": 20
     },
     {
+        "id": "CWE-197",
+        "name": "Numeric Truncation Error",
+        "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-197",
+        "count": 1
+    },
+    {
         "id": "CWE-248",
         "name": "Uncaught Exception",
         "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-248",
@@ -477,7 +483,7 @@
         "id": "CWE-79",
         "name": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
         "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-79",
-        "count": 51
+        "count": 52
     },
     {
         "id": "CWE-88",
