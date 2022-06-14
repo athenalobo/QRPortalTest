@@ -17515,6 +17515,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.1.8-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.securityanalyzer": [
