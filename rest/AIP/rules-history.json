@@ -9728,6 +9728,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "2.3.3-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.kotlin": [
