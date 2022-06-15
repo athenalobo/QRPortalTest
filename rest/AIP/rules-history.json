@@ -15738,6 +15738,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.5.0-alpha3",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.reactjs": [
