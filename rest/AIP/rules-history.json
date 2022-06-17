@@ -20866,6 +20866,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "3.6.2-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.struts": [
