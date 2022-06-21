@@ -2914,16 +2914,6 @@
         ]
     },
     {
-        "id": 1020878,
-        "name": "Ensure enabling X-XSS-Protection header to prevent attackers submitting malicious script to unsuspecting users",
-        "href": "AIP/quality-rules/1020878",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "HTML5"
-        ]
-    },
-    {
         "id": 1020892,
         "name": "Ensure you have closed  Node.js filesystem after using open or openSync.",
         "href": "AIP/quality-rules/1020892",

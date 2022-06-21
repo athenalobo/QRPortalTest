@@ -456,16 +456,6 @@
         ]
     },
     {
-        "id": 1020878,
-        "name": "Ensure the express X-XSS-Protection header is enabled (TypeScript)",
-        "href": "AIP/quality-rules/1020878",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "HTML5"
-        ]
-    },
-    {
         "id": 1039016,
         "name": "Avoid Unvalidated URL Redirect",
         "href": "AIP/quality-rules/1039016",

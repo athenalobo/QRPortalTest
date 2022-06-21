@@ -484,16 +484,6 @@
         ]
     },
     {
-        "id": 1020878,
-        "name": "Ensure the express X-XSS-Protection header is enabled (TypeScript)",
-        "href": "AIP/quality-rules/1020878",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "HTML5"
-        ]
-    },
-    {
         "id": 1039026,
         "name": "Avoid creating cookie without setting httpOnly option (JEE)",
         "href": "AIP/quality-rules/1039026",

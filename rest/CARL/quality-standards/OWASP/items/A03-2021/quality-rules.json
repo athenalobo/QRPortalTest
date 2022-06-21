@@ -848,16 +848,6 @@
         ]
     },
     {
-        "id": 1020878,
-        "name": "Ensure enabling X-XSS-Protection header to prevent attackers submitting malicious script to unsuspecting users",
-        "href": "AIP/quality-rules/1020878",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "HTML5"
-        ]
-    },
-    {
         "id": 1020926,
         "name": "Use common database libraries handling SQL code provide specific API to perform parameterized SQL queries to assure sanitized SQL queries.",
         "href": "AIP/quality-rules/1020926",

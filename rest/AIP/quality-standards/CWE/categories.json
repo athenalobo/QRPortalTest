@@ -2,31 +2,31 @@
     {
         "name": "CWE-2011-Top25",
         "href": "AIP/quality-standards/CWE/categories/CWE-2011-Top25",
-        "count": 255,
+        "count": 254,
         "description": null
     },
     {
         "name": "CWE-2019-Top25",
         "href": "AIP/quality-standards/CWE/categories/CWE-2019-Top25",
-        "count": 189,
+        "count": 188,
         "description": null
     },
     {
         "name": "CWE-2020-Top25",
         "href": "AIP/quality-standards/CWE/categories/CWE-2020-Top25",
-        "count": 187,
+        "count": 186,
         "description": null
     },
     {
         "name": "CWE-2021-Top25",
         "href": "AIP/quality-standards/CWE/categories/CWE-2021-Top25",
-        "count": 176,
+        "count": 175,
         "description": null
     },
     {
         "name": "CWE-LATEST-VERSION",
         "href": "AIP/quality-standards/CWE/categories/CWE-LATEST-VERSION",
-        "count": 1233,
+        "count": 1232,
         "description": null
     }
 ]

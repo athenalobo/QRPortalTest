@@ -2324,7 +2324,7 @@
         "name": "Ensure the express X-XSS-Protection header is enabled (TypeScript)",
         "href": "AIP/quality-rules/1020878",
         "critical": true,
-        "severity": 30,
+        "severity": 20,
         "technologyNames": [
             "HTML5"
         ]

@@ -27,7 +27,7 @@
         "id": "STIG-V-222602",
         "name": "The application must protect from Cross-Site Scripting (XSS) vulnerabilities.",
         "href": "CARL/quality-standards/STIG-V5/items/STIG-V-222602",
-        "count": 48
+        "count": 47
     },
     {
         "id": "STIG-V-222604",
