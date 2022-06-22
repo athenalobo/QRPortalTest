@@ -18723,6 +18723,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "3.1.1-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.springdata": [
