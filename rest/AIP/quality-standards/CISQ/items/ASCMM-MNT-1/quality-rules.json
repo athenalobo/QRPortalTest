@@ -14,7 +14,7 @@
         "name": "Avoid GOTO jumps out of PERFORM range",
         "href": "AIP/quality-rules/7274",
         "critical": false,
-        "severity": 10,
+        "severity": 30,
         "technologyNames": [
             "Cobol"
         ]

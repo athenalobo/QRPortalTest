@@ -32,6 +32,26 @@
         ]
     },
     {
+        "id": 7274,
+        "name": "Avoid GOTO jumps out of PERFORM range",
+        "href": "AIP/quality-rules/7274",
+        "critical": false,
+        "severity": 30,
+        "technologyNames": [
+            "Cobol"
+        ]
+    },
+    {
+        "id": 7288,
+        "name": "Avoid cyclic calls with PERFORM statements",
+        "href": "AIP/quality-rules/7288",
+        "critical": false,
+        "severity": 30,
+        "technologyNames": [
+            "Cobol"
+        ]
+    },
+    {
         "id": 7358,
         "name": "Avoid call to AcceptChanges in a loop",
         "href": "AIP/quality-rules/7358",
@@ -40,6 +60,16 @@
         "technologyNames": [
             "C#",
             "VB.NET"
+        ]
+    },
+    {
+        "id": 7366,
+        "name": "File descriptor block must be defined with 0 record",
+        "href": "AIP/quality-rules/7366",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "Cobol"
         ]
     },
     {
@@ -60,6 +90,16 @@
         "severity": 30,
         "technologyNames": [
             "ASP"
+        ]
+    },
+    {
+        "id": 7688,
+        "name": "Never truncate data in MOVE statements",
+        "href": "AIP/quality-rules/7688",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "Cobol"
         ]
     },
     {

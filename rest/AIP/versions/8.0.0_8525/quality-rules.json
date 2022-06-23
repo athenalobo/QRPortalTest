@@ -3613,7 +3613,7 @@
         "href": "AIP/quality-rules/7274",
         "status": "added",
         "critical": false,
-        "severity": 10,
+        "severity": 30,
         "technologyNames": [
             "Cobol"
         ]
@@ -3624,7 +3624,7 @@
         "href": "AIP/quality-rules/7288",
         "status": "added",
         "critical": false,
-        "severity": 10,
+        "severity": 30,
         "technologyNames": [
             "Cobol"
         ]
@@ -3840,7 +3840,7 @@
         "href": "AIP/quality-rules/7366",
         "status": "added",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "Cobol"
         ]
@@ -5106,7 +5106,7 @@
         "href": "AIP/quality-rules/7688",
         "status": "added",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "Cobol"
         ]
