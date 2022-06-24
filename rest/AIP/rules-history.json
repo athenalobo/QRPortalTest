@@ -267,6 +267,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "2.1.7-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.angularjs": [
@@ -6638,6 +6647,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "2.1.13-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.ibatis": [
@@ -10461,6 +10479,15 @@
         },
         {
             "version": "1.2.5-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
+            "version": "1.2.6-funcrel",
             "addedRules": [
                 
             ],
