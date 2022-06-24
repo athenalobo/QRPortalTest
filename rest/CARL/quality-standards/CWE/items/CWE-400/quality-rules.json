@@ -91,7 +91,7 @@
         "name": "Prefer using a Join with a consition when making SQL queries on XXL tables so that performance is not adversely impacted due to cartesian/cross join",
         "href": "AIP/quality-rules/1101002",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "ALL TECHNOLOGIES"
         ]

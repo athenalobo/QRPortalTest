@@ -3,7 +3,7 @@
     "name": "Avoid non-indexed XXL SQL queries",
     "href": "AIP/quality-rules/1101006",
     "critical": true,
-    "severity": 20,
+    "severity": 30,
     "maxWeight": 9,
     "extension": {
         "name": "com.castsoftware.sqlanalyzer",

@@ -3,7 +3,7 @@
     "name": "Never use SQL queries with a cartesian product on XXL Tables (SQL)",
     "href": "AIP/quality-rules/1101002",
     "critical": true,
-    "severity": 20,
+    "severity": 30,
     "maxWeight": 9,
     "extension": {
         "name": "com.castsoftware.sqlanalyzer",

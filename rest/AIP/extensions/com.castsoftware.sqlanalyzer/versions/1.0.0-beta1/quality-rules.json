@@ -16,7 +16,7 @@
         "href": "AIP/quality-rules/1101002",
         "status": "added",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "SQL"
         ]
@@ -38,7 +38,7 @@
         "href": "AIP/quality-rules/1101006",
         "status": "added",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "SQL"
         ]

@@ -8716,7 +8716,7 @@
         "href": "AIP/quality-rules/8468",
         "status": "renewed",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "Cobol"
         ]

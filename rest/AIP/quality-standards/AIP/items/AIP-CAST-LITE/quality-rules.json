@@ -5563,7 +5563,7 @@
         "name": "Program semantic should respect the logic of flow execution",
         "href": "AIP/quality-rules/8468",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "Cobol"
         ]
@@ -12942,7 +12942,7 @@
         "name": "Never use SQL queries with a cartesian product on XXL Tables (SQL)",
         "href": "AIP/quality-rules/1101002",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "ALL TECHNOLOGIES"
         ]
@@ -12962,7 +12962,7 @@
         "name": "Avoid non-indexed XXL SQL queries",
         "href": "AIP/quality-rules/1101006",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "ALL TECHNOLOGIES"
         ]
@@ -13365,7 +13365,7 @@
         "name": "Avoid Cursors inside a loop (SQL)",
         "href": "AIP/quality-rules/1101084",
         "critical": true,
-        "severity": 30,
+        "severity": 20,
         "technologyNames": [
             "SQL"
         ]

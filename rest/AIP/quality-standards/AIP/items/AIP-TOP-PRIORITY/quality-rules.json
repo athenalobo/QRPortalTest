@@ -440,6 +440,16 @@
         ]
     },
     {
+        "id": 8468,
+        "name": "Program semantic should respect the logic of flow execution",
+        "href": "AIP/quality-rules/8468",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "Cobol"
+        ]
+    },
+    {
         "id": 8476,
         "name": "Avoid calling unsafe C library functions from COBOL",
         "href": "AIP/quality-rules/8476",
@@ -2035,13 +2045,23 @@
         ]
     },
     {
-        "id": 1101084,
-        "name": "Avoid Cursors inside a loop (SQL)",
-        "href": "AIP/quality-rules/1101084",
+        "id": 1101002,
+        "name": "Never use SQL queries with a cartesian product on XXL Tables (SQL)",
+        "href": "AIP/quality-rules/1101002",
         "critical": true,
         "severity": 30,
         "technologyNames": [
-            "SQL"
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1101006,
+        "name": "Avoid non-indexed XXL SQL queries",
+        "href": "AIP/quality-rules/1101006",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
         ]
     },
     {

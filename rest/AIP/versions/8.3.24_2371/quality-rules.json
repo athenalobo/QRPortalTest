@@ -5,7 +5,7 @@
         "href": "AIP/quality-rules/8468",
         "status": "added",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "Cobol"
         ]
