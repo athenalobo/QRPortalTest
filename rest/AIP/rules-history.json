@@ -1209,6 +1209,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.0.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.bpel": [
@@ -17346,6 +17355,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.0.3-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.sap.hybris": [
@@ -17599,6 +17617,15 @@
         },
         {
             "version": "1.1.8-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
+            "version": "1.1.9-funcrel",
             "addedRules": [
                 
             ],
