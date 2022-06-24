@@ -889,6 +889,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "2.1.8-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.architecture": [
@@ -9776,6 +9785,15 @@
         },
         {
             "version": "2.3.3-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
+            "version": "2.3.4-funcrel",
             "addedRules": [
                 
             ],
