@@ -7149,6 +7149,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "0.9.10",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.java.service": [
