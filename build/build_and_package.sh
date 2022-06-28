@@ -92,7 +92,7 @@ if [ -z "$PACKVERS" ]; then
 	exit 1
 fi
 echo "package version is: $PACKVERS"
-PACKPREF=ReleaseNoteManagerServer
+PACKPREF=Technologies
 PACKNAME=${PACKPREF}_$PACKVERS.$BUILDNO.taz
 [ ! -d $OUTDIR ] && (mkdir $OUTDIR || exit 1)
 rm -f $OUTDIR/${PACKPREF}* 
