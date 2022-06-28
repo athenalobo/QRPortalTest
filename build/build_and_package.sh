@@ -10,13 +10,12 @@ display_usage()
     echo "usage:"
     echo "$0"
     echo
-    echo "%0 -w <path> -s <path> -z <path> -b <number> -m <mode> -l <ldap_host> -u <ldap_user> -a <ldap_password>"
+    echo "%0 -w <path> -s <path> -z <path> -b <number>"
     echo
     echo "-w: workspace: full path to the workspace dir"
     echo "-s: sources directory full path"
     echo "-z: output directory full path"
     echo "-b: build number: build number for this package"
-    echo "-m: mode: could be set to notest to skip tests"
 }
 
 unset BUILDNO
@@ -156,7 +155,7 @@ echo "=============================================="
 echo "=============================================="
 echo "Installing on test server ...."
 echo "Executing on server: $USER@$TEST_SRVHOST"
-CMD="$SRVPACKSDIR/$INSTALLER_TOOL -p $SRVPACKSDIR/$PACKNAME -r $TEST_SRVPORT -m development"
+CMD="$SRVPACKSDIR/$INSTALLER_TOOL -p $SRVPACKSDIR/$PACKNAME -r $TEST_SRVPORT"
 echo $CMD
 ssh $SSH_OPTS $USER@$TEST_SRVHOST bash $CMD || exit 1
 
