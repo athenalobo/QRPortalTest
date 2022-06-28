@@ -23234,6 +23234,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.7.9-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.wcf": [
