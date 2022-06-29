@@ -19195,6 +19195,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.7.2-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.springsecurity": [
