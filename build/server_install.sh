@@ -26,6 +26,7 @@ SERVERDIR="/var/opt/technologies_server"
 BACKUPDIR="$PACKDIR/../backups"
 TMPFIC=/tmp/technologies_server_install.tmp
 SRVHOST=`hostname`
+export PORT=$SRVPORT
 
 echo
 echo Server installation is: $SERVERDIR

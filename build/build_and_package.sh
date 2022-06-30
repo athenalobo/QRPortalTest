@@ -27,7 +27,7 @@ while getopts "w:b:s:z:m:l:u:a:" OPT; do
    case $OPT in
       b) BUILDNO=${OPTARG};;
       w) WORKSPACE=${OPTARG};;
-      s) SRCDIR=${OPTARG};;
+      s) 	=${OPTARG};;
       z) OUTDIR=${OPTARG};;
       m) MODE=${OPTARG};;
       /?) display_usage ; exit 1;;
@@ -133,7 +133,7 @@ NODEDIR=`which node`
 NODEDIR=`dirname $NODEDIR`
 NODEDIR=`dirname $NODEDIR`
 rsync -a $NODEDIR/ $TEMPDIR/NodeJS || exit 1
-tar cvfz $OUTDIR/$PACKNAME -C $TEMPDIR NodeJS -C $SRCDIR dist static node_modules package.json >$TMPFIC 2>&1
+tar cvfz $OUTDIR/$PACKNAME -C $TEMPDIR NodeJS -C $SRCDIR dist downloads node_modules public qrp_WebApp rest server static swagger-ui temp package.json >$TMPFIC 2>&1
 if [ $? -ne 0 ]; then
 	cat $TMPFIC
 	exit 1
