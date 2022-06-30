@@ -139,25 +139,8 @@ if [ $? -ne 0 ]; then
 	exit 1
 fi
 
+
 echo
 echo "Package path is: $OUTDIR/$PACKNAME"
-
-echo "=============================================="
-echo "=============================================="
-echo "Pushing package ...."
-ssh $SSH_OPTS $USER@$TEST_SRVHOST "rm -rf $SRVPACKSDIR;mkdir -p $SRVPACKSDIR" || exit 1
-
-scp $SSH_OPTS $OUTDIR/$PACKNAME $USER@$TEST_SRVHOST:$SRVPACKSDIR || exit 1
-
-scp $SSH_OPTS $SRCDIR/build/$INSTALLER_TOOL $USER@$TEST_SRVHOST:$SRVPACKSDIR || exit 1
-
-echo "=============================================="
-echo "=============================================="
-echo "Installing on test server ...."
-echo "Executing on server: $USER@$TEST_SRVHOST"
-CMD="$SRVPACKSDIR/$INSTALLER_TOOL -p $SRVPACKSDIR/$PACKNAME -r $TEST_SRVPORT"
-echo $CMD
-ssh $SSH_OPTS $USER@$TEST_SRVHOST bash $CMD || exit 1
-
 echo "End of build with success."
 exit 0
