@@ -27,7 +27,7 @@ while getopts "w:b:s:z:m:l:u:a:" OPT; do
    case $OPT in
       b) BUILDNO=${OPTARG};;
       w) WORKSPACE=${OPTARG};;
-      s) 	=${OPTARG};;
+      s) SRCDIR=${OPTARG};;
       z) OUTDIR=${OPTARG};;
       m) MODE=${OPTARG};;
       /?) display_usage ; exit 1;;
