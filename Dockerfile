@@ -1,5 +1,8 @@
 FROM node:16
 
+USER node
+ENV NODE_ENV=production
+ENV NPM_CONFIG_LOGLEVEL=info
 ARG HOMEDIR=/usr/src/technologies
 
 WORKDIR ${HOMEDIR}
