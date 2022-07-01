@@ -15846,6 +15846,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.5.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.reactjs": [

@@ -1,5 +1,12 @@
 [
     {
+        "name": "1.5.0-funcrel",
+        "href": "AIP/extensions/com.castsoftware.python/versions/1.5.0-funcrel",
+        "metaModelCRC": 2284747512,
+        "rulesCRC": 3470973444,
+        "transactionsConfigurationCRC": 2415891673
+    },
+    {
         "name": "1.5.0-alpha3",
         "href": "AIP/extensions/com.castsoftware.python/versions/1.5.0-alpha3",
         "metaModelCRC": 2284747512,
