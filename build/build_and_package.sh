@@ -133,7 +133,7 @@ NODEDIR=`which node`
 NODEDIR=`dirname $NODEDIR`
 NODEDIR=`dirname $NODEDIR`
 rsync -a $NODEDIR/ $TEMPDIR/NodeJS || exit 1
-tar cvfz $OUTDIR/$PACKNAME -C $TEMPDIR NodeJS -C $SRCDIR dist downloads node_modules public qrp_WebApp rest server static swagger-ui temp package.json >$TMPFIC 2>&1
+tar cvfz $OUTDIR/$PACKNAME -C $SRCDIR downloads node_modules public qrp_WebApp rest server static swagger-ui temp package.json >$TMPFIC 2>&1
 if [ $? -ne 0 ]; then
 	cat $TMPFIC
 	exit 1
