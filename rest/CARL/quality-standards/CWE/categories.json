@@ -24,6 +24,12 @@
         "description": null
     },
     {
+        "name": "CWE-2022-Top25",
+        "href": "CARL/quality-standards/CWE/categories/CWE-2022-Top25",
+        "count": 142,
+        "description": "Top 25 Most Dangerous Software Errors - 2022"
+    },
+    {
         "name": "CWE-LATEST-VERSION",
         "href": "CARL/quality-standards/CWE/categories/CWE-LATEST-VERSION",
         "count": 659,
