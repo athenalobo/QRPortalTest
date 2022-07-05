@@ -10296,6 +10296,17 @@
             ]
         }
     ],
+    "com.castsoftware.moduledefinitiontypes": [
+        {
+            "version": "1.0.0",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        }
+    ],
     "com.castsoftware.mqe": [
         {
             "version": "1.0.0-alpha1",

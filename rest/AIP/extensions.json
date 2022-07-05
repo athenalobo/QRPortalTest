@@ -254,6 +254,12 @@
     {
         "qualityModel": false,
         "transactionsConfiguration": false,
+        "name": "com.castsoftware.moduledefinitiontypes",
+        "href": "AIP/extensions/com.castsoftware.moduledefinitiontypes"
+    },
+    {
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.mqe",
         "href": "AIP/extensions/com.castsoftware.mqe"
     },
