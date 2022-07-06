@@ -51,7 +51,7 @@
         "id": "PCI-Requirement-6.5.7",
         "name": "  Cross-site scripting (XSS)",
         "href": "CARL/quality-standards/PCI-DSS-V3.1/items/PCI-Requirement-6.5.7",
-        "count": 51
+        "count": 45
     },
     {
         "id": "PCI-Requirement-6.5.8",
@@ -69,6 +69,6 @@
         "id": "PCI-Requirement-6.5.10",
         "name": "Broken authentication and session management",
         "href": "CARL/quality-standards/PCI-DSS-V3.1/items/PCI-Requirement-6.5.10",
-        "count": 45
+        "count": 51
     }
 ]

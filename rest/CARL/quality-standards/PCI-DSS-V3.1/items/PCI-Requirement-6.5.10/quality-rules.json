@@ -24,6 +24,16 @@
         ]
     },
     {
+        "id": 1020094,
+        "name": "Always enable HttpOnly option when creating cookies so that sensitive information is not exposed to unsecured applications and domains",
+        "href": "AIP/quality-rules/1020094",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "HTML5"
+        ]
+    },
+    {
         "id": 1020096,
         "name": "Make sure you are using Secure option for cookies so that Cross-Site-Scripting attacks can be prevented",
         "href": "AIP/quality-rules/1020096",
@@ -134,6 +144,16 @@
         ]
     },
     {
+        "id": 1020728,
+        "name": "Always enable HttpOnly when creating cookies to avoid Cross-site scripting attacks",
+        "href": "AIP/quality-rules/1020728",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "HTML5"
+        ]
+    },
+    {
         "id": 1020734,
         "name": "Ensure using only secured cookie to avoid Cross-site scripting attacks",
         "href": "AIP/quality-rules/1020734",
@@ -207,6 +227,16 @@
         "id": 1020866,
         "name": "Ensure you do not allow access to all domain when defining cookie path",
         "href": "AIP/quality-rules/1020866",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 1020868,
+        "name": "Always enable HttpOnly option when creating cookies so that sensitive information is not exposed to unsecured applications and domains",
+        "href": "AIP/quality-rules/1020868",
         "critical": true,
         "severity": 20,
         "technologyNames": [
@@ -315,6 +345,16 @@
         ]
     },
     {
+        "id": 1039026,
+        "name": "Always enable HttpOnly when creating cookies to avoid Cross-site scripting attacks",
+        "href": "AIP/quality-rules/1039026",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 1039052,
         "name": "Always set an expiration time for an Http Session to improve security",
         "href": "AIP/quality-rules/1039052",
@@ -382,6 +422,28 @@
         "severity": 30,
         "technologyNames": [
             "JEE"
+        ]
+    },
+    {
+        "id": 1043010,
+        "name": "Always enable HttpOnly when creating cookies to avoid Cross-site scripting attacks",
+        "href": "AIP/quality-rules/1043010",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "ASP.NET",
+            "C#"
+        ]
+    },
+    {
+        "id": 1043012,
+        "name": "Always enable HttpOnly for cookies in Config file (ASP.NET)",
+        "href": "AIP/quality-rules/1043012",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "ASP.NET",
+            "C#"
         ]
     },
     {
