@@ -1168,6 +1168,42 @@
         ]
     },
     {
+        "id": 1025002,
+        "name": "Avoid second order XPath injection",
+        "href": "AIP/quality-rules/1025002",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025010,
+        "name": "Avoid second order LDAP injection",
+        "href": "AIP/quality-rules/1025010",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025016,
+        "name": "Avoid using cookie without the HttpOnly flag",
+        "href": "AIP/quality-rules/1025016",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1027008,
         "name": "Always Revert After Impersonation",
         "href": "AIP/quality-rules/1027008",

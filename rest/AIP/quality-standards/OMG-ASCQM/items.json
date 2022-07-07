@@ -501,13 +501,13 @@
         "id": "CWE-90",
         "name": "Improper Neutralization of Special Elements used in an LDAP Query ('LDAP Injection')",
         "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-90",
-        "count": 2
+        "count": 3
     },
     {
         "id": "CWE-91",
         "name": "XML Injection (aka Blind XPath Injection)",
         "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-91",
-        "count": 3
+        "count": 4
     },
     {
         "id": "CWE-99",
@@ -585,7 +585,7 @@
         "id": "CWE-643",
         "name": "Improper Neutralization of Data within XPath Expressions ('XPath Injection')",
         "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-643",
-        "count": 2
+        "count": 3
     },
     {
         "id": "CWE-652",

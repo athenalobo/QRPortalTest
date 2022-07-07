@@ -17693,6 +17693,46 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.0.1-funcrel",
+            "addedRules": [
+                {
+                    "id": 8240,
+                    "name": "Avoid using unsecured cookie"
+                },
+                {
+                    "id": 1025002,
+                    "name": "Avoid second order XPath injection"
+                },
+                {
+                    "id": 1025004,
+                    "name": "Avoid second order URL redirection to untrusted site"
+                },
+                {
+                    "id": 1025010,
+                    "name": "Avoid second order LDAP injection"
+                },
+                {
+                    "id": 1025016,
+                    "name": "Avoid using cookie without the HttpOnly flag"
+                },
+                {
+                    "id": 1025018,
+                    "name": "Avoid cookie injection"
+                },
+                {
+                    "id": 1025020,
+                    "name": "Avoid data filter injection"
+                },
+                {
+                    "id": 1025022,
+                    "name": "Avoid data filter injection through API requests"
+                }
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.shell": [

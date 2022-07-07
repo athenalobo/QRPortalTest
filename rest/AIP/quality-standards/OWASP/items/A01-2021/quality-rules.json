@@ -172,6 +172,18 @@
         ]
     },
     {
+        "id": 1025004,
+        "name": "Avoid second order URL redirection to untrusted site",
+        "href": "AIP/quality-rules/1025004",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1030002,
         "name": "Avoid using \"Throwable.printStackTrace()\" with no argument (Kotlin)",
         "href": "AIP/quality-rules/1030002",

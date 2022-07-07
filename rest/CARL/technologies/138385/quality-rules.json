@@ -1888,6 +1888,42 @@
         ]
     },
     {
+        "id": 1025002,
+        "name": "Ensure your application properly neutralize XML content before it is processed",
+        "href": "AIP/quality-rules/1025002",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025004,
+        "name": "Ensure you URL redirection always goes to trusted sites",
+        "href": "AIP/quality-rules/1025004",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025010,
+        "name": "Ensure your application does not run LDAP methods without sanitization",
+        "href": "AIP/quality-rules/1025010",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1027002,
         "name": "Change access modifier to \"private\", \"internal\"or \"private protected\"",
         "href": "AIP/quality-rules/1027002",

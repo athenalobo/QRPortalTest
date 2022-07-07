@@ -3,7 +3,7 @@
         "id": "A1-2013",
         "name": "Injection",
         "href": "CARL/quality-standards/OWASP/items/A1-2013",
-        "count": 53
+        "count": 55
     },
     {
         "id": "A2-2013",
@@ -57,6 +57,6 @@
         "id": "A10-2013",
         "name": "Unvalidated Redirects and Forwards",
         "href": "CARL/quality-standards/OWASP/items/A10-2013",
-        "count": 3
+        "count": 4
     }
 ]

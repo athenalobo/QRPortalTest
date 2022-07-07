@@ -1022,6 +1022,30 @@
         ]
     },
     {
+        "id": 1025002,
+        "name": "Avoid second order XPath injection",
+        "href": "AIP/quality-rules/1025002",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025010,
+        "name": "Avoid second order LDAP injection",
+        "href": "AIP/quality-rules/1025010",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1040018,
         "name": "Ensure the X-Frame-Options header is setup (Spring)",
         "href": "AIP/quality-rules/1040018",

@@ -1002,6 +1002,30 @@
         ]
     },
     {
+        "id": 1025002,
+        "name": "Ensure your application properly neutralize XML content before it is processed",
+        "href": "AIP/quality-rules/1025002",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025010,
+        "name": "Ensure your application does not run LDAP methods without sanitization",
+        "href": "AIP/quality-rules/1025010",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1040018,
         "name": "Ensure safely set X-Frame-Option  to avoid Clickjacking attack",
         "href": "AIP/quality-rules/1040018",

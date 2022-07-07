@@ -20,6 +20,18 @@
         ]
     },
     {
+        "id": 8240,
+        "name": "Avoid using unsecured cookie",
+        "href": "AIP/quality-rules/8240",
+        "critical": true,
+        "weight": 8,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 8414,
         "name": "Avoid weak cryptographic algorithm",
         "href": "AIP/quality-rules/8414",

@@ -10017,6 +10017,42 @@
         ]
     },
     {
+        "id": 1025002,
+        "name": "Avoid second order XPath injection",
+        "href": "AIP/quality-rules/1025002",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025004,
+        "name": "Avoid second order URL redirection to untrusted site",
+        "href": "AIP/quality-rules/1025004",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025010,
+        "name": "Avoid second order LDAP injection",
+        "href": "AIP/quality-rules/1025010",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1027000,
         "name": "Avoid Managed type declaration for Win32 API using Overlapped IO",
         "href": "AIP/quality-rules/1027000",

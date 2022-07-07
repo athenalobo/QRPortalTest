@@ -3,7 +3,7 @@
         "id": "A01-2021",
         "name": "Broken Access Control",
         "href": "CARL/quality-standards/OWASP/items/A01-2021",
-        "count": 22
+        "count": 23
     },
     {
         "id": "A02-2021",
@@ -15,7 +15,7 @@
         "id": "A03-2021",
         "name": "Injection",
         "href": "CARL/quality-standards/OWASP/items/A03-2021",
-        "count": 91
+        "count": 93
     },
     {
         "id": "A04-2021",

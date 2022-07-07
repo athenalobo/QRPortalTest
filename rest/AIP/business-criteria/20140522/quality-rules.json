@@ -2836,6 +2836,18 @@
         ]
     },
     {
+        "id": 8240,
+        "name": "Avoid using unsecured cookie",
+        "href": "AIP/quality-rules/8240",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 8400,
         "name": "Avoid having lock on this object",
         "href": "AIP/quality-rules/8400",
@@ -6213,6 +6225,18 @@
         "severity": 30,
         "technologyNames": [
             "JEE"
+        ]
+    },
+    {
+        "id": 1025016,
+        "name": "Avoid using cookie without the HttpOnly flag",
+        "href": "AIP/quality-rules/1025016",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
         ]
     },
     {

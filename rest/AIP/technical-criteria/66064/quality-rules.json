@@ -20,6 +20,18 @@
         ]
     },
     {
+        "id": 8240,
+        "name": "Avoid using unsecured cookie",
+        "href": "AIP/quality-rules/8240",
+        "critical": true,
+        "weight": 8,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 8414,
         "name": "Avoid weak cryptographic algorithm",
         "href": "AIP/quality-rules/8414",
@@ -715,6 +727,18 @@
         "weight": 7,
         "technologyNames": [
             "JEE"
+        ]
+    },
+    {
+        "id": 1025016,
+        "name": "Avoid using cookie without the HttpOnly flag",
+        "href": "AIP/quality-rules/1025016",
+        "critical": true,
+        "weight": 8,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
         ]
     },
     {

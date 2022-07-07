@@ -1127,6 +1127,30 @@
         ]
     },
     {
+        "id": 1025002,
+        "name": "Ensure your application properly neutralize XML content before it is processed",
+        "href": "AIP/quality-rules/1025002",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025010,
+        "name": "Ensure your application does not run LDAP methods without sanitization",
+        "href": "AIP/quality-rules/1025010",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1027024,
         "name": "Ensure you don't compare passwords against hard-coded strings in the source file, hackers can steal the information by retro-engineering your application (C#)",
         "href": "AIP/quality-rules/1027024",

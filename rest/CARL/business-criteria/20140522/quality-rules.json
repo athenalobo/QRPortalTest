@@ -1579,6 +1579,18 @@
         ]
     },
     {
+        "id": 8240,
+        "name": "Ensure you have secured your cookie by enabling 'Secure' attribute",
+        "href": "AIP/quality-rules/8240",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 8400,
         "name": "Avoid having lock on this object",
         "href": "AIP/quality-rules/8400",
