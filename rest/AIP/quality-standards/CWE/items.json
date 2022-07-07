@@ -729,7 +729,7 @@
         "id": "CWE-489",
         "name": "Active Debug Code",
         "href": "AIP/quality-standards/CWE/items/CWE-489",
-        "count": 22
+        "count": 23
     },
     {
         "id": "CWE-492",
@@ -1456,6 +1456,12 @@
         "name": "Improper Use of Validation Framework",
         "href": "AIP/quality-standards/CWE/items/CWE-1173",
         "count": 11
+    },
+    {
+        "id": "CWE-1240",
+        "name": "Use of a Cryptographic Primitive with a Risky Implementation",
+        "href": "AIP/quality-standards/CWE/items/CWE-1240",
+        "count": 7
     },
     {
         "id": "CWE-1322",
