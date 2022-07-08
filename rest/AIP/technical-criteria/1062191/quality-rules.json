@@ -425,7 +425,7 @@
     },
     {
         "id": 1020878,
-        "name": "Ensure the express X-XSS-Protection header is enabled (TypeScript)",
+        "name": "DELETED: Ensure the express X-XSS-Protection header is enabled (TypeScript)",
         "href": "AIP/quality-rules/1020878",
         "critical": false,
         "weight": 5,
