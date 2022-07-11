@@ -149,7 +149,7 @@ docker build --pull --rm -f "Dockerfile" -t technologies:$PACKVERS "." || exit 1
 echo "=============================================="
 echo "=============================================="
 echo "Saving docker image"
-docker save technologies:$PACKVERS || gzip >$OUTDIR/$DOCKERIMAGENAME.tar.gz 2>&1
+docker save technologies:$PACKVERS | gzip >$OUTDIR/$DOCKERIMAGENAME.tar.gz 2>&1
 if [ $? -ne 0 ]; then
 	exit 1
 fi
