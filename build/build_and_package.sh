@@ -93,7 +93,7 @@ fi
 echo "package version is: $PACKVERS"
 PACKPREF=Technologies
 PACKNAME=${PACKPREF}_$PACKVERS.$BUILDNO.taz
-DOCKERIMAGENAME=${PACKPREF}_$PACKVERS.$BUILDNO.tar
+DOCKERIMAGENAME=${PACKPREF}_$PACKVERS.$BUILDNO
 [ ! -d $OUTDIR ] && (mkdir $OUTDIR || exit 1)
 rm -f $OUTDIR/${PACKPREF}* 
 
@@ -149,7 +149,10 @@ docker build --pull --rm -f "Dockerfile" -t technologies:$PACKVERS "." || exit 1
 echo "=============================================="
 echo "=============================================="
 echo "Saving docker image"
-docker save -o $OUTDIR/$DOCKERIMAGENAME.tar technologies:$PACKVERS || exit 1
+docker save technologies:$PACKVERS || gzip >$OUTDIR/$DOCKERIMAGENAME.tar.gz 2>&1
+if [ $? -ne 0 ]; then
+	exit 1
+fi
 
 echo
 echo "Docker Image path is: $OUTDIR/$PACKNAME"
