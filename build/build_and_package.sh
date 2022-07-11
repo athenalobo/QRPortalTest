@@ -142,13 +142,13 @@ fi
 echo "=============================================="
 echo "=============================================="
 echo "Building docker image"
-cd $WORKSPACE/$SRCDIR
-docker build --pull --rm -f "Dockerfile" -t technologies:$PACKVERS "."
+cd $SRCDIR
+docker build --pull --rm -f "Dockerfile" -t technologies:$PACKVERS "." || exit 1
 
 echo "=============================================="
 echo "=============================================="
 echo "Saving docker image"
-docker save -o $OUTDIR/$PACKNAME.tar technologies:$PACKVERS
+docker save -o $OUTDIR/$PACKNAME.tar technologies:$PACKVERS || exit 1
 
 echo
 echo "Docker Image path is: $OUTDIR/$PACKNAME"
