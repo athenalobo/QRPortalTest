@@ -133,14 +133,24 @@ NODEDIR=`which node`
 NODEDIR=`dirname $NODEDIR`
 NODEDIR=`dirname $NODEDIR`
 rsync -a $NODEDIR/ $TEMPDIR/NodeJS || exit 1
-tar cvfz $OUTDIR/$PACKNAME -C $SRCDIR downloads node_modules public qrp_WebApp rest server static swagger-ui temp package.json >$TMPFIC 2>&1
+tar cvfz $SRCDIR/$PACKNAME -C $SRCDIR downloads node_modules public qrp_WebApp rest server static swagger-ui temp package.json >$TMPFIC 2>&1
 if [ $? -ne 0 ]; then
 	cat $TMPFIC
 	exit 1
 fi
 
+echo "=============================================="
+echo "=============================================="
+echo "Building docker image"
+cd $WORKSPACE/$SRCDIR
+docker build --pull --rm -f "Dockerfile" -t technologies:$PACKVERS "."
+
+echo "=============================================="
+echo "=============================================="
+echo "Saving docker image"
+docker save -o $OUTDIR/$PACKNAME.tar technologies:$PACKVERS
 
 echo
-echo "Package path is: $OUTDIR/$PACKNAME"
+echo "Docker Image path is: $OUTDIR/$PACKNAME"
 echo "End of build with success."
 exit 0
