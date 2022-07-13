@@ -40,6 +40,11 @@ if not defined BUILDNO (
 	echo No "buildno" defined !
 	goto Usage
 )
+if not defined PACKVERS (
+	echo.
+	echo No "PACKVERS" defined !
+	goto Usage
+)
 if not defined JOBURL (
 	echo.
 	echo No "joburl" defined !
@@ -55,7 +60,7 @@ set PATH=C:\CAST-Caches\Win64;%PATH%;%GIT_HOME%\usr\bin
 set TMPFIC=%TEMP%\build.tmp
 
 set PACKNAME=Technologies
-set PACKPATH=archive/upload/%PACKNAME%*.taz
+set PACKPATH=archive/upload/%PACKNAME%*.tar.gz
 set ARTIPATH=archive.zip
 set FSNAME=productfs01
 set FSUSER=jenkins
@@ -64,7 +69,7 @@ set LOCALOCTO=%WORKSPACE%\OctopusTool
 set SSH_OPTS=-o StrictHostKeyChecking=no
 set OCTOPATH=%LOCALOCTO%\Octo.exe
 set OCTOSRV=https://octopus.castsoftware.com
-set OCTOPROJECT="Technologies"
+set OCTOPROJECT="technologies-rulesv1"
 set SPACENAME=Spaces-22
 
 robocopy /mir /ndl /nfl /njh /njs /np %REMOTEOCTO% %LOCALOCTO%
@@ -99,18 +104,6 @@ if not errorlevel 1 (
 7z.exe x %ARTIPATH%
 if errorlevel 1 goto endclean
 
-tar.exe xzf %PACKPATH%
-if errorlevel 1 goto endclean
-echo.
-echo ========================================================
-echo Package version:
-set PACKVERS=
-for /f %%a in ('node -p "require('./package.json').version"') do set PACKVERS=%%a
-if not defined PACKVERS (
-    echo.
-    echo ERROR: version cannot be found.
-    goto endclean
-)
 echo "Package version is: %PACKVERS%"
 
 cp %PACKPATH% %PACKNAME%/Technologies.taz
