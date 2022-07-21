@@ -10020,6 +10020,24 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.0.10-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
+            "version": "1.1.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.mainframe": [
@@ -17456,6 +17474,26 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.0.4-funcrel",
+            "addedRules": [
+                {
+                    "id": 7076,
+                    "name": "Avoid Programs/Includes with too many Forms"
+                },
+                {
+                    "id": 7528,
+                    "name": "Never use the ON CHANGE OF statement"
+                },
+                {
+                    "id": 7592,
+                    "name": "Avoid using \"ORDER BY\" in SELECTS"
+                }
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.sap.hybris": [
@@ -21821,6 +21859,15 @@
     "com.castsoftware.swing": [
         {
             "version": "1.0.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
+            "version": "1.0.1-funcrel",
             "addedRules": [
                 
             ],
