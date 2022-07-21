@@ -6692,6 +6692,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "2.1.14-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.ibatis": [
