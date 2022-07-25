@@ -18,6 +18,7 @@ set WORKSPACE=
 set BUILDNO=
 set JOBURL=
 set APIKEY=
+set PACKVERS=
 
 :LOOP_ARG
     set option=%1
@@ -60,6 +61,7 @@ set PATH=C:\CAST-Caches\Win64;%PATH%;%GIT_HOME%\usr\bin
 set TMPFIC=%TEMP%\build.tmp
 
 set PACKNAME=Technologies
+set PACKID=
 set PACKPATH=archive/upload/%PACKNAME%*.tar.gz
 set ARTIPATH=archive.zip
 set FSNAME=productfs01
@@ -69,7 +71,7 @@ set LOCALOCTO=%WORKSPACE%\OctopusTool
 set SSH_OPTS=-o StrictHostKeyChecking=no
 set OCTOPATH=%LOCALOCTO%\Octo.exe
 set OCTOSRV=https://octopus.castsoftware.com
-set OCTOPROJECT="technologies-rulesv1"
+set OCTOPROJECT=Projects-581
 set SPACENAME=Spaces-22
 
 robocopy /mir /ndl /nfl /njh /njs /np %REMOTEOCTO% %LOCALOCTO%
