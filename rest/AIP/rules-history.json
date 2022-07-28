@@ -900,6 +900,17 @@
             ]
         }
     ],
+    "com.castsoftware.applicationinformation": [
+        {
+            "version": "1.0.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        }
+    ],
     "com.castsoftware.architecture": [
         {
             "version": "1.0.0-alpha1",

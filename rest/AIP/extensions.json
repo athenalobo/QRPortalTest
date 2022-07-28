@@ -14,6 +14,12 @@
     {
         "qualityModel": false,
         "transactionsConfiguration": false,
+        "name": "com.castsoftware.applicationinformation",
+        "href": "AIP/extensions/com.castsoftware.applicationinformation"
+    },
+    {
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.architecture",
         "href": "AIP/extensions/com.castsoftware.architecture"
     },
