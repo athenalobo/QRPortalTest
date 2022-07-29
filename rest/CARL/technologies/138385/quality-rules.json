@@ -1012,6 +1012,7 @@
         "severity": 10,
         "technologyNames": [
             "C#",
+            "C++",
             "JEE",
             "VB.NET"
         ]
