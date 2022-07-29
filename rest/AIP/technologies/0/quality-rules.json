@@ -199,6 +199,16 @@
         ]
     },
     {
+        "id": 1027100,
+        "name": "Avoid dangerous File Upload",
+        "href": "AIP/quality-rules/1027100",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
         "id": 1101000,
         "name": "Never use SQL queries with a cartesian product (SQL)",
         "href": "AIP/quality-rules/1101000",

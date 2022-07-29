@@ -1060,6 +1060,16 @@
         ]
     },
     {
+        "id": 1027100,
+        "name": "Avoid dangerous File Upload",
+        "href": "AIP/quality-rules/1027100",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
         "id": 1039016,
         "name": "Avoid Unvalidated URL Redirect",
         "href": "AIP/quality-rules/1039016",

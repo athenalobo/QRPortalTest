@@ -3540,6 +3540,18 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.4.9-funcrel",
+            "addedRules": [
+                {
+                    "id": 1027100,
+                    "name": "Avoid dangerous File Upload"
+                }
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.dotnet.service": [

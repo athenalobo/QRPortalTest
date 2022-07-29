@@ -1915,6 +1915,16 @@
         ]
     },
     {
+        "id": 1027100,
+        "name": "Avoid dangerous File Upload",
+        "href": "AIP/quality-rules/1027100",
+        "critical": true,
+        "weight": 9,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
         "id": 1039012,
         "name": "Avoid using referer header field in HTTP request",
         "href": "AIP/quality-rules/1039012",
