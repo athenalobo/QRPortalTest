@@ -2694,6 +2694,17 @@
         ]
     },
     {
+        "id": 1027100,
+        "name": "Avoid dangerous File Upload",
+        "href": "AIP/quality-rules/1027100",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1060020,
         "name": "Avoid empty catch blocks for methods with high fan-in",
         "href": "AIP/quality-rules/1060020",

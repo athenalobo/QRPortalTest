@@ -3561,6 +3561,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.4.10-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.dotnet.service": [

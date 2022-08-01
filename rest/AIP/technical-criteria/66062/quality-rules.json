@@ -1981,7 +1981,8 @@
         "critical": true,
         "weight": 9,
         "technologyNames": [
-            "ALL TECHNOLOGIES"
+            "C#",
+            "VB.NET"
         ]
     },
     {

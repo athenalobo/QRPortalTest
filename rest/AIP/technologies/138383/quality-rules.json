@@ -2660,6 +2660,17 @@
         ]
     },
     {
+        "id": 1027100,
+        "name": "Avoid dangerous File Upload",
+        "href": "AIP/quality-rules/1027100",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1043006,
         "name": "Avoid disabling ValidateInput on ASP.NET Http Post/Put Request",
         "href": "AIP/quality-rules/1043006",
