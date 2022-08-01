@@ -1,0 +1,72 @@
+{
+    "id": 1025030,
+    "name": "Avoid hard-coded JWT secret keys",
+    "href": "AIP/quality-rules/1025030",
+    "critical": true,
+    "severity": 20,
+    "maxWeight": 9,
+    "extension": {
+        "name": "com.castsoftware.securityanalyzer",
+        "href": "AIP/extensions/com.castsoftware.securityanalyzer"
+    },
+    "associatedValueName": "Call stack from hard-coded string down to the target method",
+    "description": "This rule will detect a call path where a hard-coded JWT secret key is sent to a method.",
+    "output": "Lists all methods that call target methods, passing at least one hard-coded JWT secret key parameter. \n\nIt provides the following information : \n - Method full name. \n - Call stack with bookmarks from hard-coded JWT secret key literal down to the target method.",
+    "rationale": "JWT secret keys should not be stored in the source code but in a secure environment. Indeed, if a user is able to access to the source code, he will be able to create JWTs accepted by the application.",
+    "reference": "CWE-798: Use of hard-coded credentials\nhttps://cwe.mitre.org/data/definitions/798.html",
+    "remediation": "Do not store JWT secret keys in the source code.",
+    "remediationSample": "String jwtSecretKeyBase64 = System.getenv(\"jwt_secret_key_64\");\nbyte[] keyBytes = Decoders.BASE64.decode(jwtSecretKeyBase64);\nKey key = Keys.hmacShaKeyFor(keyBytes);",
+    "sample": "String base64Secret = \"OWZhYzExODNmZGMxZjVlOTdmZDdiYzgxYTM3NWZmMTI=\";\nbyte[] keyBytes = Decoders.BASE64.decode(base64Secret);\nKey key = Keys.hmacShaKeyFor(keyBytes);",
+    "total": "Number of potentially vulnerable methods",
+    "alternativeName": null,
+    "businessCriteria": [
+        {
+            "id": 66031,
+            "name": "Programming Practices",
+            "href": "AIP/business-criteria/66031"
+        },
+        {
+            "id": 60016,
+            "name": "Security",
+            "href": "AIP/business-criteria/60016"
+        }
+    ],
+    "technicalCriteria": [
+        {
+            "id": 66062,
+            "name": "Secure Coding - Input Validation",
+            "href": "AIP/technical-criteria/66062",
+            "weight": 9,
+            "critical": true
+        }
+    ],
+    "technologies": [
+        {
+            "id": 138383,
+            "name": "C#",
+            "href": "AIP/technologies/138383"
+        },
+        {
+            "id": 140029,
+            "name": "JEE",
+            "href": "AIP/technologies/140029"
+        },
+        {
+            "id": 138385,
+            "name": "VB.NET",
+            "href": "AIP/technologies/138385"
+        }
+    ],
+    "qualityStandards": [
+        
+    ],
+    "parameters": [
+        
+    ],
+    "thresholds": [
+        98.0,
+        99.0,
+        99.5,
+        99.99
+    ]
+}

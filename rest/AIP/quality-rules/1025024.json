@@ -1,0 +1,72 @@
+{
+    "id": 1025024,
+    "name": "Avoid disabling the expiration time validation of a JWT token",
+    "href": "AIP/quality-rules/1025024",
+    "critical": true,
+    "severity": 20,
+    "maxWeight": 9,
+    "extension": {
+        "name": "com.castsoftware.securityanalyzer",
+        "href": "AIP/extensions/com.castsoftware.securityanalyzer"
+    },
+    "associatedValueName": "Call stack from user input source down to the target method",
+    "description": "Using CAST data-flow engine, this metric detects JWT token having the expiration time validation disabled",
+    "output": "Associated to each violation, the following information is provided:\n- The number of violation occurrences\n- Bookmarks for violation occurrences found in the source code",
+    "rationale": "If the expiration time validation is disabled, a JWT token will be valid beyond its expiry time. An attacker would be able to authenticate with an expired token.",
+    "reference": "CWE-613: Insufficient Session Expiration\nhttps://cwe.mitre.org/data/definitions/613.html",
+    "remediation": "Do not disable the expiration time validation of a JWT token.",
+    "remediationSample": "services\n    .AddAuthentication(JwtBearerDefaults.AuthenticationScheme)\n    .AddJwtBearer(options =>\n    {\n        options.TokenValidationParameters = new TokenValidationParameters\n        {\n            ValidateIssuer = true,\n            ValidateAudience = true,\n            ValidateLifetime = true, // OK\n            RequireSignedTokens = true,\n            RequireExpirationTime = true,\n            ValidateIssuerSigningKey = true,\n        };\n    });",
+    "sample": "services\n    .AddAuthentication(JwtBearerDefaults.AuthenticationScheme)\n    .AddJwtBearer(options =>\n    {\n        options.TokenValidationParameters = new TokenValidationParameters\n        {\n            ValidateIssuer = true,\n            ValidateAudience = true,\n            ValidateLifetime = false, // issue\n            RequireSignedTokens = true,\n            RequireExpirationTime = true,\n            ValidateIssuerSigningKey = true,\n        };\n    });",
+    "total": "Number of potentially vulnerable methods",
+    "alternativeName": null,
+    "businessCriteria": [
+        {
+            "id": 20140522,
+            "name": "GreenIT-Index",
+            "href": "AIP/business-criteria/20140522"
+        },
+        {
+            "id": 60016,
+            "name": "Security",
+            "href": "AIP/business-criteria/60016"
+        }
+    ],
+    "technicalCriteria": [
+        {
+            "id": 66064,
+            "name": "Secure Coding - Weak Security Features",
+            "href": "AIP/technical-criteria/66064",
+            "weight": 9,
+            "critical": true
+        }
+    ],
+    "technologies": [
+        {
+            "id": 138383,
+            "name": "C#",
+            "href": "AIP/technologies/138383"
+        },
+        {
+            "id": 140029,
+            "name": "JEE",
+            "href": "AIP/technologies/140029"
+        },
+        {
+            "id": 138385,
+            "name": "VB.NET",
+            "href": "AIP/technologies/138385"
+        }
+    ],
+    "qualityStandards": [
+        
+    ],
+    "parameters": [
+        
+    ],
+    "thresholds": [
+        98.0,
+        99.0,
+        99.5,
+        99.99
+    ]
+}
