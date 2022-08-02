@@ -7,7 +7,7 @@
         "critical": false,
         "severity": 10,
         "technologyNames": [
-            "SQL"
+            "ALL TECHNOLOGIES"
         ]
     },
     {
@@ -18,7 +18,7 @@
         "critical": true,
         "severity": 30,
         "technologyNames": [
-            "SQL"
+            "ALL TECHNOLOGIES"
         ]
     },
     {
@@ -29,7 +29,7 @@
         "critical": false,
         "severity": 10,
         "technologyNames": [
-            "SQL"
+            "ALL TECHNOLOGIES"
         ]
     },
     {
@@ -40,7 +40,7 @@
         "critical": true,
         "severity": 30,
         "technologyNames": [
-            "SQL"
+            "ALL TECHNOLOGIES"
         ]
     },
     {
@@ -51,7 +51,7 @@
         "critical": false,
         "severity": 10,
         "technologyNames": [
-            "SQL"
+            "ALL TECHNOLOGIES"
         ]
     },
     {
@@ -62,7 +62,7 @@
         "critical": false,
         "severity": 10,
         "technologyNames": [
-            "SQL"
+            "ALL TECHNOLOGIES"
         ]
     }
 ]
