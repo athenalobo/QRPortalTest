@@ -3551,21 +3551,12 @@
             ]
         },
         {
-            "version": "1.4.9-funcrel",
+            "version": "1.4.10-funcrel",
             "addedRules": [
                 {
                     "id": 1027100,
                     "name": "Avoid dangerous File Upload"
                 }
-            ],
-            "detachedRules": [
-                
-            ]
-        },
-        {
-            "version": "1.4.10-funcrel",
-            "addedRules": [
-                
             ],
             "detachedRules": [
                 
