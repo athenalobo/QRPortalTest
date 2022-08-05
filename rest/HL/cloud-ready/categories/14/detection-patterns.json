@@ -1,17 +1,17 @@
 [
     {
         "id": 1200026,
-        "name": "Avoid using hardcoded URLs (FTP protocol) in source and configuration files",
+        "name": "Avoid using hardcoded URLs (FTP protocol) in source code",
         "href": "HL/cloud-ready/detection-patterns/1200026"
     },
     {
         "id": 1200031,
-        "name": "Avoid using hardcoded URLs (HTTP protocol) in source and configuration files",
+        "name": "Avoid using hardcoded URLs (HTTP protocol) in source code",
         "href": "HL/cloud-ready/detection-patterns/1200031"
     },
     {
         "id": 1200036,
-        "name": "Avoid using hardcoded URLs (LDAP protocol) in source and configuration files",
+        "name": "Avoid using hardcoded URLs (LDAP protocol) in source code",
         "href": "HL/cloud-ready/detection-patterns/1200036"
     },
     {
@@ -30,19 +30,34 @@
         "href": "HL/cloud-ready/detection-patterns/1200060"
     },
     {
-        "id": 1200008,
-        "name": "Use of an unsecured data string",
-        "href": "HL/cloud-ready/detection-patterns/1200008"
-    },
-    {
         "id": 1200056,
         "name": "Use of an unsecured data string",
         "href": "HL/cloud-ready/detection-patterns/1200056"
     },
     {
+        "id": 1200070,
+        "name": "Using Cloud IAM (Identity & Access Management) for managing specific resources access authorization",
+        "href": "HL/cloud-ready/detection-patterns/1200070"
+    },
+    {
+        "id": 1200071,
+        "name": "Using Cloud IAP (Identity Aware Proxy)",
+        "href": "HL/cloud-ready/detection-patterns/1200071"
+    },
+    {
         "id": 1200061,
         "name": "Using Webform Authentication",
         "href": "HL/cloud-ready/detection-patterns/1200061"
+    },
+    {
+        "id": 1200100,
+        "name": "Using a Cloud-based User Directory",
+        "href": "HL/cloud-ready/detection-patterns/1200100"
+    },
+    {
+        "id": 1200068,
+        "name": "Using a Cloud-based User Directory",
+        "href": "HL/cloud-ready/detection-patterns/1200068"
     },
     {
         "id": 1200029,

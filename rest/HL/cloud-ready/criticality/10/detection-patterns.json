@@ -5,6 +5,11 @@
         "href": "HL/cloud-ready/detection-patterns/1200001"
     },
     {
+        "id": 1200008,
+        "name": "Avoid launching OS-specific sub-processes from code",
+        "href": "HL/cloud-ready/detection-patterns/1200008"
+    },
+    {
         "id": 1200010,
         "name": "Avoid using ALTER statements in mainframes",
         "href": "HL/cloud-ready/detection-patterns/1200010"
@@ -61,17 +66,17 @@
     },
     {
         "id": 1200026,
-        "name": "Avoid using hardcoded URLs (FTP protocol) in source and configuration files",
+        "name": "Avoid using hardcoded URLs (FTP protocol) in source code",
         "href": "HL/cloud-ready/detection-patterns/1200026"
     },
     {
         "id": 1200031,
-        "name": "Avoid using hardcoded URLs (HTTP protocol) in source and configuration files",
+        "name": "Avoid using hardcoded URLs (HTTP protocol) in source code",
         "href": "HL/cloud-ready/detection-patterns/1200031"
     },
     {
         "id": 1200036,
-        "name": "Avoid using hardcoded URLs (LDAP protocol) in source and configuration files",
+        "name": "Avoid using hardcoded URLs (LDAP protocol) in source code",
         "href": "HL/cloud-ready/detection-patterns/1200036"
     },
     {
@@ -88,6 +93,16 @@
         "id": 1200023,
         "name": "Avoid using the SYSIBM.SYSDUMMY1 dummy table in mainframes",
         "href": "HL/cloud-ready/detection-patterns/1200023"
+    },
+    {
+        "id": 1200088,
+        "name": "Correct usage of Logging",
+        "href": "HL/cloud-ready/detection-patterns/1200088"
+    },
+    {
+        "id": 1200111,
+        "name": "Retry Patterns: Using RetryPolicy or RetryManager classes",
+        "href": "HL/cloud-ready/detection-patterns/1200111"
     },
     {
         "id": 1200059,
@@ -110,9 +125,44 @@
         "href": "HL/cloud-ready/detection-patterns/1200047"
     },
     {
+        "id": 1200065,
+        "name": "Using BigQuery product cloud data warehouse",
+        "href": "HL/cloud-ready/detection-patterns/1200065"
+    },
+    {
+        "id": 1200066,
+        "name": "Using BigTable product fully managed NoSQL database service",
+        "href": "HL/cloud-ready/detection-patterns/1200066"
+    },
+    {
+        "id": 1200083,
+        "name": "Using CASE statements in mainframes",
+        "href": "HL/cloud-ready/detection-patterns/1200083"
+    },
+    {
+        "id": 1200117,
+        "name": "Using Cloud-based database services",
+        "href": "HL/cloud-ready/detection-patterns/1200117"
+    },
+    {
         "id": 1200017,
         "name": "Using Crypto API",
         "href": "HL/cloud-ready/detection-patterns/1200017"
+    },
+    {
+        "id": 1200102,
+        "name": "Using Devops automation and IaC (Infrastructure as Code)",
+        "href": "HL/cloud-ready/detection-patterns/1200102"
+    },
+    {
+        "id": 1200121,
+        "name": "Using Docker product open-source platform for managing containerized workloads and services",
+        "href": "HL/cloud-ready/detection-patterns/1200121"
+    },
+    {
+        "id": 1200103,
+        "name": "Using ETLs (Extract Transform Load)",
+        "href": "HL/cloud-ready/detection-patterns/1200103"
     },
     {
         "id": 1200024,
@@ -125,14 +175,54 @@
         "href": "HL/cloud-ready/detection-patterns/1200027"
     },
     {
+        "id": 1200079,
+        "name": "Using Kubernetes product open-source platform for managing containerized workloads and services",
+        "href": "HL/cloud-ready/detection-patterns/1200079"
+    },
+    {
         "id": 1200005,
         "name": "Using Log4Net for application logs",
         "href": "HL/cloud-ready/detection-patterns/1200005"
     },
     {
+        "id": 1200090,
+        "name": "Using MongoDB database",
+        "href": "HL/cloud-ready/detection-patterns/1200090"
+    },
+    {
+        "id": 1200107,
+        "name": "Using Monitoring Service",
+        "href": "HL/cloud-ready/detection-patterns/1200107"
+    },
+    {
+        "id": 1200091,
+        "name": "Using MySQL database",
+        "href": "HL/cloud-ready/detection-patterns/1200091"
+    },
+    {
+        "id": 1200110,
+        "name": "Using NoSQL document storage",
+        "href": "HL/cloud-ready/detection-patterns/1200110"
+    },
+    {
+        "id": 1200115,
+        "name": "Using Oracle database",
+        "href": "HL/cloud-ready/detection-patterns/1200115"
+    },
+    {
+        "id": 1200092,
+        "name": "Using PostgreSQL database",
+        "href": "HL/cloud-ready/detection-patterns/1200092"
+    },
+    {
         "id": 1200049,
         "name": "Using SEMANTICKEYPHRASETABLE (semantic search) - Unsupported in Azure SQL Database",
         "href": "HL/cloud-ready/detection-patterns/1200049"
+    },
+    {
+        "id": 1200116,
+        "name": "Using SQL server database",
+        "href": "HL/cloud-ready/detection-patterns/1200116"
     },
     {
         "id": 1200051,
@@ -143,6 +233,101 @@
         "id": 1200061,
         "name": "Using Webform Authentication",
         "href": "HL/cloud-ready/detection-patterns/1200061"
+    },
+    {
+        "id": 1200098,
+        "name": "Using a CICS webservice in mainframes",
+        "href": "HL/cloud-ready/detection-patterns/1200098"
+    },
+    {
+        "id": 1200095,
+        "name": "Using a Cloud-based Batch Job Orchestration",
+        "href": "HL/cloud-ready/detection-patterns/1200095"
+    },
+    {
+        "id": 1200096,
+        "name": "Using a Cloud-based Big Data technology (EMR)",
+        "href": "HL/cloud-ready/detection-patterns/1200096"
+    },
+    {
+        "id": 1200097,
+        "name": "Using a Cloud-based Blockchain technology",
+        "href": "HL/cloud-ready/detection-patterns/1200097"
+    },
+    {
+        "id": 1200100,
+        "name": "Using a Cloud-based User Directory",
+        "href": "HL/cloud-ready/detection-patterns/1200100"
+    },
+    {
+        "id": 1200122,
+        "name": "Using a Cloud-based cache in-memory database (Memcached)",
+        "href": "HL/cloud-ready/detection-patterns/1200122"
+    },
+    {
+        "id": 1200118,
+        "name": "Using a Cloud-based container service",
+        "href": "HL/cloud-ready/detection-patterns/1200118"
+    },
+    {
+        "id": 1200094,
+        "name": "Using a Cloud-based function as a service (Serverless)",
+        "href": "HL/cloud-ready/detection-patterns/1200094"
+    },
+    {
+        "id": 1200119,
+        "name": "Using a Cloud-based search engine",
+        "href": "HL/cloud-ready/detection-patterns/1200119"
+    },
+    {
+        "id": 1200099,
+        "name": "Using a Cloud-based task scheduling service",
+        "href": "HL/cloud-ready/detection-patterns/1200099"
+    },
+    {
+        "id": 1200106,
+        "name": "Using a Load Balancer",
+        "href": "HL/cloud-ready/detection-patterns/1200106"
+    },
+    {
+        "id": 1200101,
+        "name": "Using a connection to DB2 in mainframes",
+        "href": "HL/cloud-ready/detection-patterns/1200101"
+    },
+    {
+        "id": 1200108,
+        "name": "Using a connection to IBM IMS CSQ series in mainframes",
+        "href": "HL/cloud-ready/detection-patterns/1200108"
+    },
+    {
+        "id": 1200109,
+        "name": "Using a connection to IBM MQ series in mainframes",
+        "href": "HL/cloud-ready/detection-patterns/1200109"
+    },
+    {
+        "id": 1200105,
+        "name": "Using a processing JSON input",
+        "href": "HL/cloud-ready/detection-patterns/1200105"
+    },
+    {
+        "id": 1200104,
+        "name": "Using a processing JSON output in mainframes",
+        "href": "HL/cloud-ready/detection-patterns/1200104"
+    },
+    {
+        "id": 1200114,
+        "name": "Using a processing XML input",
+        "href": "HL/cloud-ready/detection-patterns/1200114"
+    },
+    {
+        "id": 1200112,
+        "name": "Using a subset of data rows in DB2 in mainframes",
+        "href": "HL/cloud-ready/detection-patterns/1200112"
+    },
+    {
+        "id": 1200089,
+        "name": "Using cloud specific storage component",
+        "href": "HL/cloud-ready/detection-patterns/1200089"
     },
     {
         "id": 1200020,
@@ -188,5 +373,10 @@
         "id": 1200016,
         "name": "Using other configuration files than Web configuration",
         "href": "HL/cloud-ready/detection-patterns/1200016"
+    },
+    {
+        "id": 1200113,
+        "name": "Using uncommit read option UR in mainframes",
+        "href": "HL/cloud-ready/detection-patterns/1200113"
     }
 ]

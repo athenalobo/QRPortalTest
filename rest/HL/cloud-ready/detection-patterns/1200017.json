@@ -57,7 +57,7 @@
             "href": "HL/cloud-ready/criticality/10",
             "name": "Low"
         },
-        "description": "Data confidentiality and protection is key aspects of Cloud systems and should rely on encryption services provided by the Cloud platform instead of using technology-based mechanisms such as .NET\u2019s Crypto API.",
+        "description": "Data confidentiality and protection is key aspects of Cloud systems and should rely on encryption services provided by the Cloud platform instead of using technology-based mechanisms such as .NET\u00e2\u20ac\u2122s Crypto API.",
         "migrationImpacts": [
             {
                 "href": "HL/cloud-ready/migration-impacts/3",

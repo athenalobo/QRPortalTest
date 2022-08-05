@@ -15,6 +15,11 @@
         "href": "HL/cloud-ready/detection-patterns/1200003"
     },
     {
+        "id": 1200008,
+        "name": "Avoid launching OS-specific sub-processes from code",
+        "href": "HL/cloud-ready/detection-patterns/1200008"
+    },
+    {
         "id": 1200010,
         "name": "Avoid using ALTER statements in mainframes",
         "href": "HL/cloud-ready/detection-patterns/1200010"
@@ -71,17 +76,17 @@
     },
     {
         "id": 1200026,
-        "name": "Avoid using hardcoded URLs (FTP protocol) in source and configuration files",
+        "name": "Avoid using hardcoded URLs (FTP protocol) in source code",
         "href": "HL/cloud-ready/detection-patterns/1200026"
     },
     {
         "id": 1200031,
-        "name": "Avoid using hardcoded URLs (HTTP protocol) in source and configuration files",
+        "name": "Avoid using hardcoded URLs (HTTP protocol) in source code",
         "href": "HL/cloud-ready/detection-patterns/1200031"
     },
     {
         "id": 1200036,
-        "name": "Avoid using hardcoded URLs (LDAP protocol) in source and configuration files",
+        "name": "Avoid using hardcoded URLs (LDAP protocol) in source code",
         "href": "HL/cloud-ready/detection-patterns/1200036"
     },
     {
@@ -135,14 +140,19 @@
         "href": "HL/cloud-ready/detection-patterns/1200057"
     },
     {
-        "id": 1200008,
-        "name": "Use of an unsecured data string",
-        "href": "HL/cloud-ready/detection-patterns/1200008"
-    },
-    {
         "id": 1200056,
         "name": "Use of an unsecured data string",
         "href": "HL/cloud-ready/detection-patterns/1200056"
+    },
+    {
+        "id": 1200120,
+        "name": "Use of database driver incompatibility (PDO_DBLIB)",
+        "href": "HL/cloud-ready/detection-patterns/1200120"
+    },
+    {
+        "id": 1200123,
+        "name": "Use of sendmail utility on Paas instead of specific email sending library",
+        "href": "HL/cloud-ready/detection-patterns/1200123"
     },
     {
         "id": 1200047,

@@ -1,13 +1,8 @@
 [
     {
-        "id": 1200008,
-        "name": "Use of an unsecured data string",
-        "href": "HL/cloud-ready/detection-patterns/1200008"
-    },
-    {
-        "id": 1200056,
-        "name": "Use of an unsecured data string",
-        "href": "HL/cloud-ready/detection-patterns/1200056"
+        "id": 1200002,
+        "name": "Application server dependencies",
+        "href": "HL/cloud-ready/detection-patterns/1200002"
     },
     {
         "id": 1200011,

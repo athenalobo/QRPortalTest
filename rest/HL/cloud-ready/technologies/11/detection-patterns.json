@@ -5,9 +5,29 @@
         "href": "HL/cloud-ready/detection-patterns/1200001"
     },
     {
+        "id": 1200026,
+        "name": "Avoid using hardcoded URLs (FTP protocol) in source code",
+        "href": "HL/cloud-ready/detection-patterns/1200026"
+    },
+    {
+        "id": 1200031,
+        "name": "Avoid using hardcoded URLs (HTTP protocol) in source code",
+        "href": "HL/cloud-ready/detection-patterns/1200031"
+    },
+    {
+        "id": 1200036,
+        "name": "Avoid using hardcoded URLs (LDAP protocol) in source code",
+        "href": "HL/cloud-ready/detection-patterns/1200036"
+    },
+    {
         "id": 1200045,
         "name": "Avoid using unsecured database connection strings",
         "href": "HL/cloud-ready/detection-patterns/1200045"
+    },
+    {
+        "id": 1200088,
+        "name": "Correct usage of Logging",
+        "href": "HL/cloud-ready/detection-patterns/1200088"
     },
     {
         "id": 1200006,
@@ -18,6 +38,26 @@
         "id": 1200007,
         "name": "Perform File Manipulation",
         "href": "HL/cloud-ready/detection-patterns/1200007"
+    },
+    {
+        "id": 1200093,
+        "name": "Presence of a web configuration file",
+        "href": "HL/cloud-ready/detection-patterns/1200093"
+    },
+    {
+        "id": 1200111,
+        "name": "Retry Patterns: Using RetryPolicy or RetryManager classes",
+        "href": "HL/cloud-ready/detection-patterns/1200111"
+    },
+    {
+        "id": 1200073,
+        "name": "Use ConfigurationManager",
+        "href": "HL/cloud-ready/detection-patterns/1200073"
+    },
+    {
+        "id": 1200056,
+        "name": "Use of an unsecured data string",
+        "href": "HL/cloud-ready/detection-patterns/1200056"
     },
     {
         "id": 1200009,
@@ -33,6 +73,11 @@
         "id": 1200015,
         "name": "Using COM Components",
         "href": "HL/cloud-ready/detection-patterns/1200015"
+    },
+    {
+        "id": 1200117,
+        "name": "Using Cloud-based database services",
+        "href": "HL/cloud-ready/detection-patterns/1200117"
     },
     {
         "id": 1200017,
@@ -55,9 +100,29 @@
         "href": "HL/cloud-ready/detection-patterns/1200005"
     },
     {
+        "id": 1200090,
+        "name": "Using MongoDB database",
+        "href": "HL/cloud-ready/detection-patterns/1200090"
+    },
+    {
+        "id": 1200091,
+        "name": "Using MySQL database",
+        "href": "HL/cloud-ready/detection-patterns/1200091"
+    },
+    {
         "id": 1200054,
         "name": "Using New Process in System.Diagnostics namespace",
         "href": "HL/cloud-ready/detection-patterns/1200054"
+    },
+    {
+        "id": 1200110,
+        "name": "Using NoSQL document storage",
+        "href": "HL/cloud-ready/detection-patterns/1200110"
+    },
+    {
+        "id": 1200092,
+        "name": "Using PostgreSQL database",
+        "href": "HL/cloud-ready/detection-patterns/1200092"
     },
     {
         "id": 1200055,
@@ -73,6 +138,46 @@
         "id": 1200041,
         "name": "Using Windows registry to store Application Settings",
         "href": "HL/cloud-ready/detection-patterns/1200041"
+    },
+    {
+        "id": 1200095,
+        "name": "Using a Cloud-based Batch Job Orchestration",
+        "href": "HL/cloud-ready/detection-patterns/1200095"
+    },
+    {
+        "id": 1200086,
+        "name": "Using a Cloud-based Service Bus",
+        "href": "HL/cloud-ready/detection-patterns/1200086"
+    },
+    {
+        "id": 1200100,
+        "name": "Using a Cloud-based User Directory",
+        "href": "HL/cloud-ready/detection-patterns/1200100"
+    },
+    {
+        "id": 1200082,
+        "name": "Using a Cloud-based cache Management Framework",
+        "href": "HL/cloud-ready/detection-patterns/1200082"
+    },
+    {
+        "id": 1200087,
+        "name": "Using a Cloud-based data storage",
+        "href": "HL/cloud-ready/detection-patterns/1200087"
+    },
+    {
+        "id": 1200085,
+        "name": "Using a Cloud-based encryption mechanism",
+        "href": "HL/cloud-ready/detection-patterns/1200085"
+    },
+    {
+        "id": 1200084,
+        "name": "Using a Cloud-based key storage",
+        "href": "HL/cloud-ready/detection-patterns/1200084"
+    },
+    {
+        "id": 1200099,
+        "name": "Using a Cloud-based task scheduling service",
+        "href": "HL/cloud-ready/detection-patterns/1200099"
     },
     {
         "id": 1200033,
@@ -113,11 +218,6 @@
         "id": 1200016,
         "name": "Using other configuration files than Web configuration",
         "href": "HL/cloud-ready/detection-patterns/1200016"
-    },
-    {
-        "id": 1200052,
-        "name": "Using stateful session (Servlet)",
-        "href": "HL/cloud-ready/detection-patterns/1200052"
     },
     {
         "id": 1200038,

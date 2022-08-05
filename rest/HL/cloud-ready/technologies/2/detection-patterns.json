@@ -68,5 +68,55 @@
         "id": 1200023,
         "name": "Avoid using the SYSIBM.SYSDUMMY1 dummy table in mainframes",
         "href": "HL/cloud-ready/detection-patterns/1200023"
+    },
+    {
+        "id": 1200083,
+        "name": "Using CASE statements in mainframes",
+        "href": "HL/cloud-ready/detection-patterns/1200083"
+    },
+    {
+        "id": 1200098,
+        "name": "Using a CICS webservice in mainframes",
+        "href": "HL/cloud-ready/detection-patterns/1200098"
+    },
+    {
+        "id": 1200101,
+        "name": "Using a connection to DB2 in mainframes",
+        "href": "HL/cloud-ready/detection-patterns/1200101"
+    },
+    {
+        "id": 1200108,
+        "name": "Using a connection to IBM IMS CSQ series in mainframes",
+        "href": "HL/cloud-ready/detection-patterns/1200108"
+    },
+    {
+        "id": 1200109,
+        "name": "Using a connection to IBM MQ series in mainframes",
+        "href": "HL/cloud-ready/detection-patterns/1200109"
+    },
+    {
+        "id": 1200105,
+        "name": "Using a processing JSON input",
+        "href": "HL/cloud-ready/detection-patterns/1200105"
+    },
+    {
+        "id": 1200104,
+        "name": "Using a processing JSON output in mainframes",
+        "href": "HL/cloud-ready/detection-patterns/1200104"
+    },
+    {
+        "id": 1200114,
+        "name": "Using a processing XML input",
+        "href": "HL/cloud-ready/detection-patterns/1200114"
+    },
+    {
+        "id": 1200112,
+        "name": "Using a subset of data rows in DB2 in mainframes",
+        "href": "HL/cloud-ready/detection-patterns/1200112"
+    },
+    {
+        "id": 1200113,
+        "name": "Using uncommit read option UR in mainframes",
+        "href": "HL/cloud-ready/detection-patterns/1200113"
     }
 ]

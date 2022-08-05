@@ -27,7 +27,7 @@
             "href": "HL/cloud-ready/criticality/30",
             "name": "High"
         },
-        "description": "If you\u2019re envisioning moving your application to Pivotal CloudFoundry, it is recommended to move away from JEE-specific configurations to Spring-based application configuration. This pattern verifies the presence of JEE configuration files such as application.xml, webservices.xml, etc.",
+        "description": "If you\u00e2\u20ac\u2122re envisioning moving your application to Pivotal CloudFoundry, it is recommended to move away from JEE-specific configurations to Spring-based application configuration. This pattern verifies the presence of JEE configuration files such as application.xml, webservices.xml, etc.",
         "migrationImpacts": [
             {
                 "href": "HL/cloud-ready/migration-impacts/3",

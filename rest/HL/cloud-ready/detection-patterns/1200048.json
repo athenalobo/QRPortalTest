@@ -27,7 +27,7 @@
             "href": "HL/cloud-ready/criticality/10",
             "name": "Low"
         },
-        "description": "OPEN SQL functions such as \u2018OPENQUERY\u2019, \u2018OPENROWSET\u2019 and \u2018OPENDATASOURCE\u2019 are not supported functions in Azure SQL Database. They should be removed or  replaced by equivalent functions supported in Azure.",
+        "description": "OPEN SQL functions such as \u00e2\u20ac\u02dcOPENQUERY\u00e2\u20ac\u2122, \u00e2\u20ac\u02dcOPENROWSET\u00e2\u20ac\u2122 and \u00e2\u20ac\u02dcOPENDATASOURCE\u00e2\u20ac\u2122 are not supported functions in Azure SQL Database. They should be removed or  replaced by equivalent functions supported in Azure.",
         "migrationImpacts": [
             {
                 "href": "HL/cloud-ready/migration-impacts/1",

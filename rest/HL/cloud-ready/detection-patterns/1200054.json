@@ -17,6 +17,26 @@
                 "name": "CloudFoundry"
             },
             "technology": {
+                "href": "HL/cloud-ready/technologies/10",
+                "name": "TypeScript"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/3",
+                "name": "CloudFoundry"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/4",
+                "name": "JavaScript"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/3",
+                "name": "CloudFoundry"
+            },
+            "technology": {
                 "href": "HL/cloud-ready/technologies/1",
                 "name": "C#"
             }

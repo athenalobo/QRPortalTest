@@ -27,7 +27,7 @@
             "href": "HL/cloud-ready/criticality/10",
             "name": "Low"
         },
-        "description": "Using \u2018sys.fn_my_permissions\u2019 is not a supported function in Azure SQL Database. It should be removed or replaced by an equivalent functions that is supported in Azure. When used on on-premise SQL databases, this function returns a list of the permissions effectively granted to the principal on a securable. A related function is HAS_PERMS_BY_NAME (which is supported on Azure SQL Database).",
+        "description": "Using \u00e2\u20ac\u02dcsys.fn_my_permissions\u00e2\u20ac\u2122 is not a supported function in Azure SQL Database. It should be removed or replaced by an equivalent functions that is supported in Azure. When used on on-premise SQL databases, this function returns a list of the permissions effectively granted to the principal on a securable. A related function is HAS_PERMS_BY_NAME (which is supported on Azure SQL Database).",
         "migrationImpacts": [
             {
                 "href": "HL/cloud-ready/migration-impacts/1",

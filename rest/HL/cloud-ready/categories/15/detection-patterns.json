@@ -10,6 +10,11 @@
         "href": "HL/cloud-ready/detection-patterns/1200057"
     },
     {
+        "id": 1200084,
+        "name": "Using a Cloud-based key storage",
+        "href": "HL/cloud-ready/detection-patterns/1200084"
+    },
+    {
         "id": 1200020,
         "name": "Using direct Database Access through Connection Strings",
         "href": "HL/cloud-ready/detection-patterns/1200020"

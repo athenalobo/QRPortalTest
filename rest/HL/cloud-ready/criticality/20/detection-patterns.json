@@ -30,6 +30,16 @@
         "href": "HL/cloud-ready/detection-patterns/1200057"
     },
     {
+        "id": 1200120,
+        "name": "Use of database driver incompatibility (PDO_DBLIB)",
+        "href": "HL/cloud-ready/detection-patterns/1200120"
+    },
+    {
+        "id": 1200123,
+        "name": "Use of sendmail utility on Paas instead of specific email sending library",
+        "href": "HL/cloud-ready/detection-patterns/1200123"
+    },
+    {
         "id": 1200061,
         "name": "Using Webform Authentication",
         "href": "HL/cloud-ready/detection-patterns/1200061"

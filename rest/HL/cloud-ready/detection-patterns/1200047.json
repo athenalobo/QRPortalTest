@@ -27,7 +27,7 @@
             "href": "HL/cloud-ready/criticality/10",
             "name": "Low"
         },
-        "description": "Functions \u2018fn_get_sql\u2019, \u2018fn_virtualservernodes\u2019 are not supported functions in Azure SQL Database. They should be removed or  replaced by equivalent functions supported in Azure.",
+        "description": "Functions \u00e2\u20ac\u02dcfn_get_sql\u00e2\u20ac\u2122, \u00e2\u20ac\u02dcfn_virtualservernodes\u00e2\u20ac\u2122 are not supported functions in Azure SQL Database. They should be removed or  replaced by equivalent functions supported in Azure.",
         "migrationImpacts": [
             {
                 "href": "HL/cloud-ready/migration-impacts/1",

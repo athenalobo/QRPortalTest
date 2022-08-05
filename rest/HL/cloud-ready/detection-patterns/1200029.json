@@ -17,8 +17,8 @@
                 "name": "Agnostic"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/4",
-                "name": "JavaScript"
+                "href": "HL/cloud-ready/technologies/13",
+                "name": "Scala"
             }
         },
         {
@@ -27,8 +27,8 @@
                 "name": "Agnostic"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/1",
-                "name": "C#"
+                "href": "HL/cloud-ready/technologies/14",
+                "name": "Clojure"
             }
         },
         {
@@ -37,8 +37,8 @@
                 "name": "Agnostic"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/8",
-                "name": "SWIFT"
+                "href": "HL/cloud-ready/technologies/12",
+                "name": "C/C++"
             }
         },
         {
@@ -90,6 +90,46 @@
                 "href": "HL/cloud-ready/technologies/6",
                 "name": "PHP"
             }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/0",
+                "name": "Agnostic"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/5",
+                "name": "Kotlin"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/0",
+                "name": "Agnostic"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/4",
+                "name": "JavaScript"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/0",
+                "name": "Agnostic"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/1",
+                "name": "C#"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/0",
+                "name": "Agnostic"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/8",
+                "name": "SWIFT"
+            }
         }
     ],
     "platformMigration": {
@@ -97,7 +137,7 @@
             "href": "HL/cloud-ready/criticality/10",
             "name": "Low"
         },
-        "description": "From a software engineering standpoint, and especially in the Cloud, applications should be developed like we don\u2019t know what is the underlying infrastructure. Using, calling or referencing remote resources by using hardcoded IP addresses should be avoided as they can regularly change. Instead, it is recommended using domain names or eventually store IP addresses in a configuration file. This CloudReady pattern verifies the presence of IPV4 or IPV6 addresses in the source code.",
+        "description": "From a software engineering standpoint, and especially in the Cloud, applications should be developed like we don\u00e2\u20ac\u2122t know what is the underlying infrastructure. Using, calling or referencing remote resources by using hardcoded IP addresses should be avoided as they can regularly change. Instead, it is recommended using domain names or eventually store IP addresses in a configuration file. This CloudReady pattern verifies the presence of IPV4 or IPV6 addresses in the source code.",
         "migrationImpacts": [
             {
                 "href": "HL/cloud-ready/migration-impacts/1",

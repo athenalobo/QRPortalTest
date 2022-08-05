@@ -27,7 +27,7 @@
             "href": "HL/cloud-ready/criticality/30",
             "name": "High"
         },
-        "description": "If you\u2019re envisioning moving your application to Pivotal CloudFoundry, it is recommended to move away from container-specific APIs to portal APIs such as Spring. This pattern verifies the presence of WebLogic imports or configuration files such as weblogic.xml, weblogic-application.xml, etc.",
+        "description": "If you\u00e2\u20ac\u2122re envisioning moving your application to Pivotal CloudFoundry, it is recommended to move away from container-specific APIs to portal APIs such as Spring. This pattern verifies the presence of WebLogic imports or configuration files such as weblogic.xml, weblogic-application.xml, etc.",
         "migrationImpacts": [
             {
                 "href": "HL/cloud-ready/migration-impacts/3",

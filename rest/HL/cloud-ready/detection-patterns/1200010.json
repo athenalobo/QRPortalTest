@@ -27,7 +27,7 @@
             "href": "HL/cloud-ready/criticality/10",
             "name": "Low"
         },
-        "description": "The ALTER statement modifies a predetermined sequence of operations. The ALTER statement is classed as an obsolete element in the ANSI\u201985 standard.",
+        "description": "The ALTER statement modifies a predetermined sequence of operations. The ALTER statement is classed as an obsolete element in the ANSI\u00e2\u20ac\u212285 standard.",
         "migrationImpacts": [
             {
                 "href": "HL/cloud-ready/migration-impacts/1",

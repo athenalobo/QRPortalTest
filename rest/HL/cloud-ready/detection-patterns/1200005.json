@@ -17,8 +17,8 @@
                 "name": "Agnostic"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/1",
-                "name": "C#"
+                "href": "HL/cloud-ready/technologies/11",
+                "name": "VB/VB.Net"
             }
         },
         {
@@ -27,8 +27,8 @@
                 "name": "Agnostic"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/11",
-                "name": "VB/VB.Net"
+                "href": "HL/cloud-ready/technologies/1",
+                "name": "C#"
             }
         }
     ],
@@ -37,7 +37,7 @@
             "href": "HL/cloud-ready/criticality/10",
             "name": "Low"
         },
-        "description": "For more resilient, scalable and powerful leverage of application and telemetry logs, logs and log analytic services should be replaced by a Cloud-based service (e.g. AppInsights on Azure, CloudWatch Log Insights on AWS\u2026).",
+        "description": "For more resilient, scalable and powerful leverage of application and telemetry logs, logs and log analytic services should be replaced by a Cloud-based service (e.g. AppInsights on Azure, CloudWatch Log Insights on AWS\u00e2\u20ac\u00a6).",
         "migrationImpacts": [
             {
                 "href": "HL/cloud-ready/migration-impacts/1",
