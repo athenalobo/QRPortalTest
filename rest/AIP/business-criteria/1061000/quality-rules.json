@@ -262,6 +262,16 @@
         ]
     },
     {
+        "id": 5094,
+        "name": "Avoid using MOVE CORRESPONDING ... TO ...",
+        "href": "AIP/quality-rules/5094",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "Cobol"
+        ]
+    },
+    {
         "id": 5100,
         "name": "Avoid large Sections - too many Lines of Code",
         "href": "AIP/quality-rules/5100",
@@ -2636,6 +2646,16 @@
         "severity": 30,
         "technologyNames": [
             "ABAP"
+        ]
+    },
+    {
+        "id": 8556,
+        "name": "'XML GENERATE' should be used with 'WITH ENCODING'",
+        "href": "AIP/quality-rules/8556",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "Cobol"
         ]
     },
     {
@@ -5279,16 +5299,6 @@
         ]
     },
     {
-        "id": 1020878,
-        "name": "DELETED: Ensure the express X-XSS-Protection header is enabled (TypeScript)",
-        "href": "AIP/quality-rules/1020878",
-        "critical": false,
-        "severity": 10,
-        "technologyNames": [
-            "HTML5"
-        ]
-    },
-    {
         "id": 1020892,
         "name": "Ensure Node.js filesystem are closed (TypeScript)",
         "href": "AIP/quality-rules/1020892",
@@ -5571,6 +5581,30 @@
         ]
     },
     {
+        "id": 1025002,
+        "name": "Avoid second order XPath injection",
+        "href": "AIP/quality-rules/1025002",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025010,
+        "name": "Avoid second order LDAP injection",
+        "href": "AIP/quality-rules/1025010",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1027000,
         "name": "Avoid Managed type declaration for Win32 API using Overlapped IO",
         "href": "AIP/quality-rules/1027000",
@@ -5617,6 +5651,17 @@
         "id": 1027032,
         "name": "Avoid hard-coded network resource names (.NET, VB)",
         "href": "AIP/quality-rules/1027032",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "C#",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1027038,
+        "name": "Avoid if \u2026 else if constructs not terminated with an else clause (.NET, VB)",
+        "href": "AIP/quality-rules/1027038",
         "critical": false,
         "severity": 10,
         "technologyNames": [
@@ -5740,6 +5785,17 @@
         "href": "AIP/quality-rules/1027088",
         "critical": false,
         "severity": 10,
+        "technologyNames": [
+            "C#",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1027100,
+        "name": "Avoid dangerous File Upload",
+        "href": "AIP/quality-rules/1027100",
+        "critical": true,
+        "severity": 20,
         "technologyNames": [
             "C#",
             "VB.NET"

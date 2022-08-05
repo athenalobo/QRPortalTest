@@ -105,6 +105,13 @@
         "weight": 5
     },
     {
+        "id": 1061033,
+        "name": "CWE-197 - Numeric Truncation Error",
+        "description": "Truncation errors occur when a primitive is cast to a primitive of a smaller size and data is lost in the conversion.",
+        "href": "AIP/technical-criteria/1061033",
+        "weight": 5
+    },
+    {
         "id": 1061034,
         "name": "CWE-248 - Uncaught Exception",
         "description": "An exception is thrown from a function, but it is not caught.",

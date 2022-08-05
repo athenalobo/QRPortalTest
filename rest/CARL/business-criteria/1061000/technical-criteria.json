@@ -105,6 +105,13 @@
         "weight": 5
     },
     {
+        "id": 1061035,
+        "name": "CWE-252 - Unchecked Return Value",
+        "description": "The software does not check the return value from a method or function, which can prevent it from detecting unexpected states and conditions.",
+        "href": "CARL/technical-criteria/1061035",
+        "weight": 5
+    },
+    {
         "id": 1061036,
         "name": "CWE-259 - Use of Hard-coded Password",
         "description": "The software contains a hard-coded password, which it uses for its own inbound authentication or for outbound communication to external components.",
