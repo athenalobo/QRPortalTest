@@ -18,7 +18,7 @@
     "remediationSample": "PasswordEncoder pe = new BCryptPasswordEncoder(); // OK\n\n// Other solution:\nfinal int strengthOK1 = 12;\nPasswordEncoder pe = new BCryptPasswordEncoder(strengthOK1); // OK",
     "sample": "final int strengthKO1 = 1;\nfinal int strengthKO2 = 11;\nPasswordEncoder pe = new BCryptPasswordEncoder(strengthKO1, random); // insecure parameters",
     "total": "Number of potentially vulnerable methods",
-    "alternativeName": null,
+    "alternativeName": "Ensure you don't use insecure parameters for BCrypt password encoder",
     "businessCriteria": [
         {
             "id": 66031,
@@ -58,7 +58,36 @@
         }
     ],
     "qualityStandards": [
-        
+        {
+            "id": "CWE-522",
+            "name": "Insufficiently Protected Credentials",
+            "href": "AIP/quality-standards/CWE/items/CWE-522",
+            "standard": "CWE"
+        },
+        {
+            "id": "CWE-916",
+            "name": "Use of Password Hash With Insufficient Computational Effort",
+            "href": "AIP/quality-standards/CWE/items/CWE-916",
+            "standard": "CWE"
+        },
+        {
+            "id": "A02-2021",
+            "name": "Cryptographic Failures",
+            "href": "AIP/quality-standards/OWASP/items/A02-2021",
+            "standard": "OWASP"
+        },
+        {
+            "id": "PCI-Requirement-6.5.10",
+            "name": "Broken authentication and session management",
+            "href": "AIP/quality-standards/PCI-DSS-V3.1/items/PCI-Requirement-6.5.10",
+            "standard": "PCI-DSS-V3.1"
+        },
+        {
+            "id": "PCI-Requirement-6.5.10",
+            "name": "Broken authentication and session management",
+            "href": "AIP/quality-standards/PCI-DSS-V3.2.1/items/PCI-Requirement-6.5.10",
+            "standard": "PCI-DSS-V3.2.1"
+        }
     ],
     "parameters": [
         

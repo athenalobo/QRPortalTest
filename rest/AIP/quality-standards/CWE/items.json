@@ -111,7 +111,7 @@
         "id": "CWE-798",
         "name": "Use of Hard-coded Credentials",
         "href": "AIP/quality-standards/CWE/items/CWE-798",
-        "count": 9
+        "count": 10
     },
     {
         "id": "CWE-807",
@@ -165,7 +165,7 @@
         "id": "CWE-287",
         "name": "Improper Authentication",
         "href": "AIP/quality-standards/CWE/items/CWE-287",
-        "count": 18
+        "count": 20
     },
     {
         "id": "CWE-295",
@@ -213,7 +213,7 @@
         "id": "CWE-522",
         "name": "Insufficiently Protected Credentials",
         "href": "AIP/quality-standards/CWE/items/CWE-522",
-        "count": 1
+        "count": 5
     },
     {
         "id": "CWE-77",
@@ -525,7 +525,7 @@
         "id": "CWE-321",
         "name": "Use of Hard-coded Cryptographic Key",
         "href": "AIP/quality-standards/CWE/items/CWE-321",
-        "count": 1
+        "count": 2
     },
     {
         "id": "CWE-326",
@@ -915,7 +915,7 @@
         "id": "CWE-613",
         "name": "Insufficient Session Expiration",
         "href": "AIP/quality-standards/CWE/items/CWE-613",
-        "count": 2
+        "count": 3
     },
     {
         "id": "CWE-614",
@@ -1101,7 +1101,7 @@
         "id": "CWE-916",
         "name": "Use of Password Hash With Insufficient Computational Effort",
         "href": "AIP/quality-standards/CWE/items/CWE-916",
-        "count": 1
+        "count": 5
     },
     {
         "id": "CWE-917",

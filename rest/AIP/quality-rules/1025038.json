@@ -18,7 +18,7 @@
     "remediationSample": "SCryptPasswordEncoder pe = new SCryptPasswordEncoder(); // OK\n\n// Other solution:\nfinal int cpuCostOK1 = 16384;\nfinal int memoryCostOK1 = 8;\nfinal int keyLengthOK1 = 32;\nfinal int saltLengthOK1 = 64;\nSCryptPasswordEncoder se2 = new SCryptPasswordEncoder(cpuCostOK1, memoryCostOK1, 1, keyLengthOK1, saltLengthOK1); // OK",
     "sample": "final int cpuCostKO1 = 8192;\nfinal int memoryCostKO1 = 7;\nfinal int keyLengthKO1 = 16;\nfinal int saltLengthKO1 = 32;\nSCryptPasswordEncoder pe = new SCryptPasswordEncoder(cpuCostKO1, memoryCostKO1, 1, keyLengthKO1, saltLengthKO1); // insecure parameters",
     "total": "Number of potentially vulnerable methods",
-    "alternativeName": null,
+    "alternativeName": "Ensure you don't use insecure parameters for SCrypt password encoder",
     "businessCriteria": [
         {
             "id": 66031,
@@ -58,7 +58,36 @@
         }
     ],
     "qualityStandards": [
-        
+        {
+            "id": "CWE-522",
+            "name": "Insufficiently Protected Credentials",
+            "href": "AIP/quality-standards/CWE/items/CWE-522",
+            "standard": "CWE"
+        },
+        {
+            "id": "CWE-916",
+            "name": "Use of Password Hash With Insufficient Computational Effort",
+            "href": "AIP/quality-standards/CWE/items/CWE-916",
+            "standard": "CWE"
+        },
+        {
+            "id": "A02-2021",
+            "name": "Cryptographic Failures",
+            "href": "AIP/quality-standards/OWASP/items/A02-2021",
+            "standard": "OWASP"
+        },
+        {
+            "id": "PCI-Requirement-6.5.10",
+            "name": "Broken authentication and session management",
+            "href": "AIP/quality-standards/PCI-DSS-V3.1/items/PCI-Requirement-6.5.10",
+            "standard": "PCI-DSS-V3.1"
+        },
+        {
+            "id": "PCI-Requirement-6.5.10",
+            "name": "Broken authentication and session management",
+            "href": "AIP/quality-standards/PCI-DSS-V3.2.1/items/PCI-Requirement-6.5.10",
+            "standard": "PCI-DSS-V3.2.1"
+        }
     ],
     "parameters": [
         

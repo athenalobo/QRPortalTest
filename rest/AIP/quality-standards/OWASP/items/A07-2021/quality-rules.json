@@ -242,6 +242,18 @@
         ]
     },
     {
+        "id": 1025024,
+        "name": "Avoid disabling the expiration time validation of a JWT token",
+        "href": "AIP/quality-rules/1025024",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1027022,
         "name": "Avoid using \"new Guid()\"",
         "href": "AIP/quality-rules/1027022",

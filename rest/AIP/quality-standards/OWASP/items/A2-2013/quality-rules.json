@@ -92,6 +92,18 @@
         ]
     },
     {
+        "id": 1025024,
+        "name": "Avoid disabling the expiration time validation of a JWT token",
+        "href": "AIP/quality-rules/1025024",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1027024,
         "name": "Avoid comparing passwords against hard-coded strings",
         "href": "AIP/quality-rules/1027024",

@@ -9,7 +9,7 @@
         "id": "API2-2019",
         "name": "Broken User Authentication",
         "href": "AIP/quality-standards/OWASP/items/API2-2019",
-        "count": 19
+        "count": 20
     },
     {
         "id": "API3-2019",
@@ -39,7 +39,7 @@
         "id": "API7-2019",
         "name": "Security Misconfiguration",
         "href": "AIP/quality-standards/OWASP/items/API7-2019",
-        "count": 44
+        "count": 45
     },
     {
         "id": "API8-2019",

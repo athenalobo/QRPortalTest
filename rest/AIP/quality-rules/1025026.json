@@ -18,7 +18,7 @@
     "remediationSample": "// .NET\nservices\n    .AddAuthentication(JwtBearerDefaults.AuthenticationScheme)\n    .AddJwtBearer(options =>\n    {\n        options.TokenValidationParameters = new TokenValidationParameters\n        {\n            ValidateIssuer = true,\n            ValidateAudience = true,\n            ValidateLifetime = true,\n            RequireSignedTokens = true,\n            RequireExpirationTime = true, // OK\n            ValidateIssuerSigningKey = true,\n        };\n    });\n\n// Java\nString token =\n    Jwts.builder()\n        .setSubject(subject)\n        .signWith(key, SignatureAlgorithm.HS512)\n        .setExpiration(validity) // OK\n        .compact();",
     "sample": "// .NET\nservices\n    .AddAuthentication(JwtBearerDefaults.AuthenticationScheme)\n    .AddJwtBearer(options =>\n    {\n        options.TokenValidationParameters = new TokenValidationParameters\n        {\n            ValidateIssuer = true,\n            ValidateAudience = true,\n            ValidateLifetime = true,\n            RequireSignedTokens = true,\n            RequireExpirationTime = false, // issue\n            ValidateIssuerSigningKey = true,\n        };\n    });\n\n// Java\nString token =\n    Jwts.builder()\n        .setSubject(subject)\n        .signWith(key, SignatureAlgorithm.HS512)\n        .compact(); // missing setExpiration method call",
     "total": "Number of potentially vulnerable methods",
-    "alternativeName": null,
+    "alternativeName": "Ensure your application does not disable the expiration time requirement of a JWT token",
     "businessCriteria": [
         {
             "id": 20140522,
@@ -58,7 +58,30 @@
         }
     ],
     "qualityStandards": [
-        
+        {
+            "id": "CWE-287",
+            "name": "Improper Authentication",
+            "href": "AIP/quality-standards/CWE/items/CWE-287",
+            "standard": "CWE"
+        },
+        {
+            "id": "M4-2016",
+            "name": "Insecure Authentication",
+            "href": "AIP/quality-standards/OWASP/items/M4-2016",
+            "standard": "OWASP"
+        },
+        {
+            "id": "PCI-Requirement-6.5.10",
+            "name": "Broken authentication and session management",
+            "href": "AIP/quality-standards/PCI-DSS-V3.1/items/PCI-Requirement-6.5.10",
+            "standard": "PCI-DSS-V3.1"
+        },
+        {
+            "id": "PCI-Requirement-6.5.10",
+            "name": "Broken authentication and session management",
+            "href": "AIP/quality-standards/PCI-DSS-V3.2.1/items/PCI-Requirement-6.5.10",
+            "standard": "PCI-DSS-V3.2.1"
+        }
     ],
     "parameters": [
         

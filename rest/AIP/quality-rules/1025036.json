@@ -18,7 +18,7 @@
     "remediationSample": "Argon2PasswordEncoder pe = new Argon2PasswordEncoder(); // OK\n\n// Other solution:\nfinal int saltLengthOK1 = 16;\nfinal int hashLengthOK1 = 16;\nfinal int memoryOK1 = 1024;\nfinal int iterationsOK1 = 3;\nArgon2PasswordEncoder pe = new Argon2PasswordEncoder(saltLengthOK1, hashLengthOK1, 1, memoryOK1, iterationsOK1); // OK",
     "sample": "final int saltLengthKO1 = 15;\nfinal int hashLengthKO1 = 15;\nfinal int memoryKO1 = 512;\nfinal int iterationsKO1 = 2;\nArgon2PasswordEncoder pe = new Argon2PasswordEncoder(saltLengthKO1, hashLengthKO1, 1, memoryKO1, iterationsKO1); // insecure parameters",
     "total": "Number of potentially vulnerable methods",
-    "alternativeName": null,
+    "alternativeName": "Ensure you don't use insecure parameters for Argon2 password encoder",
     "businessCriteria": [
         {
             "id": 66031,
@@ -58,7 +58,30 @@
         }
     ],
     "qualityStandards": [
-        
+        {
+            "id": "CWE-522",
+            "name": "Insufficiently Protected Credentials",
+            "href": "AIP/quality-standards/CWE/items/CWE-522",
+            "standard": "CWE"
+        },
+        {
+            "id": "CWE-916",
+            "name": "Use of Password Hash With Insufficient Computational Effort",
+            "href": "AIP/quality-standards/CWE/items/CWE-916",
+            "standard": "CWE"
+        },
+        {
+            "id": "PCI-Requirement-6.5.10",
+            "name": "Broken authentication and session management",
+            "href": "AIP/quality-standards/PCI-DSS-V3.1/items/PCI-Requirement-6.5.10",
+            "standard": "PCI-DSS-V3.1"
+        },
+        {
+            "id": "PCI-Requirement-6.5.10",
+            "name": "Broken authentication and session management",
+            "href": "AIP/quality-standards/PCI-DSS-V3.2.1/items/PCI-Requirement-6.5.10",
+            "standard": "PCI-DSS-V3.2.1"
+        }
     ],
     "parameters": [
         

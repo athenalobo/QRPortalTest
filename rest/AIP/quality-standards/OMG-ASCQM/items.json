@@ -537,7 +537,7 @@
         "id": "CWE-321",
         "name": "Use of Hard-coded Cryptographic Key",
         "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-321",
-        "count": 1
+        "count": 2
     },
     {
         "id": "CWE-434",
@@ -621,7 +621,7 @@
         "id": "CWE-798",
         "name": "Use of Hard-coded Credentials",
         "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-798",
-        "count": 9
+        "count": 10
     },
     {
         "id": "CWE-917",
