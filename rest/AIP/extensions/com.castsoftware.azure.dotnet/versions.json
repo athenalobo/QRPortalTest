@@ -1,5 +1,12 @@
 [
     {
+        "name": "1.0.0-alpha3",
+        "href": "AIP/extensions/com.castsoftware.azure.dotnet/versions/1.0.0-alpha3",
+        "metaModelCRC": 2587028072,
+        "rulesCRC": 0,
+        "transactionsConfigurationCRC": 1550309590
+    },
+    {
         "name": "1.0.0-alpha2",
         "href": "AIP/extensions/com.castsoftware.azure.dotnet/versions/1.0.0-alpha2",
         "metaModelCRC": 887515506,
