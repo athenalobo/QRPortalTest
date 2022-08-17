@@ -4,7 +4,7 @@
     "name": "com.castsoftware.dotnet.dapper",
     "href": "AIP/extensions/com.castsoftware.dotnet.dapper",
     "title": ".NET Dapper",
-    "description": "Dapper",
+    "description": "Dapper is a simple Object Relational Mapper (ORM) for .NET, which is responsible for mapping between database and programming language. Dapper also extends the IDbConnection by providing useful extension methods to query your database. This extension support the framework CRUD operations and SQL queries.",
     "iconUrl": "https://raw.githubusercontent.com/CAST-Extend/resources/master/com.castsoftware.dapper.png",
     "versions": {
         "name": "versions from latest to oldest",
