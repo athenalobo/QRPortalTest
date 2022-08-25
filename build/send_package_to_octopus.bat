@@ -148,7 +148,7 @@ if not %errorlevel% equ 0 goto endclean
 echo.
 echo ========================================================
 echo Deploy Octopus release:
-set CMD=%OCTOPATH% deploy-release --space="%SPACENAME%" --project=%OCTOPROJECT% --version=%PACKVERS%.%BUILDNO% --deployto=Integration --waitfordeployment --progress --server %OCTOSRV% --apiKey %APIKEY% --logLevel=verbose
+set CMD=%OCTOPATH% deploy-release --space="%SPACENAME%" --project=%OCTOPROJECT% --version=%PACKVERS%.%BUILDNO% --deployto=Production --waitfordeployment --progress --server %OCTOSRV% --apiKey %APIKEY% --logLevel=verbose
 echo.
 echo Executing:
 echo %CMD%
