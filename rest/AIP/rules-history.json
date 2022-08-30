@@ -23867,6 +23867,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "2.0.6-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.wpf": [
