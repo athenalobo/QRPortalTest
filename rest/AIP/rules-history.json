@@ -11506,6 +11506,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "2.8.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.nosqldotnet": [
