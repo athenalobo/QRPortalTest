@@ -487,6 +487,12 @@
     },
     {
         "qualityModel": false,
+        "transactionsConfiguration": false,
+        "name": "com.castsoftware.wicket",
+        "href": "AIP/extensions/com.castsoftware.wicket"
+    },
+    {
+        "qualityModel": false,
         "transactionsConfiguration": true,
         "name": "com.castsoftware.wpf",
         "href": "AIP/extensions/com.castsoftware.wpf"

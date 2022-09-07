@@ -23914,6 +23914,17 @@
             ]
         }
     ],
+    "com.castsoftware.wicket": [
+        {
+            "version": "1.0.0-alpha1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        }
+    ],
     "com.castsoftware.wpf": [
         {
             "version": "1.0.0-funcrel",
