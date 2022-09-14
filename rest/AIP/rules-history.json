@@ -11995,6 +11995,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.6.1-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.nosqljava": [
