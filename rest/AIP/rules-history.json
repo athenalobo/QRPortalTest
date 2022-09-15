@@ -4021,6 +4021,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.4.5-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.ead4j": [
@@ -7293,6 +7302,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "0.9.11",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.java.service": [
@@ -9974,6 +9992,15 @@
         },
         {
             "version": "2.3.4-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
+            "version": "2.3.5-funcrel",
             "addedRules": [
                 
             ],
@@ -16326,6 +16353,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.2.7-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.rpg": [
@@ -17665,6 +17701,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.0.5-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.sap.hybris": [
@@ -17927,6 +17972,15 @@
         },
         {
             "version": "1.1.9-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
+            "version": "1.1.10-funcrel",
             "addedRules": [
                 
             ],
@@ -22103,6 +22157,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.0.2-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.systemlevelrules": [
@@ -23085,6 +23148,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.10.1-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.vuejs": [
@@ -23672,6 +23744,15 @@
         },
         {
             "version": "1.7.9-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
+            "version": "1.7.10-funcrel",
             "addedRules": [
                 
             ],
