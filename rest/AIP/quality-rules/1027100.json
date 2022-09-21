@@ -108,6 +108,12 @@
             "standard": "OWASP"
         },
         {
+            "id": "API4-2019",
+            "name": "Lack of Resources & Rate Limiting",
+            "href": "AIP/quality-standards/OWASP/items/API4-2019",
+            "standard": "OWASP"
+        },
+        {
             "id": "PCI-Requirement-6.5.1",
             "name": "Injection flaws, particularly SQL injection. Also consider OS Command Injection, LDAP and XPath injection flaws as well as other injection flaws.",
             "href": "AIP/quality-standards/PCI-DSS-V3.1/items/PCI-Requirement-6.5.1",

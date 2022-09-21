@@ -63,6 +63,12 @@
             "name": "Uncontrolled Resource Consumption",
             "href": "AIP/quality-standards/CWE/items/CWE-400",
             "standard": "CWE"
+        },
+        {
+            "id": "API4-2019",
+            "name": "Lack of Resources & Rate Limiting",
+            "href": "AIP/quality-standards/OWASP/items/API4-2019",
+            "standard": "OWASP"
         }
     ],
     "parameters": [

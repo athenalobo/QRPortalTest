@@ -23761,15 +23761,6 @@
             ]
         },
         {
-            "version": "1.7.10-funcrel",
-            "addedRules": [
-                
-            ],
-            "detachedRules": [
-                
-            ]
-        },
-        {
             "version": "1.7.11-funcrel",
             "addedRules": [
                 
