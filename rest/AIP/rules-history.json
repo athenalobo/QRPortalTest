@@ -9115,6 +9115,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.3.8-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.jeerules": [
