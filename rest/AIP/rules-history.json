@@ -3592,6 +3592,17 @@
             ]
         }
     ],
+    "com.castsoftware.dotnet.gcp": [
+        {
+            "version": "1.0.0-alpha1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        }
+    ],
     "com.castsoftware.dotnet.nhibernate": [
         {
             "version": "1.0.0-alpha1",
@@ -7305,6 +7316,17 @@
         },
         {
             "version": "0.9.11",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        }
+    ],
+    "com.castsoftware.java.gcp": [
+        {
+            "version": "1.0.0-alpha1",
             "addedRules": [
                 
             ],
