@@ -12655,6 +12655,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.6.7-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.omg-ascqm-index": [

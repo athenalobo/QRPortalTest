@@ -71,9 +71,21 @@
             "standard": "CWE"
         },
         {
-            "id": "A02-2021",
-            "name": "Cryptographic Failures",
-            "href": "AIP/quality-standards/OWASP/items/A02-2021",
+            "id": "A2-2013",
+            "name": "Broken Authentication and Session Management",
+            "href": "AIP/quality-standards/OWASP/items/A2-2013",
+            "standard": "OWASP"
+        },
+        {
+            "id": "A2-2017",
+            "name": "Broken Authentication",
+            "href": "AIP/quality-standards/OWASP/items/A2-2017",
+            "standard": "OWASP"
+        },
+        {
+            "id": "A04-2021",
+            "name": "Insecure Design",
+            "href": "AIP/quality-standards/OWASP/items/A04-2021",
             "standard": "OWASP"
         },
         {

@@ -9,7 +9,7 @@
         "id": "A2-2013",
         "name": "Broken Authentication and Session Management",
         "href": "AIP/quality-standards/OWASP/items/A2-2013",
-        "count": 26
+        "count": 30
     },
     {
         "id": "A3-2013",
@@ -69,7 +69,7 @@
         "id": "A2-2017",
         "name": "Broken Authentication",
         "href": "AIP/quality-standards/OWASP/items/A2-2017",
-        "count": 33
+        "count": 37
     },
     {
         "id": "A3-2017",
@@ -129,7 +129,7 @@
         "id": "A02-2021",
         "name": "Cryptographic Failures",
         "href": "AIP/quality-standards/OWASP/items/A02-2021",
-        "count": 61
+        "count": 58
     },
     {
         "id": "A03-2021",
@@ -141,7 +141,7 @@
         "id": "A04-2021",
         "name": "Insecure Design",
         "href": "AIP/quality-standards/OWASP/items/A04-2021",
-        "count": 28
+        "count": 32
     },
     {
         "id": "A05-2021",

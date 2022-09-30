@@ -71,6 +71,24 @@
             "standard": "CWE"
         },
         {
+            "id": "A2-2013",
+            "name": "Broken Authentication and Session Management",
+            "href": "AIP/quality-standards/OWASP/items/A2-2013",
+            "standard": "OWASP"
+        },
+        {
+            "id": "A2-2017",
+            "name": "Broken Authentication",
+            "href": "AIP/quality-standards/OWASP/items/A2-2017",
+            "standard": "OWASP"
+        },
+        {
+            "id": "A04-2021",
+            "name": "Insecure Design",
+            "href": "AIP/quality-standards/OWASP/items/A04-2021",
+            "standard": "OWASP"
+        },
+        {
             "id": "PCI-Requirement-6.5.10",
             "name": "Broken authentication and session management",
             "href": "AIP/quality-standards/PCI-DSS-V3.1/items/PCI-Requirement-6.5.10",
