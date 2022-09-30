@@ -51,7 +51,7 @@
         "id": "STIG-V-222609",
         "name": "The application must not be subject to input handling vulnerabilities.",
         "href": "CARL/quality-standards/STIG-V5/items/STIG-V-222609",
-        "count": 3
+        "count": 4
     },
     {
         "id": "STIG-V-222612",

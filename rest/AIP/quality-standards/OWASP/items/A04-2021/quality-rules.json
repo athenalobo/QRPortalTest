@@ -178,6 +178,30 @@
         ]
     },
     {
+        "id": 1025040,
+        "name": "Avoid external control of system or configuration setting",
+        "href": "AIP/quality-rules/1025040",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025042,
+        "name": "Avoid external control of system or configuration setting through API requests",
+        "href": "AIP/quality-rules/1025042",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1027012,
         "name": "Avoid storing Non-Serializable Object as HttpSessionState attributes.",
         "href": "AIP/quality-rules/1027012",

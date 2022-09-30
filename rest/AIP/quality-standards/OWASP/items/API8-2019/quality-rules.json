@@ -808,6 +808,30 @@
         ]
     },
     {
+        "id": 1025044,
+        "name": "Avoid MVC injection",
+        "href": "AIP/quality-rules/1025044",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025046,
+        "name": "Avoid MVC injection through AIP requests",
+        "href": "AIP/quality-rules/1025046",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1039016,
         "name": "Avoid Unvalidated URL Redirect",
         "href": "AIP/quality-rules/1039016",

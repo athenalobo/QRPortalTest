@@ -57,7 +57,7 @@
         "id": "CWE-15",
         "name": "External Control of System or Configuration Setting",
         "href": "AIP/quality-standards/CWE/items/CWE-15",
-        "count": 0
+        "count": 2
     },
     {
         "id": "CWE-20",
@@ -357,7 +357,7 @@
         "id": "CWE-74",
         "name": "Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection')",
         "href": "AIP/quality-standards/CWE/items/CWE-74",
-        "count": 0
+        "count": 2
     },
     {
         "id": "CWE-75",
@@ -1515,7 +1515,7 @@
         "id": "CWE-284",
         "name": "Improper Access Control",
         "href": "AIP/quality-standards/CWE/items/CWE-284",
-        "count": 1
+        "count": 0
     },
     {
         "id": "CWE-285",
@@ -2931,7 +2931,7 @@
         "id": "CWE-552",
         "name": "Files or Directories Accessible to External Parties",
         "href": "AIP/quality-standards/CWE/items/CWE-552",
-        "count": 1
+        "count": 3
     },
     {
         "id": "CWE-553",
@@ -3405,7 +3405,7 @@
         "id": "CWE-642",
         "name": "External Control of Critical State Data",
         "href": "AIP/quality-standards/CWE/items/CWE-642",
-        "count": 0
+        "count": 2
     },
     {
         "id": "CWE-643",
@@ -4029,7 +4029,7 @@
         "id": "CWE-798",
         "name": "Use of Hard-coded Credentials",
         "href": "AIP/quality-standards/CWE/items/CWE-798",
-        "count": 10
+        "count": 11
     },
     {
         "id": "CWE-799",

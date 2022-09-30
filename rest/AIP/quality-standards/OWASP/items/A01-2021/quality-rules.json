@@ -184,6 +184,30 @@
         ]
     },
     {
+        "id": 1025044,
+        "name": "Avoid MVC injection",
+        "href": "AIP/quality-rules/1025044",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025046,
+        "name": "Avoid MVC injection through AIP requests",
+        "href": "AIP/quality-rules/1025046",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1030002,
         "name": "Avoid using \"Throwable.printStackTrace()\" with no argument (Kotlin)",
         "href": "AIP/quality-rules/1030002",

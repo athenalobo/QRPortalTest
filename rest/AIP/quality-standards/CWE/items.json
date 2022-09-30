@@ -111,7 +111,7 @@
         "id": "CWE-798",
         "name": "Use of Hard-coded Credentials",
         "href": "AIP/quality-standards/CWE/items/CWE-798",
-        "count": 10
+        "count": 11
     },
     {
         "id": "CWE-807",
@@ -258,6 +258,12 @@
         "count": 1
     },
     {
+        "id": "CWE-15",
+        "name": "External Control of System or Configuration Setting",
+        "href": "AIP/quality-standards/CWE/items/CWE-15",
+        "count": 2
+    },
+    {
         "id": "CWE-23",
         "name": "Relative Path Traversal",
         "href": "AIP/quality-standards/CWE/items/CWE-23",
@@ -274,6 +280,12 @@
         "name": "External Control of File Name or Path",
         "href": "AIP/quality-standards/CWE/items/CWE-73",
         "count": 4
+    },
+    {
+        "id": "CWE-74",
+        "name": "Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection')",
+        "href": "AIP/quality-standards/CWE/items/CWE-74",
+        "count": 2
     },
     {
         "id": "CWE-75",
@@ -489,12 +501,6 @@
         "id": "CWE-260",
         "name": "Password in Configuration File",
         "href": "AIP/quality-standards/CWE/items/CWE-260",
-        "count": 1
-    },
-    {
-        "id": "CWE-284",
-        "name": "Improper Access Control",
-        "href": "AIP/quality-standards/CWE/items/CWE-284",
         "count": 1
     },
     {
@@ -801,7 +807,7 @@
         "id": "CWE-552",
         "name": "Files or Directories Accessible to External Parties",
         "href": "AIP/quality-standards/CWE/items/CWE-552",
-        "count": 1
+        "count": 3
     },
     {
         "id": "CWE-561",
@@ -939,6 +945,12 @@
         "id": "CWE-639",
         "name": "Authorization Bypass Through User-Controlled Key",
         "href": "AIP/quality-standards/CWE/items/CWE-639",
+        "count": 2
+    },
+    {
+        "id": "CWE-642",
+        "name": "External Control of Critical State Data",
+        "href": "AIP/quality-standards/CWE/items/CWE-642",
         "count": 2
     },
     {

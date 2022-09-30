@@ -45,7 +45,7 @@
         "id": "NIST-IA-9",
         "name": "Service Identification and Authentication",
         "href": "AIP/quality-standards/NIST-SP-800-53R4/items/NIST-IA-9",
-        "count": 70
+        "count": 71
     },
     {
         "id": "NIST-SC-12",
@@ -69,7 +69,7 @@
         "id": "NIST-SI-10",
         "name": "Information Input Validation",
         "href": "AIP/quality-standards/NIST-SP-800-53R4/items/NIST-SI-10",
-        "count": 137
+        "count": 139
     },
     {
         "id": "NIST-SI-11",

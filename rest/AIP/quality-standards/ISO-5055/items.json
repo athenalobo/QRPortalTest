@@ -621,7 +621,7 @@
         "id": "CWE-798",
         "name": "Use of Hard-coded Credentials",
         "href": "AIP/quality-standards/ISO-5055/items/CWE-798",
-        "count": 10
+        "count": 11
     },
     {
         "id": "CWE-917",
