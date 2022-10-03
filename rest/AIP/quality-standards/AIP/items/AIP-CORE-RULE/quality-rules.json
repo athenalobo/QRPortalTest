@@ -20976,8 +20976,8 @@
         "id": 1101066,
         "name": "Avoid improperly written triangular joins with XXL tables",
         "href": "AIP/quality-rules/1101066",
-        "critical": false,
-        "severity": 10,
+        "critical": true,
+        "severity": 20,
         "technologyNames": [
             "ALL TECHNOLOGIES"
         ]

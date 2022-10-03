@@ -2,9 +2,9 @@
     "id": 1101066,
     "name": "Avoid improperly written triangular joins with XXL tables",
     "href": "AIP/quality-rules/1101066",
-    "critical": false,
-    "severity": 10,
-    "maxWeight": 4,
+    "critical": true,
+    "severity": 20,
+    "maxWeight": 8,
     "extension": {
         "name": "com.castsoftware.sqlanalyzer",
         "href": "AIP/extensions/com.castsoftware.sqlanalyzer"
@@ -40,8 +40,8 @@
             "id": 61019,
             "name": "Efficiency - SQL and Data Handling Performance",
             "href": "AIP/technical-criteria/61019",
-            "weight": 4,
-            "critical": false
+            "weight": 8,
+            "critical": true
         }
     ],
     "technologies": [
