@@ -898,6 +898,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "2.1.9-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.applicationinformation": [
@@ -6838,6 +6847,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "2.1.15-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.ibatis": [
@@ -10041,6 +10059,15 @@
         },
         {
             "version": "2.3.5-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
+            "version": "2.3.6-funcrel",
             "addedRules": [
                 
             ],
@@ -23237,6 +23264,15 @@
         },
         {
             "version": "1.10.1-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
+            "version": "1.10.2-funcrel",
             "addedRules": [
                 
             ],
