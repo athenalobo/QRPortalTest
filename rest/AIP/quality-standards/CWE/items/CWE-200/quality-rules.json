@@ -1,5 +1,15 @@
 [
     {
+        "id": 1020708,
+        "name": "Ensure the X-Powered-By header is disabled",
+        "href": "AIP/quality-rules/1020708",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "HTML5"
+        ]
+    },
+    {
         "id": 1025020,
         "name": "Avoid data filter injection",
         "href": "AIP/quality-rules/1025020",
