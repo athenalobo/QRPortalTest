@@ -27,7 +27,7 @@
             "href": "HL/cloud-ready/criticality/30",
             "name": "High"
         },
-        "description": "If you\u00e2\u20ac\u2122re envisioning moving your application to Pivotal CloudFoundry, it is recommended to convert CDI beans configuration to Spring-based application configuration. This pattern verifies the presence of a bean tag in beans.xml, having an xmlnx attribute initialized.",
+        "description": "If you\u2019re envisioning moving your application to Pivotal CloudFoundry, it is recommended to convert CDI beans configuration to Spring-based application configuration. This pattern verifies the presence of a bean tag in beans.xml, having an xmlnx attribute initialized.",
         "migrationImpacts": [
             {
                 "href": "HL/cloud-ready/migration-impacts/3",

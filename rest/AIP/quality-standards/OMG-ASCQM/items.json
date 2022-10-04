@@ -351,7 +351,7 @@
         "id": "CWE-667",
         "name": "Improper Locking",
         "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-667",
-        "count": 1
+        "count": 2
     },
     {
         "id": "CWE-672",
@@ -394,6 +394,12 @@
         "name": "Incorrect Synchronization",
         "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-821",
         "count": 4
+    },
+    {
+        "id": "CWE-833",
+        "name": "Deadlock",
+        "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-833",
+        "count": 1
     },
     {
         "id": "CWE-1058",
@@ -555,7 +561,7 @@
         "id": "CWE-477",
         "name": "Use of Obsolete Function",
         "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-477",
-        "count": 25
+        "count": 26
     },
     {
         "id": "CWE-502",

@@ -37,7 +37,7 @@
             "href": "HL/cloud-ready/criticality/30",
             "name": "High"
         },
-        "description": "From a software engineering standpoint, and especially in the Cloud, applications should be developed like we don\u00e2\u20ac\u2122t know what is the underlying infrastructure. Using this configuration setting to encrypt or decrypt keys should be avoided. Instead, it is recommended using a cloud-based encryption mechanism. This CloudReady pattern verifies the presence of validationKey attribute in machineKey tag of .config files, containing \u00e2\u20ac\u0153AutoGenerate\u00e2\u20ac\ufffd.",
+        "description": "From a software engineering standpoint, and especially in the Cloud, applications should be developed like we don\u2019t know what is the underlying infrastructure. Using this configuration setting to encrypt or decrypt keys should be avoided. Instead, it is recommended using a cloud-based encryption mechanism. This CloudReady pattern verifies the presence of validationKey attribute in machineKey tag of .config files, containing \u201cAutoGenerate\u201d.",
         "migrationImpacts": [
             {
                 "href": "HL/cloud-ready/migration-impacts/3",

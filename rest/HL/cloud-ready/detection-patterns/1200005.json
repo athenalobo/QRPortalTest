@@ -37,7 +37,7 @@
             "href": "HL/cloud-ready/criticality/10",
             "name": "Low"
         },
-        "description": "For more resilient, scalable and powerful leverage of application and telemetry logs, logs and log analytic services should be replaced by a Cloud-based service (e.g. AppInsights on Azure, CloudWatch Log Insights on AWS\u00e2\u20ac\u00a6).",
+        "description": "For more resilient, scalable and powerful leverage of application and telemetry logs, logs and log analytic services should be replaced by a Cloud-based service (e.g. AppInsights on Azure, CloudWatch Log Insights on AWS\u2026).",
         "migrationImpacts": [
             {
                 "href": "HL/cloud-ready/migration-impacts/1",

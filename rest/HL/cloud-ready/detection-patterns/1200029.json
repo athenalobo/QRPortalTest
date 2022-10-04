@@ -137,7 +137,7 @@
             "href": "HL/cloud-ready/criticality/10",
             "name": "Low"
         },
-        "description": "From a software engineering standpoint, and especially in the Cloud, applications should be developed like we don\u00e2\u20ac\u2122t know what is the underlying infrastructure. Using, calling or referencing remote resources by using hardcoded IP addresses should be avoided as they can regularly change. Instead, it is recommended using domain names or eventually store IP addresses in a configuration file. This CloudReady pattern verifies the presence of IPV4 or IPV6 addresses in the source code.",
+        "description": "From a software engineering standpoint, and especially in the Cloud, applications should be developed like we don\u2019t know what is the underlying infrastructure. Using, calling or referencing remote resources by using hardcoded IP addresses should be avoided as they can regularly change. Instead, it is recommended using domain names or eventually store IP addresses in a configuration file. This CloudReady pattern verifies the presence of IPV4 or IPV6 addresses in the source code.",
         "migrationImpacts": [
             {
                 "href": "HL/cloud-ready/migration-impacts/1",

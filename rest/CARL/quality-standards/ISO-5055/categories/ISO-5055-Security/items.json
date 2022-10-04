@@ -219,7 +219,7 @@
         "id": "CWE-477",
         "name": "Use of Obsolete Function",
         "href": "CARL/quality-standards/ISO-5055/items/CWE-477",
-        "count": 10
+        "count": 11
     },
     {
         "id": "CWE-480",
@@ -303,7 +303,7 @@
         "id": "CWE-667",
         "name": "Improper Locking",
         "href": "CARL/quality-standards/ISO-5055/items/CWE-667",
-        "count": 1
+        "count": 2
     },
     {
         "id": "CWE-672",

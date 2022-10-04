@@ -2,7 +2,7 @@
     {
         "name": "CWE-2011-Top25",
         "href": "CARL/quality-standards/CWE/categories/CWE-2011-Top25",
-        "count": 175,
+        "count": 174,
         "description": null
     },
     {
@@ -32,7 +32,7 @@
     {
         "name": "CWE-LATEST-VERSION",
         "href": "CARL/quality-standards/CWE/categories/CWE-LATEST-VERSION",
-        "count": 663,
+        "count": 664,
         "description": null
     }
 ]

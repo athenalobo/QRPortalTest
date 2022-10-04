@@ -27,7 +27,7 @@
             "href": "HL/cloud-ready/criticality/10",
             "name": "Low"
         },
-        "description": "The REDEFINES clause allows to use different data description entries to describe the same computer storage area. Relational databases (e.g DB2) don\u00e2\u20ac\u2122t offer such a functionality, so each redefinition must be mapped to a different structure.",
+        "description": "The REDEFINES clause allows to use different data description entries to describe the same computer storage area. Relational databases (e.g DB2) don\u2019t offer such a functionality, so each redefinition must be mapped to a different structure.",
         "migrationImpacts": [
             {
                 "href": "HL/cloud-ready/migration-impacts/1",

@@ -137,7 +137,7 @@
             "href": "HL/cloud-ready/criticality/10",
             "name": "Low"
         },
-        "description": "This patterns verifies in source code the presence of hardcoded URLs using the LDAP protocol (LDAP/LDAPS). This URL would need to be replaced by the new resource\u00e2\u20ac\u2122s URL during the Cloud migration, if any change occured.",
+        "description": "This patterns verifies in source code the presence of hardcoded URLs using the LDAP protocol (LDAP/LDAPS). This URL would need to be replaced by the new resource\u2019s URL during the Cloud migration, if any change occured.",
         "migrationImpacts": [
             {
                 "href": "HL/cloud-ready/migration-impacts/1",

@@ -45,7 +45,7 @@
         "id": "CWE-250",
         "name": "Execution with Unnecessary Privileges",
         "href": "AIP/quality-standards/CWE/items/CWE-250",
-        "count": 23
+        "count": 22
     },
     {
         "id": "CWE-306",
@@ -717,7 +717,7 @@
         "id": "CWE-477",
         "name": "Use of Obsolete Function",
         "href": "AIP/quality-standards/CWE/items/CWE-477",
-        "count": 25
+        "count": 26
     },
     {
         "id": "CWE-478",
@@ -975,7 +975,7 @@
         "id": "CWE-667",
         "name": "Improper Locking",
         "href": "AIP/quality-standards/CWE/items/CWE-667",
-        "count": 1
+        "count": 2
     },
     {
         "id": "CWE-670",
@@ -1102,6 +1102,12 @@
         "name": "Improper Control of Document Type Definition",
         "href": "AIP/quality-standards/CWE/items/CWE-827",
         "count": 7
+    },
+    {
+        "id": "CWE-833",
+        "name": "Deadlock",
+        "href": "AIP/quality-standards/CWE/items/CWE-833",
+        "count": 1
     },
     {
         "id": "CWE-915",

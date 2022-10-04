@@ -105,12 +105,6 @@
             "standard": "CISQ"
         },
         {
-            "id": "CWE-250",
-            "name": "Execution with Unnecessary Privileges",
-            "href": "AIP/quality-standards/CWE/items/CWE-250",
-            "standard": "CWE"
-        },
-        {
             "id": "CWE-404",
             "name": "Improper Resource Shutdown or Release",
             "href": "AIP/quality-standards/CWE/items/CWE-404",

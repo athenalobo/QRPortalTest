@@ -27,7 +27,7 @@
             "href": "HL/cloud-ready/criticality/30",
             "name": "High"
         },
-        "description": "For modern applications running in the Cloud, it is not recommended to be stateful, especially for sessions as they\u00e2\u20ac\u2122re not scalable, and are generally harder to replicate and fix bugs (server-side). Ideally, stateful sessions should be replaced by stateless and client-side mechanisms such as cookies, client cache (e.g. Redis, memcache\u00e2\u20ac\u00a6) or in an external cloud-based storage. This is an important architectural constraint of microservices-style applications, as it enables resiliency, elasticity, and allows any available service instance to execute any task.",
+        "description": "For modern applications running in the Cloud, it is not recommended to be stateful, especially for sessions as they\u2019re not scalable, and are generally harder to replicate and fix bugs (server-side). Ideally, stateful sessions should be replaced by stateless and client-side mechanisms such as cookies, client cache (e.g. Redis, memcache\u2026) or in an external cloud-based storage. This is an important architectural constraint of microservices-style applications, as it enables resiliency, elasticity, and allows any available service instance to execute any task.",
         "migrationImpacts": [
             {
                 "href": "HL/cloud-ready/migration-impacts/3",

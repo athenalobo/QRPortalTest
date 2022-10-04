@@ -117,7 +117,7 @@
             "href": "HL/cloud-ready/criticality/10",
             "name": "Low"
         },
-        "description": "This CloudReady pattern will be documented very soon\u00e2\u20ac\u00a6",
+        "description": "This CloudReady pattern will be documented very soon\u2026",
         "migrationImpacts": [
             {
                 "href": "HL/cloud-ready/migration-impacts/0",
