@@ -7788,16 +7788,6 @@
         ]
     },
     {
-        "id": 1101022,
-        "name": "Avoid Tables without Primary Key (SQL)",
-        "href": "AIP/quality-rules/1101022",
-        "critical": false,
-        "severity": 10,
-        "technologyNames": [
-            "SQL"
-        ]
-    },
-    {
         "id": 1101042,
         "name": "Table naming convention - character set control (SQL)",
         "href": "AIP/quality-rules/1101042",
