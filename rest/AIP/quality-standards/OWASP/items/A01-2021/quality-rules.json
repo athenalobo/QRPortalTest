@@ -30,6 +30,18 @@
         ]
     },
     {
+        "id": 8446,
+        "name": "Avoid URL redirection to untrusted site",
+        "href": "AIP/quality-rules/8446",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 8516,
         "name": "Avoid URL redirection to untrusted site through API requests",
         "href": "AIP/quality-rules/8516",

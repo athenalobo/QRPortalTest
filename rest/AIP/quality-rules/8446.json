@@ -85,6 +85,12 @@
             "standard": "NIST-SP-800-53R4"
         },
         {
+            "id": "A01-2021",
+            "name": "Broken Access Control",
+            "href": "AIP/quality-standards/OWASP/items/A01-2021",
+            "standard": "OWASP"
+        },
+        {
             "id": "A10-2013",
             "name": "Unvalidated Redirects and Forwards",
             "href": "AIP/quality-standards/OWASP/items/A10-2013",
