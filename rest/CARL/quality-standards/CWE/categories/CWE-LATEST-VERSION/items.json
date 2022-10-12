@@ -2943,7 +2943,7 @@
         "id": "CWE-554",
         "name": "ASP.NET Misconfiguration: Not Using Input Validation Framework",
         "href": "CARL/quality-standards/CWE/items/CWE-554",
-        "count": 0
+        "count": 6
     },
     {
         "id": "CWE-555",

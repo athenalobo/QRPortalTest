@@ -810,6 +810,12 @@
         "count": 3
     },
     {
+        "id": "CWE-554",
+        "name": "ASP.NET Misconfiguration: Not Using Input Validation Framework",
+        "href": "AIP/quality-standards/CWE/items/CWE-554",
+        "count": 6
+    },
+    {
         "id": "CWE-561",
         "name": "Dead Code",
         "href": "AIP/quality-standards/CWE/items/CWE-561",

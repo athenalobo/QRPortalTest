@@ -126,6 +126,12 @@
             "standard": "CWE"
         },
         {
+            "id": "CWE-554",
+            "name": "ASP.NET Misconfiguration: Not Using Input Validation Framework",
+            "href": "AIP/quality-standards/CWE/items/CWE-554",
+            "standard": "CWE"
+        },
+        {
             "id": "CWE-1173",
             "name": "Improper Use of Validation Framework",
             "href": "AIP/quality-standards/CWE/items/CWE-1173",
