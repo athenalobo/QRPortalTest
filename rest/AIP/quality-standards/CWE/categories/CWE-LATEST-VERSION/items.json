@@ -495,7 +495,7 @@
         "id": "CWE-97",
         "name": "Improper Neutralization of Server-Side Includes (SSI) Within a Web Page",
         "href": "AIP/quality-standards/CWE/items/CWE-97",
-        "count": 0
+        "count": 1
     },
     {
         "id": "CWE-98",
@@ -2505,7 +2505,7 @@
         "id": "CWE-472",
         "name": "External Control of Assumed-Immutable Web Parameter",
         "href": "AIP/quality-standards/CWE/items/CWE-472",
-        "count": 0
+        "count": 1
     },
     {
         "id": "CWE-473",

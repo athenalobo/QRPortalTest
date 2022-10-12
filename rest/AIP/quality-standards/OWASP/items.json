@@ -3,7 +3,7 @@
         "id": "A1-2013",
         "name": "Injection",
         "href": "AIP/quality-standards/OWASP/items/A1-2013",
-        "count": 82
+        "count": 83
     },
     {
         "id": "A2-2013",
@@ -63,7 +63,7 @@
         "id": "A1-2017",
         "name": "Injection",
         "href": "AIP/quality-standards/OWASP/items/A1-2017",
-        "count": 76
+        "count": 77
     },
     {
         "id": "A2-2017",
@@ -135,13 +135,13 @@
         "id": "A03-2021",
         "name": "Injection",
         "href": "AIP/quality-standards/OWASP/items/A03-2021",
-        "count": 124
+        "count": 125
     },
     {
         "id": "A04-2021",
         "name": "Insecure Design",
         "href": "AIP/quality-standards/OWASP/items/A04-2021",
-        "count": 32
+        "count": 33
     },
     {
         "id": "A05-2021",
@@ -183,7 +183,7 @@
         "id": "API1-2019",
         "name": "Broken Object Level Authorization",
         "href": "AIP/quality-standards/OWASP/items/API1-2019",
-        "count": 2
+        "count": 3
     },
     {
         "id": "API2-2019",
@@ -225,7 +225,7 @@
         "id": "API8-2019",
         "name": "Injection",
         "href": "AIP/quality-standards/OWASP/items/API8-2019",
-        "count": 86
+        "count": 87
     },
     {
         "id": "API9-2019",

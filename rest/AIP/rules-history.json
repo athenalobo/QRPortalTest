@@ -6894,6 +6894,22 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "2.1.16-funcrel",
+            "addedRules": [
+                {
+                    "id": 1020106,
+                    "name": "Avoid hidden form fields to prevent parameter tampering (Javascript/HTML5)"
+                },
+                {
+                    "id": 1020108,
+                    "name": "Avoid dangerous file inclusion (JSTL) (Javascript/HTML5)"
+                }
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.ibatis": [

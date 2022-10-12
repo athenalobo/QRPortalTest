@@ -1260,6 +1260,26 @@
         ]
     },
     {
+        "id": 1020106,
+        "name": "Avoid hidden form fields to prevent parameter tampering (Javascript/HTML5)",
+        "href": "AIP/quality-rules/1020106",
+        "critical": false,
+        "weight": 8,
+        "technologyNames": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 1020108,
+        "name": "Avoid dangerous file inclusion (JSTL) (Javascript/HTML5)",
+        "href": "AIP/quality-rules/1020108",
+        "critical": true,
+        "weight": 9,
+        "technologyNames": [
+            "HTML5"
+        ]
+    },
+    {
         "id": 1020454,
         "name": "Avoid using React dangerouslySetInnerHTML",
         "href": "AIP/quality-rules/1020454",

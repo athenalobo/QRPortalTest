@@ -660,6 +660,16 @@
         ]
     },
     {
+        "id": 1020108,
+        "name": "Avoid dangerous file inclusion (JSTL) (Javascript/HTML5)",
+        "href": "AIP/quality-rules/1020108",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "HTML5"
+        ]
+    },
+    {
         "id": 1020724,
         "name": "Ensure that marked is sanitized",
         "href": "AIP/quality-rules/1020724",

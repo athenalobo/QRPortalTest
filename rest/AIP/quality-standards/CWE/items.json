@@ -330,6 +330,12 @@
         "count": 9
     },
     {
+        "id": "CWE-97",
+        "name": "Improper Neutralization of Server-Side Includes (SSI) Within a Web Page",
+        "href": "AIP/quality-standards/CWE/items/CWE-97",
+        "count": 1
+    },
+    {
         "id": "CWE-98",
         "name": "Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion')",
         "href": "AIP/quality-standards/CWE/items/CWE-98",
@@ -712,6 +718,12 @@
         "name": "Use of Externally-Controlled Input to Select Classes or Code ('Unsafe Reflection')",
         "href": "AIP/quality-standards/CWE/items/CWE-470",
         "count": 2
+    },
+    {
+        "id": "CWE-472",
+        "name": "External Control of Assumed-Immutable Web Parameter",
+        "href": "AIP/quality-standards/CWE/items/CWE-472",
+        "count": 1
     },
     {
         "id": "CWE-477",
