@@ -3062,6 +3062,17 @@
         ]
     },
     {
+        "id": 1027014,
+        "name": "Do not use the Thread.resume or Thread.suspend APIs.",
+        "href": "AIP/quality-rules/1027014",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "C#",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1027024,
         "name": "Ensure you don't compare passwords against hard-coded strings in the source file, hackers can steal the information by retro-engineering your application (C#)",
         "href": "AIP/quality-rules/1027024",

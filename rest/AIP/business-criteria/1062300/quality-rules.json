@@ -358,6 +358,16 @@
         ]
     },
     {
+        "id": 8220,
+        "name": "Avoid using deprecated method, constructor, field, type or package",
+        "href": "AIP/quality-rules/8220",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 8222,
         "name": "Avoid hard-coded credentials",
         "href": "AIP/quality-rules/8222",
@@ -1040,6 +1050,16 @@
         ]
     },
     {
+        "id": 8556,
+        "name": "'XML GENERATE' should be used with 'WITH ENCODING'",
+        "href": "AIP/quality-rules/8556",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "Cobol"
+        ]
+    },
+    {
         "id": 1003088,
         "name": "Avoid calling Alert.show directly (Flex)",
         "href": "AIP/quality-rules/1003088",
@@ -1615,6 +1635,16 @@
         "href": "AIP/quality-rules/1020222",
         "critical": true,
         "severity": 20,
+        "technologyNames": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 1020318,
+        "name": "Avoid using jQuery deprecated methods",
+        "href": "AIP/quality-rules/1020318",
+        "critical": false,
+        "severity": 10,
         "technologyNames": [
             "HTML5"
         ]
@@ -2320,16 +2350,6 @@
         ]
     },
     {
-        "id": 1020878,
-        "name": "DELETED: Ensure the express X-XSS-Protection header is enabled (TypeScript)",
-        "href": "AIP/quality-rules/1020878",
-        "critical": false,
-        "severity": 10,
-        "technologyNames": [
-            "HTML5"
-        ]
-    },
-    {
         "id": 1020880,
         "name": "Ensure the express X-Powered-By header is disabled (TypeScript)",
         "href": "AIP/quality-rules/1020880",
@@ -2640,6 +2660,16 @@
         ]
     },
     {
+        "id": 1024000,
+        "name": "Avoid using AbsoluteLayout",
+        "href": "AIP/quality-rules/1024000",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 1024002,
         "name": "Always have read permission to read data of Content Provider",
         "href": "AIP/quality-rules/1024002",
@@ -2802,6 +2832,174 @@
         ]
     },
     {
+        "id": 1025002,
+        "name": "Avoid second order XPath injection",
+        "href": "AIP/quality-rules/1025002",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025004,
+        "name": "Avoid second order URL redirection to untrusted site",
+        "href": "AIP/quality-rules/1025004",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025010,
+        "name": "Avoid second order LDAP injection",
+        "href": "AIP/quality-rules/1025010",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025016,
+        "name": "Avoid using cookie without the HttpOnly flag",
+        "href": "AIP/quality-rules/1025016",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025018,
+        "name": "Avoid cookie injection",
+        "href": "AIP/quality-rules/1025018",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025020,
+        "name": "Avoid data filter injection",
+        "href": "AIP/quality-rules/1025020",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025022,
+        "name": "Avoid data filter injection through API requests",
+        "href": "AIP/quality-rules/1025022",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025024,
+        "name": "Avoid disabling the expiration time validation of a JWT token",
+        "href": "AIP/quality-rules/1025024",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025030,
+        "name": "Avoid hard-coded JWT secret keys",
+        "href": "AIP/quality-rules/1025030",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025032,
+        "name": "Avoid insecure parameters for PBKDF2 password encoder",
+        "href": "AIP/quality-rules/1025032",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025034,
+        "name": "Avoid insecure parameters for BCrypt password encoder",
+        "href": "AIP/quality-rules/1025034",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025036,
+        "name": "Avoid insecure parameters for Argon2 password encoder",
+        "href": "AIP/quality-rules/1025036",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025038,
+        "name": "Avoid insecure parameters for SCrypt password encoder",
+        "href": "AIP/quality-rules/1025038",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025048,
+        "name": "Avoid hard-coded password in connection string",
+        "href": "AIP/quality-rules/1025048",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1027002,
         "name": "Avoid exposing methods that use Platform Invocation Services to access unmanaged code",
         "href": "AIP/quality-rules/1027002",
@@ -2915,6 +3113,17 @@
         "id": 1027084,
         "name": "Avoid calling CoSetProxyBlanket and CoInitializeSecurity",
         "href": "AIP/quality-rules/1027084",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1027100,
+        "name": "Avoid dangerous File Upload",
+        "href": "AIP/quality-rules/1027100",
         "critical": true,
         "severity": 20,
         "technologyNames": [
@@ -4135,6 +4344,16 @@
         "severity": 30,
         "technologyNames": [
             "JEE"
+        ]
+    },
+    {
+        "id": 1101088,
+        "name": "Avoid using LONG and LONG RAW datatypes",
+        "href": "AIP/quality-rules/1101088",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SQL"
         ]
     },
     {

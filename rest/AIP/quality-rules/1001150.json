@@ -19,6 +19,11 @@
     "alternativeName": "Avoid Functions and Procedures having a SELECT without the default OTHERWISE clause (PL1)",
     "businessCriteria": [
         {
+            "id": 1062100,
+            "name": "CISQ-Index",
+            "href": "AIP/business-criteria/1062100"
+        },
+        {
             "id": 20140522,
             "name": "GreenIT-Index",
             "href": "AIP/business-criteria/20140522"
@@ -45,6 +50,13 @@
         }
     ],
     "technicalCriteria": [
+        {
+            "id": 1062110,
+            "name": "ASCMM-MNT-1 - Control Flow Transfer Control Element outside Switch Block",
+            "href": "AIP/technical-criteria/1062110",
+            "weight": 5,
+            "critical": false
+        },
         {
             "id": 1061129,
             "name": "CWE-1075 - Unconditional Control Flow Transfer outside of Switch Block",

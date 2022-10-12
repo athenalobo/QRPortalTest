@@ -1941,6 +1941,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "20221003.0.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.cloudconfig": [
@@ -12929,6 +12938,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "20221011.0.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.omg-atdm": [
@@ -13233,6 +13251,15 @@
         },
         {
             "version": "20220503.0.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
+            "version": "20221011.0.0-funcrel",
             "addedRules": [
                 
             ],

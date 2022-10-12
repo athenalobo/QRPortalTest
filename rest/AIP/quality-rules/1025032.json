@@ -21,6 +21,21 @@
     "alternativeName": "Ensure you don't use insecure parameters for PBKDF2 password encoder",
     "businessCriteria": [
         {
+            "id": 1062300,
+            "name": "OWASP-2013-Index",
+            "href": "AIP/business-criteria/1062300"
+        },
+        {
+            "id": 1062320,
+            "name": "OWASP-2017-Index",
+            "href": "AIP/business-criteria/1062320"
+        },
+        {
+            "id": 1062340,
+            "name": "OWASP-2021-Index",
+            "href": "AIP/business-criteria/1062340"
+        },
+        {
             "id": 66031,
             "name": "Programming Practices",
             "href": "AIP/business-criteria/66031"
@@ -32,6 +47,27 @@
         }
     ],
     "technicalCriteria": [
+        {
+            "id": 1062302,
+            "name": "OWASP-2013-A2 - Broken Authentication and Session Management",
+            "href": "AIP/technical-criteria/1062302",
+            "weight": 5,
+            "critical": false
+        },
+        {
+            "id": 1062322,
+            "name": "OWASP-2017-A2 - Broken Authentication",
+            "href": "AIP/technical-criteria/1062322",
+            "weight": 5,
+            "critical": false
+        },
+        {
+            "id": 1062344,
+            "name": "OWASP-2021-A04 - Insecure Design",
+            "href": "AIP/technical-criteria/1062344",
+            "weight": 5,
+            "critical": false
+        },
         {
             "id": 66062,
             "name": "Secure Coding - Input Validation",

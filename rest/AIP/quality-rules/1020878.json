@@ -3,8 +3,8 @@
     "name": "DELETED: Ensure the express X-XSS-Protection header is enabled (TypeScript)",
     "href": "AIP/quality-rules/1020878",
     "critical": false,
-    "severity": 10,
-    "maxWeight": 5,
+    "severity": null,
+    "maxWeight": null,
     "extension": {
         "name": "com.castsoftware.typescript",
         "href": "AIP/extensions/com.castsoftware.typescript"
@@ -20,56 +20,10 @@
     "total": "Number of TypeScript source codes using express",
     "alternativeName": "Ensure enabling X-XSS-Protection header to prevent attackers submitting malicious script to unsuspecting users",
     "businessCriteria": [
-        {
-            "id": 1062100,
-            "name": "CISQ-Index",
-            "href": "AIP/business-criteria/1062100"
-        },
-        {
-            "id": 1062300,
-            "name": "OWASP-2013-Index",
-            "href": "AIP/business-criteria/1062300"
-        },
-        {
-            "id": 1062320,
-            "name": "OWASP-2017-Index",
-            "href": "AIP/business-criteria/1062320"
-        },
-        {
-            "id": 1062340,
-            "name": "OWASP-2021-Index",
-            "href": "AIP/business-criteria/1062340"
-        }
+        
     ],
     "technicalCriteria": [
-        {
-            "id": 1062191,
-            "name": "ASCSM-CWE-79 - Cross-site Scripting Improper Input Neutralization",
-            "href": "AIP/technical-criteria/1062191",
-            "weight": 5,
-            "critical": false
-        },
-        {
-            "id": 1062303,
-            "name": "OWASP-2013-A3 - Cross-Site Scripting (XSS)",
-            "href": "AIP/technical-criteria/1062303",
-            "weight": 5,
-            "critical": false
-        },
-        {
-            "id": 1062327,
-            "name": "OWASP-2017-A7 - Cross-Site Scripting (XSS)",
-            "href": "AIP/technical-criteria/1062327",
-            "weight": 5,
-            "critical": false
-        },
-        {
-            "id": 1062343,
-            "name": "OWASP-2021-A03 - Injection",
-            "href": "AIP/technical-criteria/1062343",
-            "weight": 5,
-            "critical": false
-        }
+        
     ],
     "technologies": [
         {

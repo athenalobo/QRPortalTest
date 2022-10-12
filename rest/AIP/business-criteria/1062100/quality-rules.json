@@ -1885,6 +1885,18 @@
         ]
     },
     {
+        "id": 8112,
+        "name": "Avoid improper processing of the execution status of data handling operations",
+        "href": "AIP/quality-rules/8112",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 8114,
         "name": "Avoid data corruption during incompatible mutation (ABAP)",
         "href": "AIP/quality-rules/8114",
@@ -2399,6 +2411,16 @@
         ]
     },
     {
+        "id": 8556,
+        "name": "'XML GENERATE' should be used with 'WITH ENCODING'",
+        "href": "AIP/quality-rules/8556",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "Cobol"
+        ]
+    },
+    {
         "id": 1001008,
         "name": "Avoid having multiple artifacts inserting data on the same SQL table (PLI)",
         "href": "AIP/quality-rules/1001008",
@@ -2596,6 +2618,16 @@
         "severity": 10,
         "technologyNames": [
             "PLC"
+        ]
+    },
+    {
+        "id": 1001150,
+        "name": "Avoid Functions and Procedures having a SELECT without the default OTHERWISE clause (PL1)",
+        "href": "AIP/quality-rules/1001150",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "PLI"
         ]
     },
     {
@@ -4849,16 +4881,6 @@
         ]
     },
     {
-        "id": 1020878,
-        "name": "DELETED: Ensure the express X-XSS-Protection header is enabled (TypeScript)",
-        "href": "AIP/quality-rules/1020878",
-        "critical": false,
-        "severity": 10,
-        "technologyNames": [
-            "HTML5"
-        ]
-    },
-    {
         "id": 1020892,
         "name": "Ensure Node.js filesystem are closed (TypeScript)",
         "href": "AIP/quality-rules/1020892",
@@ -5141,6 +5163,30 @@
         ]
     },
     {
+        "id": 1025030,
+        "name": "Avoid hard-coded JWT secret keys",
+        "href": "AIP/quality-rules/1025030",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025048,
+        "name": "Avoid hard-coded password in connection string",
+        "href": "AIP/quality-rules/1025048",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1027000,
         "name": "Avoid Managed type declaration for Win32 API using Overlapped IO",
         "href": "AIP/quality-rules/1027000",
@@ -5266,6 +5312,17 @@
         "href": "AIP/quality-rules/1027090",
         "critical": false,
         "severity": 10,
+        "technologyNames": [
+            "C#",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1027100,
+        "name": "Avoid dangerous File Upload",
+        "href": "AIP/quality-rules/1027100",
+        "critical": true,
+        "severity": 20,
         "technologyNames": [
             "C#",
             "VB.NET"

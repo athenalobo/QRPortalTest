@@ -568,6 +568,16 @@
         ]
     },
     {
+        "id": 8556,
+        "name": "'XML GENERATE' should be used with 'WITH ENCODING'",
+        "href": "AIP/quality-rules/8556",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "Cobol"
+        ]
+    },
+    {
         "id": 1007156,
         "name": "Avoid using eval expressions (PHP)",
         "href": "AIP/quality-rules/1007156",
@@ -1068,16 +1078,6 @@
         ]
     },
     {
-        "id": 1020878,
-        "name": "DELETED: Ensure the express X-XSS-Protection header is enabled (TypeScript)",
-        "href": "AIP/quality-rules/1020878",
-        "critical": false,
-        "weight": 5,
-        "technologyNames": [
-            "HTML5"
-        ]
-    },
-    {
         "id": 1020926,
         "name": "Avoid string interpolations to prevent SQL injections (TypeScript)",
         "href": "AIP/quality-rules/1020926",
@@ -1121,6 +1121,66 @@
         "id": 1025000,
         "name": "Avoid second order OS command injection",
         "href": "AIP/quality-rules/1025000",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025002,
+        "name": "Avoid second order XPath injection",
+        "href": "AIP/quality-rules/1025002",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025010,
+        "name": "Avoid second order LDAP injection",
+        "href": "AIP/quality-rules/1025010",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025018,
+        "name": "Avoid cookie injection",
+        "href": "AIP/quality-rules/1025018",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025020,
+        "name": "Avoid data filter injection",
+        "href": "AIP/quality-rules/1025020",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025022,
+        "name": "Avoid data filter injection through API requests",
+        "href": "AIP/quality-rules/1025022",
         "critical": false,
         "weight": 5,
         "technologyNames": [

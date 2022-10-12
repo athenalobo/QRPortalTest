@@ -258,6 +258,16 @@
         ]
     },
     {
+        "id": 8220,
+        "name": "Prefer not using deprecated methods, constructors, fields, type or packages",
+        "href": "AIP/quality-rules/8220",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 8222,
         "name": "Ensure you don't have hard-coded credentials in your source code because it could be retro-engineered by attackers.",
         "href": "AIP/quality-rules/8222",
@@ -1101,6 +1111,16 @@
         "href": "AIP/quality-rules/1020222",
         "critical": true,
         "severity": 20,
+        "technologyNames": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 1020318,
+        "name": "Ensure you don't use officially jQuery deprecated methods",
+        "href": "AIP/quality-rules/1020318",
+        "critical": false,
+        "severity": 10,
         "technologyNames": [
             "HTML5"
         ]
@@ -1996,6 +2016,16 @@
         ]
     },
     {
+        "id": 1024000,
+        "name": "Prefer using FrameLayout, RelativeLayout or CustomLayout in place of AbsoluteLayout",
+        "href": "AIP/quality-rules/1024000",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 1024002,
         "name": "A read permission should be specified for Content Provider to restrict data access from others apps",
         "href": "AIP/quality-rules/1024002",
@@ -2149,6 +2179,30 @@
         "id": 1025000,
         "name": "Ensure your application does not run OS command without sanitization",
         "href": "AIP/quality-rules/1025000",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025002,
+        "name": "Ensure your application properly neutralize XML content before it is processed",
+        "href": "AIP/quality-rules/1025002",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025010,
+        "name": "Ensure your application does not run LDAP methods without sanitization",
+        "href": "AIP/quality-rules/1025010",
         "critical": true,
         "severity": 30,
         "technologyNames": [
@@ -3241,6 +3295,16 @@
         "severity": 20,
         "technologyNames": [
             "ASP.NET"
+        ]
+    },
+    {
+        "id": 1101088,
+        "name": "Ensure that you use CLOB, NCLOB or BLOB datatypes in tables instead of LONG or LONG RAW as the latter are deprecated",
+        "href": "AIP/quality-rules/1101088",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SQL"
         ]
     },
     {
