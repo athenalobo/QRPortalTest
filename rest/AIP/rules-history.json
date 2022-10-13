@@ -12188,6 +12188,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.6.2-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.nosqljava": [
