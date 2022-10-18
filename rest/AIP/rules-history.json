@@ -11726,6 +11726,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "2.9.0-alpha2",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.nosqldotnet": [
