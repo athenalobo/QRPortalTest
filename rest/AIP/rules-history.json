@@ -23486,6 +23486,15 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.11.0-alpha2",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.vuejs": [
