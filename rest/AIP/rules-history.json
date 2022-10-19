@@ -11737,15 +11737,6 @@
             ]
         },
         {
-            "version": "2.9.0-alpha1",
-            "addedRules": [
-                
-            ],
-            "detachedRules": [
-                
-            ]
-        },
-        {
             "version": "2.9.0-alpha2",
             "addedRules": [
                 
@@ -23471,15 +23462,6 @@
         },
         {
             "version": "1.10.2-funcrel",
-            "addedRules": [
-                
-            ],
-            "detachedRules": [
-                
-            ]
-        },
-        {
-            "version": "1.11.0-alpha1",
             "addedRules": [
                 
             ],
