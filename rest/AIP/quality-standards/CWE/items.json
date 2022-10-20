@@ -333,7 +333,7 @@
         "id": "CWE-97",
         "name": "Improper Neutralization of Server-Side Includes (SSI) Within a Web Page",
         "href": "AIP/quality-standards/CWE/items/CWE-97",
-        "count": 1
+        "count": 2
     },
     {
         "id": "CWE-98",

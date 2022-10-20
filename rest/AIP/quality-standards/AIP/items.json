@@ -39,7 +39,7 @@
         "id": "AIP-CORE-RULE",
         "name": "RESERVED TAG - DO NOT USE",
         "href": "AIP/quality-standards/AIP/items/AIP-CORE-RULE",
-        "count": 2427
+        "count": 2428
     },
     {
         "id": "AIP-SYSTEM-LEVEL",
@@ -111,7 +111,7 @@
         "id": "COMMAND-INJECTION",
         "name": "OS/LDAP Command Injection or Expression evaluation injection",
         "href": "AIP/quality-standards/AIP/items/COMMAND-INJECTION",
-        "count": 62
+        "count": 63
     },
     {
         "id": "CROSS-SITE-VULNERABILITY",

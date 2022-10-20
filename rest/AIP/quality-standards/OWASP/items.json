@@ -3,7 +3,7 @@
         "id": "A1-2013",
         "name": "Injection",
         "href": "AIP/quality-standards/OWASP/items/A1-2013",
-        "count": 83
+        "count": 84
     },
     {
         "id": "A2-2013",
@@ -63,7 +63,7 @@
         "id": "A1-2017",
         "name": "Injection",
         "href": "AIP/quality-standards/OWASP/items/A1-2017",
-        "count": 77
+        "count": 78
     },
     {
         "id": "A2-2017",
@@ -135,7 +135,7 @@
         "id": "A03-2021",
         "name": "Injection",
         "href": "AIP/quality-standards/OWASP/items/A03-2021",
-        "count": 125
+        "count": 126
     },
     {
         "id": "A04-2021",
@@ -225,7 +225,7 @@
         "id": "API8-2019",
         "name": "Injection",
         "href": "AIP/quality-standards/OWASP/items/API8-2019",
-        "count": 87
+        "count": 88
     },
     {
         "id": "API9-2019",

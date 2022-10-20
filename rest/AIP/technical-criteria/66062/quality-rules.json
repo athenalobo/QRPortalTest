@@ -2021,8 +2021,20 @@
     },
     {
         "id": 1025046,
-        "name": "Avoid MVC injection through AIP requests",
+        "name": "Avoid MVC injection through API requests",
         "href": "AIP/quality-rules/1025046",
+        "critical": true,
+        "weight": 9,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025050,
+        "name": "Avoid dangerous file inclusion",
+        "href": "AIP/quality-rules/1025050",
         "critical": true,
         "weight": 9,
         "technologyNames": [

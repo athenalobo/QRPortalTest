@@ -18374,6 +18374,18 @@
             "detachedRules": [
                 
             ]
+        },
+        {
+            "version": "1.0.4-funcrel",
+            "addedRules": [
+                {
+                    "id": 1025050,
+                    "name": "Avoid dangerous file inclusion"
+                }
+            ],
+            "detachedRules": [
+                
+            ]
         }
     ],
     "com.castsoftware.shell": [
