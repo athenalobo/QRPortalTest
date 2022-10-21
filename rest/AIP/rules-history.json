@@ -7452,6 +7452,17 @@
             ]
         }
     ],
+    "com.castsoftware.java.cassandra": [
+        {
+            "version": "1.0.0-beta1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        }
+    ],
     "com.castsoftware.java.gcp": [
         {
             "version": "1.0.0-alpha1",

@@ -230,6 +230,12 @@
     {
         "qualityModel": false,
         "transactionsConfiguration": true,
+        "name": "com.castsoftware.java.cassandra",
+        "href": "AIP/extensions/com.castsoftware.java.cassandra"
+    },
+    {
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.java.gcp",
         "href": "AIP/extensions/com.castsoftware.java.gcp"
     },
