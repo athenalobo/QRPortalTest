@@ -10,6 +10,16 @@
         ]
     },
     {
+        "id": 1020880,
+        "name": "Ensure the express X-Powered-By header is disabled (TypeScript)",
+        "href": "AIP/quality-rules/1020880",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "HTML5"
+        ]
+    },
+    {
         "id": 1025020,
         "name": "Avoid data filter injection",
         "href": "AIP/quality-rules/1025020",

@@ -57,7 +57,7 @@
         "id": "CWE-200",
         "name": "Exposure of Sensitive Information to an Unauthorized Actor",
         "href": "CARL/quality-standards/CWE/items/CWE-200",
-        "count": 1
+        "count": 2
     },
     {
         "id": "CWE-269",
