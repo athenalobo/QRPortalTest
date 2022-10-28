@@ -4407,6 +4407,15 @@
     ],
     "com.castsoftware.entity": [
         {
+            "version": "2.2.2-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "2.2.1-funcrel",
             "addedRules": [
                 
