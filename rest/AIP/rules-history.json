@@ -13416,6 +13416,15 @@
     ],
     "com.castsoftware.peoplesoft": [
         {
+            "version": "5.2.1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "5.2.0",
             "addedRules": [
                 

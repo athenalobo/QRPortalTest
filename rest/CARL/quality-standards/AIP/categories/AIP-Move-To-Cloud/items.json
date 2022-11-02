@@ -12,9 +12,21 @@
         "count": 0
     },
     {
+        "id": "AIP-M2C-DataType",
+        "name": "Data Type Remediation",
+        "href": "CARL/quality-standards/AIP/items/AIP-M2C-DataType",
+        "count": 0
+    },
+    {
         "id": "AIP-M2C-GCP",
         "name": "Google Cloud Platform",
         "href": "CARL/quality-standards/AIP/items/AIP-M2C-GCP",
+        "count": 0
+    },
+    {
+        "id": "AIP-M2C-ObjectType",
+        "name": "Object Type Remediation",
+        "href": "CARL/quality-standards/AIP/items/AIP-M2C-ObjectType",
         "count": 0
     },
     {
@@ -39,6 +51,12 @@
         "id": "AIP-M2C-Retire",
         "name": "Retire Recommendation",
         "href": "CARL/quality-standards/AIP/items/AIP-M2C-Retire",
+        "count": 0
+    },
+    {
+        "id": "AIP-M2C-Syntax",
+        "name": "Syntax Remediation",
+        "href": "CARL/quality-standards/AIP/items/AIP-M2C-Syntax",
         "count": 0
     }
 ]
