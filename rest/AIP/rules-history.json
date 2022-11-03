@@ -7575,6 +7575,17 @@
             ]
         }
     ],
+    "com.castsoftware.java.sql": [
+        {
+            "version": "1.0.0-alpha1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        }
+    ],
     "com.castsoftware.java2program": [
         {
             "version": "1.0.0-funcrel",
