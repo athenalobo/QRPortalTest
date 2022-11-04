@@ -30,6 +30,12 @@
         "count": 0
     },
     {
+        "id": "AIP-M2C-Oracle",
+        "name": "Oracle",
+        "href": "CARL/quality-standards/AIP/items/AIP-M2C-Oracle",
+        "count": 0
+    },
+    {
         "id": "AIP-M2C-Rehost",
         "name": "Rehost Recommendation",
         "href": "CARL/quality-standards/AIP/items/AIP-M2C-Rehost",
