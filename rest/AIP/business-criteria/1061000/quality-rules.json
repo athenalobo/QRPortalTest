@@ -5609,7 +5609,7 @@
         "name": "Avoid hard-coded JWT secret keys",
         "href": "AIP/quality-rules/1025030",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -5621,7 +5621,7 @@
         "name": "Avoid hard-coded password in connection string",
         "href": "AIP/quality-rules/1025048",
         "critical": false,
-        "severity": 10,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",

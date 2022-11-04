@@ -123,7 +123,7 @@
         "id": "CWE-798",
         "name": "Use of Hard-coded Credentials",
         "href": "CARL/quality-standards/CWE/items/CWE-798",
-        "count": 4
+        "count": 6
     },
     {
         "id": "CWE-807",

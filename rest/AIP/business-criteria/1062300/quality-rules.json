@@ -396,7 +396,7 @@
         "name": "Avoid using unsecured cookie",
         "href": "AIP/quality-rules/8240",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -2858,7 +2858,7 @@
         "name": "Avoid second order URL redirection to untrusted site",
         "href": "AIP/quality-rules/1025004",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -2882,7 +2882,7 @@
         "name": "Avoid using cookie without the HttpOnly flag",
         "href": "AIP/quality-rules/1025016",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -2894,7 +2894,7 @@
         "name": "Avoid cookie injection",
         "href": "AIP/quality-rules/1025018",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -2906,7 +2906,7 @@
         "name": "Avoid data filter injection",
         "href": "AIP/quality-rules/1025020",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -2918,7 +2918,7 @@
         "name": "Avoid data filter injection through API requests",
         "href": "AIP/quality-rules/1025022",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -2930,7 +2930,7 @@
         "name": "Avoid disabling the expiration time validation of a JWT token",
         "href": "AIP/quality-rules/1025024",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -2942,7 +2942,7 @@
         "name": "Avoid hard-coded JWT secret keys",
         "href": "AIP/quality-rules/1025030",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -2954,7 +2954,7 @@
         "name": "Avoid insecure parameters for PBKDF2 password encoder",
         "href": "AIP/quality-rules/1025032",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -2966,7 +2966,7 @@
         "name": "Avoid insecure parameters for BCrypt password encoder",
         "href": "AIP/quality-rules/1025034",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -2978,7 +2978,7 @@
         "name": "Avoid insecure parameters for Argon2 password encoder",
         "href": "AIP/quality-rules/1025036",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -2990,7 +2990,7 @@
         "name": "Avoid insecure parameters for SCrypt password encoder",
         "href": "AIP/quality-rules/1025038",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -3002,7 +3002,7 @@
         "name": "Avoid hard-coded password in connection string",
         "href": "AIP/quality-rules/1025048",
         "critical": false,
-        "severity": 10,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",

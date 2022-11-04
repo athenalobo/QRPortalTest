@@ -114,7 +114,7 @@
         "name": "Avoid disabling the expiration time requirement of a JWT token",
         "href": "AIP/quality-rules/1025026",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -126,7 +126,7 @@
         "name": "Avoid disabling the signature requirement of a JWT token",
         "href": "AIP/quality-rules/1025028",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",

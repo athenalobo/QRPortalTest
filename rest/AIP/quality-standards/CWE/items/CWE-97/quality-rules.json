@@ -14,7 +14,7 @@
         "name": "Avoid dangerous file inclusion",
         "href": "AIP/quality-rules/1025050",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",

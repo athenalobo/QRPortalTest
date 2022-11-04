@@ -3,7 +3,7 @@
     "name": "Avoid MVC injection",
     "href": "AIP/quality-rules/1025044",
     "critical": true,
-    "severity": 20,
+    "severity": 30,
     "maxWeight": 9,
     "extension": {
         "name": "com.castsoftware.securityanalyzer",

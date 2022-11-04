@@ -3,7 +3,7 @@
     "name": "Avoid external control of system or configuration setting",
     "href": "AIP/quality-rules/1025040",
     "critical": true,
-    "severity": 20,
+    "severity": 30,
     "maxWeight": 9,
     "extension": {
         "name": "com.castsoftware.securityanalyzer",

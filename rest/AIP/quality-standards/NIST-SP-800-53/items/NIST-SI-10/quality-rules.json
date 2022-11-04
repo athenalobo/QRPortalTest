@@ -1176,7 +1176,7 @@
         "name": "Avoid cookie injection",
         "href": "AIP/quality-rules/1025018",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -1188,7 +1188,7 @@
         "name": "Avoid data filter injection",
         "href": "AIP/quality-rules/1025020",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -1200,7 +1200,7 @@
         "name": "Avoid data filter injection through API requests",
         "href": "AIP/quality-rules/1025022",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -1212,7 +1212,7 @@
         "name": "Avoid MVC injection",
         "href": "AIP/quality-rules/1025044",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -1224,7 +1224,7 @@
         "name": "Avoid MVC injection through API requests",
         "href": "AIP/quality-rules/1025046",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -1236,7 +1236,7 @@
         "name": "Avoid dangerous file inclusion",
         "href": "AIP/quality-rules/1025050",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",

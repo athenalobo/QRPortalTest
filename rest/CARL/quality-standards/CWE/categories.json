@@ -2,37 +2,37 @@
     {
         "name": "CWE-2011-Top25",
         "href": "CARL/quality-standards/CWE/categories/CWE-2011-Top25",
-        "count": 174,
+        "count": 176,
         "description": null
     },
     {
         "name": "CWE-2019-Top25",
         "href": "CARL/quality-standards/CWE/categories/CWE-2019-Top25",
-        "count": 147,
+        "count": 153,
         "description": null
     },
     {
         "name": "CWE-2020-Top25",
         "href": "CARL/quality-standards/CWE/categories/CWE-2020-Top25",
-        "count": 141,
+        "count": 151,
         "description": null
     },
     {
         "name": "CWE-2021-Top25",
         "href": "CARL/quality-standards/CWE/categories/CWE-2021-Top25",
-        "count": 135,
+        "count": 145,
         "description": null
     },
     {
         "name": "CWE-2022-Top25",
         "href": "CARL/quality-standards/CWE/categories/CWE-2022-Top25",
-        "count": 142,
+        "count": 146,
         "description": "Top 25 Most Dangerous Software Errors - 2022"
     },
     {
         "name": "CWE-LATEST-VERSION",
         "href": "CARL/quality-standards/CWE/categories/CWE-LATEST-VERSION",
-        "count": 665,
+        "count": 683,
         "description": null
     }
 ]

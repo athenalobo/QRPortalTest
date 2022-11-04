@@ -106,7 +106,7 @@
         "name": "Avoid hard-coded password in connection string",
         "href": "AIP/quality-rules/1025048",
         "critical": false,
-        "severity": 10,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",

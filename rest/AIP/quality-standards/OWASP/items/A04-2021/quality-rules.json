@@ -192,7 +192,7 @@
         "name": "Avoid insecure parameters for PBKDF2 password encoder",
         "href": "AIP/quality-rules/1025032",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -204,7 +204,7 @@
         "name": "Avoid insecure parameters for BCrypt password encoder",
         "href": "AIP/quality-rules/1025034",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -216,7 +216,7 @@
         "name": "Avoid insecure parameters for Argon2 password encoder",
         "href": "AIP/quality-rules/1025036",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -228,7 +228,7 @@
         "name": "Avoid insecure parameters for SCrypt password encoder",
         "href": "AIP/quality-rules/1025038",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -240,7 +240,7 @@
         "name": "Avoid external control of system or configuration setting",
         "href": "AIP/quality-rules/1025040",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -252,7 +252,7 @@
         "name": "Avoid external control of system or configuration setting through API requests",
         "href": "AIP/quality-rules/1025042",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",

@@ -3,7 +3,7 @@
     "name": "Avoid insecure parameters for Argon2 password encoder",
     "href": "AIP/quality-rules/1025036",
     "critical": true,
-    "severity": 20,
+    "severity": 30,
     "maxWeight": 9,
     "extension": {
         "name": "com.castsoftware.securityanalyzer",

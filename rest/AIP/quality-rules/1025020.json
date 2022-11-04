@@ -3,7 +3,7 @@
     "name": "Avoid data filter injection",
     "href": "AIP/quality-rules/1025020",
     "critical": true,
-    "severity": 20,
+    "severity": 30,
     "maxWeight": 8,
     "extension": {
         "name": "com.castsoftware.securityanalyzer",

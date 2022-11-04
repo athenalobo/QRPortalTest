@@ -126,7 +126,7 @@
         "name": "Avoid disabling the expiration time validation of a JWT token",
         "href": "AIP/quality-rules/1025024",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -138,7 +138,7 @@
         "name": "Avoid insecure parameters for PBKDF2 password encoder",
         "href": "AIP/quality-rules/1025032",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -150,7 +150,7 @@
         "name": "Avoid insecure parameters for BCrypt password encoder",
         "href": "AIP/quality-rules/1025034",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -162,7 +162,7 @@
         "name": "Avoid insecure parameters for Argon2 password encoder",
         "href": "AIP/quality-rules/1025036",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -174,7 +174,7 @@
         "name": "Avoid insecure parameters for SCrypt password encoder",
         "href": "AIP/quality-rules/1025038",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -186,7 +186,7 @@
         "name": "Avoid hard-coded password in connection string",
         "href": "AIP/quality-rules/1025048",
         "critical": false,
-        "severity": 10,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",

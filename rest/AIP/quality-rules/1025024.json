@@ -3,7 +3,7 @@
     "name": "Avoid disabling the expiration time validation of a JWT token",
     "href": "AIP/quality-rules/1025024",
     "critical": true,
-    "severity": 20,
+    "severity": 30,
     "maxWeight": 9,
     "extension": {
         "name": "com.castsoftware.securityanalyzer",

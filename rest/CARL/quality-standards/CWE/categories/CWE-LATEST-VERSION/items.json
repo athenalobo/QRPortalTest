@@ -57,7 +57,7 @@
         "id": "CWE-15",
         "name": "External Control of System or Configuration Setting",
         "href": "CARL/quality-standards/CWE/items/CWE-15",
-        "count": 0
+        "count": 2
     },
     {
         "id": "CWE-20",
@@ -357,7 +357,7 @@
         "id": "CWE-74",
         "name": "Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection')",
         "href": "CARL/quality-standards/CWE/items/CWE-74",
-        "count": 0
+        "count": 2
     },
     {
         "id": "CWE-75",
@@ -471,7 +471,7 @@
         "id": "CWE-93",
         "name": "Improper Neutralization of CRLF Sequences ('CRLF Injection')",
         "href": "CARL/quality-standards/CWE/items/CWE-93",
-        "count": 6
+        "count": 9
     },
     {
         "id": "CWE-94",
@@ -495,7 +495,7 @@
         "id": "CWE-97",
         "name": "Improper Neutralization of Server-Side Includes (SSI) Within a Web Page",
         "href": "CARL/quality-standards/CWE/items/CWE-97",
-        "count": 0
+        "count": 1
     },
     {
         "id": "CWE-98",
@@ -579,7 +579,7 @@
         "id": "CWE-113",
         "name": "Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')",
         "href": "CARL/quality-standards/CWE/items/CWE-113",
-        "count": 3
+        "count": 6
     },
     {
         "id": "CWE-114",
@@ -1053,7 +1053,7 @@
         "id": "CWE-200",
         "name": "Exposure of Sensitive Information to an Unauthorized Actor",
         "href": "CARL/quality-standards/CWE/items/CWE-200",
-        "count": 2
+        "count": 4
     },
     {
         "id": "CWE-201",
@@ -1533,7 +1533,7 @@
         "id": "CWE-287",
         "name": "Improper Authentication",
         "href": "CARL/quality-standards/CWE/items/CWE-287",
-        "count": 17
+        "count": 19
     },
     {
         "id": "CWE-288",
@@ -1725,7 +1725,7 @@
         "id": "CWE-321",
         "name": "Use of Hard-coded Cryptographic Key",
         "href": "CARL/quality-standards/CWE/items/CWE-321",
-        "count": 1
+        "count": 2
     },
     {
         "id": "CWE-322",
@@ -2751,7 +2751,7 @@
         "id": "CWE-522",
         "name": "Insufficiently Protected Credentials",
         "href": "CARL/quality-standards/CWE/items/CWE-522",
-        "count": 0
+        "count": 4
     },
     {
         "id": "CWE-523",
@@ -2931,7 +2931,7 @@
         "id": "CWE-552",
         "name": "Files or Directories Accessible to External Parties",
         "href": "CARL/quality-standards/CWE/items/CWE-552",
-        "count": 1
+        "count": 3
     },
     {
         "id": "CWE-553",
@@ -3273,7 +3273,7 @@
         "id": "CWE-613",
         "name": "Insufficient Session Expiration",
         "href": "CARL/quality-standards/CWE/items/CWE-613",
-        "count": 2
+        "count": 3
     },
     {
         "id": "CWE-614",
@@ -3405,7 +3405,7 @@
         "id": "CWE-642",
         "name": "External Control of Critical State Data",
         "href": "CARL/quality-standards/CWE/items/CWE-642",
-        "count": 0
+        "count": 2
     },
     {
         "id": "CWE-643",
@@ -4029,7 +4029,7 @@
         "id": "CWE-798",
         "name": "Use of Hard-coded Credentials",
         "href": "CARL/quality-standards/CWE/items/CWE-798",
-        "count": 4
+        "count": 6
     },
     {
         "id": "CWE-799",
@@ -4263,7 +4263,7 @@
         "id": "CWE-916",
         "name": "Use of Password Hash With Insufficient Computational Effort",
         "href": "CARL/quality-standards/CWE/items/CWE-916",
-        "count": 1
+        "count": 5
     },
     {
         "id": "CWE-917",
@@ -4359,7 +4359,7 @@
         "id": "CWE-1004",
         "name": "Sensitive Cookie Without 'HttpOnly' Flag",
         "href": "CARL/quality-standards/CWE/items/CWE-1004",
-        "count": 6
+        "count": 7
     },
     {
         "id": "CWE-1007",

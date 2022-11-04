@@ -5,7 +5,7 @@
         "href": "AIP/quality-rules/8240",
         "status": "renewed",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -44,7 +44,7 @@
         "href": "AIP/quality-rules/1025004",
         "status": "renewed",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -70,7 +70,7 @@
         "href": "AIP/quality-rules/1025016",
         "status": "renewed",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -83,7 +83,7 @@
         "href": "AIP/quality-rules/1025018",
         "status": "renewed",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -96,7 +96,7 @@
         "href": "AIP/quality-rules/1025020",
         "status": "renewed",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -109,7 +109,7 @@
         "href": "AIP/quality-rules/1025022",
         "status": "renewed",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -122,7 +122,7 @@
         "href": "AIP/quality-rules/1025024",
         "status": "added",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -135,7 +135,7 @@
         "href": "AIP/quality-rules/1025026",
         "status": "added",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -148,7 +148,7 @@
         "href": "AIP/quality-rules/1025028",
         "status": "added",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -161,7 +161,7 @@
         "href": "AIP/quality-rules/1025030",
         "status": "added",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -174,7 +174,7 @@
         "href": "AIP/quality-rules/1025032",
         "status": "added",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -187,7 +187,7 @@
         "href": "AIP/quality-rules/1025034",
         "status": "added",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -200,7 +200,7 @@
         "href": "AIP/quality-rules/1025036",
         "status": "added",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -213,7 +213,7 @@
         "href": "AIP/quality-rules/1025038",
         "status": "added",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",

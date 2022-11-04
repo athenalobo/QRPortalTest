@@ -3,7 +3,7 @@
     "name": "Avoid insecure parameters for SCrypt password encoder",
     "href": "AIP/quality-rules/1025038",
     "critical": true,
-    "severity": 20,
+    "severity": 30,
     "maxWeight": 9,
     "extension": {
         "name": "com.castsoftware.securityanalyzer",

@@ -57,7 +57,7 @@
         "id": "CWE-200",
         "name": "Exposure of Sensitive Information to an Unauthorized Actor",
         "href": "CARL/quality-standards/CWE/items/CWE-200",
-        "count": 2
+        "count": 4
     },
     {
         "id": "CWE-269",
@@ -69,7 +69,7 @@
         "id": "CWE-287",
         "name": "Improper Authentication",
         "href": "CARL/quality-standards/CWE/items/CWE-287",
-        "count": 17
+        "count": 19
     },
     {
         "id": "CWE-295",
@@ -147,6 +147,6 @@
         "id": "CWE-798",
         "name": "Use of Hard-coded Credentials",
         "href": "CARL/quality-standards/CWE/items/CWE-798",
-        "count": 4
+        "count": 6
     }
 ]

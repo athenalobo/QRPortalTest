@@ -3,7 +3,7 @@
     "name": "Avoid cookie injection",
     "href": "AIP/quality-rules/1025018",
     "critical": true,
-    "severity": 20,
+    "severity": 30,
     "maxWeight": 8,
     "extension": {
         "name": "com.castsoftware.securityanalyzer",

@@ -8247,7 +8247,7 @@
         "href": "AIP/quality-rules/8240",
         "status": "renewed",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",

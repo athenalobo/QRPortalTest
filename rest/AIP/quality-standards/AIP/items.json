@@ -33,7 +33,7 @@
         "id": "AIP-CAST-LITE",
         "name": "Rule implemented in CAST Lite product",
         "href": "AIP/quality-standards/AIP/items/AIP-CAST-LITE",
-        "count": 1288
+        "count": 1306
     },
     {
         "id": "AIP-CORE-RULE",
@@ -51,7 +51,7 @@
         "id": "AIP-TOP-PRIORITY",
         "name": "Top Priority Rule",
         "href": "AIP/quality-standards/AIP/items/AIP-TOP-PRIORITY",
-        "count": 203
+        "count": 223
     },
     {
         "id": "AIP-HA-FAILURES",

@@ -3,7 +3,7 @@
     "name": "Avoid disabling the signature requirement of a JWT token",
     "href": "AIP/quality-rules/1025028",
     "critical": true,
-    "severity": 20,
+    "severity": 30,
     "maxWeight": 9,
     "extension": {
         "name": "com.castsoftware.securityanalyzer",
