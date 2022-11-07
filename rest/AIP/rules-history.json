@@ -11032,6 +11032,15 @@
     ],
     "com.castsoftware.nodejs": [
         {
+            "version": "2.9.0-alpha3",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "2.9.0-alpha2",
             "addedRules": [
                 
