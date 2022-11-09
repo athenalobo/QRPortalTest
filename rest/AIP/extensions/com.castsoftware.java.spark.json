@@ -1,0 +1,13 @@
+{
+    "qualityModel": false,
+    "transactionsConfiguration": false,
+    "name": "com.castsoftware.java.spark",
+    "href": "AIP/extensions/com.castsoftware.java.spark",
+    "title": "Java Spark JDBC",
+    "description": "Spark is a free and open-source software web application framework and domain-specific language written in Java. It is an alternative to other Java web application frameworks such as JAX-RS, Play framework and Spring MVC. Using this extension will help cover the syntaxes of Spark framework and create appropriate objects and links.",
+    "iconUrl": "https://raw.githubusercontent.com/CAST-Extend/resources/master/com.castsoftware.java.spark.png",
+    "versions": {
+        "name": "versions from latest to oldest",
+        "href": "AIP/extensions/com.castsoftware.java.spark/versions"
+    }
+}

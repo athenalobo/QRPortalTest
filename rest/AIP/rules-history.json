@@ -3668,6 +3668,15 @@
     ],
     "com.castsoftware.dotnet.dapper": [
         {
+            "version": "1.0.0-alpha3",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.0-alpha2",
             "addedRules": [
                 
@@ -7501,6 +7510,17 @@
             ]
         }
     ],
+    "com.castsoftware.java.hibernate": [
+        {
+            "version": "1.0.0-alpha1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        }
+    ],
     "com.castsoftware.java.service": [
         {
             "version": "1.0.2-funcrel",
@@ -7567,6 +7587,17 @@
         },
         {
             "version": "1.0.0-alpha3",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        }
+    ],
+    "com.castsoftware.java.spark": [
+        {
+            "version": "1.0.0-alpha1",
             "addedRules": [
                 
             ],
