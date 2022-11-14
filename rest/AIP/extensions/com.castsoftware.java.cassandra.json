@@ -3,8 +3,8 @@
     "transactionsConfiguration": true,
     "name": "com.castsoftware.java.cassandra",
     "href": "AIP/extensions/com.castsoftware.java.cassandra",
-    "title": "Java Cassandra Analyzer",
-    "description": "This extension provides support for Cassandra Java",
+    "title": "Apache Cassandra Analyzer for Java",
+    "description": "This extension provides support for Apache Cassandra Java Client drivers.",
     "iconUrl": "https://raw.githubusercontent.com/CAST-Extend/resources/master/com.castsoftware.java.cassandra.png",
     "versions": {
         "name": "versions from latest to oldest",
