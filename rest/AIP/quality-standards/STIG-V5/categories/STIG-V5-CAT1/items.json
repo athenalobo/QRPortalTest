@@ -123,7 +123,7 @@
         "id": "STIG-V-222604",
         "name": "The application must protect from command injection.",
         "href": "AIP/quality-standards/STIG-V5/items/STIG-V-222604",
-        "count": 58
+        "count": 59
     },
     {
         "id": "STIG-V-222607",
@@ -159,7 +159,7 @@
         "id": "STIG-V-222642",
         "name": "The application must not contain embedded authentication data.",
         "href": "AIP/quality-standards/STIG-V5/items/STIG-V-222642",
-        "count": 13
+        "count": 14
     },
     {
         "id": "STIG-V-222643",

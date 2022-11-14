@@ -550,6 +550,18 @@
         ]
     },
     {
+        "id": 1025052,
+        "name": "Avoid using unnormalized input strings",
+        "href": "AIP/quality-rules/1025052",
+        "critical": false,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1027044,
         "name": "Avoid using SafeHandle.DangerousGetHandle",
         "href": "AIP/quality-rules/1027044",

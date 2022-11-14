@@ -135,7 +135,7 @@
         "id": "CWE-20",
         "name": "Improper Input Validation",
         "href": "AIP/quality-standards/CWE/items/CWE-20",
-        "count": 2
+        "count": 3
     },
     {
         "id": "CWE-94",
@@ -432,6 +432,12 @@
         "count": 1
     },
     {
+        "id": "CWE-180",
+        "name": "Incorrect Behavior Order: Validate Before Canonicalize",
+        "href": "AIP/quality-standards/CWE/items/CWE-180",
+        "count": 1
+    },
+    {
         "id": "CWE-197",
         "name": "Numeric Truncation Error",
         "href": "AIP/quality-standards/CWE/items/CWE-197",
@@ -495,7 +501,7 @@
         "id": "CWE-256",
         "name": "Plaintext Storage of a Password",
         "href": "AIP/quality-standards/CWE/items/CWE-256",
-        "count": 1
+        "count": 2
     },
     {
         "id": "CWE-259",

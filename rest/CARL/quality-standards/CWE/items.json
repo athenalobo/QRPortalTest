@@ -126,6 +126,12 @@
         "count": 2
     },
     {
+        "id": "CWE-20",
+        "name": "Improper Input Validation",
+        "href": "CARL/quality-standards/CWE/items/CWE-20",
+        "count": 1
+    },
+    {
         "id": "CWE-94",
         "name": "Improper Control of Generation of Code ('Code Injection')",
         "href": "CARL/quality-standards/CWE/items/CWE-94",
@@ -408,6 +414,12 @@
         "count": 1
     },
     {
+        "id": "CWE-180",
+        "name": "Incorrect Behavior Order: Validate Before Canonicalize",
+        "href": "CARL/quality-standards/CWE/items/CWE-180",
+        "count": 1
+    },
+    {
         "id": "CWE-209",
         "name": "Generation of Error Message Containing Sensitive Information",
         "href": "CARL/quality-standards/CWE/items/CWE-209",
@@ -435,6 +447,12 @@
         "id": "CWE-252",
         "name": "Unchecked Return Value",
         "href": "CARL/quality-standards/CWE/items/CWE-252",
+        "count": 1
+    },
+    {
+        "id": "CWE-256",
+        "name": "Plaintext Storage of a Password",
+        "href": "CARL/quality-standards/CWE/items/CWE-256",
         "count": 1
     },
     {

@@ -8,31 +8,31 @@
     {
         "name": "CWE-2019-Top25",
         "href": "CARL/quality-standards/CWE/categories/CWE-2019-Top25",
-        "count": 153,
+        "count": 154,
         "description": null
     },
     {
         "name": "CWE-2020-Top25",
         "href": "CARL/quality-standards/CWE/categories/CWE-2020-Top25",
-        "count": 151,
+        "count": 152,
         "description": null
     },
     {
         "name": "CWE-2021-Top25",
         "href": "CARL/quality-standards/CWE/categories/CWE-2021-Top25",
-        "count": 145,
+        "count": 146,
         "description": null
     },
     {
         "name": "CWE-2022-Top25",
         "href": "CARL/quality-standards/CWE/categories/CWE-2022-Top25",
-        "count": 146,
+        "count": 147,
         "description": "Top 25 Most Dangerous Software Errors - 2022"
     },
     {
         "name": "CWE-LATEST-VERSION",
         "href": "CARL/quality-standards/CWE/categories/CWE-LATEST-VERSION",
-        "count": 683,
+        "count": 685,
         "description": null
     }
 ]

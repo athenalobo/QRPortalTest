@@ -33,13 +33,13 @@
         "id": "AIP-CAST-LITE",
         "name": "Rule implemented in CAST Lite product",
         "href": "CARL/quality-standards/AIP/items/AIP-CAST-LITE",
-        "count": 1002
+        "count": 1004
     },
     {
         "id": "AIP-CORE-RULE",
         "name": "RESERVED TAG - DO NOT USE",
         "href": "CARL/quality-standards/AIP/items/AIP-CORE-RULE",
-        "count": 1002
+        "count": 1004
     },
     {
         "id": "AIP-SYSTEM-LEVEL",
@@ -51,7 +51,7 @@
         "id": "AIP-TOP-PRIORITY",
         "name": "Top Priority Rule",
         "href": "CARL/quality-standards/AIP/items/AIP-TOP-PRIORITY",
-        "count": 162
+        "count": 164
     },
     {
         "id": "AIP-HA-FAILURES",
@@ -105,7 +105,7 @@
         "id": "COMMAND-INJECTION",
         "name": "OS/LDAP Command Injection or Expression evaluation injection",
         "href": "CARL/quality-standards/AIP/items/COMMAND-INJECTION",
-        "count": 43
+        "count": 44
     },
     {
         "id": "CROSS-SITE-VULNERABILITY",

@@ -2141,6 +2141,30 @@
         ]
     },
     {
+        "id": 1025052,
+        "name": "Reports usage of String tainted input before Unicode normalization",
+        "href": "AIP/quality-rules/1025052",
+        "critical": false,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025054,
+        "name": "Ensure you don't have hard-coded passwords in configuration files : password retrieved and delivered as is to the sendCredential method",
+        "href": "AIP/quality-rules/1025054",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1027002,
         "name": "Change access modifier to \"private\", \"internal\"or \"private protected\"",
         "href": "AIP/quality-rules/1027002",

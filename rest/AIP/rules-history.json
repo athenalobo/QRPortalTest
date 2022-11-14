@@ -18422,6 +18422,22 @@
     ],
     "com.castsoftware.securityanalyzer": [
         {
+            "version": "1.0.5-funcrel",
+            "addedRules": [
+                {
+                    "id": 1025054,
+                    "name": "Avoid plaintext storage of password"
+                },
+                {
+                    "id": 1025052,
+                    "name": "Avoid using unnormalized input strings"
+                }
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.4-funcrel",
             "addedRules": [
                 {

@@ -3,13 +3,13 @@
         "id": "A1-2013",
         "name": "Injection",
         "href": "AIP/quality-standards/OWASP/items/A1-2013",
-        "count": 84
+        "count": 85
     },
     {
         "id": "A2-2013",
         "name": "Broken Authentication and Session Management",
         "href": "AIP/quality-standards/OWASP/items/A2-2013",
-        "count": 30
+        "count": 31
     },
     {
         "id": "A3-2013",
@@ -63,13 +63,13 @@
         "id": "A1-2017",
         "name": "Injection",
         "href": "AIP/quality-standards/OWASP/items/A1-2017",
-        "count": 78
+        "count": 79
     },
     {
         "id": "A2-2017",
         "name": "Broken Authentication",
         "href": "AIP/quality-standards/OWASP/items/A2-2017",
-        "count": 37
+        "count": 38
     },
     {
         "id": "A3-2017",
@@ -135,13 +135,13 @@
         "id": "A03-2021",
         "name": "Injection",
         "href": "AIP/quality-standards/OWASP/items/A03-2021",
-        "count": 126
+        "count": 127
     },
     {
         "id": "A04-2021",
         "name": "Insecure Design",
         "href": "AIP/quality-standards/OWASP/items/A04-2021",
-        "count": 33
+        "count": 34
     },
     {
         "id": "A05-2021",
@@ -189,7 +189,7 @@
         "id": "API2-2019",
         "name": "Broken User Authentication",
         "href": "AIP/quality-standards/OWASP/items/API2-2019",
-        "count": 21
+        "count": 22
     },
     {
         "id": "API3-2019",
@@ -225,7 +225,7 @@
         "id": "API8-2019",
         "name": "Injection",
         "href": "AIP/quality-standards/OWASP/items/API8-2019",
-        "count": 88
+        "count": 89
     },
     {
         "id": "API9-2019",

@@ -230,6 +230,18 @@
         ]
     },
     {
+        "id": 1025054,
+        "name": "Ensure you don't have hard-coded passwords in configuration files : password retrieved and delivered as is to the sendCredential method",
+        "href": "AIP/quality-rules/1025054",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1027012,
         "name": "Ensure to declare the object as serializable if you are using it as a httpsessionstate attribute",
         "href": "AIP/quality-rules/1027012",
