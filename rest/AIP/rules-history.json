@@ -10479,6 +10479,15 @@
     ],
     "com.castsoftware.mainframe": [
         {
+            "version": "1.0.23-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.22-funcrel",
             "addedRules": [
                 

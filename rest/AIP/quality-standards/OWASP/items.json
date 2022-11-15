@@ -141,7 +141,7 @@
         "id": "A04-2021",
         "name": "Insecure Design",
         "href": "AIP/quality-standards/OWASP/items/A04-2021",
-        "count": 34
+        "count": 33
     },
     {
         "id": "A05-2021",
@@ -201,7 +201,7 @@
         "id": "API4-2019",
         "name": "Lack of Resources & Rate Limiting",
         "href": "AIP/quality-standards/OWASP/items/API4-2019",
-        "count": 6
+        "count": 5
     },
     {
         "id": "API5-2019",
