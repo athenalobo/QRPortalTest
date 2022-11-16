@@ -7218,6 +7218,15 @@
     ],
     "com.castsoftware.internal.platform": [
         {
+            "version": "0.9.12",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "0.9.11",
             "addedRules": [
                 
@@ -23867,6 +23876,15 @@
     ],
     "com.castsoftware.wbslinker": [
         {
+            "version": "1.7.17-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.7.16-funcrel",
             "addedRules": [
                 
@@ -24645,6 +24663,15 @@
         }
     ],
     "com.castsoftware.wicket": [
+        {
+            "version": "1.0.0-beta1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "1.0.0-alpha2",
             "addedRules": [
