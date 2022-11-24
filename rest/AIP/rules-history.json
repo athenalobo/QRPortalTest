@@ -23912,6 +23912,15 @@
     ],
     "com.castsoftware.wbslinker": [
         {
+            "version": "1.7.19-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.7.18-funcrel",
             "addedRules": [
                 
