@@ -4,7 +4,7 @@
     "name": "com.castsoftware.azure.java",
     "href": "AIP/extensions/com.castsoftware.azure.java",
     "title": "Azure for Java Analyzer",
-    "description": "This extension analyzes Azure services for Java.",
+    "description": "This extension supports Microsoft Azure Services Bus, Event Hubs, Blob, Function in application using Azure Java SDK.",
     "iconUrl": "https://raw.githubusercontent.com/CAST-Extend/resources/master/com.castsoftware.azurejee.png",
     "versions": {
         "name": "versions from latest to oldest",
