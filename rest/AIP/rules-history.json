@@ -19737,6 +19737,15 @@
     ],
     "com.castsoftware.springbatch": [
         {
+            "version": "3.1.4-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "3.1.3-funcrel",
             "addedRules": [
                 
@@ -19828,6 +19837,15 @@
         }
     ],
     "com.castsoftware.springdata": [
+        {
+            "version": "2.0.6-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "2.0.5-funcrel",
             "addedRules": [
