@@ -10870,6 +10870,15 @@
     ],
     "com.castsoftware.moduledefinitiontypes": [
         {
+            "version": "1.0.1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.0",
             "addedRules": [
                 
@@ -18070,6 +18079,15 @@
         }
     ],
     "com.castsoftware.sap": [
+        {
+            "version": "1.0.8-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "1.0.7-funcrel",
             "addedRules": [
