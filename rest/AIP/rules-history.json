@@ -1218,6 +1218,15 @@
     ],
     "com.castsoftware.azure.dotnet": [
         {
+            "version": "1.0.0-beta2",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.0-beta1",
             "addedRules": [
                 
@@ -7572,6 +7581,15 @@
         }
     ],
     "com.castsoftware.java.gcp": [
+        {
+            "version": "1.0.0-beta1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "1.0.0-alpha1",
             "addedRules": [
