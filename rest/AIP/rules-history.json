@@ -3802,6 +3802,15 @@
     ],
     "com.castsoftware.dotnetweb": [
         {
+            "version": "1.4.7-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.4.6-funcrel",
             "addedRules": [
                 
