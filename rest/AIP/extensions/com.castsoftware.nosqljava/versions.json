@@ -1,5 +1,12 @@
 [
     {
+        "name": "1.6.10-funcrel",
+        "href": "AIP/extensions/com.castsoftware.nosqljava/versions/1.6.10-funcrel",
+        "metaModelCRC": 3722586365,
+        "rulesCRC": 4008990548,
+        "transactionsConfigurationCRC": 3837130239
+    },
+    {
         "name": "1.6.9-funcrel",
         "href": "AIP/extensions/com.castsoftware.nosqljava/versions/1.6.9-funcrel",
         "metaModelCRC": 1288944030,
