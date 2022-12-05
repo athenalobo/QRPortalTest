@@ -11992,6 +11992,15 @@
     ],
     "com.castsoftware.nosqldotnet": [
         {
+            "version": "1.6.3-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.6.2-funcrel",
             "addedRules": [
                 
