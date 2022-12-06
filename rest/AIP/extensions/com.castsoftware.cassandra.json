@@ -3,8 +3,8 @@
     "transactionsConfiguration": true,
     "name": "com.castsoftware.cassandra",
     "href": "AIP/extensions/com.castsoftware.cassandra",
-    "title": "Cassandra CQL Analyzer",
-    "description": "This extension provides support for Cassandra cql files.",
+    "title": "Apache Cassandra CQL Analyzer",
+    "description": "Apache Cassandra is an open source NoSQL distributed database. This extension provides support for Cassandra CQL files. CQL offers a model similar to SQL. The data is stored in tables containing rows of columns.",
     "iconUrl": "https://raw.githubusercontent.com/CAST-Extend/resources/master/com.castsoftware.cassandra.png",
     "versions": {
         "name": "versions from latest to oldest",
