@@ -1,5 +1,12 @@
 [
     {
+        "name": "2.9.0-beta1",
+        "href": "AIP/extensions/com.castsoftware.nodejs/versions/2.9.0-beta1",
+        "metaModelCRC": 2013119493,
+        "rulesCRC": 2472602198,
+        "transactionsConfigurationCRC": 3775576829
+    },
+    {
         "name": "2.9.0-alpha3",
         "href": "AIP/extensions/com.castsoftware.nodejs/versions/2.9.0-alpha3",
         "metaModelCRC": 2900937997,
