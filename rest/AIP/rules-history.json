@@ -2620,6 +2620,15 @@
     ],
     "com.castsoftware.dotnet": [
         {
+            "version": "1.4.12",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.4.11-funcrel",
             "addedRules": [
                 
