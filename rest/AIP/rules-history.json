@@ -24601,6 +24601,15 @@
     ],
     "com.castsoftware.wcf": [
         {
+            "version": "2.0.7-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "2.0.6-funcrel",
             "addedRules": [
                 
