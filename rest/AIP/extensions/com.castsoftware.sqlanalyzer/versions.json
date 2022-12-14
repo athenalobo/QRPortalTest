@@ -1,5 +1,12 @@
 [
     {
+        "name": "3.6.6-funcrel",
+        "href": "AIP/extensions/com.castsoftware.sqlanalyzer/versions/3.6.6-funcrel",
+        "metaModelCRC": 3627308286,
+        "rulesCRC": 4164679601,
+        "transactionsConfigurationCRC": 3442956780
+    },
+    {
         "name": "3.6.5-funcrel",
         "href": "AIP/extensions/com.castsoftware.sqlanalyzer/versions/3.6.5-funcrel",
         "metaModelCRC": 3627308286,
