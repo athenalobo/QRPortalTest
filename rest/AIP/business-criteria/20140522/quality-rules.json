@@ -5778,6 +5778,26 @@
         ]
     },
     {
+        "id": 1020862,
+        "name": "Avoid having cookie with an overly broad domain (TypeScript)",
+        "href": "AIP/quality-rules/1020862",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 1020866,
+        "name": "Avoid creating cookie with overly broad path (TypeScript)",
+        "href": "AIP/quality-rules/1020866",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "HTML5"
+        ]
+    },
+    {
         "id": 1020872,
         "name": "Always use JSON.parse & JSON.stringify with try/catch block (TypeScript)",
         "href": "AIP/quality-rules/1020872",
