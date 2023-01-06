@@ -3,13 +3,13 @@
         "id": 1,
         "name": "AWS",
         "href": "HL/cloud-ready/platforms/1",
-        "count": 21
+        "count": 20
     },
     {
         "id": 0,
         "name": "Agnostic",
         "href": "HL/cloud-ready/platforms/0",
-        "count": 76
+        "count": 77
     },
     {
         "id": 2,
@@ -18,15 +18,15 @@
         "count": 27
     },
     {
-        "id": 3,
-        "name": "CloudFoundry",
-        "href": "HL/cloud-ready/platforms/3",
-        "count": 8
-    },
-    {
         "id": 4,
         "name": "Google Cloud",
         "href": "HL/cloud-ready/platforms/4",
         "count": 22
+    },
+    {
+        "id": 3,
+        "name": "VMWare Tanzu",
+        "href": "HL/cloud-ready/platforms/3",
+        "count": 8
     }
 ]

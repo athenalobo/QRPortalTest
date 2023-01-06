@@ -105,6 +105,11 @@
         "href": "HL/cloud-ready/detection-patterns/1200092"
     },
     {
+        "id": 1200068,
+        "name": "Using a Cloud-based Active Directory",
+        "href": "HL/cloud-ready/detection-patterns/1200068"
+    },
+    {
         "id": 1200095,
         "name": "Using a Cloud-based Batch Job Orchestration",
         "href": "HL/cloud-ready/detection-patterns/1200095"
@@ -123,16 +128,6 @@
         "id": 1200080,
         "name": "Using a Cloud-based Stream and Batch data processing",
         "href": "HL/cloud-ready/detection-patterns/1200080"
-    },
-    {
-        "id": 1200068,
-        "name": "Using a Cloud-based User Directory",
-        "href": "HL/cloud-ready/detection-patterns/1200068"
-    },
-    {
-        "id": 1200100,
-        "name": "Using a Cloud-based User Directory",
-        "href": "HL/cloud-ready/detection-patterns/1200100"
     },
     {
         "id": 1200082,

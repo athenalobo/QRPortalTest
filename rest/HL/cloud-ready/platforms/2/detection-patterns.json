@@ -45,6 +45,16 @@
         "href": "HL/cloud-ready/detection-patterns/1200051"
     },
     {
+        "id": 1200100,
+        "name": "Using a Cloud-based Active Directory",
+        "href": "HL/cloud-ready/detection-patterns/1200100"
+    },
+    {
+        "id": 1200068,
+        "name": "Using a Cloud-based Active Directory",
+        "href": "HL/cloud-ready/detection-patterns/1200068"
+    },
+    {
         "id": 1200095,
         "name": "Using a Cloud-based Batch Job Orchestration",
         "href": "HL/cloud-ready/detection-patterns/1200095"
@@ -53,16 +63,6 @@
         "id": 1200086,
         "name": "Using a Cloud-based Service Bus",
         "href": "HL/cloud-ready/detection-patterns/1200086"
-    },
-    {
-        "id": 1200068,
-        "name": "Using a Cloud-based User Directory",
-        "href": "HL/cloud-ready/detection-patterns/1200068"
-    },
-    {
-        "id": 1200100,
-        "name": "Using a Cloud-based User Directory",
-        "href": "HL/cloud-ready/detection-patterns/1200100"
     },
     {
         "id": 1200082,

@@ -120,6 +120,11 @@
         "href": "HL/cloud-ready/detection-patterns/1200007"
     },
     {
+        "id": 1200124,
+        "name": "Use of LDAP/AD authentication",
+        "href": "HL/cloud-ready/detection-patterns/1200124"
+    },
+    {
         "id": 1200058,
         "name": "Use of WCF (Windows Communication Foundation) services",
         "href": "HL/cloud-ready/detection-patterns/1200058"
@@ -133,11 +138,6 @@
         "id": 1200060,
         "name": "Use of WCF (Windows Communication Foundation) services",
         "href": "HL/cloud-ready/detection-patterns/1200060"
-    },
-    {
-        "id": 1200057,
-        "name": "Use of an unsecured API",
-        "href": "HL/cloud-ready/detection-patterns/1200057"
     },
     {
         "id": 1200056,
@@ -328,5 +328,10 @@
         "id": 1200038,
         "name": "Using system DLLs",
         "href": "HL/cloud-ready/detection-patterns/1200038"
+    },
+    {
+        "id": 1200057,
+        "name": "[deprecated] Use of an unsecured API",
+        "href": "HL/cloud-ready/detection-patterns/1200057"
     }
 ]

@@ -140,6 +140,11 @@
         "href": "HL/cloud-ready/detection-patterns/1200073"
     },
     {
+        "id": 1200124,
+        "name": "Use of LDAP/AD authentication",
+        "href": "HL/cloud-ready/detection-patterns/1200124"
+    },
+    {
         "id": 1200059,
         "name": "Use of WCF (Windows Communication Foundation) services",
         "href": "HL/cloud-ready/detection-patterns/1200059"
@@ -153,11 +158,6 @@
         "id": 1200058,
         "name": "Use of WCF (Windows Communication Foundation) services",
         "href": "HL/cloud-ready/detection-patterns/1200058"
-    },
-    {
-        "id": 1200057,
-        "name": "Use of an unsecured API",
-        "href": "HL/cloud-ready/detection-patterns/1200057"
     },
     {
         "id": 1200056,
@@ -378,5 +378,10 @@
         "id": 1200113,
         "name": "Using uncommit read option UR in mainframes",
         "href": "HL/cloud-ready/detection-patterns/1200113"
+    },
+    {
+        "id": 1200057,
+        "name": "[deprecated] Use of an unsecured API",
+        "href": "HL/cloud-ready/detection-patterns/1200057"
     }
 ]

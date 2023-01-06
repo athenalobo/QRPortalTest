@@ -1,5 +1,12 @@
 [
     {
+        "name": "1.2.8-funcrel",
+        "href": "AIP/extensions/com.castsoftware.mqe/versions/1.2.8-funcrel",
+        "metaModelCRC": 529055151,
+        "rulesCRC": 0,
+        "transactionsConfigurationCRC": null
+    },
+    {
         "name": "1.2.7-funcrel",
         "href": "AIP/extensions/com.castsoftware.mqe/versions/1.2.7-funcrel",
         "metaModelCRC": 529055151,

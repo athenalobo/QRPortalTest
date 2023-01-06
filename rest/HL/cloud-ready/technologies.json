@@ -27,7 +27,7 @@
         "id": 3,
         "name": "Java",
         "href": "HL/cloud-ready/technologies/3",
-        "count": 55
+        "count": 54
     },
     {
         "id": 4,
@@ -45,13 +45,13 @@
         "id": 6,
         "name": "PHP",
         "href": "HL/cloud-ready/technologies/6",
-        "count": 38
+        "count": 37
     },
     {
         "id": 7,
         "name": "Python",
         "href": "HL/cloud-ready/technologies/7",
-        "count": 37
+        "count": 36
     },
     {
         "id": 8,

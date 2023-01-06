@@ -1,6 +1,6 @@
 {
     "id": 3,
-    "name": "CloudFoundry",
+    "name": "VMWare Tanzu",
     "href": "HL/cloud-ready/platforms/3",
     "cloudReadyPatterns": {
         "name": "Cloud Ready Patterns in alphabetic order",

@@ -105,6 +105,11 @@
         "href": "HL/cloud-ready/detection-patterns/1200116"
     },
     {
+        "id": 1200100,
+        "name": "Using a Cloud-based Active Directory",
+        "href": "HL/cloud-ready/detection-patterns/1200100"
+    },
+    {
         "id": 1200096,
         "name": "Using a Cloud-based Big Data technology (EMR)",
         "href": "HL/cloud-ready/detection-patterns/1200096"
@@ -113,11 +118,6 @@
         "id": 1200097,
         "name": "Using a Cloud-based Blockchain technology",
         "href": "HL/cloud-ready/detection-patterns/1200097"
-    },
-    {
-        "id": 1200100,
-        "name": "Using a Cloud-based User Directory",
-        "href": "HL/cloud-ready/detection-patterns/1200100"
     },
     {
         "id": 1200122,

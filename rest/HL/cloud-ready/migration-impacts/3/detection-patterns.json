@@ -15,6 +15,11 @@
         "href": "HL/cloud-ready/detection-patterns/1200007"
     },
     {
+        "id": 1200124,
+        "name": "Use of LDAP/AD authentication",
+        "href": "HL/cloud-ready/detection-patterns/1200124"
+    },
+    {
         "id": 1200056,
         "name": "Use of an unsecured data string",
         "href": "HL/cloud-ready/detection-patterns/1200056"

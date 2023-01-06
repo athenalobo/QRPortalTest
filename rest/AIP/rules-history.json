@@ -1527,6 +1527,15 @@
     ],
     "com.castsoftware.cassandra": [
         {
+            "version": "1.0.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.0-beta2",
             "addedRules": [
                 
@@ -2619,6 +2628,24 @@
         }
     ],
     "com.castsoftware.dotnet": [
+        {
+            "version": "1.5.0-beta1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
+            "version": "1.4.13",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "1.4.12",
             "addedRules": [
@@ -3730,6 +3757,15 @@
         }
     ],
     "com.castsoftware.dotnet.dapper": [
+        {
+            "version": "1.0.0-beta1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "1.0.0-alpha3",
             "addedRules": [
@@ -6096,6 +6132,15 @@
     ],
     "com.castsoftware.highlight2mri": [
         {
+            "version": "1.0.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.0-beta1",
             "addedRules": [
                 
@@ -7624,6 +7669,15 @@
         }
     ],
     "com.castsoftware.java.cassandra": [
+        {
+            "version": "1.0.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "1.0.0-beta2",
             "addedRules": [
@@ -11024,6 +11078,15 @@
         }
     ],
     "com.castsoftware.mqe": [
+        {
+            "version": "1.2.8-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "1.2.7-funcrel",
             "addedRules": [

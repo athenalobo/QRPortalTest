@@ -24,7 +24,7 @@
         {
             "platform": {
                 "href": "HL/cloud-ready/platforms/3",
-                "name": "CloudFoundry"
+                "name": "VMWare Tanzu"
             },
             "technology": {
                 "href": "HL/cloud-ready/technologies/1",
@@ -54,7 +54,7 @@
         {
             "platform": {
                 "href": "HL/cloud-ready/platforms/3",
-                "name": "CloudFoundry"
+                "name": "VMWare Tanzu"
             },
             "technology": {
                 "href": "HL/cloud-ready/technologies/11",

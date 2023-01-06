@@ -15,6 +15,11 @@
         "href": "HL/cloud-ready/detection-patterns/1200036"
     },
     {
+        "id": 1200124,
+        "name": "Use of LDAP/AD authentication",
+        "href": "HL/cloud-ready/detection-patterns/1200124"
+    },
+    {
         "id": 1200058,
         "name": "Use of WCF (Windows Communication Foundation) services",
         "href": "HL/cloud-ready/detection-patterns/1200058"
@@ -51,12 +56,12 @@
     },
     {
         "id": 1200100,
-        "name": "Using a Cloud-based User Directory",
+        "name": "Using a Cloud-based Active Directory",
         "href": "HL/cloud-ready/detection-patterns/1200100"
     },
     {
         "id": 1200068,
-        "name": "Using a Cloud-based User Directory",
+        "name": "Using a Cloud-based Active Directory",
         "href": "HL/cloud-ready/detection-patterns/1200068"
     },
     {
