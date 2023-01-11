@@ -117,7 +117,7 @@
         "id": "DATA-SAFETY",
         "name": "Data Safety",
         "href": "CARL/quality-standards/AIP/items/DATA-SAFETY",
-        "count": 20
+        "count": 24
     },
     {
         "id": "SQL-INJECTION",

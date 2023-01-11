@@ -1117,6 +1117,15 @@
     ],
     "com.castsoftware.awsjava": [
         {
+            "version": "1.2.2-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.2.1-funcrel",
             "addedRules": [
                 
@@ -7718,6 +7727,15 @@
         }
     ],
     "com.castsoftware.java.hibernate": [
+        {
+            "version": "1.0.0-alpha2",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "1.0.0-alpha1",
             "addedRules": [

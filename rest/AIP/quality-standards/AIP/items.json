@@ -123,7 +123,7 @@
         "id": "DATA-SAFETY",
         "name": "Data Safety",
         "href": "AIP/quality-standards/AIP/items/DATA-SAFETY",
-        "count": 28
+        "count": 33
     },
     {
         "id": "SQL-INJECTION",
