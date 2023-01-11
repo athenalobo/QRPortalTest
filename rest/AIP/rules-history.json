@@ -280,6 +280,15 @@
     ],
     "com.castsoftware.angularjs": [
         {
+            "version": "2.1.12-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "2.1.11-funcrel",
             "addedRules": [
                 
