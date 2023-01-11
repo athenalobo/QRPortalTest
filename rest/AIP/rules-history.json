@@ -23125,6 +23125,15 @@
     ],
     "com.castsoftware.systemlevelrules": [
         {
+            "version": "1.1.2-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.1.1-funcrel",
             "addedRules": [
                 
