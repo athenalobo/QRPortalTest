@@ -1131,7 +1131,7 @@
     },
     {
         "id": 7442,
-        "name": "Avoid to use this within Constructor in multi-thread environment",
+        "name": "Avoid to use keyword 'this' within Constructor in multi-thread environment",
         "href": "AIP/quality-rules/7442",
         "critical": true,
         "severity": 20,
@@ -3344,8 +3344,8 @@
         "id": 1022000,
         "name": "DEPRECATED: Avoid weak encryption algorithm as DES and triple DES",
         "href": "AIP/quality-rules/1022000",
-        "critical": false,
-        "severity": 10,
+        "critical": true,
+        "severity": 20,
         "technologyNames": [
             "JEE"
         ]

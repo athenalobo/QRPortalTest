@@ -533,7 +533,7 @@
         "id": 1022000,
         "name": "DEPRECATED: Avoid weak encryption algorithm as DES and triple DES",
         "href": "AIP/quality-rules/1022000",
-        "critical": false,
+        "critical": true,
         "weight": 9,
         "technologyNames": [
             "JEE"
