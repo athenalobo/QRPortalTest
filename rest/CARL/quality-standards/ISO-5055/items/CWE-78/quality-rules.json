@@ -140,6 +140,16 @@
         ]
     },
     {
+        "id": 1020080,
+        "name": "Avoid using setInterval with a string as first argument",
+        "href": "AIP/quality-rules/1020080",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "HTML5"
+        ]
+    },
+    {
         "id": 1020808,
         "name": "Eval() should not be used because it runs text as code.",
         "href": "AIP/quality-rules/1020808",
