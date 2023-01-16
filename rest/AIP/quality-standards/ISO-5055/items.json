@@ -489,13 +489,13 @@
         "id": "CWE-78",
         "name": "Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
         "href": "AIP/quality-standards/ISO-5055/items/CWE-78",
-        "count": 24
+        "count": 25
     },
     {
         "id": "CWE-79",
         "name": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
         "href": "AIP/quality-standards/ISO-5055/items/CWE-79",
-        "count": 51
+        "count": 53
     },
     {
         "id": "CWE-88",
@@ -507,13 +507,13 @@
         "id": "CWE-89",
         "name": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
         "href": "AIP/quality-standards/ISO-5055/items/CWE-89",
-        "count": 15
+        "count": 16
     },
     {
         "id": "CWE-90",
         "name": "Improper Neutralization of Special Elements used in an LDAP Query ('LDAP Injection')",
         "href": "AIP/quality-standards/ISO-5055/items/CWE-90",
-        "count": 3
+        "count": 4
     },
     {
         "id": "CWE-91",
@@ -573,7 +573,7 @@
         "id": "CWE-502",
         "name": "Deserialization of Untrusted Data",
         "href": "AIP/quality-standards/ISO-5055/items/CWE-502",
-        "count": 10
+        "count": 11
     },
     {
         "id": "CWE-564",

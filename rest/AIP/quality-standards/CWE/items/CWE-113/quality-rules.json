@@ -60,6 +60,26 @@
         ]
     },
     {
+        "id": 1034002,
+        "name": "Avoid cookie injection (PHP)",
+        "href": "AIP/quality-rules/1034002",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
+        "id": 1034020,
+        "name": "Avoid improper neutralization of HTTP headers (PHP)",
+        "href": "AIP/quality-rules/1034020",
+        "critical": false,
+        "severity": 30,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
         "id": 1043058,
         "name": "Avoid disabling Header Checking flag in config file",
         "href": "AIP/quality-rules/1043058",

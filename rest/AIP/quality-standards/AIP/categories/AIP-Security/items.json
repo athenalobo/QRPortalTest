@@ -3,7 +3,7 @@
         "id": "AIP-GDPR",
         "name": "General Data Protection Regulation",
         "href": "AIP/quality-standards/AIP/items/AIP-GDPR",
-        "count": 157
+        "count": 158
     },
     {
         "id": "AIP-MISCONFIGURATION",
@@ -21,7 +21,7 @@
         "id": "CROSS-SITE-VULNERABILITY",
         "name": "Cross Site Vulnerability",
         "href": "AIP/quality-standards/AIP/items/CROSS-SITE-VULNERABILITY",
-        "count": 56
+        "count": 59
     },
     {
         "id": "DATA-SAFETY",

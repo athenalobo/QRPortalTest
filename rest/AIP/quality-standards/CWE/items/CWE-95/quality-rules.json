@@ -92,5 +92,25 @@
         "technologyNames": [
             "Python"
         ]
+    },
+    {
+        "id": 1034010,
+        "name": "Avoid eval injection (PHP)",
+        "href": "AIP/quality-rules/1034010",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
+        "id": 1034012,
+        "name": "Avoid code injection (PHP)",
+        "href": "AIP/quality-rules/1034012",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "PHP"
+        ]
     }
 ]

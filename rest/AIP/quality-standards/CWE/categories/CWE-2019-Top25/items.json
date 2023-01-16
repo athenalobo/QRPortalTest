@@ -15,25 +15,25 @@
         "id": "CWE-78",
         "name": "Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
         "href": "AIP/quality-standards/CWE/items/CWE-78",
-        "count": 24
+        "count": 25
     },
     {
         "id": "CWE-79",
         "name": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
         "href": "AIP/quality-standards/CWE/items/CWE-79",
-        "count": 51
+        "count": 53
     },
     {
         "id": "CWE-89",
         "name": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
         "href": "AIP/quality-standards/CWE/items/CWE-89",
-        "count": 15
+        "count": 16
     },
     {
         "id": "CWE-94",
         "name": "Improper Control of Generation of Code ('Code Injection')",
         "href": "AIP/quality-standards/CWE/items/CWE-94",
-        "count": 3
+        "count": 5
     },
     {
         "id": "CWE-119",
@@ -117,7 +117,7 @@
         "id": "CWE-502",
         "name": "Deserialization of Untrusted Data",
         "href": "AIP/quality-standards/CWE/items/CWE-502",
-        "count": 10
+        "count": 11
     },
     {
         "id": "CWE-611",

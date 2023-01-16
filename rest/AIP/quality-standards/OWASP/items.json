@@ -3,7 +3,7 @@
         "id": "A1-2013",
         "name": "Injection",
         "href": "AIP/quality-standards/OWASP/items/A1-2013",
-        "count": 85
+        "count": 87
     },
     {
         "id": "A2-2013",
@@ -15,7 +15,7 @@
         "id": "A3-2013",
         "name": "Cross-Site Scripting (XSS)",
         "href": "AIP/quality-standards/OWASP/items/A3-2013",
-        "count": 50
+        "count": 52
     },
     {
         "id": "A4-2013",
@@ -63,7 +63,7 @@
         "id": "A1-2017",
         "name": "Injection",
         "href": "AIP/quality-standards/OWASP/items/A1-2017",
-        "count": 79
+        "count": 80
     },
     {
         "id": "A2-2017",
@@ -99,13 +99,13 @@
         "id": "A7-2017",
         "name": "Cross-Site Scripting (XSS)",
         "href": "AIP/quality-standards/OWASP/items/A7-2017",
-        "count": 50
+        "count": 52
     },
     {
         "id": "A8-2017",
         "name": "Insecure Deserialization",
         "href": "AIP/quality-standards/OWASP/items/A8-2017",
-        "count": 8
+        "count": 9
     },
     {
         "id": "A9-2017",
@@ -135,7 +135,7 @@
         "id": "A03-2021",
         "name": "Injection",
         "href": "AIP/quality-standards/OWASP/items/A03-2021",
-        "count": 127
+        "count": 130
     },
     {
         "id": "A04-2021",
@@ -165,7 +165,7 @@
         "id": "A08-2021",
         "name": "Software and Data Integrity Failures",
         "href": "AIP/quality-standards/OWASP/items/A08-2021",
-        "count": 11
+        "count": 12
     },
     {
         "id": "A09-2021",
@@ -225,7 +225,7 @@
         "id": "API8-2019",
         "name": "Injection",
         "href": "AIP/quality-standards/OWASP/items/API8-2019",
-        "count": 89
+        "count": 91
     },
     {
         "id": "API9-2019",

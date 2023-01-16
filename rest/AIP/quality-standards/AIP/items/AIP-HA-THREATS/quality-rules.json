@@ -1046,6 +1046,16 @@
         ]
     },
     {
+        "id": 1034020,
+        "name": "Avoid improper neutralization of HTTP headers (PHP)",
+        "href": "AIP/quality-rules/1034020",
+        "critical": false,
+        "severity": 30,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
         "id": 1040018,
         "name": "Ensure the X-Frame-Options header is setup (Spring)",
         "href": "AIP/quality-rules/1040018",

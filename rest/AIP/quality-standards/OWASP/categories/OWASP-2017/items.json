@@ -3,7 +3,7 @@
         "id": "A1-2017",
         "name": "Injection",
         "href": "AIP/quality-standards/OWASP/items/A1-2017",
-        "count": 79
+        "count": 80
     },
     {
         "id": "A2-2017",
@@ -39,13 +39,13 @@
         "id": "A7-2017",
         "name": "Cross-Site Scripting (XSS)",
         "href": "AIP/quality-standards/OWASP/items/A7-2017",
-        "count": 50
+        "count": 52
     },
     {
         "id": "A8-2017",
         "name": "Insecure Deserialization",
         "href": "AIP/quality-standards/OWASP/items/A8-2017",
-        "count": 8
+        "count": 9
     },
     {
         "id": "A9-2017",
