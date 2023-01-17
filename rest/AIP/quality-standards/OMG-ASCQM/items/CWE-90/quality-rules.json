@@ -34,15 +34,5 @@
             "JEE",
             "VB.NET"
         ]
-    },
-    {
-        "id": 1034004,
-        "name": "Avoid LDAP injection (PHP)",
-        "href": "AIP/quality-rules/1034004",
-        "critical": false,
-        "severity": 30,
-        "technologyNames": [
-            "PHP"
-        ]
     }
 ]

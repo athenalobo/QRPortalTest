@@ -3,7 +3,7 @@
         "id": "A1-2017",
         "name": "Injection",
         "href": "AIP/quality-standards/OWASP/items/A1-2017",
-        "count": 87
+        "count": 79
     },
     {
         "id": "A2-2017",
@@ -27,7 +27,7 @@
         "id": "A5-2017",
         "name": "Broken Access Control",
         "href": "AIP/quality-standards/OWASP/items/A5-2017",
-        "count": 32
+        "count": 31
     },
     {
         "id": "A6-2017",
@@ -39,13 +39,13 @@
         "id": "A7-2017",
         "name": "Cross-Site Scripting (XSS)",
         "href": "AIP/quality-standards/OWASP/items/A7-2017",
-        "count": 52
+        "count": 50
     },
     {
         "id": "A8-2017",
         "name": "Insecure Deserialization",
         "href": "AIP/quality-standards/OWASP/items/A8-2017",
-        "count": 9
+        "count": 8
     },
     {
         "id": "A9-2017",

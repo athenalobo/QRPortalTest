@@ -3,7 +3,7 @@
         "id": "AIP-GDPR",
         "name": "General Data Protection Regulation",
         "href": "AIP/quality-standards/AIP/items/AIP-GDPR",
-        "count": 161
+        "count": 157
     },
     {
         "id": "AIP-MISCONFIGURATION",
@@ -15,13 +15,13 @@
         "id": "COMMAND-INJECTION",
         "name": "OS/LDAP Command Injection or Expression evaluation injection",
         "href": "AIP/quality-standards/AIP/items/COMMAND-INJECTION",
-        "count": 69
+        "count": 64
     },
     {
         "id": "CROSS-SITE-VULNERABILITY",
         "name": "Cross Site Vulnerability",
         "href": "AIP/quality-standards/AIP/items/CROSS-SITE-VULNERABILITY",
-        "count": 59
+        "count": 56
     },
     {
         "id": "DATA-SAFETY",
@@ -33,6 +33,6 @@
         "id": "SQL-INJECTION",
         "name": "SQL Injection",
         "href": "AIP/quality-standards/AIP/items/SQL-INJECTION",
-        "count": 17
+        "count": 16
     }
 ]
