@@ -27,13 +27,13 @@
         "id": "AIP-CR-SECURITY",
         "name": "CloudReady - focus on security",
         "href": "AIP/quality-standards/AIP/items/AIP-CR-SECURITY",
-        "count": 74
+        "count": 78
     },
     {
         "id": "AIP-CAST-LITE",
         "name": "Rule implemented in CAST Lite product",
         "href": "AIP/quality-standards/AIP/items/AIP-CAST-LITE",
-        "count": 1312
+        "count": 1318
     },
     {
         "id": "AIP-CORE-RULE",
@@ -51,7 +51,7 @@
         "id": "AIP-TOP-PRIORITY",
         "name": "Top Priority Rule",
         "href": "AIP/quality-standards/AIP/items/AIP-TOP-PRIORITY",
-        "count": 227
+        "count": 232
     },
     {
         "id": "AIP-HA-FAILURES",
@@ -69,7 +69,7 @@
         "id": "AIP-HA-THREATS",
         "name": "HA - external threats mitigation",
         "href": "AIP/quality-standards/AIP/items/AIP-HA-THREATS",
-        "count": 106
+        "count": 111
     },
     {
         "id": "AIP-HA-WORKLOAD",
@@ -99,7 +99,7 @@
         "id": "AIP-GDPR",
         "name": "General Data Protection Regulation",
         "href": "AIP/quality-standards/AIP/items/AIP-GDPR",
-        "count": 158
+        "count": 161
     },
     {
         "id": "AIP-MISCONFIGURATION",
@@ -111,7 +111,7 @@
         "id": "COMMAND-INJECTION",
         "name": "OS/LDAP Command Injection or Expression evaluation injection",
         "href": "AIP/quality-standards/AIP/items/COMMAND-INJECTION",
-        "count": 64
+        "count": 69
     },
     {
         "id": "CROSS-SITE-VULNERABILITY",
@@ -129,6 +129,6 @@
         "id": "SQL-INJECTION",
         "name": "SQL Injection",
         "href": "AIP/quality-standards/AIP/items/SQL-INJECTION",
-        "count": 16
+        "count": 17
     }
 ]

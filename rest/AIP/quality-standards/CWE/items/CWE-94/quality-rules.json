@@ -48,7 +48,7 @@
         "name": "Avoid code injection (PHP)",
         "href": "AIP/quality-rules/1034012",
         "critical": false,
-        "severity": 10,
+        "severity": 30,
         "technologyNames": [
             "PHP"
         ]

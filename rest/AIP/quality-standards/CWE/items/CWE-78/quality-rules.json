@@ -266,7 +266,17 @@
         "name": "Avoid OS command injection (PHP)",
         "href": "AIP/quality-rules/1034006",
         "critical": false,
-        "severity": 10,
+        "severity": 30,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
+        "id": 1034012,
+        "name": "Avoid code injection (PHP)",
+        "href": "AIP/quality-rules/1034012",
+        "critical": false,
+        "severity": 30,
         "technologyNames": [
             "PHP"
         ]

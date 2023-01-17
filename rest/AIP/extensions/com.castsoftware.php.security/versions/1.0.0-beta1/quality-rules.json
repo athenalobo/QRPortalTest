@@ -5,7 +5,7 @@
         "href": "AIP/quality-rules/1034000",
         "status": "added",
         "critical": false,
-        "severity": 10,
+        "severity": 30,
         "technologyNames": [
             "PHP"
         ]
@@ -16,7 +16,7 @@
         "href": "AIP/quality-rules/1034002",
         "status": "added",
         "critical": false,
-        "severity": 10,
+        "severity": 30,
         "technologyNames": [
             "PHP"
         ]
@@ -27,7 +27,7 @@
         "href": "AIP/quality-rules/1034004",
         "status": "added",
         "critical": false,
-        "severity": 10,
+        "severity": 30,
         "technologyNames": [
             "PHP"
         ]
@@ -38,7 +38,7 @@
         "href": "AIP/quality-rules/1034006",
         "status": "added",
         "critical": false,
-        "severity": 10,
+        "severity": 30,
         "technologyNames": [
             "PHP"
         ]
@@ -71,7 +71,7 @@
         "href": "AIP/quality-rules/1034012",
         "status": "added",
         "critical": false,
-        "severity": 10,
+        "severity": 30,
         "technologyNames": [
             "PHP"
         ]

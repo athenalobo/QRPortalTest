@@ -202,6 +202,16 @@
         ]
     },
     {
+        "id": 1034014,
+        "name": "Avoid file path manipulation (PHP)",
+        "href": "AIP/quality-rules/1034014",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
         "id": 1040042,
         "name": "Avoid using Spring Security in combination with Spring Framework 5.0.5",
         "href": "AIP/quality-rules/1040042",

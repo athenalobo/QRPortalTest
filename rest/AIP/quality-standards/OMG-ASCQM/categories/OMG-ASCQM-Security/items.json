@@ -3,19 +3,19 @@
         "id": "CWE-22",
         "name": "Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
         "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-22",
-        "count": 3
+        "count": 4
     },
     {
         "id": "CWE-23",
         "name": "Relative Path Traversal",
         "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-23",
-        "count": 2
+        "count": 3
     },
     {
         "id": "CWE-36",
         "name": "Absolute Path Traversal",
         "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-36",
-        "count": 2
+        "count": 3
     },
     {
         "id": "CWE-77",
@@ -27,19 +27,19 @@
         "id": "CWE-78",
         "name": "Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
         "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-78",
-        "count": 25
+        "count": 26
     },
     {
         "id": "CWE-79",
         "name": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
         "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-79",
-        "count": 53
+        "count": 52
     },
     {
         "id": "CWE-88",
         "name": "Improper Neutralization of Argument Delimiters in a Command ('Argument Injection')",
         "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-88",
-        "count": 11
+        "count": 13
     },
     {
         "id": "CWE-89",
@@ -261,7 +261,7 @@
         "id": "CWE-611",
         "name": "Improper Restriction of XML External Entity Reference",
         "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-611",
-        "count": 8
+        "count": 9
     },
     {
         "id": "CWE-624",

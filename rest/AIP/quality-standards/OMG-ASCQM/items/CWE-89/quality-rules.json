@@ -144,7 +144,7 @@
         "name": "Avoid SQL injection (PHP)",
         "href": "AIP/quality-rules/1034000",
         "critical": false,
-        "severity": 10,
+        "severity": 30,
         "technologyNames": [
             "PHP"
         ]

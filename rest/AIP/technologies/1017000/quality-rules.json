@@ -1164,7 +1164,7 @@
         "name": "Avoid SQL injection (PHP)",
         "href": "AIP/quality-rules/1034000",
         "critical": false,
-        "severity": 10,
+        "severity": 30,
         "technologyNames": [
             "PHP"
         ]
@@ -1174,7 +1174,7 @@
         "name": "Avoid cookie injection (PHP)",
         "href": "AIP/quality-rules/1034002",
         "critical": false,
-        "severity": 10,
+        "severity": 30,
         "technologyNames": [
             "PHP"
         ]
@@ -1184,7 +1184,7 @@
         "name": "Avoid LDAP injection (PHP)",
         "href": "AIP/quality-rules/1034004",
         "critical": false,
-        "severity": 10,
+        "severity": 30,
         "technologyNames": [
             "PHP"
         ]
@@ -1194,7 +1194,7 @@
         "name": "Avoid OS command injection (PHP)",
         "href": "AIP/quality-rules/1034006",
         "critical": false,
-        "severity": 10,
+        "severity": 30,
         "technologyNames": [
             "PHP"
         ]
@@ -1224,7 +1224,7 @@
         "name": "Avoid code injection (PHP)",
         "href": "AIP/quality-rules/1034012",
         "critical": false,
-        "severity": 10,
+        "severity": 30,
         "technologyNames": [
             "PHP"
         ]

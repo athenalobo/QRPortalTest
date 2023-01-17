@@ -40,7 +40,7 @@
         "name": "Avoid LDAP injection (PHP)",
         "href": "AIP/quality-rules/1034004",
         "critical": false,
-        "severity": 10,
+        "severity": 30,
         "technologyNames": [
             "PHP"
         ]
