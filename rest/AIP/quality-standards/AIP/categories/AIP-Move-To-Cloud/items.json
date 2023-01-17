@@ -3,19 +3,19 @@
         "id": "AIP-M2C-AWS",
         "name": "Amazon Web Services",
         "href": "AIP/quality-standards/AIP/items/AIP-M2C-AWS",
-        "count": 0
+        "count": 1
     },
     {
         "id": "AIP-M2C-Azure",
         "name": "Microsoft Azure",
         "href": "AIP/quality-standards/AIP/items/AIP-M2C-Azure",
-        "count": 0
+        "count": 8
     },
     {
         "id": "AIP-M2C-DataType",
         "name": "Data Type Remediation",
         "href": "AIP/quality-standards/AIP/items/AIP-M2C-DataType",
-        "count": 0
+        "count": 5
     },
     {
         "id": "AIP-M2C-GCP",
@@ -27,13 +27,13 @@
         "id": "AIP-M2C-ObjectType",
         "name": "Object Type Remediation",
         "href": "AIP/quality-standards/AIP/items/AIP-M2C-ObjectType",
-        "count": 0
+        "count": 9
     },
     {
         "id": "AIP-M2C-Oracle",
         "name": "Oracle",
         "href": "AIP/quality-standards/AIP/items/AIP-M2C-Oracle",
-        "count": 0
+        "count": 6
     },
     {
         "id": "AIP-M2C-Rehost",
@@ -45,7 +45,7 @@
         "id": "AIP-M2C-Replatform",
         "name": "Replatform Recommendation",
         "href": "AIP/quality-standards/AIP/items/AIP-M2C-Replatform",
-        "count": 0
+        "count": 19
     },
     {
         "id": "AIP-M2C-Retain",
@@ -63,6 +63,6 @@
         "id": "AIP-M2C-Syntax",
         "name": "Syntax Remediation",
         "href": "AIP/quality-standards/AIP/items/AIP-M2C-Syntax",
-        "count": 0
+        "count": 1
     }
 ]

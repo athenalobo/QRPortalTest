@@ -39,7 +39,7 @@
         "id": "AIP-CORE-RULE",
         "name": "RESERVED TAG - DO NOT USE",
         "href": "AIP/quality-standards/AIP/items/AIP-CORE-RULE",
-        "count": 2430
+        "count": 2449
     },
     {
         "id": "AIP-SYSTEM-LEVEL",
@@ -94,6 +94,48 @@
         "name": "MIPS Reduction - focus on avoiding transaction failure",
         "href": "AIP/quality-standards/AIP/items/AIP-MIPS-TRANSACTIONS-FAILURE",
         "count": 12
+    },
+    {
+        "id": "AIP-M2C-AWS",
+        "name": "Amazon Web Services",
+        "href": "AIP/quality-standards/AIP/items/AIP-M2C-AWS",
+        "count": 1
+    },
+    {
+        "id": "AIP-M2C-Azure",
+        "name": "Microsoft Azure",
+        "href": "AIP/quality-standards/AIP/items/AIP-M2C-Azure",
+        "count": 8
+    },
+    {
+        "id": "AIP-M2C-DataType",
+        "name": "Data Type Remediation",
+        "href": "AIP/quality-standards/AIP/items/AIP-M2C-DataType",
+        "count": 5
+    },
+    {
+        "id": "AIP-M2C-ObjectType",
+        "name": "Object Type Remediation",
+        "href": "AIP/quality-standards/AIP/items/AIP-M2C-ObjectType",
+        "count": 9
+    },
+    {
+        "id": "AIP-M2C-Oracle",
+        "name": "Oracle",
+        "href": "AIP/quality-standards/AIP/items/AIP-M2C-Oracle",
+        "count": 6
+    },
+    {
+        "id": "AIP-M2C-Replatform",
+        "name": "Replatform Recommendation",
+        "href": "AIP/quality-standards/AIP/items/AIP-M2C-Replatform",
+        "count": 19
+    },
+    {
+        "id": "AIP-M2C-Syntax",
+        "name": "Syntax Remediation",
+        "href": "AIP/quality-standards/AIP/items/AIP-M2C-Syntax",
+        "count": 1
     },
     {
         "id": "AIP-GDPR",
