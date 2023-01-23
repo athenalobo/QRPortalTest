@@ -6215,6 +6215,15 @@
     ],
     "com.castsoftware.html5": [
         {
+            "version": "2.1.20-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "2.1.19-funcrel",
             "addedRules": [
                 
@@ -24420,6 +24429,15 @@
         }
     ],
     "com.castsoftware.wbslinker": [
+        {
+            "version": "1.7.20-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "1.7.19-funcrel",
             "addedRules": [
