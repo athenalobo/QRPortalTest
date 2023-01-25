@@ -1,8 +1,28 @@
 [
     {
-        "id": 1106004,
-        "name": "Ensure CLOB data type is not used",
-        "href": "AIP/quality-rules/1106004",
+        "id": 1106000,
+        "name": "Ensure you don't have unsupported PL/SQL packages",
+        "href": "AIP/quality-rules/1106000",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106006,
+        "name": "Ensure you don't have unsupported PL/SQL package UTL_FILE",
+        "href": "AIP/quality-rules/1106006",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106008,
+        "name": "Ensure you don't have unsupported PL/SQL package DBMS_SCHEDULER",
+        "href": "AIP/quality-rules/1106008",
         "critical": false,
         "severity": 10,
         "technologyNames": [

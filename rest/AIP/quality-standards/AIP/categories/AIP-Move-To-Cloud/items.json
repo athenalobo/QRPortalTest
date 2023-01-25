@@ -9,7 +9,7 @@
         "id": "AIP-M2C-Azure",
         "name": "Microsoft Azure",
         "href": "AIP/quality-standards/AIP/items/AIP-M2C-Azure",
-        "count": 8
+        "count": 4
     },
     {
         "id": "AIP-M2C-DataType",
@@ -27,7 +27,7 @@
         "id": "AIP-M2C-ObjectType",
         "name": "Object Type Remediation",
         "href": "AIP/quality-standards/AIP/items/AIP-M2C-ObjectType",
-        "count": 9
+        "count": 11
     },
     {
         "id": "AIP-M2C-Oracle",
@@ -63,6 +63,6 @@
         "id": "AIP-M2C-Syntax",
         "name": "Syntax Remediation",
         "href": "AIP/quality-standards/AIP/items/AIP-M2C-Syntax",
-        "count": 1
+        "count": 2
     }
 ]
