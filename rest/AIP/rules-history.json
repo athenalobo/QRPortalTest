@@ -17199,6 +17199,15 @@
     ],
     "com.castsoftware.rpg": [
         {
+            "version": "3.1.2-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "3.1.1-funcrel",
             "addedRules": [
                 
