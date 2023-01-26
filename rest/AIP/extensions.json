@@ -104,6 +104,12 @@
     {
         "qualityModel": false,
         "transactionsConfiguration": false,
+        "name": "com.castsoftware.codelines",
+        "href": "AIP/extensions/com.castsoftware.codelines"
+    },
+    {
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.coremetrics",
         "href": "AIP/extensions/com.castsoftware.coremetrics"
     },
