@@ -18,7 +18,7 @@
     "remediationSample": "The remediation is to remove all references to DBMS_LOGMNR.ADD_LOGFILE and DBMS_LOGMNR.REMOVE_LOGFILE.\nYou should contact Oracle Support if you cannot remove all references to DBMS_LOGMNR.ADD_LOGFILE and DBMS_LOGMNR.REMOVE_LOGFILE.",
     "sample": "execute DBMS_LOGMNR.ADD_LOGFILE ('C:\\ORACLE\\ORADATA\\ORDB1\\REDO01.LOG');\n/\nexecute DBMS_LOGMNR.REMOVE_LOGFILE(LOGFILENAME => 'C:\\ORACLE\\ORADATA\\ORDB1\\REDO01.LOG');\n/",
     "total": "Number of Artifacts with SQL code except Views",
-    "alternativeName": "Ensure you don't have unsupported PL/SQL procedures DBMS_LOGMNR.ADD_LOGFILE and DBMS_LOGMNR.REMOVE_LOGFILE",
+    "alternativeName": "Ensure PL/SQL procedures DBMS_LOGMNR.ADD_LOGFILE and DBMS_LOGMNR.REMOVE_LOGFILE are not used",
     "businessCriteria": [
         {
             "id": 60018,

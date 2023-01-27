@@ -35,13 +35,6 @@
         "transactionsConfigurationCRC": 446627177
     },
     {
-        "name": "1.4.9-funcrel",
-        "href": "AIP/extensions/com.castsoftware.dotnet/versions/1.4.9-funcrel",
-        "metaModelCRC": 0,
-        "rulesCRC": 1601078173,
-        "transactionsConfigurationCRC": 446627177
-    },
-    {
         "name": "1.4.8-funcrel",
         "href": "AIP/extensions/com.castsoftware.dotnet/versions/1.4.8-funcrel",
         "metaModelCRC": 0,

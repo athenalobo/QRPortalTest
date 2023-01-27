@@ -1115,15 +1115,6 @@
             ]
         },
         {
-            "version": "1.0.0-alpha2",
-            "addedRules": [
-                
-            ],
-            "detachedRules": [
-                
-            ]
-        },
-        {
             "version": "1.0.0-alpha1",
             "addedRules": [
                 
@@ -1181,15 +1172,6 @@
         },
         {
             "version": "1.2.0-alpha2",
-            "addedRules": [
-                
-            ],
-            "detachedRules": [
-                
-            ]
-        },
-        {
-            "version": "1.2.0-alpha1",
             "addedRules": [
                 
             ],
@@ -2136,17 +2118,6 @@
             ]
         }
     ],
-    "com.castsoftware.codelines": [
-        {
-            "version": "1.0.0-beta1",
-            "addedRules": [
-                
-            ],
-            "detachedRules": [
-                
-            ]
-        }
-    ],
     "com.castsoftware.coremetrics": [
         {
             "version": "1.0.0-funcrel",
@@ -2731,15 +2702,6 @@
         },
         {
             "version": "1.4.10-funcrel",
-            "addedRules": [
-                
-            ],
-            "detachedRules": [
-                
-            ]
-        },
-        {
-            "version": "1.4.9-funcrel",
             "addedRules": [
                 {
                     "id": 1027100,
@@ -6120,24 +6082,6 @@
         },
         {
             "version": "1.0.0-beta4",
-            "addedRules": [
-                
-            ],
-            "detachedRules": [
-                
-            ]
-        },
-        {
-            "version": "1.0.0-beta3",
-            "addedRules": [
-                
-            ],
-            "detachedRules": [
-                
-            ]
-        },
-        {
-            "version": "1.0.0-beta2",
             "addedRules": [
                 
             ],
@@ -25612,6 +25556,15 @@
         }
     ],
     "AIP": [
+        {
+            "version": "8.3.49_10653",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "8.3.48_10597",
             "addedRules": [

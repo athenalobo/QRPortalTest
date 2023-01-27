@@ -18,7 +18,7 @@
     "remediationSample": "Remove the stored procedure.",
     "sample": "CREATE OR REPLACE PROCEDURE send_mail (sender    IN VARCHAR2,\n                                       recipient IN VARCHAR2, \n                                       message   IN VARCHAR2)\nIS\nBEGIN\n    mailhost   VARCHAR2(30) := 'mailhost.mydomain.com';\n    mail_conn := utl_tcp.open_connection(remote_host => mailhost,\n                                         remote_port => 25,\n                                         charset     => 'US7ASCII');\n    smtp_command('HELO ' || mailhost);\n    smtp_command('MAIL FROM: ' || sender);\n    smtp_command('RCPT TO: ' || recipient);\n    smtp_command('DATA', '354');\n    smtp_command(message);\n    smtp_command('QUIT', '221');\n    utl_tcp.close_connection(mail_conn);\nEXCEPTION\n    WHEN OTHERS THEN\n        -- Handle the error\nEND;\n/",
     "total": "Number of Artifacts with SQL code",
-    "alternativeName": "Ensure you don't have unsupported PL/SQL packages",
+    "alternativeName": "Ensure unsupported PL/SQL packages are not used",
     "businessCriteria": [
         {
             "id": 60018,
