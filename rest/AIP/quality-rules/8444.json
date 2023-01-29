@@ -153,6 +153,12 @@
             "standard": "CWE"
         },
         {
+            "id": "CWE-494",
+            "name": "Download of Code Without Integrity Check",
+            "href": "AIP/quality-standards/CWE/items/CWE-494",
+            "standard": "CWE"
+        },
+        {
             "id": "CWE-79",
             "name": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
             "href": "AIP/quality-standards/ISO-5055/items/CWE-79",

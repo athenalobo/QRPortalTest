@@ -2625,7 +2625,7 @@
         "id": "CWE-494",
         "name": "Download of Code Without Integrity Check",
         "href": "CARL/quality-standards/CWE/items/CWE-494",
-        "count": 0
+        "count": 1
     },
     {
         "id": "CWE-495",
