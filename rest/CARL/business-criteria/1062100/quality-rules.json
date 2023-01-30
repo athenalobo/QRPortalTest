@@ -2085,6 +2085,16 @@
         ]
     },
     {
+        "id": 1020080,
+        "name": "Avoid using setInterval with a string as first argument",
+        "href": "AIP/quality-rules/1020080",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "HTML5"
+        ]
+    },
+    {
         "id": 1020084,
         "name": "Ensure your code does not have un-referenced functions as it may indicate missed functionality and impairs maintainability",
         "href": "AIP/quality-rules/1020084",
@@ -2916,6 +2926,17 @@
         "href": "AIP/quality-rules/1027010",
         "critical": true,
         "severity": 20,
+        "technologyNames": [
+            "C#",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1027014,
+        "name": "Do not use the Thread.resume or Thread.suspend APIs.",
+        "href": "AIP/quality-rules/1027014",
+        "critical": false,
+        "severity": 10,
         "technologyNames": [
             "C#",
             "VB.NET"

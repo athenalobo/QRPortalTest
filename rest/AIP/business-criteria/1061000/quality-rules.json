@@ -4579,6 +4579,16 @@
         ]
     },
     {
+        "id": 1020080,
+        "name": "Avoid using setInterval() (Javascript)",
+        "href": "AIP/quality-rules/1020080",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "HTML5"
+        ]
+    },
+    {
         "id": 1020084,
         "name": "Avoid unreferenced Functions (Javascript/HTML5)",
         "href": "AIP/quality-rules/1020084",

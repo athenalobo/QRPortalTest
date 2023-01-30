@@ -1489,7 +1489,7 @@
     },
     {
         "id": "CWE-280",
-        "name": "Improper Handling of Insufficient Permissions or Privileges ",
+        "name": "Improper Handling of Insufficient Permissions or Privileges",
         "href": "CARL/quality-standards/CWE/items/CWE-280",
         "count": 0
     },
@@ -3199,7 +3199,7 @@
     },
     {
         "id": "CWE-600",
-        "name": "Uncaught Exception in Servlet ",
+        "name": "Uncaught Exception in Servlet",
         "href": "CARL/quality-standards/CWE/items/CWE-600",
         "count": 1
     },
@@ -5401,7 +5401,7 @@
     },
     {
         "id": "CWE-1290",
-        "name": "Incorrect Decoding of Security Identifiers ",
+        "name": "Incorrect Decoding of Security Identifiers",
         "href": "CARL/quality-standards/CWE/items/CWE-1290",
         "count": 0
     },

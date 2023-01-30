@@ -65,9 +65,9 @@
             "critical": false
         },
         {
-            "id": 1061015,
-            "name": "CWE-79 - Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
-            "href": "AIP/technical-criteria/1061015",
+            "id": 1061070,
+            "name": "CWE-611 - Improper Restriction of XML External Entity Reference",
+            "href": "AIP/technical-criteria/1061070",
             "weight": 5,
             "critical": false
         },
@@ -152,13 +152,13 @@
         },
         {
             "id": "PCI-Requirement-6.5.7",
-            "name": "  Cross-site scripting (XSS)",
+            "name": "Cross-site scripting (XSS)",
             "href": "AIP/quality-standards/PCI-DSS-V3.1/items/PCI-Requirement-6.5.7",
             "standard": "PCI-DSS-V3.1"
         },
         {
             "id": "PCI-Requirement-6.5.7",
-            "name": "  Cross-site scripting (XSS)",
+            "name": "Cross-site scripting (XSS)",
             "href": "AIP/quality-standards/PCI-DSS-V3.2.1/items/PCI-Requirement-6.5.7",
             "standard": "PCI-DSS-V3.2.1"
         },

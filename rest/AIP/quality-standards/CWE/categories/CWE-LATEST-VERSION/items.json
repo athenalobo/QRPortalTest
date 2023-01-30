@@ -1489,7 +1489,7 @@
     },
     {
         "id": "CWE-280",
-        "name": "Improper Handling of Insufficient Permissions or Privileges ",
+        "name": "Improper Handling of Insufficient Permissions or Privileges",
         "href": "AIP/quality-standards/CWE/items/CWE-280",
         "count": 0
     },
@@ -1647,7 +1647,7 @@
         "id": "CWE-306",
         "name": "Missing Authentication for Critical Function",
         "href": "AIP/quality-standards/CWE/items/CWE-306",
-        "count": 3
+        "count": 4
     },
     {
         "id": "CWE-307",
@@ -2259,7 +2259,7 @@
         "id": "CWE-424",
         "name": "Improper Protection of Alternate Path",
         "href": "AIP/quality-standards/CWE/items/CWE-424",
-        "count": 3
+        "count": 4
     },
     {
         "id": "CWE-425",
@@ -2973,7 +2973,7 @@
         "id": "CWE-561",
         "name": "Dead Code",
         "href": "AIP/quality-standards/CWE/items/CWE-561",
-        "count": 78
+        "count": 79
     },
     {
         "id": "CWE-562",
@@ -3199,7 +3199,7 @@
     },
     {
         "id": "CWE-600",
-        "name": "Uncaught Exception in Servlet ",
+        "name": "Uncaught Exception in Servlet",
         "href": "AIP/quality-standards/CWE/items/CWE-600",
         "count": 2
     },
@@ -4527,7 +4527,7 @@
         "id": "CWE-1059",
         "name": "Incomplete Documentation",
         "href": "AIP/quality-standards/CWE/items/CWE-1059",
-        "count": 0
+        "count": 1
     },
     {
         "id": "CWE-1060",
@@ -5401,7 +5401,7 @@
     },
     {
         "id": "CWE-1290",
-        "name": "Incorrect Decoding of Security Identifiers ",
+        "name": "Incorrect Decoding of Security Identifiers",
         "href": "AIP/quality-standards/CWE/items/CWE-1290",
         "count": 0
     },

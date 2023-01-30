@@ -1918,6 +1918,15 @@
     ],
     "com.castsoftware.cisq-index": [
         {
+            "version": "20230130.0.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "20221003.0.0-funcrel",
             "addedRules": [
                 
@@ -13397,6 +13406,15 @@
         }
     ],
     "com.castsoftware.omg-ascqm-index": [
+        {
+            "version": "20230130.0.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "20221011.0.0-funcrel",
             "addedRules": [

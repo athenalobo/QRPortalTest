@@ -4171,6 +4171,16 @@
         ]
     },
     {
+        "id": 1020080,
+        "name": "Avoid using setInterval() (Javascript)",
+        "href": "AIP/quality-rules/1020080",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "HTML5"
+        ]
+    },
+    {
         "id": 1020084,
         "name": "Avoid unreferenced Functions (Javascript/HTML5)",
         "href": "AIP/quality-rules/1020084",
@@ -5202,6 +5212,17 @@
         "href": "AIP/quality-rules/1027010",
         "critical": true,
         "severity": 20,
+        "technologyNames": [
+            "C#",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1027014,
+        "name": "Avoid using Thread API (Suspend\\Resume) to manage thread state",
+        "href": "AIP/quality-rules/1027014",
+        "critical": false,
+        "severity": 10,
         "technologyNames": [
             "C#",
             "VB.NET"
