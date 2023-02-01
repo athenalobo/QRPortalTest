@@ -114,6 +114,18 @@
         ]
     },
     {
+        "id": 1025054,
+        "name": "Avoid plaintext storage of password",
+        "href": "AIP/quality-rules/1025054",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1027024,
         "name": "Avoid comparing passwords against hard-coded strings",
         "href": "AIP/quality-rules/1027024",

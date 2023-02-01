@@ -54,6 +54,13 @@
             "critical": false
         },
         {
+            "id": 1063122,
+            "name": "PCI-Requirement-6.5.8 - Improper access control",
+            "href": "AIP/technical-criteria/1063122",
+            "weight": 5,
+            "critical": false
+        },
+        {
             "id": 66063,
             "name": "Secure Coding - API Abuse",
             "href": "AIP/technical-criteria/66063",

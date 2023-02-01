@@ -32,6 +32,20 @@
     ],
     "technicalCriteria": [
         {
+            "id": 1066290,
+            "name": "CWE-190 - Integer Overflow or Wraparound",
+            "href": "AIP/technical-criteria/1066290",
+            "weight": 5,
+            "critical": false
+        },
+        {
+            "id": 1063120,
+            "name": "PCI-Requirement-6.5.6 - All high risk vulnerabilities",
+            "href": "AIP/technical-criteria/1063120",
+            "weight": 5,
+            "critical": false
+        },
+        {
             "id": 66064,
             "name": "Secure Coding - Weak Security Features",
             "href": "AIP/technical-criteria/66064",

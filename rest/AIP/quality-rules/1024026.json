@@ -25,27 +25,19 @@
             "href": "AIP/business-criteria/20140522"
         },
         {
-            "id": 1062300,
-            "name": "OWASP-2013-Index",
-            "href": "AIP/business-criteria/1062300"
-        },
-        {
-            "id": 1062320,
-            "name": "OWASP-2017-Index",
-            "href": "AIP/business-criteria/1062320"
-        },
-        {
-            "id": 1062340,
-            "name": "OWASP-2021-Index",
-            "href": "AIP/business-criteria/1062340"
-        },
-        {
             "id": 60016,
             "name": "Security",
             "href": "AIP/business-criteria/60016"
         }
     ],
     "technicalCriteria": [
+        {
+            "id": 1066376,
+            "name": "CWE-276 - Incorrect Default Permissions",
+            "href": "AIP/technical-criteria/1066376",
+            "weight": 5,
+            "critical": false
+        },
         {
             "id": 1062307,
             "name": "OWASP-2013-A7 - Missing Function Level Access Control",
@@ -64,6 +56,13 @@
             "id": 1062341,
             "name": "OWASP-2021-A01 - Broken Access Control",
             "href": "AIP/technical-criteria/1062341",
+            "weight": 5,
+            "critical": false
+        },
+        {
+            "id": 1063120,
+            "name": "PCI-Requirement-6.5.6 - All high risk vulnerabilities",
+            "href": "AIP/technical-criteria/1063120",
             "weight": 5,
             "critical": false
         },

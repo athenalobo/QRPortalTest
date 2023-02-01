@@ -29,6 +29,20 @@
     ],
     "technicalCriteria": [
         {
+            "id": 1066500,
+            "name": "CWE-400 - Uncontrolled Resource Consumption",
+            "href": "AIP/technical-criteria/1066500",
+            "weight": 5,
+            "critical": false
+        },
+        {
+            "id": 1063114,
+            "name": "PCI-Requirement-6.5.1 - Injection flaws, particularly SQL injection",
+            "href": "AIP/technical-criteria/1063114",
+            "weight": 5,
+            "critical": false
+        },
+        {
             "id": 66062,
             "name": "Secure Coding - Input Validation",
             "href": "AIP/technical-criteria/66062",

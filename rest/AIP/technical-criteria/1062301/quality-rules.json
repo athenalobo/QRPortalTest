@@ -832,6 +832,30 @@
         ]
     },
     {
+        "id": 1025050,
+        "name": "Avoid dangerous file inclusion",
+        "href": "AIP/quality-rules/1025050",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025052,
+        "name": "Avoid using unnormalized input strings",
+        "href": "AIP/quality-rules/1025052",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1027026,
         "name": "Avoid Connection String Parameter Pollution",
         "href": "AIP/quality-rules/1027026",

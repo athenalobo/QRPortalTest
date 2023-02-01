@@ -55,6 +55,13 @@
             "critical": false
         },
         {
+            "id": 1063120,
+            "name": "PCI-Requirement-6.5.6 - All high risk vulnerabilities",
+            "href": "AIP/technical-criteria/1063120",
+            "weight": 5,
+            "critical": false
+        },
+        {
             "id": 66063,
             "name": "Secure Coding - API Abuse",
             "href": "AIP/technical-criteria/66063",

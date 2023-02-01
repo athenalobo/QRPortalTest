@@ -33,6 +33,20 @@
     ],
     "technicalCriteria": [
         {
+            "id": 1066387,
+            "name": "CWE-287 - Improper Authentication",
+            "href": "AIP/technical-criteria/1066387",
+            "weight": 5,
+            "critical": false
+        },
+        {
+            "id": 1063115,
+            "name": "PCI-Requirement-6.5.10 - Broken authentication and session management",
+            "href": "AIP/technical-criteria/1063115",
+            "weight": 5,
+            "critical": false
+        },
+        {
             "id": 66064,
             "name": "Secure Coding - Weak Security Features",
             "href": "AIP/technical-criteria/66064",

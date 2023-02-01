@@ -35,21 +35,6 @@
             "href": "AIP/business-criteria/1061000"
         },
         {
-            "id": 1062300,
-            "name": "OWASP-2013-Index",
-            "href": "AIP/business-criteria/1062300"
-        },
-        {
-            "id": 1062320,
-            "name": "OWASP-2017-Index",
-            "href": "AIP/business-criteria/1062320"
-        },
-        {
-            "id": 1062340,
-            "name": "OWASP-2021-Index",
-            "href": "AIP/business-criteria/1062340"
-        },
-        {
             "id": 60013,
             "name": "Robustness",
             "href": "AIP/business-criteria/60013"
@@ -93,6 +78,13 @@
             "id": 1062343,
             "name": "OWASP-2021-A03 - Injection",
             "href": "AIP/technical-criteria/1062343",
+            "weight": 5,
+            "critical": false
+        },
+        {
+            "id": 1063114,
+            "name": "PCI-Requirement-6.5.1 - Injection flaws, particularly SQL injection",
+            "href": "AIP/technical-criteria/1063114",
             "weight": 5,
             "critical": false
         },

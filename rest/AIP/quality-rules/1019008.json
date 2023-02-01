@@ -30,21 +30,6 @@
             "href": "AIP/business-criteria/20140522"
         },
         {
-            "id": 1062300,
-            "name": "OWASP-2013-Index",
-            "href": "AIP/business-criteria/1062300"
-        },
-        {
-            "id": 1062320,
-            "name": "OWASP-2017-Index",
-            "href": "AIP/business-criteria/1062320"
-        },
-        {
-            "id": 1062340,
-            "name": "OWASP-2021-Index",
-            "href": "AIP/business-criteria/1062340"
-        },
-        {
             "id": 66031,
             "name": "Programming Practices",
             "href": "AIP/business-criteria/66031"
@@ -56,6 +41,13 @@
         }
     ],
     "technicalCriteria": [
+        {
+            "id": 1066500,
+            "name": "CWE-400 - Uncontrolled Resource Consumption",
+            "href": "AIP/technical-criteria/1066500",
+            "weight": 5,
+            "critical": false
+        },
         {
             "id": 61018,
             "name": "Efficiency - Memory, Network and Disk Space Management",
@@ -81,6 +73,13 @@
             "id": 1062345,
             "name": "OWASP-2021-A05 - Security Misconfiguration",
             "href": "AIP/technical-criteria/1062345",
+            "weight": 5,
+            "critical": false
+        },
+        {
+            "id": 1063103,
+            "name": "PCI-Requirement-2.2.4 - Configure system security parameters to prevent misuse.",
+            "href": "AIP/technical-criteria/1063103",
             "weight": 5,
             "critical": false
         }

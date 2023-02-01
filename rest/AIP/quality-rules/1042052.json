@@ -31,21 +31,6 @@
             "href": "AIP/business-criteria/1061000"
         },
         {
-            "id": 1062300,
-            "name": "OWASP-2013-Index",
-            "href": "AIP/business-criteria/1062300"
-        },
-        {
-            "id": 1062320,
-            "name": "OWASP-2017-Index",
-            "href": "AIP/business-criteria/1062320"
-        },
-        {
-            "id": 1062340,
-            "name": "OWASP-2021-Index",
-            "href": "AIP/business-criteria/1062340"
-        },
-        {
             "id": 60016,
             "name": "Security",
             "href": "AIP/business-criteria/60016"
@@ -56,6 +41,20 @@
             "id": 1061059,
             "name": "CWE-502 - Deserialization of Untrusted Data",
             "href": "AIP/technical-criteria/1061059",
+            "weight": 5,
+            "critical": false
+        },
+        {
+            "id": 1066602,
+            "name": "CWE-502 - Deserialization of Untrusted Data",
+            "href": "AIP/technical-criteria/1066602",
+            "weight": 5,
+            "critical": false
+        },
+        {
+            "id": 1066776,
+            "name": "CWE-676 - Use of Potentially Dangerous Function",
+            "href": "AIP/technical-criteria/1066776",
             "weight": 5,
             "critical": false
         },
@@ -77,6 +76,13 @@
             "id": 1062346,
             "name": "OWASP-2021-A06 - Vulnerable and Outdated Components",
             "href": "AIP/technical-criteria/1062346",
+            "weight": 5,
+            "critical": false
+        },
+        {
+            "id": 1063114,
+            "name": "PCI-Requirement-6.5.1 - Injection flaws, particularly SQL injection",
+            "href": "AIP/technical-criteria/1063114",
             "weight": 5,
             "critical": false
         },

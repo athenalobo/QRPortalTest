@@ -13771,6 +13771,15 @@
     ],
     "com.castsoftware.owasp-index": [
         {
+            "version": "20230201.0.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "20221011.0.0-funcrel",
             "addedRules": [
                 

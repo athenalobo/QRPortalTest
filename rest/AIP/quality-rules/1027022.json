@@ -26,21 +26,6 @@
             "href": "AIP/business-criteria/20140522"
         },
         {
-            "id": 1062300,
-            "name": "OWASP-2013-Index",
-            "href": "AIP/business-criteria/1062300"
-        },
-        {
-            "id": 1062320,
-            "name": "OWASP-2017-Index",
-            "href": "AIP/business-criteria/1062320"
-        },
-        {
-            "id": 1062340,
-            "name": "OWASP-2021-Index",
-            "href": "AIP/business-criteria/1062340"
-        },
-        {
             "id": 60013,
             "name": "Robustness",
             "href": "AIP/business-criteria/60013"
@@ -52,6 +37,13 @@
         }
     ],
     "technicalCriteria": [
+        {
+            "id": 1066387,
+            "name": "CWE-287 - Improper Authentication",
+            "href": "AIP/technical-criteria/1066387",
+            "weight": 5,
+            "critical": false
+        },
         {
             "id": 1062306,
             "name": "OWASP-2013-A6 - Sensitive Data Exposure",

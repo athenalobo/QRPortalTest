@@ -75,6 +75,13 @@
             "critical": false
         },
         {
+            "id": 1063112,
+            "name": "PCI-Requirement-6.2 - Ensure all Systems and Software are Protected from Known Vulnerabilities",
+            "href": "AIP/technical-criteria/1063112",
+            "weight": 5,
+            "critical": false
+        },
+        {
             "id": 66069,
             "name": "Programming Practices - Unexpected Behavior",
             "href": "AIP/technical-criteria/66069",

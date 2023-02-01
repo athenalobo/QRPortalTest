@@ -55,6 +55,13 @@
             "critical": false
         },
         {
+            "id": 1066350,
+            "name": "CWE-250 - Execution with Unnecessary Privileges",
+            "href": "AIP/technical-criteria/1066350",
+            "weight": 5,
+            "critical": false
+        },
+        {
             "id": 1061076,
             "name": "CWE-667 - Improper Locking",
             "href": "AIP/technical-criteria/1061076",

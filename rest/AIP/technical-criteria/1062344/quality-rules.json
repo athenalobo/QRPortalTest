@@ -138,16 +138,6 @@
         ]
     },
     {
-        "id": 1007264,
-        "name": "DEPRECATED: CWE-434: Avoid unrestricted file upload (PHP)",
-        "href": "AIP/quality-rules/1007264",
-        "critical": false,
-        "weight": 5,
-        "technologyNames": [
-            "PHP"
-        ]
-    },
-    {
         "id": 1020106,
         "name": "Avoid hidden form fields to prevent parameter tampering (Javascript/HTML5)",
         "href": "AIP/quality-rules/1020106",
@@ -251,6 +241,18 @@
         "id": 1025042,
         "name": "Avoid external control of system or configuration setting through API requests",
         "href": "AIP/quality-rules/1025042",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 1025054,
+        "name": "Avoid plaintext storage of password",
+        "href": "AIP/quality-rules/1025054",
         "critical": false,
         "weight": 5,
         "technologyNames": [

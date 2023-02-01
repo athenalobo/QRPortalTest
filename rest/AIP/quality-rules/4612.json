@@ -35,11 +35,6 @@
             "href": "AIP/business-criteria/20140522"
         },
         {
-            "id": 1062340,
-            "name": "OWASP-2021-Index",
-            "href": "AIP/business-criteria/1062340"
-        },
-        {
             "id": 60013,
             "name": "Robustness",
             "href": "AIP/business-criteria/60013"

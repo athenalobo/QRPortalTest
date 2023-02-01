@@ -43,6 +43,13 @@
     ],
     "technicalCriteria": [
         {
+            "id": 1063120,
+            "name": "PCI-Requirement-6.5.6 - All high risk vulnerabilities",
+            "href": "AIP/technical-criteria/1063120",
+            "weight": 5,
+            "critical": false
+        },
+        {
             "id": 66065,
             "name": "Secure Coding - Time and State",
             "href": "AIP/technical-criteria/66065",

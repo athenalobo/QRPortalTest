@@ -21,16 +21,6 @@
     "alternativeName": "Prefer using PreparedStatement or CallableStatement over CreateStatement to prevent SQL Injection Attacks",
     "businessCriteria": [
         {
-            "id": 1062300,
-            "name": "OWASP-2013-Index",
-            "href": "AIP/business-criteria/1062300"
-        },
-        {
-            "id": 1062320,
-            "name": "OWASP-2017-Index",
-            "href": "AIP/business-criteria/1062320"
-        },
-        {
             "id": 66031,
             "name": "Programming Practices",
             "href": "AIP/business-criteria/66031"
@@ -53,6 +43,13 @@
             "id": 1062321,
             "name": "OWASP-2017-A1 - Injection",
             "href": "AIP/technical-criteria/1062321",
+            "weight": 5,
+            "critical": false
+        },
+        {
+            "id": 1063114,
+            "name": "PCI-Requirement-6.5.1 - Injection flaws, particularly SQL injection",
+            "href": "AIP/technical-criteria/1063114",
             "weight": 5,
             "critical": false
         },

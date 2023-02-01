@@ -28,21 +28,6 @@
             "href": "AIP/business-criteria/1061000"
         },
         {
-            "id": 1062300,
-            "name": "OWASP-2013-Index",
-            "href": "AIP/business-criteria/1062300"
-        },
-        {
-            "id": 1062320,
-            "name": "OWASP-2017-Index",
-            "href": "AIP/business-criteria/1062320"
-        },
-        {
-            "id": 1062340,
-            "name": "OWASP-2021-Index",
-            "href": "AIP/business-criteria/1062340"
-        },
-        {
             "id": 60016,
             "name": "Security",
             "href": "AIP/business-criteria/60016"
@@ -50,9 +35,23 @@
     ],
     "technicalCriteria": [
         {
+            "id": 1066369,
+            "name": "CWE-269 - Improper Privilege Management",
+            "href": "AIP/technical-criteria/1066369",
+            "weight": 5,
+            "critical": false
+        },
+        {
             "id": 1061049,
             "name": "CWE-424 - Improper Protection of Alternate Path",
             "href": "AIP/technical-criteria/1061049",
+            "weight": 5,
+            "critical": false
+        },
+        {
+            "id": 1066962,
+            "name": "CWE-862 - Missing Authorization",
+            "href": "AIP/technical-criteria/1066962",
             "weight": 5,
             "critical": false
         },
@@ -74,6 +73,13 @@
             "id": 1062344,
             "name": "OWASP-2021-A04 - Insecure Design",
             "href": "AIP/technical-criteria/1062344",
+            "weight": 5,
+            "critical": false
+        },
+        {
+            "id": 1063122,
+            "name": "PCI-Requirement-6.5.8 - Improper access control",
+            "href": "AIP/technical-criteria/1063122",
             "weight": 5,
             "critical": false
         },

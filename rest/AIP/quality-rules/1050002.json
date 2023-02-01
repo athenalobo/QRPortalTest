@@ -55,6 +55,20 @@
             "critical": false
         },
         {
+            "id": 1066234,
+            "name": "CWE-134 - Use of Externally-Controlled Format String",
+            "href": "AIP/technical-criteria/1066234",
+            "weight": 5,
+            "critical": false
+        },
+        {
+            "id": 1063114,
+            "name": "PCI-Requirement-6.5.1 - Injection flaws, particularly SQL injection",
+            "href": "AIP/technical-criteria/1063114",
+            "weight": 5,
+            "critical": false
+        },
+        {
             "id": 66062,
             "name": "Secure Coding - Input Validation",
             "href": "AIP/technical-criteria/66062",
