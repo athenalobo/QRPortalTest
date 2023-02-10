@@ -7807,6 +7807,15 @@
     ],
     "com.castsoftware.java.gcp": [
         {
+            "version": "1.0.0-beta2",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.0-beta1",
             "addedRules": [
                 
