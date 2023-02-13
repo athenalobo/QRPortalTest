@@ -16485,6 +16485,15 @@
     ],
     "com.castsoftware.python": [
         {
+            "version": "1.5.2-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.5.1-funcrel",
             "addedRules": [
                 

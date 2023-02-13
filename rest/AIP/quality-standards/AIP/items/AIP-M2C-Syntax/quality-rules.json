@@ -1,5 +1,45 @@
 [
     {
+        "id": 5062,
+        "name": "Avoid using ALTER",
+        "href": "AIP/quality-rules/5062",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "Cobol"
+        ]
+    },
+    {
+        "id": 5072,
+        "name": "Avoid DISPLAY ... UPON CONSOLE",
+        "href": "AIP/quality-rules/5072",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "Cobol"
+        ]
+    },
+    {
+        "id": 5144,
+        "name": "Avoid using GOTO statement (COBOL)",
+        "href": "AIP/quality-rules/5144",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "Cobol"
+        ]
+    },
+    {
+        "id": 8480,
+        "name": "Avoid using PREPARE STMT statement (Dynamic SQL) with STRING containing HOST variables",
+        "href": "AIP/quality-rules/8480",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "Cobol"
+        ]
+    },
+    {
         "id": 1106002,
         "name": "Ensure you replace Oracle Merge",
         "href": "AIP/quality-rules/1106002",
