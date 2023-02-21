@@ -17,6 +17,26 @@
                 "name": "Agnostic"
             },
             "technology": {
+                "href": "HL/cloud-ready/technologies/10",
+                "name": "TypeScript"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/0",
+                "name": "Agnostic"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/4",
+                "name": "JavaScript"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/0",
+                "name": "Agnostic"
+            },
+            "technology": {
                 "href": "HL/cloud-ready/technologies/13",
                 "name": "Scala"
             }

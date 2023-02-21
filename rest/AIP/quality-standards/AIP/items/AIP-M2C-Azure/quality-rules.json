@@ -1,25 +1,5 @@
 [
     {
-        "id": 1106012,
-        "name": "Ensure you don't have unsupported PL/SQL package DBMS_OUTPUT",
-        "href": "AIP/quality-rules/1106012",
-        "critical": false,
-        "severity": 10,
-        "technologyNames": [
-            "ALL TECHNOLOGIES"
-        ]
-    },
-    {
-        "id": 1106014,
-        "name": "Ensure you don't have unsupported PL/SQL package DBMS_AUTO_INDEX",
-        "href": "AIP/quality-rules/1106014",
-        "critical": false,
-        "severity": 10,
-        "technologyNames": [
-            "ALL TECHNOLOGIES"
-        ]
-    },
-    {
         "id": 1106034,
         "name": "Ensure EXTERNAL TABLEs are not used",
         "href": "AIP/quality-rules/1106034",

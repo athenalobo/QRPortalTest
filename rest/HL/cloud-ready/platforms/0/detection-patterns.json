@@ -145,16 +145,6 @@
         "href": "HL/cloud-ready/detection-patterns/1200124"
     },
     {
-        "id": 1200059,
-        "name": "Use of WCF (Windows Communication Foundation) services",
-        "href": "HL/cloud-ready/detection-patterns/1200059"
-    },
-    {
-        "id": 1200060,
-        "name": "Use of WCF (Windows Communication Foundation) services",
-        "href": "HL/cloud-ready/detection-patterns/1200060"
-    },
-    {
         "id": 1200058,
         "name": "Use of WCF (Windows Communication Foundation) services",
         "href": "HL/cloud-ready/detection-patterns/1200058"

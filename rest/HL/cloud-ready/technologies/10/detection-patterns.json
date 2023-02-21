@@ -165,6 +165,11 @@
         "href": "HL/cloud-ready/detection-patterns/1200075"
     },
     {
+        "id": 1200025,
+        "name": "Using file system",
+        "href": "HL/cloud-ready/detection-patterns/1200025"
+    },
+    {
         "id": 1200029,
         "name": "Using hardcoded network IP address (IPV4, IPV6)",
         "href": "HL/cloud-ready/detection-patterns/1200029"

@@ -3,7 +3,7 @@
         "id": 1,
         "name": "C#",
         "href": "HL/cloud-ready/technologies/1",
-        "count": 71
+        "count": 69
     },
     {
         "id": 12,
@@ -33,7 +33,7 @@
         "id": 4,
         "name": "JavaScript",
         "href": "HL/cloud-ready/technologies/4",
-        "count": 35
+        "count": 36
     },
     {
         "id": 5,
@@ -75,7 +75,7 @@
         "id": 10,
         "name": "TypeScript",
         "href": "HL/cloud-ready/technologies/10",
-        "count": 35
+        "count": 36
     },
     {
         "id": 11,
