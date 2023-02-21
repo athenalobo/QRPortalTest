@@ -111,13 +111,13 @@
         "id": "AIP-M2C-DataType",
         "name": "Data Type Remediation",
         "href": "AIP/quality-standards/AIP/items/AIP-M2C-DataType",
-        "count": 5
+        "count": 4
     },
     {
         "id": "AIP-M2C-ObjectType",
         "name": "Object Type Remediation",
         "href": "AIP/quality-standards/AIP/items/AIP-M2C-ObjectType",
-        "count": 11
+        "count": 13
     },
     {
         "id": "AIP-M2C-Oracle",
