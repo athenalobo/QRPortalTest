@@ -3,7 +3,7 @@
     "name": "Avoid data fields binded to columns to return sensitive data via APIs",
     "href": "AIP/quality-rules/1060108",
     "critical": false,
-    "severity": 30,
+    "severity": 10,
     "maxWeight": 8,
     "extension": {
         "name": "com.castsoftware.systemlevelrules",

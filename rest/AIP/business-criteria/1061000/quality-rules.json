@@ -6415,7 +6415,7 @@
         "name": "Avoid SQL queries on XXL tables that no index can support for artifacts with high fan-in",
         "href": "AIP/quality-rules/1060012",
         "critical": true,
-        "severity": 30,
+        "severity": 20,
         "technologyNames": [
             "SQL"
         ]
@@ -6425,7 +6425,7 @@
         "name": "Avoid SQL queries that no index can support for artifacts with high fan-in",
         "href": "AIP/quality-rules/1060014",
         "critical": true,
-        "severity": 30,
+        "severity": 20,
         "technologyNames": [
             "SQL"
         ]
@@ -6435,7 +6435,7 @@
         "name": "Avoid String concatenation in loops for artifacts with high fan in",
         "href": "AIP/quality-rules/1060018",
         "critical": true,
-        "severity": 30,
+        "severity": 20,
         "technologyNames": [
             "JEE"
         ]
@@ -6445,7 +6445,7 @@
         "name": "Avoid empty catch blocks for methods with high fan-in",
         "href": "AIP/quality-rules/1060020",
         "critical": true,
-        "severity": 30,
+        "severity": 20,
         "technologyNames": [
             "ABAP",
             "C#",
@@ -6470,7 +6470,7 @@
         "name": "Review APIs not accessed by frontend functions",
         "href": "AIP/quality-rules/1060112",
         "critical": false,
-        "severity": 30,
+        "severity": 10,
         "technologyNames": [
             "JEE"
         ]
@@ -6480,7 +6480,7 @@
         "name": "Always enable authorization checks at function level for functions called on by APIs based with Spring Application",
         "href": "AIP/quality-rules/1060114",
         "critical": true,
-        "severity": 30,
+        "severity": 20,
         "technologyNames": [
             "JEE"
         ]
@@ -6490,7 +6490,7 @@
         "name": "Always avoid http redirects to unknown or untrusted URLs",
         "href": "AIP/quality-rules/1060116",
         "critical": false,
-        "severity": 30,
+        "severity": 10,
         "technologyNames": [
             "JEE",
             "JavaScript",

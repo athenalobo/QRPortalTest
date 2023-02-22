@@ -3,7 +3,7 @@
     "name": "Review APIs returning sensitive data fields",
     "href": "AIP/quality-rules/1060104",
     "critical": false,
-    "severity": 30,
+    "severity": 10,
     "maxWeight": 8,
     "extension": {
         "name": "com.castsoftware.systemlevelrules",

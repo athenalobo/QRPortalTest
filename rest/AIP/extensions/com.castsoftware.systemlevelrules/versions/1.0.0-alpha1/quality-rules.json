@@ -5,7 +5,7 @@
         "href": "AIP/quality-rules/1060004",
         "status": "added",
         "critical": true,
-        "severity": 30,
+        "severity": 20,
         "technologyNames": [
             "JEE"
         ]
@@ -16,7 +16,7 @@
         "href": "AIP/quality-rules/1060012",
         "status": "added",
         "critical": true,
-        "severity": 30,
+        "severity": 20,
         "technologyNames": [
             "SQL"
         ]
@@ -27,7 +27,7 @@
         "href": "AIP/quality-rules/1060014",
         "status": "added",
         "critical": true,
-        "severity": 30,
+        "severity": 20,
         "technologyNames": [
             "SQL"
         ]
@@ -38,7 +38,7 @@
         "href": "AIP/quality-rules/1060018",
         "status": "added",
         "critical": true,
-        "severity": 30,
+        "severity": 20,
         "technologyNames": [
             "JEE"
         ]
@@ -49,7 +49,7 @@
         "href": "AIP/quality-rules/1060020",
         "status": "added",
         "critical": true,
-        "severity": 30,
+        "severity": 20,
         "technologyNames": [
             "ABAP",
             "C#",
