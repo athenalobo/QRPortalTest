@@ -1922,6 +1922,16 @@
         ]
     },
     {
+        "id": 1040046,
+        "name": "Avoid weak encryption algorithm (Spring)",
+        "href": "AIP/quality-rules/1040046",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 1042010,
         "name": "Avoid using ParametersInterceptor with class parameter for Struts 2.3.16 (and older)",
         "href": "AIP/quality-rules/1042010",

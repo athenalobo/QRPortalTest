@@ -397,6 +397,16 @@
         ]
     },
     {
+        "id": 1040046,
+        "name": "Avoid weak encryption algorithm (Spring)",
+        "href": "AIP/quality-rules/1040046",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 1043060,
         "name": "Avoid disabling HMAC signature verification (C#)",
         "href": "AIP/quality-rules/1043060",

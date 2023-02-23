@@ -267,6 +267,16 @@
         ]
     },
     {
+        "id": 1040046,
+        "name": "Avoid weak encryption algorithm (Spring)",
+        "href": "AIP/quality-rules/1040046",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 1043066,
         "name": "Always use HTTPS Redirection Middleware and HSTS Middleware in your ASP.NET Core application",
         "href": "AIP/quality-rules/1043066",

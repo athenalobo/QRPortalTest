@@ -704,6 +704,16 @@
         ]
     },
     {
+        "id": 1040046,
+        "name": "Ensure you use SHA256, SHA384, and SHA512 algorithms.",
+        "href": "AIP/quality-rules/1040046",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 1043010,
         "name": "Always enable HttpOnly when creating cookies to avoid Cross-site scripting attacks",
         "href": "AIP/quality-rules/1043010",

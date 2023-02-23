@@ -20,7 +20,7 @@
     {
         "name": "PCI-DSS-Req-4",
         "href": "AIP/quality-standards/PCI-DSS-V3.2.1/categories/PCI-DSS-Req-4",
-        "count": 38,
+        "count": 39,
         "description": "Encrypt transmission of cardholder data across open, public networks."
     },
     {
@@ -32,7 +32,7 @@
     {
         "name": "PCI-DSS-Req-8",
         "href": "AIP/quality-standards/PCI-DSS-V3.2.1/categories/PCI-DSS-Req-8",
-        "count": 3,
+        "count": 4,
         "description": "Identify and authenticate access to system components."
     }
 ]

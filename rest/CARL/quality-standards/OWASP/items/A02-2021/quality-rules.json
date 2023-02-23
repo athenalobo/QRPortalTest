@@ -316,6 +316,16 @@
         ]
     },
     {
+        "id": 1040046,
+        "name": "Ensure you use SHA256, SHA384, and SHA512 algorithms.",
+        "href": "AIP/quality-rules/1040046",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 1043034,
         "name": "Ensure you did not keep the tracing activated in your web config file to not expose sensitive information for the hackers",
         "href": "AIP/quality-rules/1043034",

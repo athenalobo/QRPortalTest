@@ -21,7 +21,7 @@
         "id": "PCI-Requirement-4.1",
         "name": "Use strong cryptography and security protocols",
         "href": "CARL/quality-standards/PCI-DSS-V3.1/items/PCI-Requirement-4.1",
-        "count": 23
+        "count": 24
     },
     {
         "id": "PCI-Requirement-6.2",
@@ -93,6 +93,6 @@
         "id": "PCI-Requirement-8.2.1",
         "name": "Using strong cryptography",
         "href": "CARL/quality-standards/PCI-DSS-V3.1/items/PCI-Requirement-8.2.1",
-        "count": 1
+        "count": 2
     }
 ]

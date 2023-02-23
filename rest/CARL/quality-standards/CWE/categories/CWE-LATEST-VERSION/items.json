@@ -1761,7 +1761,7 @@
         "id": "CWE-327",
         "name": "Use of a Broken or Risky Cryptographic Algorithm",
         "href": "CARL/quality-standards/CWE/items/CWE-327",
-        "count": 8
+        "count": 9
     },
     {
         "id": "CWE-328",
@@ -5103,7 +5103,7 @@
         "id": "CWE-1240",
         "name": "Use of a Cryptographic Primitive with a Risky Implementation",
         "href": "CARL/quality-standards/CWE/items/CWE-1240",
-        "count": 5
+        "count": 6
     },
     {
         "id": "CWE-1241",

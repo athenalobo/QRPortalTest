@@ -233,12 +233,12 @@
     {
         "id": 1040046,
         "name": "Avoid using Spring Data with XMLBeam integration",
-        "href": null,
-        "status": "deprecated",
+        "href": "AIP/quality-rules/1040046",
+        "status": "renewed",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
-            
+            "JEE"
         ]
     },
     {

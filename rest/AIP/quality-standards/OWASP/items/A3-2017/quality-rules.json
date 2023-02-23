@@ -904,6 +904,16 @@
         ]
     },
     {
+        "id": 1040046,
+        "name": "Avoid weak encryption algorithm (Spring)",
+        "href": "AIP/quality-rules/1040046",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 1043010,
         "name": "Avoid creating cookie without setting httpOnly option (C#)",
         "href": "AIP/quality-rules/1043010",

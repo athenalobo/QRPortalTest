@@ -456,6 +456,16 @@
         ]
     },
     {
+        "id": 1040046,
+        "name": "Avoid weak encryption algorithm (Spring)",
+        "href": "AIP/quality-rules/1040046",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 1043034,
         "name": "Avoid having applications with the tracing activated in the web config file",
         "href": "AIP/quality-rules/1043034",
