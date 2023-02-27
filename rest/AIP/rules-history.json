@@ -12895,6 +12895,15 @@
     ],
     "com.castsoftware.nosqljava": [
         {
+            "version": "1.6.14-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.6.13-funcrel",
             "addedRules": [
                 
