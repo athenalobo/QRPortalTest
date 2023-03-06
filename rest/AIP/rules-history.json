@@ -1592,6 +1592,15 @@
     ],
     "com.castsoftware.cfamily": [
         {
+            "version": "1.6.2",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.6.1",
             "addedRules": [
                 
