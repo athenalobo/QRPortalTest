@@ -6314,6 +6314,15 @@
     ],
     "com.castsoftware.html5": [
         {
+            "version": "2.1.21-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "2.1.20-funcrel",
             "addedRules": [
                 
