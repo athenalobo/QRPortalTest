@@ -3973,6 +3973,15 @@
     ],
     "com.castsoftware.dotnetweb": [
         {
+            "version": "1.4.10-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.4.9-funcrel",
             "addedRules": [
                 
@@ -9844,6 +9853,15 @@
     ],
     "com.castsoftware.jeerules": [
         {
+            "version": "1.4.4-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.4.3-funcrel",
             "addedRules": [
                 
@@ -10762,6 +10780,15 @@
         }
     ],
     "com.castsoftware.kotlin": [
+        {
+            "version": "1.1.1-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "1.1.0-funcrel",
             "addedRules": [
