@@ -34,18 +34,6 @@
         ]
     },
     {
-        "id": 8442,
-        "name": "Ensure you have sanitized the data received from resources",
-        "href": "AIP/quality-rules/8442",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "C#",
-            "JEE",
-            "VB.NET"
-        ]
-    },
-    {
         "id": 8444,
         "name": "Ensure you have sanitized the methods manipulating resources",
         "href": "AIP/quality-rules/8444",

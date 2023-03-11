@@ -51,7 +51,7 @@
         "id": "AIP-TOP-PRIORITY",
         "name": "Top Priority Rule",
         "href": "AIP/quality-standards/AIP/items/AIP-TOP-PRIORITY",
-        "count": 214
+        "count": 213
     },
     {
         "id": "AIP-HA-FAILURES",
@@ -153,13 +153,13 @@
         "id": "COMMAND-INJECTION",
         "name": "OS/LDAP Command Injection or Expression evaluation injection",
         "href": "AIP/quality-standards/AIP/items/COMMAND-INJECTION",
-        "count": 64
+        "count": 63
     },
     {
         "id": "CROSS-SITE-VULNERABILITY",
         "name": "Cross Site Vulnerability",
         "href": "AIP/quality-standards/AIP/items/CROSS-SITE-VULNERABILITY",
-        "count": 56
+        "count": 55
     },
     {
         "id": "DATA-SAFETY",

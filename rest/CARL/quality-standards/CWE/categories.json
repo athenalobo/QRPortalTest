@@ -2,31 +2,31 @@
     {
         "name": "CWE-2011-Top25",
         "href": "CARL/quality-standards/CWE/categories/CWE-2011-Top25",
-        "count": 177,
+        "count": 176,
         "description": "This list of top 25 Most Dangerous Software Weaknesses demonstrates the currently most common and impactful software weaknesses. Often easy to find and exploit, these can lead to exploitable vulnerabilities that allow adversaries to completely take over a system, steal data, or prevent applications from working."
     },
     {
         "name": "CWE-2019-Top25",
         "href": "CARL/quality-standards/CWE/categories/CWE-2019-Top25",
-        "count": 155,
+        "count": 154,
         "description": "This list of top 25 Most Dangerous Software Weaknesses demonstrates the currently most common and impactful software weaknesses. Often easy to find and exploit, these can lead to exploitable vulnerabilities that allow adversaries to completely take over a system, steal data, or prevent applications from working."
     },
     {
         "name": "CWE-2020-Top25",
         "href": "CARL/quality-standards/CWE/categories/CWE-2020-Top25",
-        "count": 153,
+        "count": 152,
         "description": "This list of top 25 Most Dangerous Software Weaknesses demonstrates the currently most common and impactful software weaknesses. Often easy to find and exploit, these can lead to exploitable vulnerabilities that allow adversaries to completely take over a system, steal data, or prevent applications from working."
     },
     {
         "name": "CWE-2021-Top25",
         "href": "CARL/quality-standards/CWE/categories/CWE-2021-Top25",
-        "count": 147,
+        "count": 146,
         "description": "This list of top 25 Most Dangerous Software Weaknesses demonstrates the currently most common and impactful software weaknesses. Often easy to find and exploit, these can lead to exploitable vulnerabilities that allow adversaries to completely take over a system, steal data, or prevent applications from working."
     },
     {
         "name": "CWE-2022-Top25",
         "href": "CARL/quality-standards/CWE/categories/CWE-2022-Top25",
-        "count": 148,
+        "count": 147,
         "description": "This list of top 25 Most Dangerous Software Weaknesses demonstrates the currently most common and impactful software weaknesses. Often easy to find and exploit, these can lead to exploitable vulnerabilities that allow adversaries to completely take over a system, steal data, or prevent applications from working."
     },
     {

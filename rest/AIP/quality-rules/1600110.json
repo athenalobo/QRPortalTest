@@ -3,7 +3,7 @@
     "name": "Check existence of \"Update\", \"Insert\" & \"Delete\" Statements using SQLExec function (PeopleSoft)",
     "href": "AIP/quality-rules/1600110",
     "critical": true,
-    "severity": 30,
+    "severity": 20,
     "maxWeight": 9,
     "extension": {
         "name": "com.castsoftware.peoplesoft",
@@ -90,42 +90,7 @@
         }
     ],
     "qualityStandards": [
-        {
-            "id": "CWE-676",
-            "name": "Use of Potentially Dangerous Function",
-            "href": "AIP/quality-standards/CWE/items/CWE-676",
-            "standard": "CWE"
-        },
-        {
-            "id": "A9-2013",
-            "name": "Using Components with Known Vulnerabilities",
-            "href": "AIP/quality-standards/OWASP/items/A9-2013",
-            "standard": "OWASP"
-        },
-        {
-            "id": "A9-2017",
-            "name": "Using Components with Known Vulnerabilities",
-            "href": "AIP/quality-standards/OWASP/items/A9-2017",
-            "standard": "OWASP"
-        },
-        {
-            "id": "A06-2021",
-            "name": "Vulnerable and Outdated Components",
-            "href": "AIP/quality-standards/OWASP/items/A06-2021",
-            "standard": "OWASP"
-        },
-        {
-            "id": "PCI-Requirement-6.2",
-            "name": "Ensure all Systems and Software are Protected from Known Vulnerabilities",
-            "href": "AIP/quality-standards/PCI-DSS-V3.1/items/PCI-Requirement-6.2",
-            "standard": "PCI-DSS-V3.1"
-        },
-        {
-            "id": "PCI-Requirement-6.2",
-            "name": "Ensure all Systems and Software are Protected from Known Vulnerabilities",
-            "href": "AIP/quality-standards/PCI-DSS-V3.2.1/items/PCI-Requirement-6.2",
-            "standard": "PCI-DSS-V3.2.1"
-        }
+        
     ],
     "parameters": [
         

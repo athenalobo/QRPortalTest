@@ -2248,16 +2248,6 @@
         ]
     },
     {
-        "id": 1600110,
-        "name": "Check existence of \"Update\", \"Insert\" & \"Delete\" Statements using SQLExec function (PeopleSoft)",
-        "href": "AIP/quality-rules/1600110",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "PeopleSoft"
-        ]
-    },
-    {
         "id": 1677000,
         "name": "Avoid string interpolations to prevent SQL injections (MyBatis/iBatis)",
         "href": "AIP/quality-rules/1677000",

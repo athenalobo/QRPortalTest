@@ -15,13 +15,13 @@
         "id": "A3-2013",
         "name": "Cross-Site Scripting (XSS)",
         "href": "CARL/quality-standards/OWASP/items/A3-2013",
-        "count": 44
+        "count": 43
     },
     {
         "id": "A4-2013",
         "name": "Insecure Direct Object References",
         "href": "CARL/quality-standards/OWASP/items/A4-2013",
-        "count": 4
+        "count": 5
     },
     {
         "id": "A5-2013",
