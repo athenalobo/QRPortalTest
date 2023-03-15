@@ -158,6 +158,12 @@
     {
         "qualityModel": false,
         "transactionsConfiguration": true,
+        "name": "com.castsoftware.dwr",
+        "href": "AIP/extensions/com.castsoftware.dwr"
+    },
+    {
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.ead4j",
         "href": "AIP/extensions/com.castsoftware.ead4j"
     },
