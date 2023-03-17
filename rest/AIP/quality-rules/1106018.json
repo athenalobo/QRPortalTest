@@ -1,6 +1,6 @@
 {
     "id": 1106018,
-    "name": "Ensure you don't have unsupported PL/SQL procedures DBMS_LOGMNR.ADD_LOGFILE and DBMS_LOGMNR.REMOVE_LOGFILE",
+    "name": "Ensure PL/SQL procedures DBMS_LOGMNR.ADD_LOGFILE and DBMS_LOGMNR.REMOVE_LOGFILE are not used",
     "href": "AIP/quality-rules/1106018",
     "critical": false,
     "severity": 10,

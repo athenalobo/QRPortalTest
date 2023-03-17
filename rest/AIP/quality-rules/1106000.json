@@ -1,6 +1,6 @@
 {
     "id": 1106000,
-    "name": "Ensure you don't have unsupported PL/SQL packages",
+    "name": "Ensure unsupported PL/SQL packages are not used",
     "href": "AIP/quality-rules/1106000",
     "critical": false,
     "severity": 10,

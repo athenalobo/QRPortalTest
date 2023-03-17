@@ -1,6 +1,6 @@
 {
     "id": 1106008,
-    "name": "Ensure you don't have unsupported PL/SQL package DBMS_SCHEDULER",
+    "name": "Ensure PL/SQL package DBMS_SCHEDULER is not used",
     "href": "AIP/quality-rules/1106008",
     "critical": false,
     "severity": 10,

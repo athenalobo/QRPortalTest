@@ -1,6 +1,6 @@
 {
     "id": 1106026,
-    "name": "Ensure you don't have unsupported XMLType columns in tables",
+    "name": "Ensure XMLType columns are not used",
     "href": "AIP/quality-rules/1106026",
     "critical": false,
     "severity": 10,

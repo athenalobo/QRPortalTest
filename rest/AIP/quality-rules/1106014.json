@@ -1,6 +1,6 @@
 {
     "id": 1106014,
-    "name": "Ensure you don't have unsupported PL/SQL package DBMS_AUTO_INDEX",
+    "name": "Ensure PL/SQL package DBMS_AUTO_INDEX is not used",
     "href": "AIP/quality-rules/1106014",
     "critical": false,
     "severity": 10,

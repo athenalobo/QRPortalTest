@@ -1,6 +1,6 @@
 {
     "id": 1106028,
-    "name": "Ensure you don't have unsupported clause CLUSTER in CREATE TABLE statements",
+    "name": "Ensure CLUSTER clause in CREATE TABLE statements is not used",
     "href": "AIP/quality-rules/1106028",
     "critical": false,
     "severity": 10,

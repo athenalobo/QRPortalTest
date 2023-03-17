@@ -396,6 +396,12 @@
         "href": "AIP/extensions/com.castsoftware.python"
     },
     {
+        "qualityModel": false,
+        "transactionsConfiguration": false,
+        "name": "com.castsoftware.python.missingtable",
+        "href": "AIP/extensions/com.castsoftware.python.missingtable"
+    },
+    {
         "qualityModel": true,
         "transactionsConfiguration": true,
         "name": "com.castsoftware.reactjs",

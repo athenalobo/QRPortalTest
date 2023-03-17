@@ -1,6 +1,6 @@
 {
     "id": 1106006,
-    "name": "Ensure you don't have unsupported PL/SQL package UTL_FILE",
+    "name": "Ensure PL/SQL package UTL_FILE is not used",
     "href": "AIP/quality-rules/1106006",
     "critical": false,
     "severity": 10,

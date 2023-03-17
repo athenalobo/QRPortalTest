@@ -1,6 +1,6 @@
 {
     "id": 1106012,
-    "name": "Ensure you don't have unsupported PL/SQL package DBMS_OUTPUT",
+    "name": "Ensure PL/SQL package DBMS_OUTPUT is not used",
     "href": "AIP/quality-rules/1106012",
     "critical": false,
     "severity": 10,

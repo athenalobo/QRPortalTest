@@ -17198,6 +17198,17 @@
             ]
         }
     ],
+    "com.castsoftware.python.missingtable": [
+        {
+            "version": "1.0.0-beta1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        }
+    ],
     "com.castsoftware.reactjs": [
         {
             "version": "1.2.12-funcrel",
@@ -21368,6 +21379,15 @@
     ],
     "com.castsoftware.sql.movetocloud": [
         {
+            "version": "1.0.0-beta2",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.0-beta1",
             "addedRules": [
                 {
@@ -21453,6 +21473,15 @@
         }
     ],
     "com.castsoftware.sqlanalyzer": [
+        {
+            "version": "3.6.8-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "3.6.7-funcrel",
             "addedRules": [
