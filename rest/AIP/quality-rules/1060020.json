@@ -3,7 +3,7 @@
     "name": "Avoid empty catch blocks for methods with high fan-in",
     "href": "AIP/quality-rules/1060020",
     "critical": true,
-    "severity": 20,
+    "severity": 30,
     "maxWeight": 7,
     "extension": {
         "name": "com.castsoftware.systemlevelrules",
@@ -24,11 +24,6 @@
             "id": 1062100,
             "name": "CISQ-Index",
             "href": "AIP/business-criteria/1062100"
-        },
-        {
-            "id": 20140522,
-            "name": "GreenIT-Index",
-            "href": "AIP/business-criteria/20140522"
         },
         {
             "id": 1061000,

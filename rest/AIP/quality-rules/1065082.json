@@ -19,11 +19,6 @@
     "alternativeName": "Handlers of a function-try-block implementation of a class constructor ordestructor shall not reference non-static members from this class or its bases.",
     "businessCriteria": [
         {
-            "id": 20140522,
-            "name": "GreenIT-Index",
-            "href": "AIP/business-criteria/20140522"
-        },
-        {
             "id": 66031,
             "name": "Programming Practices",
             "href": "AIP/business-criteria/66031"

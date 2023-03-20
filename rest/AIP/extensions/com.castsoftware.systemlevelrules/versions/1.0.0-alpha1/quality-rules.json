@@ -16,7 +16,7 @@
         "href": "AIP/quality-rules/1060012",
         "status": "added",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "SQL"
         ]
@@ -27,7 +27,7 @@
         "href": "AIP/quality-rules/1060014",
         "status": "added",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "SQL"
         ]
@@ -49,7 +49,7 @@
         "href": "AIP/quality-rules/1060020",
         "status": "added",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "ABAP",
             "C#",

@@ -480,7 +480,7 @@
         "name": "Avoid SQL queries on XXL tables that no index can support for artifacts with high fan-in",
         "href": "AIP/quality-rules/1060012",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "SQL"
         ]
@@ -490,7 +490,7 @@
         "name": "Avoid SQL queries that no index can support for artifacts with high fan-in",
         "href": "AIP/quality-rules/1060014",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "SQL"
         ]

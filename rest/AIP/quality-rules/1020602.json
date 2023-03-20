@@ -19,11 +19,6 @@
     "alternativeName": "Avoid using \"sap.ui.model.odata.ODataModel\" as deprecated in version: SAPUI5 1.48",
     "businessCriteria": [
         {
-            "id": 20140522,
-            "name": "GreenIT-Index",
-            "href": "AIP/business-criteria/20140522"
-        },
-        {
             "id": 1061000,
             "name": "ISO-5055-Index",
             "href": "AIP/business-criteria/1061000"

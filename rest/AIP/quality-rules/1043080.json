@@ -21,11 +21,6 @@
     "alternativeName": "Avoid disabling OR not defining encryption behavior for encryption when connecting with Database",
     "businessCriteria": [
         {
-            "id": 20140522,
-            "name": "GreenIT-Index",
-            "href": "AIP/business-criteria/20140522"
-        },
-        {
             "id": 60016,
             "name": "Security",
             "href": "AIP/business-criteria/60016"
