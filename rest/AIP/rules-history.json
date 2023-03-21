@@ -24008,6 +24008,15 @@
     ],
     "com.castsoftware.typescript": [
         {
+            "version": "1.11.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.11.0-beta3",
             "addedRules": [
                 
