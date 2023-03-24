@@ -21,6 +21,11 @@
     "alternativeName": "Using Dynamic Method Invocation for Apache Struts 2.x allows remote attackers to execute arbitrary code via method: prefix, related to chained expressions.",
     "businessCriteria": [
         {
+            "id": 20140522,
+            "name": "Green",
+            "href": "AIP/business-criteria/20140522"
+        },
+        {
             "id": 1061000,
             "name": "ISO-5055-Index",
             "href": "AIP/business-criteria/1061000"

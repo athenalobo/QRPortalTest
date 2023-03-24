@@ -21,6 +21,11 @@
     "alternativeName": "Make sure you are using Secure option for cookies so that Cross-Site-Scripting attacks can be prevented",
     "businessCriteria": [
         {
+            "id": 20140522,
+            "name": "Green",
+            "href": "AIP/business-criteria/20140522"
+        },
+        {
             "id": 60016,
             "name": "Security",
             "href": "AIP/business-criteria/60016"

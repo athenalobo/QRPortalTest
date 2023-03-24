@@ -20,6 +20,11 @@
     "alternativeName": "CDS View AccessControl.authorizationCheck should not be set to '#NOT_REQUIRED' (S4/HANA)",
     "businessCriteria": [
         {
+            "id": 20140522,
+            "name": "Green",
+            "href": "AIP/business-criteria/20140522"
+        },
+        {
             "id": 60016,
             "name": "Security",
             "href": "AIP/business-criteria/60016"

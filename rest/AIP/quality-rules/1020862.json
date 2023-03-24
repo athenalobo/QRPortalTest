@@ -21,6 +21,11 @@
     "alternativeName": "Make sure to accurately define the path of the web application/s for which this cookie is valid",
     "businessCriteria": [
         {
+            "id": 20140522,
+            "name": "Green",
+            "href": "AIP/business-criteria/20140522"
+        },
+        {
             "id": 60016,
             "name": "Security",
             "href": "AIP/business-criteria/60016"
