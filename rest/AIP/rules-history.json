@@ -1236,6 +1236,15 @@
     ],
     "com.castsoftware.azure.dotnet": [
         {
+            "version": "1.0.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.0-beta3",
             "addedRules": [
                 
@@ -2702,6 +2711,15 @@
         },
         {
             "version": "1.5.0-beta1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
+            "version": "1.4.14",
             "addedRules": [
                 
             ],

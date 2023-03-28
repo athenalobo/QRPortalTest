@@ -14,6 +14,13 @@
         "transactionsConfigurationCRC": 446627177
     },
     {
+        "name": "1.4.14",
+        "href": "AIP/extensions/com.castsoftware.dotnet/versions/1.4.14",
+        "metaModelCRC": 0,
+        "rulesCRC": 1601078173,
+        "transactionsConfigurationCRC": 446627177
+    },
+    {
         "name": "1.4.13",
         "href": "AIP/extensions/com.castsoftware.dotnet/versions/1.4.13",
         "metaModelCRC": 0,
