@@ -23061,6 +23061,15 @@
     ],
     "com.castsoftware.struts": [
         {
+            "version": "1.5.5-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.5.4-funcrel",
             "addedRules": [
                 
