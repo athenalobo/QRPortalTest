@@ -6397,6 +6397,15 @@
     ],
     "com.castsoftware.html5": [
         {
+            "version": "2.1.22-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "2.1.21-funcrel",
             "addedRules": [
                 
@@ -10899,6 +10908,15 @@
         }
     ],
     "com.castsoftware.kotlin": [
+        {
+            "version": "1.1.2-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "1.1.1-funcrel",
             "addedRules": [
@@ -24151,6 +24169,18 @@
         }
     ],
     "com.castsoftware.typescript": [
+        {
+            "version": "1.11.1-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                {
+                    "id": 1020878,
+                    "name": "DELETED: Ensure the express X-XSS-Protection header is enabled (TypeScript)"
+                }
+            ]
+        },
         {
             "version": "1.11.0-funcrel",
             "addedRules": [

@@ -10,10 +10,10 @@
         "href": "AIP/extensions/com.castsoftware.typescript"
     },
     "associatedValueName": "Number of violation occurrences",
-    "description": "This rule will raise a violation when no unsubscription is found in the onDestroy method of a class that subscribed to an event.",
+    "description": "This rule will add a violation to an Angular component subscribing to an event when unsubscription is not handled by one of the following approaches:\n  - using @AutoUnsubscribe or @UntilDestroy decorators\n  - using unsubscribe in the onDestroy method",
     "output": "Associated to each violation, the following information is provided:\n- The number of violation occurrences\n- Bookmarks for violation occurrences found in the source code",
     "rationale": "onDestroy is the place to free resources that won't be garbage-collected automatically.\nYou risk memory leaks if you neglect to unsubscribe from Observables and DOM events.",
-    "reference": "https://cwe.mitre.org/data/definitions/404.html\nhttps://angular.io/guide/lifecycle-hooks#ondestroy",
+    "reference": "https://cwe.mitre.org/data/definitions/404.html\nhttps://angular.io/guide/lifecycle-hooks#ondestroy\n\nhttps://levelup.gitconnected.com/auto-unsubscribing-in-angular-components-like-a-pro-742220b01d0c",
     "remediation": "Ensure you cleanup just before Angular destroys the directive or component, unsubscribe Observables to avoid memory leaks",
     "remediationSample": "import { Component, OnDestroy } from '@angular/core';\nimport { AuthService } from './auth.service';\nimport { Subscription } from 'rxjs';\n\n@Component({...})\nexport class ShowUserComponent implements OnDestroy {\n  myUserSub: Subscription;\n\n  constructor(private authService: AuthService) {}\n\n  showLoggedInUser() {\n    this.myUserSub = this.authService\n      .getLoggedInUserName()\n      .subscribe(username => window.alert(`You are logged in as ${username}!`));\n  }\n\n  ngOnDestroy() {\n    if (this.myUserSub) {\n      this.myUserSub.unsubscribe();\n    }\n  }\n}",
     "sample": "import { Component } from '@angular/core';\nimport { AuthService } from './auth.service';\n\n@Component({...})\nexport class ShowUserComponent {\n  constructor(private authService: AuthService) {}\n\n  showLoggedInUser() {\n    this.authService\n      .getLoggedInUserName()\n      .subscribe(username => window.alert(`You are logged in as ${username}!`));\n  }\n\n// VIOLATION\n}",

@@ -111,7 +111,7 @@
     },
     {
         "id": 1020820,
-        "name": "Avoid hardcoded passwords (TypeScript)",
+        "name": "Avoid hard-coded passwords (TypeScript)",
         "href": "AIP/quality-rules/1020820",
         "status": "renewed",
         "critical": true,
@@ -144,7 +144,7 @@
     },
     {
         "id": 1020826,
-        "name": "Avoid hardcoded network resource names (Typescript)",
+        "name": "Avoid hard-coded network resource names (Typescript)",
         "href": "AIP/quality-rules/1020826",
         "status": "renewed",
         "critical": true,
@@ -393,17 +393,6 @@
         "severity": 10,
         "technologyNames": [
             "HTML5"
-        ]
-    },
-    {
-        "id": 1020878,
-        "name": "Ensure the express X-XSS-Protection header is enabled (TypeScript)",
-        "href": null,
-        "status": "deprecated",
-        "critical": true,
-        "severity": 20,
-        "technologyNames": [
-            
         ]
     },
     {
@@ -666,6 +655,17 @@
         "status": "renewed",
         "critical": true,
         "severity": 30,
+        "technologyNames": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 1020928,
+        "name": "Always unsubscribe events in Angular onDestroy method",
+        "href": "AIP/quality-rules/1020928",
+        "status": "renewed",
+        "critical": false,
+        "severity": 10,
         "technologyNames": [
             "HTML5"
         ]
