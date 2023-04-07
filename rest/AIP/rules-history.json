@@ -24929,6 +24929,15 @@
     ],
     "com.castsoftware.vuejs": [
         {
+            "version": "1.2.2-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.2.1-funcrel",
             "addedRules": [
                 
