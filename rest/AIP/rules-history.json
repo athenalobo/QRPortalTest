@@ -11749,6 +11749,15 @@
     ],
     "com.castsoftware.nodejs": [
         {
+            "version": "2.9.1-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "2.9.0-funcrel",
             "addedRules": [
                 
