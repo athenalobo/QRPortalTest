@@ -114,6 +114,12 @@
         "href": "AIP/extensions/com.castsoftware.cpp"
     },
     {
+        "qualityModel": false,
+        "transactionsConfiguration": false,
+        "name": "com.castsoftware.cpp.missingtable",
+        "href": "AIP/extensions/com.castsoftware.cpp.missingtable"
+    },
+    {
         "qualityModel": true,
         "transactionsConfiguration": true,
         "name": "com.castsoftware.dotnet",
@@ -136,6 +142,12 @@
         "transactionsConfiguration": true,
         "name": "com.castsoftware.dotnet.gcp",
         "href": "AIP/extensions/com.castsoftware.dotnet.gcp"
+    },
+    {
+        "qualityModel": false,
+        "transactionsConfiguration": false,
+        "name": "com.castsoftware.dotnet.missingtable",
+        "href": "AIP/extensions/com.castsoftware.dotnet.missingtable"
     },
     {
         "qualityModel": false,
@@ -294,6 +306,12 @@
         "href": "AIP/extensions/com.castsoftware.jee"
     },
     {
+        "qualityModel": false,
+        "transactionsConfiguration": false,
+        "name": "com.castsoftware.jee.missingtable",
+        "href": "AIP/extensions/com.castsoftware.jee.missingtable"
+    },
+    {
         "qualityModel": true,
         "transactionsConfiguration": false,
         "name": "com.castsoftware.jeerules",
@@ -316,6 +334,12 @@
         "transactionsConfiguration": true,
         "name": "com.castsoftware.mainframe",
         "href": "AIP/extensions/com.castsoftware.mainframe"
+    },
+    {
+        "qualityModel": false,
+        "transactionsConfiguration": false,
+        "name": "com.castsoftware.mainframe.missingtable",
+        "href": "AIP/extensions/com.castsoftware.mainframe.missingtable"
     },
     {
         "qualityModel": false,
