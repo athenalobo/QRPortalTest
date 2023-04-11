@@ -11466,6 +11466,15 @@
     ],
     "com.castsoftware.moduledefinitiontypes": [
         {
+            "version": "1.0.2",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.1",
             "addedRules": [
                 
