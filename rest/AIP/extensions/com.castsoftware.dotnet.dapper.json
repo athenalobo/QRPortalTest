@@ -4,7 +4,7 @@
     "name": "com.castsoftware.dotnet.dapper",
     "href": "AIP/extensions/com.castsoftware.dotnet.dapper",
     "title": ".NET Dapper",
-    "description": "This extension provides support for Dapper, Z.Dapper.Plus, Dapper.SimpleCRUD, Dapper.Contrib and Dapper.SqlBuilder",
+    "description": "This extension provides support for Dapper, Z.Dapper.Plus, Dapper.SimpleCRUD, Dapper.Contrib, Dapper.SqlBuilder and Dapper.FastCrud",
     "iconUrl": "https://raw.githubusercontent.com/CAST-Extend/resources/master/com.castsoftware.dapper.png",
     "versions": {
         "name": "versions from latest to oldest",
