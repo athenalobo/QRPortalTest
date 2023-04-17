@@ -9333,6 +9333,15 @@
             ]
         },
         {
+            "version": "1.2.26",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.2.25",
             "addedRules": [
                 
