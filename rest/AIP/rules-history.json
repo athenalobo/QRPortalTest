@@ -2701,6 +2701,15 @@
     ],
     "com.castsoftware.cpp.missingtable": [
         {
+            "version": "1.0.0-beta1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.0-alpha1",
             "addedRules": [
                 
@@ -3970,6 +3979,15 @@
         }
     ],
     "com.castsoftware.dotnet.missingtable": [
+        {
+            "version": "1.0.0-beta1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "1.0.0-alpha1",
             "addedRules": [
@@ -10039,6 +10057,15 @@
     ],
     "com.castsoftware.jee.missingtable": [
         {
+            "version": "1.0.0-beta1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.0-alpha1",
             "addedRules": [
                 
@@ -11397,6 +11424,15 @@
         }
     ],
     "com.castsoftware.mainframe.missingtable": [
+        {
+            "version": "1.0.0-alpha2",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "1.0.0-alpha1",
             "addedRules": [
@@ -17470,6 +17506,15 @@
         }
     ],
     "com.castsoftware.python.missingtable": [
+        {
+            "version": "1.0.0-beta2",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "1.0.0-beta1",
             "addedRules": [
