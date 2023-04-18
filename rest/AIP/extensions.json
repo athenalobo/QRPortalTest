@@ -366,6 +366,12 @@
         "href": "AIP/extensions/com.castsoftware.nodejs"
     },
     {
+        "qualityModel": false,
+        "transactionsConfiguration": false,
+        "name": "com.castsoftware.nodejs.missingtable",
+        "href": "AIP/extensions/com.castsoftware.nodejs.missingtable"
+    },
+    {
         "qualityModel": true,
         "transactionsConfiguration": true,
         "name": "com.castsoftware.nosqldotnet",

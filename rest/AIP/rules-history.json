@@ -12693,6 +12693,17 @@
             ]
         }
     ],
+    "com.castsoftware.nodejs.missingtable": [
+        {
+            "version": "1.0.0-alpha1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        }
+    ],
     "com.castsoftware.nosqldotnet": [
         {
             "version": "1.6.3-funcrel",
@@ -21751,6 +21762,15 @@
         }
     ],
     "com.castsoftware.sqlanalyzer": [
+        {
+            "version": "3.6.10-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "3.6.9-funcrel",
             "addedRules": [
