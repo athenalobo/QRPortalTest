@@ -318,6 +318,12 @@
         "href": "AIP/extensions/com.castsoftware.jeerules"
     },
     {
+        "qualityModel": false,
+        "transactionsConfiguration": false,
+        "name": "com.castsoftware.jooq",
+        "href": "AIP/extensions/com.castsoftware.jooq"
+    },
+    {
         "qualityModel": true,
         "transactionsConfiguration": true,
         "name": "com.castsoftware.jquery",
@@ -358,6 +364,12 @@
         "transactionsConfiguration": false,
         "name": "com.castsoftware.mqe",
         "href": "AIP/extensions/com.castsoftware.mqe"
+    },
+    {
+        "qualityModel": false,
+        "transactionsConfiguration": false,
+        "name": "com.castsoftware.msenterpriselibrary",
+        "href": "AIP/extensions/com.castsoftware.msenterpriselibrary"
     },
     {
         "qualityModel": true,

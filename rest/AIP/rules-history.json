@@ -10510,6 +10510,17 @@
             ]
         }
     ],
+    "com.castsoftware.jooq": [
+        {
+            "version": "1.0.0-alpha1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        }
+    ],
     "com.castsoftware.jquery": [
         {
             "version": "2.3.7-funcrel",
@@ -11862,6 +11873,17 @@
                 
             ]
         },
+        {
+            "version": "1.0.0-alpha1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        }
+    ],
+    "com.castsoftware.msenterpriselibrary": [
         {
             "version": "1.0.0-alpha1",
             "addedRules": [
@@ -24386,6 +24408,15 @@
         }
     ],
     "com.castsoftware.typescript": [
+        {
+            "version": "1.12.0-beta1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "1.11.1-funcrel",
             "addedRules": [
