@@ -29,7 +29,10 @@
         },
         "description": "Subset of rows returned in a database query is compatible with Cloud-based relational database such as AWS Aurora DB.",
         "migrationImpacts": [
-            
+            {
+                "href": "HL/cloud-ready/migration-impacts/0",
+                "name": "None"
+            }
         ],
         "reference": "https://www.ibm.com/support/knowledgecenter/SSEPEK_10.0.0/perf/src/tpc/db2z_fetchfirstnrows.html"
     }

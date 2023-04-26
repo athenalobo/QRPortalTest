@@ -17,6 +17,26 @@
                 "name": "AWS"
             },
             "technology": {
+                "href": "HL/cloud-ready/technologies/1",
+                "name": "C#"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/2",
+                "name": "Azure"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/1",
+                "name": "C#"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/1",
+                "name": "AWS"
+            },
+            "technology": {
                 "href": "HL/cloud-ready/technologies/3",
                 "name": "Java"
             }
@@ -40,26 +60,6 @@
                 "href": "HL/cloud-ready/technologies/3",
                 "name": "Java"
             }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/1",
-                "name": "AWS"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/1",
-                "name": "C#"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/2",
-                "name": "Azure"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/1",
-                "name": "C#"
-            }
         }
     ],
     "platformMigration": {
@@ -69,7 +69,10 @@
         },
         "description": "These patterns verify the use of cloud-based load balancing services from Amazon Web Services, Azure and Google Cloud.\n- Amazon Web Services: Elastic Load Balancing\n- Azure: Azure Load Balancer\n- Google Cloud: Load Balancing CDN",
         "migrationImpacts": [
-            
+            {
+                "href": "HL/cloud-ready/migration-impacts/0",
+                "name": "None"
+            }
         ],
         "reference": ""
     }

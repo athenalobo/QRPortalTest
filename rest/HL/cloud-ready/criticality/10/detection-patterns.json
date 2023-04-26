@@ -160,11 +160,6 @@
         "href": "HL/cloud-ready/detection-patterns/1200024"
     },
     {
-        "id": 1200027,
-        "name": "Using GetTempPath",
-        "href": "HL/cloud-ready/detection-patterns/1200027"
-    },
-    {
         "id": 1200079,
         "name": "Using Kubernetes product open-source platform for managing containerized workloads and services",
         "href": "HL/cloud-ready/detection-patterns/1200079"
@@ -230,14 +225,14 @@
         "href": "HL/cloud-ready/detection-patterns/1200098"
     },
     {
-        "id": 1200100,
-        "name": "Using a Cloud-based Active Directory",
-        "href": "HL/cloud-ready/detection-patterns/1200100"
-    },
-    {
         "id": 1200068,
         "name": "Using a Cloud-based Active Directory",
         "href": "HL/cloud-ready/detection-patterns/1200068"
+    },
+    {
+        "id": 1200100,
+        "name": "Using a Cloud-based Active Directory",
+        "href": "HL/cloud-ready/detection-patterns/1200100"
     },
     {
         "id": 1200095,
@@ -318,6 +313,11 @@
         "id": 1200112,
         "name": "Using a subset of data rows in DB2 in mainframes",
         "href": "HL/cloud-ready/detection-patterns/1200112"
+    },
+    {
+        "id": 1200027,
+        "name": "Using a temporary local file or directory",
+        "href": "HL/cloud-ready/detection-patterns/1200027"
     },
     {
         "id": 1200089,

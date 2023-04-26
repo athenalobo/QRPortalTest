@@ -17,8 +17,8 @@
                 "name": "Agnostic"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/6",
-                "name": "PHP"
+                "href": "HL/cloud-ready/technologies/3",
+                "name": "Java"
             }
         },
         {
@@ -27,8 +27,8 @@
                 "name": "Agnostic"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/3",
-                "name": "Java"
+                "href": "HL/cloud-ready/technologies/6",
+                "name": "PHP"
             }
         }
     ],

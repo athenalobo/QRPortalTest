@@ -17,8 +17,8 @@
                 "name": "Agnostic"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/12",
-                "name": "C/C++"
+                "href": "HL/cloud-ready/technologies/1",
+                "name": "C#"
             }
         },
         {
@@ -37,8 +37,8 @@
                 "name": "Agnostic"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/1",
-                "name": "C#"
+                "href": "HL/cloud-ready/technologies/12",
+                "name": "C/C++"
             }
         },
         {

@@ -17,68 +17,8 @@
                 "name": "Agnostic"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/10",
-                "name": "TypeScript"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/0",
-                "name": "Agnostic"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/8",
-                "name": "SWIFT"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/0",
-                "name": "Agnostic"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/7",
-                "name": "Python"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/0",
-                "name": "Agnostic"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/6",
-                "name": "PHP"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/0",
-                "name": "Agnostic"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/5",
-                "name": "Kotlin"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/0",
-                "name": "Agnostic"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/4",
-                "name": "JavaScript"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/0",
-                "name": "Agnostic"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/14",
-                "name": "Clojure"
+                "href": "HL/cloud-ready/technologies/1",
+                "name": "C#"
             }
         },
         {
@@ -97,8 +37,8 @@
                 "name": "Agnostic"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/13",
-                "name": "Scala"
+                "href": "HL/cloud-ready/technologies/2",
+                "name": "COBOL"
             }
         },
         {
@@ -107,8 +47,18 @@
                 "name": "Agnostic"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/1",
-                "name": "C#"
+                "href": "HL/cloud-ready/technologies/14",
+                "name": "Clojure"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/0",
+                "name": "Agnostic"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/16",
+                "name": "Go"
             }
         },
         {
@@ -119,6 +69,76 @@
             "technology": {
                 "href": "HL/cloud-ready/technologies/3",
                 "name": "Java"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/0",
+                "name": "Agnostic"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/4",
+                "name": "JavaScript"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/0",
+                "name": "Agnostic"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/5",
+                "name": "Kotlin"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/0",
+                "name": "Agnostic"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/6",
+                "name": "PHP"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/0",
+                "name": "Agnostic"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/7",
+                "name": "Python"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/0",
+                "name": "Agnostic"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/8",
+                "name": "SWIFT"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/0",
+                "name": "Agnostic"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/13",
+                "name": "Scala"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/0",
+                "name": "Agnostic"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/10",
+                "name": "TypeScript"
             }
         },
         {

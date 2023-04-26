@@ -29,7 +29,10 @@
         },
         "description": "Message Queue solutions are generally available as a service in the Cloud.",
         "migrationImpacts": [
-            
+            {
+                "href": "HL/cloud-ready/migration-impacts/0",
+                "name": "None"
+            }
         ],
         "reference": "https://aws.amazon.com/fr/amazon-mq/?amazon-mq.sort-by=item.additionalFields.postDateTime&amazon-mq.sort-order=desc\nhttps://www.ibm.com/support/knowledgecenter/SSFKSJ_7.5.0/com.ibm.mq.ref.dev.doc/q101650_.htm"
     }

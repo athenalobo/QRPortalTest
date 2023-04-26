@@ -17,6 +17,16 @@
                 "name": "Google Cloud"
             },
             "technology": {
+                "href": "HL/cloud-ready/technologies/1",
+                "name": "C#"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/4",
+                "name": "Google Cloud"
+            },
+            "technology": {
                 "href": "HL/cloud-ready/technologies/14",
                 "name": "Clojure"
             }
@@ -29,16 +39,6 @@
             "technology": {
                 "href": "HL/cloud-ready/technologies/3",
                 "name": "Java"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/4",
-                "name": "Google Cloud"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/1",
-                "name": "C#"
             }
         },
         {
@@ -67,8 +67,8 @@
                 "name": "Google Cloud"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/10",
-                "name": "TypeScript"
+                "href": "HL/cloud-ready/technologies/7",
+                "name": "Python"
             }
         },
         {
@@ -77,16 +77,22 @@
                 "name": "Google Cloud"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/7",
-                "name": "Python"
+                "href": "HL/cloud-ready/technologies/10",
+                "name": "TypeScript"
             }
         }
     ],
     "platformMigration": {
-        "criticality": null,
+        "criticality": {
+            "href": "HL/cloud-ready/criticality/0",
+            "name": "None"
+        },
         "description": "This pattern verifies the corresponding Cloud booster in the source code of an application.",
         "migrationImpacts": [
-            
+            {
+                "href": "HL/cloud-ready/migration-impacts/0",
+                "name": "None"
+            }
         ],
         "reference": ""
     }

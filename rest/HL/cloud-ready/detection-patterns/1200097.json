@@ -17,8 +17,8 @@
                 "name": "Agnostic"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/5",
-                "name": "Kotlin"
+                "href": "HL/cloud-ready/technologies/14",
+                "name": "Clojure"
             }
         },
         {
@@ -27,8 +27,18 @@
                 "name": "Agnostic"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/14",
-                "name": "Clojure"
+                "href": "HL/cloud-ready/technologies/16",
+                "name": "Go"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/0",
+                "name": "Agnostic"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/5",
+                "name": "Kotlin"
             }
         },
         {
@@ -49,7 +59,10 @@
         },
         "description": "These patterns verify the use of cloud-based Blockchain technology.",
         "migrationImpacts": [
-            
+            {
+                "href": "HL/cloud-ready/migration-impacts/0",
+                "name": "None"
+            }
         ],
         "reference": ""
     }

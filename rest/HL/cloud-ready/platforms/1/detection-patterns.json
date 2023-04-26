@@ -1,5 +1,10 @@
 [
     {
+        "id": 1200065,
+        "name": "Using BigQuery product cloud data warehouse",
+        "href": "HL/cloud-ready/detection-patterns/1200065"
+    },
+    {
         "id": 1200070,
         "name": "Using Cloud IAM (Identity & Access Management) for managing specific resources access authorization",
         "href": "HL/cloud-ready/detection-patterns/1200070"

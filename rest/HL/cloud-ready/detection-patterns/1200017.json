@@ -37,8 +37,8 @@
                 "name": "Agnostic"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/11",
-                "name": "VB/VB.Net"
+                "href": "HL/cloud-ready/technologies/10",
+                "name": "TypeScript"
             }
         },
         {
@@ -47,8 +47,8 @@
                 "name": "Agnostic"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/10",
-                "name": "TypeScript"
+                "href": "HL/cloud-ready/technologies/11",
+                "name": "VB/VB.Net"
             }
         }
     ],

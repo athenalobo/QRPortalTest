@@ -17,8 +17,8 @@
                 "name": "VMWare Tanzu"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/10",
-                "name": "TypeScript"
+                "href": "HL/cloud-ready/technologies/1",
+                "name": "C#"
             }
         },
         {
@@ -37,8 +37,8 @@
                 "name": "VMWare Tanzu"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/1",
-                "name": "C#"
+                "href": "HL/cloud-ready/technologies/10",
+                "name": "TypeScript"
             }
         },
         {

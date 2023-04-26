@@ -90,11 +90,6 @@
         "href": "HL/cloud-ready/detection-patterns/1200074"
     },
     {
-        "id": 1200027,
-        "name": "Using GetTempPath",
-        "href": "HL/cloud-ready/detection-patterns/1200027"
-    },
-    {
         "id": 1200079,
         "name": "Using Kubernetes product open-source platform for managing containerized workloads and services",
         "href": "HL/cloud-ready/detection-patterns/1200079"
@@ -130,14 +125,14 @@
         "href": "HL/cloud-ready/detection-patterns/1200086"
     },
     {
-        "id": 1200077,
-        "name": "Using a Cloud-based data storage",
-        "href": "HL/cloud-ready/detection-patterns/1200077"
-    },
-    {
         "id": 1200087,
         "name": "Using a Cloud-based data storage",
         "href": "HL/cloud-ready/detection-patterns/1200087"
+    },
+    {
+        "id": 1200077,
+        "name": "Using a Cloud-based data storage",
+        "href": "HL/cloud-ready/detection-patterns/1200077"
     },
     {
         "id": 1200094,
@@ -158,6 +153,11 @@
         "id": 1200075,
         "name": "Using a Cloud-based task scheduling service",
         "href": "HL/cloud-ready/detection-patterns/1200075"
+    },
+    {
+        "id": 1200027,
+        "name": "Using a temporary local file or directory",
+        "href": "HL/cloud-ready/detection-patterns/1200027"
     },
     {
         "id": 1200025,

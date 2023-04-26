@@ -3,7 +3,7 @@
         "id": 1,
         "name": "C#",
         "href": "HL/cloud-ready/technologies/1",
-        "count": 69
+        "count": 70
     },
     {
         "id": 12,
@@ -15,12 +15,18 @@
         "id": 2,
         "name": "COBOL",
         "href": "HL/cloud-ready/technologies/2",
-        "count": 24
+        "count": 31
     },
     {
         "id": 14,
         "name": "Clojure",
         "href": "HL/cloud-ready/technologies/14",
+        "count": 41
+    },
+    {
+        "id": 16,
+        "name": "Go",
+        "href": "HL/cloud-ready/technologies/16",
         "count": 41
     },
     {
@@ -81,6 +87,6 @@
         "id": 11,
         "name": "VB/VB.Net",
         "href": "HL/cloud-ready/technologies/11",
-        "count": 45
+        "count": 46
     }
 ]

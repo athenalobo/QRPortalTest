@@ -3,7 +3,7 @@
         "id": 1,
         "name": "AWS",
         "href": "HL/cloud-ready/platforms/1",
-        "count": 20
+        "count": 21
     },
     {
         "id": 0,
@@ -21,7 +21,7 @@
         "id": 4,
         "name": "Google Cloud",
         "href": "HL/cloud-ready/platforms/4",
-        "count": 22
+        "count": 24
     },
     {
         "id": 3,

@@ -55,6 +55,21 @@
         "href": "HL/cloud-ready/detection-patterns/1200012"
     },
     {
+        "id": 1200026,
+        "name": "Avoid using hardcoded URLs (FTP protocol) in source code",
+        "href": "HL/cloud-ready/detection-patterns/1200026"
+    },
+    {
+        "id": 1200031,
+        "name": "Avoid using hardcoded URLs (HTTP protocol) in source code",
+        "href": "HL/cloud-ready/detection-patterns/1200031"
+    },
+    {
+        "id": 1200036,
+        "name": "Avoid using hardcoded URLs (LDAP protocol) in source code",
+        "href": "HL/cloud-ready/detection-patterns/1200036"
+    },
+    {
         "id": 1200030,
         "name": "Avoid using hexadecimal constants in mainframes",
         "href": "HL/cloud-ready/detection-patterns/1200030"
@@ -68,6 +83,11 @@
         "id": 1200023,
         "name": "Avoid using the SYSIBM.SYSDUMMY1 dummy table in mainframes",
         "href": "HL/cloud-ready/detection-patterns/1200023"
+    },
+    {
+        "id": 1200056,
+        "name": "Use of an unsecured data string",
+        "href": "HL/cloud-ready/detection-patterns/1200056"
     },
     {
         "id": 1200083,
@@ -113,6 +133,21 @@
         "id": 1200112,
         "name": "Using a subset of data rows in DB2 in mainframes",
         "href": "HL/cloud-ready/detection-patterns/1200112"
+    },
+    {
+        "id": 1200025,
+        "name": "Using file system",
+        "href": "HL/cloud-ready/detection-patterns/1200025"
+    },
+    {
+        "id": 1200029,
+        "name": "Using hardcoded network IP address (IPV4, IPV6)",
+        "href": "HL/cloud-ready/detection-patterns/1200029"
+    },
+    {
+        "id": 1200042,
+        "name": "Using of unsecure network protocols (HTTP, FTP)",
+        "href": "HL/cloud-ready/detection-patterns/1200042"
     },
     {
         "id": 1200113,

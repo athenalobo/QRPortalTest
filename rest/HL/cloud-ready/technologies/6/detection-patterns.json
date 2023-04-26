@@ -145,14 +145,14 @@
         "href": "HL/cloud-ready/detection-patterns/1200082"
     },
     {
-        "id": 1200077,
-        "name": "Using a Cloud-based data storage",
-        "href": "HL/cloud-ready/detection-patterns/1200077"
-    },
-    {
         "id": 1200087,
         "name": "Using a Cloud-based data storage",
         "href": "HL/cloud-ready/detection-patterns/1200087"
+    },
+    {
+        "id": 1200077,
+        "name": "Using a Cloud-based data storage",
+        "href": "HL/cloud-ready/detection-patterns/1200077"
     },
     {
         "id": 1200081,

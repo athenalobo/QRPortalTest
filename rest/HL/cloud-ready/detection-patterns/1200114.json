@@ -17,16 +17,6 @@
                 "name": "Agnostic"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/5",
-                "name": "Kotlin"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/0",
-                "name": "Agnostic"
-            },
-            "technology": {
                 "href": "HL/cloud-ready/technologies/2",
                 "name": "COBOL"
             }
@@ -47,6 +37,26 @@
                 "name": "Agnostic"
             },
             "technology": {
+                "href": "HL/cloud-ready/technologies/16",
+                "name": "Go"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/0",
+                "name": "Agnostic"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/5",
+                "name": "Kotlin"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/0",
+                "name": "Agnostic"
+            },
+            "technology": {
                 "href": "HL/cloud-ready/technologies/8",
                 "name": "SWIFT"
             }
@@ -59,7 +69,10 @@
         },
         "description": "This pattern verifies the presence of using XML format",
         "migrationImpacts": [
-            
+            {
+                "href": "HL/cloud-ready/migration-impacts/0",
+                "name": "None"
+            }
         ],
         "reference": "https://www.ibm.com/support/knowledgecenter/en/SS6SG3_6.3.0/pg/ref/rpxml03e.html"
     }

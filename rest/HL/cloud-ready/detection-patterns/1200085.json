@@ -17,38 +17,28 @@
                 "name": "Azure"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/5",
-                "name": "Kotlin"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/2",
-                "name": "Azure"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/11",
-                "name": "VB/VB.Net"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/2",
-                "name": "Azure"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/8",
-                "name": "SWIFT"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/2",
-                "name": "Azure"
-            },
-            "technology": {
                 "href": "HL/cloud-ready/technologies/1",
                 "name": "C#"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/2",
+                "name": "Azure"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/3",
+                "name": "Java"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/2",
+                "name": "Azure"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/5",
+                "name": "Kotlin"
             }
         },
         {
@@ -67,8 +57,18 @@
                 "name": "Azure"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/3",
-                "name": "Java"
+                "href": "HL/cloud-ready/technologies/8",
+                "name": "SWIFT"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/2",
+                "name": "Azure"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/11",
+                "name": "VB/VB.Net"
             }
         }
     ],

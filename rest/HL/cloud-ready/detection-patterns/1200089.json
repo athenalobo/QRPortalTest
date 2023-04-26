@@ -13,32 +13,12 @@
     "scope": [
         {
             "platform": {
-                "href": "HL/cloud-ready/platforms/4",
-                "name": "Google Cloud"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/3",
-                "name": "Java"
-            }
-        },
-        {
-            "platform": {
                 "href": "HL/cloud-ready/platforms/1",
                 "name": "AWS"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/3",
-                "name": "Java"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/2",
-                "name": "Azure"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/3",
-                "name": "Java"
+                "href": "HL/cloud-ready/technologies/1",
+                "name": "C#"
             }
         },
         {
@@ -67,8 +47,28 @@
                 "name": "AWS"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/1",
-                "name": "C#"
+                "href": "HL/cloud-ready/technologies/3",
+                "name": "Java"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/2",
+                "name": "Azure"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/3",
+                "name": "Java"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/4",
+                "name": "Google Cloud"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/3",
+                "name": "Java"
             }
         }
     ],

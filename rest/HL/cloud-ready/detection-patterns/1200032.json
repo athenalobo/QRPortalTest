@@ -17,6 +17,16 @@
                 "name": "Agnostic"
             },
             "technology": {
+                "href": "HL/cloud-ready/technologies/1",
+                "name": "C#"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/0",
+                "name": "Agnostic"
+            },
+            "technology": {
                 "href": "HL/cloud-ready/technologies/12",
                 "name": "C/C++"
             }
@@ -29,16 +39,6 @@
             "technology": {
                 "href": "HL/cloud-ready/technologies/3",
                 "name": "Java"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/0",
-                "name": "Agnostic"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/1",
-                "name": "C#"
             }
         },
         {

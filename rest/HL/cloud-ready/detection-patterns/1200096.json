@@ -13,32 +13,12 @@
     "scope": [
         {
             "platform": {
-                "href": "HL/cloud-ready/platforms/0",
-                "name": "Agnostic"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/13",
-                "name": "Scala"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/0",
-                "name": "Agnostic"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/5",
-                "name": "Kotlin"
-            }
-        },
-        {
-            "platform": {
                 "href": "HL/cloud-ready/platforms/1",
                 "name": "AWS"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/5",
-                "name": "Kotlin"
+                "href": "HL/cloud-ready/technologies/14",
+                "name": "Clojure"
             }
         },
         {
@@ -67,8 +47,48 @@
                 "name": "AWS"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/14",
-                "name": "Clojure"
+                "href": "HL/cloud-ready/technologies/16",
+                "name": "Go"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/0",
+                "name": "Agnostic"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/16",
+                "name": "Go"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/4",
+                "name": "Google Cloud"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/16",
+                "name": "Go"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/1",
+                "name": "AWS"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/5",
+                "name": "Kotlin"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/0",
+                "name": "Agnostic"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/5",
+                "name": "Kotlin"
             }
         },
         {
@@ -80,6 +100,16 @@
                 "href": "HL/cloud-ready/technologies/8",
                 "name": "SWIFT"
             }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/0",
+                "name": "Agnostic"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/13",
+                "name": "Scala"
+            }
         }
     ],
     "platformMigration": {
@@ -89,7 +119,10 @@
         },
         "description": "These patterns verify in the source code the use of Cloud-based Big Data and analysis services.",
         "migrationImpacts": [
-            
+            {
+                "href": "HL/cloud-ready/migration-impacts/0",
+                "name": "None"
+            }
         ],
         "reference": ""
     }

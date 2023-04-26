@@ -13,36 +13,6 @@
     "scope": [
         {
             "platform": {
-                "href": "HL/cloud-ready/platforms/2",
-                "name": "Azure"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/13",
-                "name": "Scala"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/1",
-                "name": "AWS"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/4",
-                "name": "JavaScript"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/2",
-                "name": "Azure"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/4",
-                "name": "JavaScript"
-            }
-        },
-        {
-            "platform": {
                 "href": "HL/cloud-ready/platforms/1",
                 "name": "AWS"
             },
@@ -63,22 +33,12 @@
         },
         {
             "platform": {
-                "href": "HL/cloud-ready/platforms/2",
-                "name": "Azure"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/8",
-                "name": "SWIFT"
-            }
-        },
-        {
-            "platform": {
                 "href": "HL/cloud-ready/platforms/1",
                 "name": "AWS"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/11",
-                "name": "VB/VB.Net"
+                "href": "HL/cloud-ready/technologies/16",
+                "name": "Go"
             }
         },
         {
@@ -87,8 +47,8 @@
                 "name": "Azure"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/11",
-                "name": "VB/VB.Net"
+                "href": "HL/cloud-ready/technologies/16",
+                "name": "Go"
             }
         },
         {
@@ -117,8 +77,8 @@
                 "name": "AWS"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/10",
-                "name": "TypeScript"
+                "href": "HL/cloud-ready/technologies/4",
+                "name": "JavaScript"
             }
         },
         {
@@ -127,8 +87,18 @@
                 "name": "Azure"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/10",
-                "name": "TypeScript"
+                "href": "HL/cloud-ready/technologies/4",
+                "name": "JavaScript"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/2",
+                "name": "Azure"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/6",
+                "name": "PHP"
             }
         },
         {
@@ -147,8 +117,58 @@
                 "name": "Azure"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/6",
-                "name": "PHP"
+                "href": "HL/cloud-ready/technologies/8",
+                "name": "SWIFT"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/2",
+                "name": "Azure"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/13",
+                "name": "Scala"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/1",
+                "name": "AWS"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/10",
+                "name": "TypeScript"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/2",
+                "name": "Azure"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/10",
+                "name": "TypeScript"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/1",
+                "name": "AWS"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/11",
+                "name": "VB/VB.Net"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/2",
+                "name": "Azure"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/11",
+                "name": "VB/VB.Net"
             }
         }
     ],

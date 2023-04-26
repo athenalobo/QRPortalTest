@@ -135,14 +135,14 @@
         "href": "HL/cloud-ready/detection-patterns/1200086"
     },
     {
-        "id": 1200077,
-        "name": "Using a Cloud-based data storage",
-        "href": "HL/cloud-ready/detection-patterns/1200077"
-    },
-    {
         "id": 1200087,
         "name": "Using a Cloud-based data storage",
         "href": "HL/cloud-ready/detection-patterns/1200087"
+    },
+    {
+        "id": 1200077,
+        "name": "Using a Cloud-based data storage",
+        "href": "HL/cloud-ready/detection-patterns/1200077"
     },
     {
         "id": 1200084,
@@ -155,14 +155,14 @@
         "href": "HL/cloud-ready/detection-patterns/1200081"
     },
     {
-        "id": 1200099,
-        "name": "Using a Cloud-based task scheduling service",
-        "href": "HL/cloud-ready/detection-patterns/1200099"
-    },
-    {
         "id": 1200075,
         "name": "Using a Cloud-based task scheduling service",
         "href": "HL/cloud-ready/detection-patterns/1200075"
+    },
+    {
+        "id": 1200099,
+        "name": "Using a Cloud-based task scheduling service",
+        "href": "HL/cloud-ready/detection-patterns/1200099"
     },
     {
         "id": 1200025,

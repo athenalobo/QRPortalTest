@@ -13,72 +13,72 @@
     "scope": [
         {
             "platform": {
+                "href": "HL/cloud-ready/platforms/1",
+                "name": "AWS"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/1",
+                "name": "C#"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/2",
+                "name": "Azure"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/1",
+                "name": "C#"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/4",
+                "name": "Google Cloud"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/1",
+                "name": "C#"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/1",
+                "name": "AWS"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/3",
+                "name": "Java"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/2",
+                "name": "Azure"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/3",
+                "name": "Java"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/4",
+                "name": "Google Cloud"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/3",
+                "name": "Java"
+            }
+        },
+        {
+            "platform": {
                 "href": "HL/cloud-ready/platforms/2",
                 "name": "Azure"
             },
             "technology": {
                 "href": "HL/cloud-ready/technologies/8",
                 "name": "SWIFT"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/1",
-                "name": "AWS"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/3",
-                "name": "Java"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/2",
-                "name": "Azure"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/3",
-                "name": "Java"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/4",
-                "name": "Google Cloud"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/3",
-                "name": "Java"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/1",
-                "name": "AWS"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/1",
-                "name": "C#"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/2",
-                "name": "Azure"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/1",
-                "name": "C#"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/4",
-                "name": "Google Cloud"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/1",
-                "name": "C#"
             }
         }
     ],
@@ -89,7 +89,10 @@
         },
         "description": "These patterns verify the use of DevOps automation and IaC (Infrastructure as Code) services from Amazon Web Services, Azure and Google Cloud.\n- Amazon Web Services: CloudFormation, CodeBuild, CodeDeploy, CodePipeline, DataPipeline\n- Azure: Aure Deployment Manager, Azure Pipelines\n- Google Cloud: Cloud Deployment Manager, Cloud Build, Cloud Composer",
         "migrationImpacts": [
-            
+            {
+                "href": "HL/cloud-ready/migration-impacts/0",
+                "name": "None"
+            }
         ],
         "reference": ""
     }

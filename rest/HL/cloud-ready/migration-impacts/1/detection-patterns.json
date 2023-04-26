@@ -175,11 +175,6 @@
         "href": "HL/cloud-ready/detection-patterns/1200024"
     },
     {
-        "id": 1200027,
-        "name": "Using GetTempPath",
-        "href": "HL/cloud-ready/detection-patterns/1200027"
-    },
-    {
         "id": 1200005,
         "name": "Using Log4Net for application logs",
         "href": "HL/cloud-ready/detection-patterns/1200005"
@@ -218,6 +213,11 @@
         "id": 1200033,
         "name": "Using a middleware application",
         "href": "HL/cloud-ready/detection-patterns/1200033"
+    },
+    {
+        "id": 1200027,
+        "name": "Using a temporary local file or directory",
+        "href": "HL/cloud-ready/detection-patterns/1200027"
     },
     {
         "id": 1200020,

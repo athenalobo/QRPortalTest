@@ -17,78 +17,8 @@
                 "name": "Google Cloud"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/4",
-                "name": "JavaScript"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/4",
-                "name": "Google Cloud"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/3",
-                "name": "Java"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/4",
-                "name": "Google Cloud"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/7",
-                "name": "Python"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/4",
-                "name": "Google Cloud"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/6",
-                "name": "PHP"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/4",
-                "name": "Google Cloud"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/8",
-                "name": "SWIFT"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/4",
-                "name": "Google Cloud"
-            },
-            "technology": {
                 "href": "HL/cloud-ready/technologies/1",
                 "name": "C#"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/4",
-                "name": "Google Cloud"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/13",
-                "name": "Scala"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/4",
-                "name": "Google Cloud"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/5",
-                "name": "Kotlin"
             }
         },
         {
@@ -107,16 +37,102 @@
                 "name": "Google Cloud"
             },
             "technology": {
+                "href": "HL/cloud-ready/technologies/16",
+                "name": "Go"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/4",
+                "name": "Google Cloud"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/3",
+                "name": "Java"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/4",
+                "name": "Google Cloud"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/4",
+                "name": "JavaScript"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/4",
+                "name": "Google Cloud"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/5",
+                "name": "Kotlin"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/4",
+                "name": "Google Cloud"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/6",
+                "name": "PHP"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/4",
+                "name": "Google Cloud"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/7",
+                "name": "Python"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/4",
+                "name": "Google Cloud"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/8",
+                "name": "SWIFT"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/4",
+                "name": "Google Cloud"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/13",
+                "name": "Scala"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/4",
+                "name": "Google Cloud"
+            },
+            "technology": {
                 "href": "HL/cloud-ready/technologies/10",
                 "name": "TypeScript"
             }
         }
     ],
     "platformMigration": {
-        "criticality": null,
+        "criticality": {
+            "href": "HL/cloud-ready/criticality/0",
+            "name": "None"
+        },
         "description": "This pattern verifies the corresponding Cloud booster in the source code of an application.",
         "migrationImpacts": [
-            
+            {
+                "href": "HL/cloud-ready/migration-impacts/0",
+                "name": "None"
+            }
         ],
         "reference": ""
     }

@@ -4,7 +4,7 @@
     "name": "com.castsoftware.highlight2mri",
     "href": "AIP/extensions/com.castsoftware.highlight2mri",
     "title": "Highlight to MRI",
-    "description": "This extension launches Highlight Agent to extract information to be imported into CAST AIP. Requires an Highlight license to be able to extract data",
+    "description": "This extension provides a solution for those wishing to view CAST Highlight results directly in CAST Imaging. Requires an Highlight license to be able to extract data",
     "iconUrl": "https://raw.githubusercontent.com/CAST-Extend/resources/master/com.castsoftware.hl2mri.png",
     "versions": {
         "name": "versions from latest to oldest",

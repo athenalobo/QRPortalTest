@@ -17,8 +17,8 @@
                 "name": "AWS"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/13",
-                "name": "Scala"
+                "href": "HL/cloud-ready/technologies/1",
+                "name": "C#"
             }
         },
         {
@@ -27,8 +27,8 @@
                 "name": "Azure"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/13",
-                "name": "Scala"
+                "href": "HL/cloud-ready/technologies/1",
+                "name": "C#"
             }
         },
         {
@@ -37,8 +37,8 @@
                 "name": "Google Cloud"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/13",
-                "name": "Scala"
+                "href": "HL/cloud-ready/technologies/1",
+                "name": "C#"
             }
         },
         {
@@ -77,18 +77,8 @@
                 "name": "AWS"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/5",
-                "name": "Kotlin"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/2",
-                "name": "Azure"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/5",
-                "name": "Kotlin"
+                "href": "HL/cloud-ready/technologies/16",
+                "name": "Go"
             }
         },
         {
@@ -97,38 +87,8 @@
                 "name": "Google Cloud"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/5",
-                "name": "Kotlin"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/1",
-                "name": "AWS"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/1",
-                "name": "C#"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/2",
-                "name": "Azure"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/1",
-                "name": "C#"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/4",
-                "name": "Google Cloud"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/1",
-                "name": "C#"
+                "href": "HL/cloud-ready/technologies/16",
+                "name": "Go"
             }
         },
         {
@@ -159,6 +119,66 @@
             "technology": {
                 "href": "HL/cloud-ready/technologies/3",
                 "name": "Java"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/1",
+                "name": "AWS"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/5",
+                "name": "Kotlin"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/2",
+                "name": "Azure"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/5",
+                "name": "Kotlin"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/4",
+                "name": "Google Cloud"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/5",
+                "name": "Kotlin"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/1",
+                "name": "AWS"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/13",
+                "name": "Scala"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/2",
+                "name": "Azure"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/13",
+                "name": "Scala"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/4",
+                "name": "Google Cloud"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/13",
+                "name": "Scala"
             }
         }
     ],

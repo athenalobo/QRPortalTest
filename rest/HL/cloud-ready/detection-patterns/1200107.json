@@ -17,8 +17,8 @@
                 "name": "AWS"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/3",
-                "name": "Java"
+                "href": "HL/cloud-ready/technologies/1",
+                "name": "C#"
             }
         },
         {
@@ -27,8 +27,8 @@
                 "name": "Azure"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/3",
-                "name": "Java"
+                "href": "HL/cloud-ready/technologies/1",
+                "name": "C#"
             }
         },
         {
@@ -37,8 +37,8 @@
                 "name": "Google Cloud"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/3",
-                "name": "Java"
+                "href": "HL/cloud-ready/technologies/1",
+                "name": "C#"
             }
         },
         {
@@ -47,8 +47,8 @@
                 "name": "AWS"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/1",
-                "name": "C#"
+                "href": "HL/cloud-ready/technologies/3",
+                "name": "Java"
             }
         },
         {
@@ -57,8 +57,8 @@
                 "name": "Azure"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/1",
-                "name": "C#"
+                "href": "HL/cloud-ready/technologies/3",
+                "name": "Java"
             }
         },
         {
@@ -67,8 +67,8 @@
                 "name": "Google Cloud"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/1",
-                "name": "C#"
+                "href": "HL/cloud-ready/technologies/3",
+                "name": "Java"
             }
         }
     ],
@@ -79,7 +79,10 @@
         },
         "description": "These patterns verify the use of cloud-based monitoring services from Amazon Web Services, Azure and Google Cloud.\n- Amazon Web Services: CloudWatch\n- Azure: Azure Monitor\n- Google Cloud: Cloud Monitoring",
         "migrationImpacts": [
-            
+            {
+                "href": "HL/cloud-ready/migration-impacts/0",
+                "name": "None"
+            }
         ],
         "reference": ""
     }

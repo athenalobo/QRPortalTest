@@ -17,8 +17,8 @@
                 "name": "Agnostic"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/13",
-                "name": "Scala"
+                "href": "HL/cloud-ready/technologies/2",
+                "name": "COBOL"
             }
         },
         {
@@ -37,8 +37,8 @@
                 "name": "Agnostic"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/2",
-                "name": "COBOL"
+                "href": "HL/cloud-ready/technologies/13",
+                "name": "Scala"
             }
         },
         {

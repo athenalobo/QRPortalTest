@@ -17,18 +17,8 @@
                 "name": "AWS"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/13",
-                "name": "Scala"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/2",
-                "name": "Azure"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/13",
-                "name": "Scala"
+                "href": "HL/cloud-ready/technologies/1",
+                "name": "C#"
             }
         },
         {
@@ -47,8 +37,108 @@
                 "name": "AWS"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/1",
-                "name": "C#"
+                "href": "HL/cloud-ready/technologies/14",
+                "name": "Clojure"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/2",
+                "name": "Azure"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/14",
+                "name": "Clojure"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/1",
+                "name": "AWS"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/16",
+                "name": "Go"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/2",
+                "name": "Azure"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/16",
+                "name": "Go"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/4",
+                "name": "Google Cloud"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/16",
+                "name": "Go"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/1",
+                "name": "AWS"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/3",
+                "name": "Java"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/2",
+                "name": "Azure"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/3",
+                "name": "Java"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/1",
+                "name": "AWS"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/4",
+                "name": "JavaScript"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/2",
+                "name": "Azure"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/4",
+                "name": "JavaScript"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/1",
+                "name": "AWS"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/5",
+                "name": "Kotlin"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/2",
+                "name": "Azure"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/5",
+                "name": "Kotlin"
             }
         },
         {
@@ -97,26 +187,6 @@
                 "name": "AWS"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/10",
-                "name": "TypeScript"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/2",
-                "name": "Azure"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/10",
-                "name": "TypeScript"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/1",
-                "name": "AWS"
-            },
-            "technology": {
                 "href": "HL/cloud-ready/technologies/8",
                 "name": "SWIFT"
             }
@@ -137,8 +207,8 @@
                 "name": "AWS"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/4",
-                "name": "JavaScript"
+                "href": "HL/cloud-ready/technologies/13",
+                "name": "Scala"
             }
         },
         {
@@ -147,8 +217,8 @@
                 "name": "Azure"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/4",
-                "name": "JavaScript"
+                "href": "HL/cloud-ready/technologies/13",
+                "name": "Scala"
             }
         },
         {
@@ -157,8 +227,8 @@
                 "name": "AWS"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/5",
-                "name": "Kotlin"
+                "href": "HL/cloud-ready/technologies/10",
+                "name": "TypeScript"
             }
         },
         {
@@ -167,8 +237,8 @@
                 "name": "Azure"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/5",
-                "name": "Kotlin"
+                "href": "HL/cloud-ready/technologies/10",
+                "name": "TypeScript"
             }
         },
         {
@@ -179,46 +249,6 @@
             "technology": {
                 "href": "HL/cloud-ready/technologies/11",
                 "name": "VB/VB.Net"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/1",
-                "name": "AWS"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/14",
-                "name": "Clojure"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/2",
-                "name": "Azure"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/14",
-                "name": "Clojure"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/1",
-                "name": "AWS"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/3",
-                "name": "Java"
-            }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/2",
-                "name": "Azure"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/3",
-                "name": "Java"
             }
         }
     ],

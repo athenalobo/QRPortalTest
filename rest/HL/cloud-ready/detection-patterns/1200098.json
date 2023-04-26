@@ -29,7 +29,10 @@
         },
         "description": "CICS webservices are supported in Microfocus COBOL.",
         "migrationImpacts": [
-            
+            {
+                "href": "HL/cloud-ready/migration-impacts/0",
+                "name": "None"
+            }
         ],
         "reference": ""
     }

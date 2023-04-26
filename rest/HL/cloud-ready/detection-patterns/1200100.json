@@ -17,8 +17,28 @@
                 "name": "Azure"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/8",
-                "name": "SWIFT"
+                "href": "HL/cloud-ready/technologies/14",
+                "name": "Clojure"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/2",
+                "name": "Azure"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/16",
+                "name": "Go"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/2",
+                "name": "Azure"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/4",
+                "name": "JavaScript"
             }
         },
         {
@@ -37,8 +57,8 @@
                 "name": "Azure"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/14",
-                "name": "Clojure"
+                "href": "HL/cloud-ready/technologies/8",
+                "name": "SWIFT"
             }
         },
         {
@@ -50,16 +70,6 @@
                 "href": "HL/cloud-ready/technologies/10",
                 "name": "TypeScript"
             }
-        },
-        {
-            "platform": {
-                "href": "HL/cloud-ready/platforms/2",
-                "name": "Azure"
-            },
-            "technology": {
-                "href": "HL/cloud-ready/technologies/4",
-                "name": "JavaScript"
-            }
         }
     ],
     "platformMigration": {
@@ -69,7 +79,10 @@
         },
         "description": "This pattern verifies the corresponding Cloud booster in the source code of an application.",
         "migrationImpacts": [
-            
+            {
+                "href": "HL/cloud-ready/migration-impacts/0",
+                "name": "None"
+            }
         ],
         "reference": ""
     }

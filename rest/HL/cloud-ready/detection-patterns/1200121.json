@@ -17,8 +17,8 @@
                 "name": "Agnostic"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/13",
-                "name": "Scala"
+                "href": "HL/cloud-ready/technologies/14",
+                "name": "Clojure"
             }
         },
         {
@@ -27,8 +27,8 @@
                 "name": "Agnostic"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/8",
-                "name": "SWIFT"
+                "href": "HL/cloud-ready/technologies/16",
+                "name": "Go"
             }
         },
         {
@@ -47,8 +47,18 @@
                 "name": "Agnostic"
             },
             "technology": {
-                "href": "HL/cloud-ready/technologies/14",
-                "name": "Clojure"
+                "href": "HL/cloud-ready/technologies/8",
+                "name": "SWIFT"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/0",
+                "name": "Agnostic"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/13",
+                "name": "Scala"
             }
         }
     ],
@@ -59,7 +69,10 @@
         },
         "description": "This pattern verifies the corresponding Cloud booster in the source code of an application.",
         "migrationImpacts": [
-            
+            {
+                "href": "HL/cloud-ready/migration-impacts/0",
+                "name": "None"
+            }
         ],
         "reference": ""
     }

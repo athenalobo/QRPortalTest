@@ -265,11 +265,6 @@
         "href": "HL/cloud-ready/detection-patterns/1200074"
     },
     {
-        "id": 1200027,
-        "name": "Using GetTempPath",
-        "href": "HL/cloud-ready/detection-patterns/1200027"
-    },
-    {
         "id": 1200063,
         "name": "Using IBM WebSphere",
         "href": "HL/cloud-ready/detection-patterns/1200063"
@@ -518,6 +513,11 @@
         "id": 1200112,
         "name": "Using a subset of data rows in DB2 in mainframes",
         "href": "HL/cloud-ready/detection-patterns/1200112"
+    },
+    {
+        "id": 1200027,
+        "name": "Using a temporary local file or directory",
+        "href": "HL/cloud-ready/detection-patterns/1200027"
     },
     {
         "id": 1200089,

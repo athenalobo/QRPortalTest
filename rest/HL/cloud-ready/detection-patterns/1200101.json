@@ -29,7 +29,10 @@
         },
         "description": "DB2 can be migrated to Cloud-based relational databases.",
         "migrationImpacts": [
-            
+            {
+                "href": "HL/cloud-ready/migration-impacts/0",
+                "name": "None"
+            }
         ],
         "reference": ""
     }
