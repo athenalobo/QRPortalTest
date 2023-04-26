@@ -21640,6 +21640,36 @@
         ]
     },
     {
+        "id": 1106038,
+        "name": "Ensure Unused Column is not used",
+        "href": "AIP/quality-rules/1106038",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SQL"
+        ]
+    },
+    {
+        "id": 1106040,
+        "name": "Ensure READ ONLY Table is not used",
+        "href": "AIP/quality-rules/1106040",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SQL"
+        ]
+    },
+    {
+        "id": 1106042,
+        "name": "Ensure Invisible Index is not used",
+        "href": "AIP/quality-rules/1106042",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SQL"
+        ]
+    },
+    {
         "id": 1520102,
         "name": "SiebelReview: Custom BC Based On S_PARTY Table Missing the \"Inner Join Extension Table\" User Property",
         "href": "AIP/quality-rules/1520102",

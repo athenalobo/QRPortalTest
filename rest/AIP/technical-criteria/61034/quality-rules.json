@@ -98,5 +98,35 @@
         "technologyNames": [
             "ALL TECHNOLOGIES"
         ]
+    },
+    {
+        "id": 1106038,
+        "name": "Ensure Unused Column is not used",
+        "href": "AIP/quality-rules/1106038",
+        "critical": false,
+        "weight": 1,
+        "technologyNames": [
+            "SQL"
+        ]
+    },
+    {
+        "id": 1106040,
+        "name": "Ensure READ ONLY Table is not used",
+        "href": "AIP/quality-rules/1106040",
+        "critical": false,
+        "weight": 1,
+        "technologyNames": [
+            "SQL"
+        ]
+    },
+    {
+        "id": 1106042,
+        "name": "Ensure Invisible Index is not used",
+        "href": "AIP/quality-rules/1106042",
+        "critical": false,
+        "weight": 1,
+        "technologyNames": [
+            "SQL"
+        ]
     }
 ]
