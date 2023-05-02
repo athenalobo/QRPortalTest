@@ -1126,6 +1126,15 @@
     ],
     "com.castsoftware.awsjava": [
         {
+            "version": "1.2.3-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.2.2-funcrel",
             "addedRules": [
                 
