@@ -33,7 +33,7 @@
         "id": "A6-2013",
         "name": "Sensitive Data Exposure",
         "href": "CARL/quality-standards/OWASP/items/A6-2013",
-        "count": 81
+        "count": 80
     },
     {
         "id": "A7-2013",
@@ -75,7 +75,7 @@
         "id": "A3-2017",
         "name": "Sensitive Data Exposure",
         "href": "CARL/quality-standards/OWASP/items/A3-2017",
-        "count": 81
+        "count": 80
     },
     {
         "id": "A4-2017",
@@ -129,7 +129,7 @@
         "id": "A02-2021",
         "name": "Cryptographic Failures",
         "href": "CARL/quality-standards/OWASP/items/A02-2021",
-        "count": 36
+        "count": 35
     },
     {
         "id": "A03-2021",
@@ -243,7 +243,7 @@
         "id": "M5-2016",
         "name": "Insufficient Cryptography",
         "href": "CARL/quality-standards/OWASP/items/M5-2016",
-        "count": 19
+        "count": 18
     },
     {
         "id": "M6-2016",

@@ -1,12 +1,5 @@
 [
     {
-        "name": "1.5.0-alpha1",
-        "href": "AIP/extensions/com.castsoftware.jeerules/versions/1.5.0-alpha1",
-        "metaModelCRC": 2670091292,
-        "rulesCRC": 4212205792,
-        "transactionsConfigurationCRC": null
-    },
-    {
         "name": "1.4.4-funcrel",
         "href": "AIP/extensions/com.castsoftware.jeerules/versions/1.4.4-funcrel",
         "metaModelCRC": 2670091292,

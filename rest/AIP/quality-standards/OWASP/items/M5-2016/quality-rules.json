@@ -205,16 +205,6 @@
         ]
     },
     {
-        "id": 1039076,
-        "name": "Avoid using HttpURLConnection with HTTP protocol",
-        "href": "AIP/quality-rules/1039076",
-        "critical": true,
-        "severity": 20,
-        "technologyNames": [
-            "JEE"
-        ]
-    },
-    {
         "id": 1050022,
         "name": "Avoid using deprecated SSL protocol (Objective-C)",
         "href": "AIP/quality-rules/1050022",

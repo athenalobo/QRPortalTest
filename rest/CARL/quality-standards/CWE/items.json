@@ -495,7 +495,7 @@
         "id": "CWE-319",
         "name": "Cleartext Transmission of Sensitive Information",
         "href": "CARL/quality-standards/CWE/items/CWE-319",
-        "count": 8
+        "count": 7
     },
     {
         "id": "CWE-321",

@@ -26,7 +26,7 @@
     {
         "name": "PCI-DSS-V3.1-Req-4",
         "href": "CARL/quality-standards/PCI-DSS-V3.1/categories/PCI-DSS-V3.1-Req-4",
-        "count": 25,
+        "count": 24,
         "description": "Encrypt transmission of cardholder data across open, public networks."
     },
     {
