@@ -20,7 +20,7 @@
     {
         "name": "PCI-DSS-Req-4",
         "href": "AIP/quality-standards/PCI-DSS-V3.2.1/categories/PCI-DSS-Req-4",
-        "count": 39,
+        "count": 40,
         "description": "Encrypt transmission of cardholder data across open, public networks."
     },
     {

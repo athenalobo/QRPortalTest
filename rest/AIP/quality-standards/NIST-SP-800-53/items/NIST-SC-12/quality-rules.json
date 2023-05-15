@@ -257,6 +257,16 @@
         ]
     },
     {
+        "id": 1039076,
+        "name": "Avoid using HttpURLConnection with HTTP protocol",
+        "href": "AIP/quality-rules/1039076",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 1040046,
         "name": "Avoid weak encryption algorithm (Spring)",
         "href": "AIP/quality-rules/1040046",

@@ -8,7 +8,7 @@
     {
         "name": "AIP-Features",
         "href": "CARL/quality-standards/AIP/categories/AIP-Features",
-        "count": 1005,
+        "count": 1006,
         "description": null
     },
     {
@@ -38,7 +38,7 @@
     {
         "name": "AIP-Security",
         "href": "CARL/quality-standards/AIP/categories/AIP-Security",
-        "count": 230,
+        "count": 231,
         "description": null
     }
 ]

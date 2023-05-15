@@ -60,6 +60,16 @@
         ]
     },
     {
+        "id": 1039076,
+        "name": "Avoid using HttpURLConnection with HTTP protocol",
+        "href": "AIP/quality-rules/1039076",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 1043066,
         "name": "Always use HTTPS Redirection Middleware and HSTS Middleware in your ASP.NET Core application",
         "href": "AIP/quality-rules/1043066",
