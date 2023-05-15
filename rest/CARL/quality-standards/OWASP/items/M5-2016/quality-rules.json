@@ -183,5 +183,15 @@
         "technologyNames": [
             "JEE"
         ]
+    },
+    {
+        "id": 1039076,
+        "name": "Prefer using HTTPS protocol",
+        "href": "AIP/quality-rules/1039076",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "JEE"
+        ]
     }
 ]
