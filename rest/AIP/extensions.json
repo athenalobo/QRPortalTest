@@ -277,6 +277,12 @@
     },
     {
         "qualityModel": false,
+        "transactionsConfiguration": false,
+        "name": "com.castsoftware.java.jdbi",
+        "href": "AIP/extensions/com.castsoftware.java.jdbi"
+    },
+    {
+        "qualityModel": false,
         "transactionsConfiguration": true,
         "name": "com.castsoftware.java.service",
         "href": "AIP/extensions/com.castsoftware.java.service"
