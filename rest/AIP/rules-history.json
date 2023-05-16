@@ -3998,6 +3998,17 @@
             ]
         }
     ],
+    "com.castsoftware.dotnet.kafka": [
+        {
+            "version": "1.0.0-alpha1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        }
+    ],
     "com.castsoftware.dotnet.missingtable": [
         {
             "version": "1.0.0-beta1",
