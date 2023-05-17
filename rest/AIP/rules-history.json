@@ -21134,6 +21134,15 @@
     ],
     "com.castsoftware.springdata": [
         {
+            "version": "2.0.8-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "2.0.7-funcrel",
             "addedRules": [
                 
