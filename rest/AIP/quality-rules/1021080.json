@@ -1,0 +1,62 @@
+{
+    "id": 1021080,
+    "name": "Avoid resource injection (Python)",
+    "href": "AIP/quality-rules/1021080",
+    "critical": true,
+    "severity": 20,
+    "maxWeight": 9,
+    "extension": {
+        "name": "com.castsoftware.python",
+        "href": "AIP/extensions/com.castsoftware.python"
+    },
+    "associatedValueName": "Number of violation occurrences",
+    "description": "The software receives a user input, but it does not restrict or incorrectly restricts the input before it is used as an identifier for a resource that may be outside the intended sphere of control.\nInputs detected are receiving web service requests and upstream components.\nResources analyzed are database connection parameters and connection strings.",
+    "output": "List all methods that make resource calls potentially forged by user input.\n\nAssociated to each violation, the following information is provided:\n- The number of violation occurrences\n- Bookmarks for violation occurrences of user input source",
+    "rationale": "The software receives a user input, but it does not restrict or incorrectly restricts the input before it is used as an identifier for a resource that may be outside the intended sphere of control.\nThis may enable an attacker to access or modify otherwise protected system resources.",
+    "reference": "CWE-99: Improper Control of Resource Identifiers ('Resource Injection')\nhttps://cwe.mitre.org/data/definitions/99.html\n\nOpen Web Application Security Project (OWASP) \nhttps://www.owasp.org/index.php/Top_10_2013-A4-Insecure_Direct_Object_References\n\nCISQ rule: ASCSM-CWE-99.",
+    "remediation": "Assume all input is malicious. \nAvoid using inputs. If it is not possible, use an \"accept known good\" input validation strategy, i.e., use stringent white-lists that limit the value set based on the expected value of the parameter in the request. This will indirectly limit the scope of an attack.",
+    "remediationSample": "db = {\"A\": \"...\", \"B\": \"...\", }\n\nalias = input(\"Enter database alias\")\ndatabase = db.get(alias, \"unknown\")\n\nconn_string = 'DRIVER={ODBC Driver 18 for SQL Server};SERVER=' + server + ';DATABASE=' + db + ';ENCRYPT=yes;UID=' + username + ';PWD=' + pwd\ncnx = pyodbc.connect(conn_string)",
+    "sample": "database = input(\"Enter database name\")  # resource violation\n\nconn_string = 'DRIVER={ODBC Driver 18 for SQL Server};SERVER=' + server + ';DATABASE=' + db + ';ENCRYPT=yes;UID=' + username + ';PWD=' + pwd\ncnx = pyodbc.connect(conn_string)  # main violation",
+    "total": "Number of potentially vulnerable methods",
+    "alternativeName": "Ensure you have sanitized the data received from resources",
+    "businessCriteria": [
+        {
+            "id": 66031,
+            "name": "Programming Practices",
+            "href": "AIP/business-criteria/66031"
+        },
+        {
+            "id": 60016,
+            "name": "Security",
+            "href": "AIP/business-criteria/60016"
+        }
+    ],
+    "technicalCriteria": [
+        {
+            "id": 66062,
+            "name": "Secure Coding - Input Validation",
+            "href": "AIP/technical-criteria/66062",
+            "weight": 9,
+            "critical": true
+        }
+    ],
+    "technologies": [
+        {
+            "id": 1021000,
+            "name": "Python",
+            "href": "AIP/technologies/1021000"
+        }
+    ],
+    "qualityStandards": [
+        
+    ],
+    "parameters": [
+        
+    ],
+    "thresholds": [
+        98.0,
+        99.0,
+        99.5,
+        99.99
+    ]
+}

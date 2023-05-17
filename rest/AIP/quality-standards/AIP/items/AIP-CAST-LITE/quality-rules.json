@@ -9756,6 +9756,16 @@
         ]
     },
     {
+        "id": 1021078,
+        "name": "Avoid unsafe deserialization (Python)",
+        "href": "AIP/quality-rules/1021078",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
         "id": 1022000,
         "name": "DEPRECATED: Avoid weak encryption algorithm as DES and triple DES",
         "href": "AIP/quality-rules/1022000",

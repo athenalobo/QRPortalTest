@@ -105,7 +105,7 @@
         "id": "CWE-502",
         "name": "Deserialization of Untrusted Data",
         "href": "AIP/quality-standards/CWE/items/CWE-502",
-        "count": 10
+        "count": 11
     },
     {
         "id": "CWE-522",

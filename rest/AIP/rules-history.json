@@ -17131,6 +17131,22 @@
     ],
     "com.castsoftware.python": [
         {
+            "version": "1.6.0-alpha1",
+            "addedRules": [
+                {
+                    "id": 1021080,
+                    "name": "Avoid resource injection (Python)"
+                },
+                {
+                    "id": 1021078,
+                    "name": "Avoid unsafe deserialization (Python)"
+                }
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.5.2-funcrel",
             "addedRules": [
                 

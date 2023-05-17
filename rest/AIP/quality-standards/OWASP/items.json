@@ -105,7 +105,7 @@
         "id": "A8-2017",
         "name": "Insecure Deserialization",
         "href": "AIP/quality-standards/OWASP/items/A8-2017",
-        "count": 8
+        "count": 9
     },
     {
         "id": "A9-2017",
@@ -165,7 +165,7 @@
         "id": "A08-2021",
         "name": "Software and Data Integrity Failures",
         "href": "AIP/quality-standards/OWASP/items/A08-2021",
-        "count": 11
+        "count": 12
     },
     {
         "id": "A09-2021",
@@ -225,7 +225,7 @@
         "id": "API8-2019",
         "name": "Injection",
         "href": "AIP/quality-standards/OWASP/items/API8-2019",
-        "count": 89
+        "count": 90
     },
     {
         "id": "API9-2019",
