@@ -351,7 +351,7 @@
         "id": "CWE-99",
         "name": "Improper Control of Resource Identifiers ('Resource Injection')",
         "href": "AIP/quality-standards/CWE/items/CWE-99",
-        "count": 6
+        "count": 7
     },
     {
         "id": "CWE-102",

@@ -48,7 +48,60 @@
         }
     ],
     "qualityStandards": [
-        
+        {
+            "id": "ASCSM-CWE-99",
+            "name": "Name or Reference Resolution Improper Input Neutralization",
+            "href": "AIP/quality-standards/CISQ/items/ASCSM-CWE-99",
+            "standard": "CISQ"
+        },
+        {
+            "id": "CWE-99",
+            "name": "Improper Control of Resource Identifiers ('Resource Injection')",
+            "href": "AIP/quality-standards/CWE/items/CWE-99",
+            "standard": "CWE"
+        },
+        {
+            "id": "CWE-99",
+            "name": "Improper Control of Resource Identifiers ('Resource Injection')",
+            "href": "AIP/quality-standards/ISO-5055/items/CWE-99",
+            "standard": "ISO-5055"
+        },
+        {
+            "id": "CWE-99",
+            "name": "Improper Control of Resource Identifiers ('Resource Injection')",
+            "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-99",
+            "standard": "OMG-ASCQM"
+        },
+        {
+            "id": "A1-2013",
+            "name": "Injection",
+            "href": "AIP/quality-standards/OWASP/items/A1-2013",
+            "standard": "OWASP"
+        },
+        {
+            "id": "A1-2017",
+            "name": "Injection",
+            "href": "AIP/quality-standards/OWASP/items/A1-2017",
+            "standard": "OWASP"
+        },
+        {
+            "id": "A03-2021",
+            "name": "Injection",
+            "href": "AIP/quality-standards/OWASP/items/A03-2021",
+            "standard": "OWASP"
+        },
+        {
+            "id": "PCI-Requirement-6.5.1",
+            "name": "Injection flaws, particularly SQL injection",
+            "href": "AIP/quality-standards/PCI-DSS-V3.1/items/PCI-Requirement-6.5.1",
+            "standard": "PCI-DSS-V3.1"
+        },
+        {
+            "id": "PCI-Requirement-6.5.1",
+            "name": "Injection flaws, particularly SQL injection",
+            "href": "AIP/quality-standards/PCI-DSS-V3.2.1/items/PCI-Requirement-6.5.1",
+            "standard": "PCI-DSS-V3.2.1"
+        }
     ],
     "parameters": [
         
