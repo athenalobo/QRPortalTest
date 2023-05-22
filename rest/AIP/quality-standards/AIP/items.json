@@ -102,12 +102,6 @@
         "count": 2
     },
     {
-        "id": "AIP-M2C-Azure",
-        "name": "Microsoft Azure",
-        "href": "AIP/quality-standards/AIP/items/AIP-M2C-Azure",
-        "count": 2
-    },
-    {
         "id": "AIP-M2C-DataType",
         "name": "Data Type Remediation",
         "href": "AIP/quality-standards/AIP/items/AIP-M2C-DataType",
