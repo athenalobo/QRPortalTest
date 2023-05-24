@@ -7795,6 +7795,15 @@
     ],
     "com.castsoftware.internal.platform": [
         {
+            "version": "0.9.16",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "0.9.15",
             "addedRules": [
                 
