@@ -217,9 +217,29 @@
         ]
     },
     {
+        "id": 1039076,
+        "name": "Avoid using HttpURLConnection with HTTP protocol",
+        "href": "AIP/quality-rules/1039076",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 1040034,
         "name": "StrictHttpFirewall should be set as Http Firewall before Spring Security 5.0.1, 4.2.4, and 4.1.5",
         "href": "AIP/quality-rules/1040034",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
+        "id": 1040046,
+        "name": "Avoid weak encryption algorithm (Spring)",
+        "href": "AIP/quality-rules/1040046",
         "critical": false,
         "weight": 5,
         "technologyNames": [

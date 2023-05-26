@@ -248,18 +248,6 @@
         ]
     },
     {
-        "id": 8442,
-        "name": "Avoid resource injection",
-        "href": "AIP/quality-rules/8442",
-        "critical": false,
-        "weight": 5,
-        "technologyNames": [
-            "C#",
-            "JEE",
-            "VB.NET"
-        ]
-    },
-    {
         "id": 8444,
         "name": "Avoid resource URL manipulation",
         "href": "AIP/quality-rules/8444",
@@ -1121,6 +1109,16 @@
         "id": 1021044,
         "name": "Avoid string interpolations to prevent SQL injections (Python)",
         "href": "AIP/quality-rules/1021044",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
+        "id": 1021080,
+        "name": "Avoid resource injection (Python)",
+        "href": "AIP/quality-rules/1021080",
         "critical": false,
         "weight": 5,
         "technologyNames": [
