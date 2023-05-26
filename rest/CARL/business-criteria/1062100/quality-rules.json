@@ -3112,6 +3112,16 @@
         ]
     },
     {
+        "id": 1040046,
+        "name": "Ensure you use SHA256, SHA384, and SHA512 algorithms.",
+        "href": "AIP/quality-rules/1040046",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 1042024,
         "name": "Ensure activating tags for escaping string in order to sanitize user input and prevent XSS attacks",
         "href": "AIP/quality-rules/1042024",

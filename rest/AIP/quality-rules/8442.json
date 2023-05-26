@@ -39,13 +39,6 @@
     ],
     "technicalCriteria": [
         {
-            "id": 1062191,
-            "name": "ASCSM-CWE-79 - Cross-site Scripting Improper Input Neutralization",
-            "href": "AIP/technical-criteria/1062191",
-            "weight": 5,
-            "critical": false
-        },
-        {
             "id": 1062195,
             "name": "ASCSM-CWE-99 - Name or Reference Resolution Improper Input Neutralization",
             "href": "AIP/technical-criteria/1062195",
