@@ -11645,6 +11645,15 @@
     ],
     "com.castsoftware.mips-redux-index": [
         {
+            "version": "20230521.0.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "20220503.0.0-funcrel",
             "addedRules": [
                 
