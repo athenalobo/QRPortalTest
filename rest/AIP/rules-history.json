@@ -2766,6 +2766,18 @@
     ],
     "com.castsoftware.dotnet": [
         {
+            "version": "1.5.0-beta3",
+            "addedRules": [
+                {
+                    "id": 1027102,
+                    "name": "Avoid using Regex constructor or static method without timeout"
+                }
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.5.0-beta2",
             "addedRules": [
                 
