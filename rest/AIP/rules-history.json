@@ -2796,6 +2796,15 @@
             ]
         },
         {
+            "version": "1.4.15",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.4.14",
             "addedRules": [
                 
