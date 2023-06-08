@@ -11428,6 +11428,15 @@
     ],
     "com.castsoftware.mainframe": [
         {
+            "version": "1.1.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.25-funcrel",
             "addedRules": [
                 
@@ -22291,6 +22300,15 @@
         }
     ],
     "com.castsoftware.sqlanalyzer": [
+        {
+            "version": "3.6.12-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "3.6.11-funcrel",
             "addedRules": [
