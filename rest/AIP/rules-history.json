@@ -19458,6 +19458,15 @@
     ],
     "com.castsoftware.sap": [
         {
+            "version": "1.0.11-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.10-funcrel",
             "addedRules": [
                 
