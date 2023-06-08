@@ -11859,6 +11859,15 @@
     ],
     "com.castsoftware.mqe": [
         {
+            "version": "1.2.10-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.2.9-funcrel",
             "addedRules": [
                 
