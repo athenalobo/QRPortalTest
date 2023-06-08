@@ -1420,6 +1420,17 @@
             ]
         }
     ],
+    "com.castsoftware.birt.missingtable": [
+        {
+            "version": "1.0.0-beta1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        }
+    ],
     "com.castsoftware.bpel": [
         {
             "version": "2.2.0-beta5",
@@ -19495,6 +19506,17 @@
                     "id": 1004004,
                     "name": "Avoid Programs accessing directly to Physical Files  (RPG400)"
                 }
+            ],
+            "detachedRules": [
+                
+            ]
+        }
+    ],
+    "com.castsoftware.rpg.missingtable": [
+        {
+            "version": "1.0.0-beta1",
+            "addedRules": [
+                
             ],
             "detachedRules": [
                 

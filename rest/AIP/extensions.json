@@ -62,6 +62,12 @@
     {
         "qualityModel": false,
         "transactionsConfiguration": false,
+        "name": "com.castsoftware.birt.missingtable",
+        "href": "AIP/extensions/com.castsoftware.birt.missingtable"
+    },
+    {
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.bpel",
         "href": "AIP/extensions/com.castsoftware.bpel"
     },
@@ -472,6 +478,12 @@
         "transactionsConfiguration": true,
         "name": "com.castsoftware.rpg",
         "href": "AIP/extensions/com.castsoftware.rpg"
+    },
+    {
+        "qualityModel": false,
+        "transactionsConfiguration": false,
+        "name": "com.castsoftware.rpg.missingtable",
+        "href": "AIP/extensions/com.castsoftware.rpg.missingtable"
     },
     {
         "qualityModel": true,
