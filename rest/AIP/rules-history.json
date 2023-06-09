@@ -10760,6 +10760,15 @@
     ],
     "com.castsoftware.jooq": [
         {
+            "version": "1.0.0-alpha2",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.0-alpha1",
             "addedRules": [
                 
