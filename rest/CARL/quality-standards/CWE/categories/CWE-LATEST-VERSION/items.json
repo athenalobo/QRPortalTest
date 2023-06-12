@@ -4587,7 +4587,7 @@
         "id": "CWE-1069",
         "name": "Empty Exception Block",
         "href": "CARL/quality-standards/CWE/items/CWE-1069",
-        "count": 5
+        "count": 6
     },
     {
         "id": "CWE-1070",
