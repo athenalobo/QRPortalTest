@@ -96,9 +96,9 @@
             "standard": "CWE"
         },
         {
-            "id": "NIST-AU-7",
-            "name": "Audit Record Reduction and Report Generation",
-            "href": "AIP/quality-standards/NIST-SP-800-53/items/NIST-AU-7",
+            "id": "NIST-SC-5",
+            "name": "Denial-of-service Protection",
+            "href": "AIP/quality-standards/NIST-SP-800-53/items/NIST-SC-5",
             "standard": "NIST-SP-800-53"
         },
         {
@@ -108,9 +108,9 @@
             "standard": "NIST-SP-800-53"
         },
         {
-            "id": "NIST-AU-7",
-            "name": "Audit Record Reduction and Report Generation",
-            "href": "AIP/quality-standards/NIST-SP-800-53R4/items/NIST-AU-7",
+            "id": "NIST-SC-5",
+            "name": "Denial-of-service Protection",
+            "href": "AIP/quality-standards/NIST-SP-800-53R4/items/NIST-SC-5",
             "standard": "NIST-SP-800-53R4"
         },
         {

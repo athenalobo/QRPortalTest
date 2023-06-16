@@ -21,7 +21,7 @@
         "id": "PCI-Requirement-6.5.2",
         "name": "Buffer overflows",
         "href": "CARL/quality-standards/PCI-DSS-V3.1/items/PCI-Requirement-6.5.2",
-        "count": 17
+        "count": 18
     },
     {
         "id": "PCI-Requirement-6.5.3",
@@ -45,7 +45,7 @@
         "id": "PCI-Requirement-6.5.6",
         "name": "All high risk vulnerabilities",
         "href": "CARL/quality-standards/PCI-DSS-V3.1/items/PCI-Requirement-6.5.6",
-        "count": 43
+        "count": 45
     },
     {
         "id": "PCI-Requirement-6.5.7",
@@ -69,6 +69,6 @@
         "id": "PCI-Requirement-6.5.10",
         "name": "Broken authentication and session management",
         "href": "CARL/quality-standards/PCI-DSS-V3.1/items/PCI-Requirement-6.5.10",
-        "count": 61
+        "count": 62
     }
 ]
