@@ -135,6 +135,26 @@
         ]
     },
     {
+        "id": 1034002,
+        "name": "Avoid cookie injection (PHP)",
+        "href": "AIP/quality-rules/1034002",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
+        "id": 1034020,
+        "name": "Avoid improper neutralization of HTTP headers (PHP)",
+        "href": "AIP/quality-rules/1034020",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
         "id": 1043084,
         "name": "Avoid XML schemas with unbounded occurrences",
         "href": "AIP/quality-rules/1043084",

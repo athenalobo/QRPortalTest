@@ -167,6 +167,16 @@
         ]
     },
     {
+        "id": 1034014,
+        "name": "Avoid file path manipulation (PHP)",
+        "href": "AIP/quality-rules/1034014",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
         "id": 1040008,
         "name": "Ensure declaring formLogin after requesting authorization and authentication",
         "href": "AIP/quality-rules/1040008",

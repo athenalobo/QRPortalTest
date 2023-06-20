@@ -130,5 +130,25 @@
             "JEE",
             "VB.NET"
         ]
+    },
+    {
+        "id": 1034006,
+        "name": "Avoid OS command injection (PHP)",
+        "href": "AIP/quality-rules/1034006",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
+        "id": 1034012,
+        "name": "Avoid code injection (PHP)",
+        "href": "AIP/quality-rules/1034012",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "PHP"
+        ]
     }
 ]

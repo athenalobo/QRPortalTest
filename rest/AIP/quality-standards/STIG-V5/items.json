@@ -39,19 +39,19 @@
         "id": "STIG-V-222602",
         "name": "The application must protect from Cross-Site Scripting (XSS) vulnerabilities.",
         "href": "AIP/quality-standards/STIG-V5/items/STIG-V-222602",
-        "count": 54
+        "count": 56
     },
     {
         "id": "STIG-V-222604",
         "name": "The application must protect from command injection.",
         "href": "AIP/quality-standards/STIG-V5/items/STIG-V-222604",
-        "count": 59
+        "count": 64
     },
     {
         "id": "STIG-V-222607",
         "name": "The application must not be vulnerable to SQL Injection.",
         "href": "AIP/quality-standards/STIG-V5/items/STIG-V-222607",
-        "count": 15
+        "count": 16
     },
     {
         "id": "STIG-V-222608",
@@ -63,7 +63,7 @@
         "id": "STIG-V-222609",
         "name": "The application must not be subject to input handling vulnerabilities.",
         "href": "AIP/quality-standards/STIG-V5/items/STIG-V-222609",
-        "count": 13
+        "count": 15
     },
     {
         "id": "STIG-V-222612",

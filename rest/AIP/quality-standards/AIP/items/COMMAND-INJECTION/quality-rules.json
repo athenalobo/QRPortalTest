@@ -606,6 +606,56 @@
         ]
     },
     {
+        "id": 1034004,
+        "name": "Avoid LDAP injection (PHP)",
+        "href": "AIP/quality-rules/1034004",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
+        "id": 1034006,
+        "name": "Avoid OS command injection (PHP)",
+        "href": "AIP/quality-rules/1034006",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
+        "id": 1034008,
+        "name": "Avoid PHP Remote File Inclusion (PHP)",
+        "href": "AIP/quality-rules/1034008",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
+        "id": 1034010,
+        "name": "Avoid eval injection (PHP)",
+        "href": "AIP/quality-rules/1034010",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
+        "id": 1034012,
+        "name": "Avoid code injection (PHP)",
+        "href": "AIP/quality-rules/1034012",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
         "id": 1042026,
         "name": "Avoid Action Mapping based on wildcards with Struts 2.3.14.2 and older",
         "href": "AIP/quality-rules/1042026",

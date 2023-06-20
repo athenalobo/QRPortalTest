@@ -8,5 +8,15 @@
         "technologyNames": [
             "PHP"
         ]
+    },
+    {
+        "id": 1034008,
+        "name": "Avoid PHP Remote File Inclusion (PHP)",
+        "href": "AIP/quality-rules/1034008",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "PHP"
+        ]
     }
 ]

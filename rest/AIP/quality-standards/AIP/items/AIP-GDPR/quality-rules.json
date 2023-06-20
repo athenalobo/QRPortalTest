@@ -1267,6 +1267,46 @@
         ]
     },
     {
+        "id": 1034000,
+        "name": "Avoid SQL injection (PHP)",
+        "href": "AIP/quality-rules/1034000",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
+        "id": 1034004,
+        "name": "Avoid LDAP injection (PHP)",
+        "href": "AIP/quality-rules/1034004",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
+        "id": 1034014,
+        "name": "Avoid file path manipulation (PHP)",
+        "href": "AIP/quality-rules/1034014",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
+        "id": 1034020,
+        "name": "Avoid improper neutralization of HTTP headers (PHP)",
+        "href": "AIP/quality-rules/1034020",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
         "id": 1039006,
         "name": "Avoid using predictable SecureRandom Seeds",
         "href": "AIP/quality-rules/1039006",
