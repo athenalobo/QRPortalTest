@@ -165,7 +165,7 @@
         "id": "A08-2021",
         "name": "Software and Data Integrity Failures",
         "href": "AIP/quality-standards/OWASP/items/A08-2021",
-        "count": 13
+        "count": 14
     },
     {
         "id": "A09-2021",
@@ -213,7 +213,7 @@
         "id": "API6-2019",
         "name": "Mass Assignment",
         "href": "AIP/quality-standards/OWASP/items/API6-2019",
-        "count": 7
+        "count": 8
     },
     {
         "id": "API7-2019",

@@ -18909,6 +18909,16 @@
         ]
     },
     {
+        "id": 1040048,
+        "name": "Avoid unsafe object binding (Spring)",
+        "href": "AIP/quality-rules/1040048",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 1042004,
         "name": "Avoid Duplicate Struts validation forms with the same name",
         "href": "AIP/quality-rules/1042004",
