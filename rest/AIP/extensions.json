@@ -612,6 +612,12 @@
         "href": "AIP/extensions/com.castsoftware.typescript"
     },
     {
+        "qualityModel": false,
+        "transactionsConfiguration": true,
+        "name": "com.castsoftware.vaadin",
+        "href": "AIP/extensions/com.castsoftware.vaadin"
+    },
+    {
         "qualityModel": true,
         "transactionsConfiguration": true,
         "name": "com.castsoftware.vuejs",
