@@ -8386,6 +8386,17 @@
             ]
         }
     ],
+    "com.castsoftware.java.reactive": [
+        {
+            "version": "1.0.0-alpha1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        }
+    ],
     "com.castsoftware.java.service": [
         {
             "version": "1.0.2-funcrel",

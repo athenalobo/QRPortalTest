@@ -296,6 +296,12 @@
     {
         "qualityModel": false,
         "transactionsConfiguration": true,
+        "name": "com.castsoftware.java.reactive",
+        "href": "AIP/extensions/com.castsoftware.java.reactive"
+    },
+    {
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.java.service",
         "href": "AIP/extensions/com.castsoftware.java.service"
     },
