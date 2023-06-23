@@ -8261,6 +8261,17 @@
             ]
         }
     ],
+    "com.castsoftware.java.freemarker": [
+        {
+            "version": "1.0.0-alpha1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        }
+    ],
     "com.castsoftware.java.gcp": [
         {
             "version": "1.0.0-funcrel",
@@ -11557,6 +11568,15 @@
         },
         {
             "version": "1.1.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
+            "version": "1.0.26-funcrel",
             "addedRules": [
                 
             ],

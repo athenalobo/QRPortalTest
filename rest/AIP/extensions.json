@@ -271,6 +271,12 @@
     },
     {
         "qualityModel": false,
+        "transactionsConfiguration": false,
+        "name": "com.castsoftware.java.freemarker",
+        "href": "AIP/extensions/com.castsoftware.java.freemarker"
+    },
+    {
+        "qualityModel": false,
         "transactionsConfiguration": true,
         "name": "com.castsoftware.java.gcp",
         "href": "AIP/extensions/com.castsoftware.java.gcp"

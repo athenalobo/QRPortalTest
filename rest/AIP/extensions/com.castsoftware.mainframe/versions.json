@@ -14,6 +14,13 @@
         "transactionsConfigurationCRC": 2085492947
     },
     {
+        "name": "1.0.26-funcrel",
+        "href": "AIP/extensions/com.castsoftware.mainframe/versions/1.0.26-funcrel",
+        "metaModelCRC": 2477879812,
+        "rulesCRC": 0,
+        "transactionsConfigurationCRC": 2085492947
+    },
+    {
         "name": "1.0.25-funcrel",
         "href": "AIP/extensions/com.castsoftware.mainframe/versions/1.0.25-funcrel",
         "metaModelCRC": 2477879812,
