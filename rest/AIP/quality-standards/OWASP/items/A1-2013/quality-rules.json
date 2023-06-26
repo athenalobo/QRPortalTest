@@ -388,6 +388,18 @@
         ]
     },
     {
+        "id": 8522,
+        "name": "Avoid regular expression injection through API requests",
+        "href": "AIP/quality-rules/8522",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 8524,
         "name": "Avoid deserialization injection",
         "href": "AIP/quality-rules/8524",

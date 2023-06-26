@@ -3,13 +3,13 @@
         "id": "A1-2013",
         "name": "Injection",
         "href": "CARL/quality-standards/OWASP/items/A1-2013",
-        "count": 60
+        "count": 61
     },
     {
         "id": "A2-2013",
         "name": "Broken Authentication and Session Management",
         "href": "CARL/quality-standards/OWASP/items/A2-2013",
-        "count": 19
+        "count": 21
     },
     {
         "id": "A3-2013",

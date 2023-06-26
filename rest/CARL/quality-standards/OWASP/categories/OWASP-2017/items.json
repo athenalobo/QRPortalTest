@@ -3,13 +3,13 @@
         "id": "A1-2017",
         "name": "Injection",
         "href": "CARL/quality-standards/OWASP/items/A1-2017",
-        "count": 54
+        "count": 55
     },
     {
         "id": "A2-2017",
         "name": "Broken Authentication",
         "href": "CARL/quality-standards/OWASP/items/A2-2017",
-        "count": 26
+        "count": 28
     },
     {
         "id": "A3-2017",

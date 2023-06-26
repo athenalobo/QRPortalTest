@@ -3,13 +3,13 @@
         "id": "A1-2013",
         "name": "Injection",
         "href": "AIP/quality-standards/OWASP/items/A1-2013",
-        "count": 95
+        "count": 96
     },
     {
         "id": "A2-2013",
         "name": "Broken Authentication and Session Management",
         "href": "AIP/quality-standards/OWASP/items/A2-2013",
-        "count": 31
+        "count": 33
     },
     {
         "id": "A3-2013",
@@ -63,13 +63,13 @@
         "id": "A1-2017",
         "name": "Injection",
         "href": "AIP/quality-standards/OWASP/items/A1-2017",
-        "count": 88
+        "count": 89
     },
     {
         "id": "A2-2017",
         "name": "Broken Authentication",
         "href": "AIP/quality-standards/OWASP/items/A2-2017",
-        "count": 38
+        "count": 40
     },
     {
         "id": "A3-2017",
@@ -159,7 +159,7 @@
         "id": "A07-2021",
         "name": "Identification and Authentication Failures",
         "href": "AIP/quality-standards/OWASP/items/A07-2021",
-        "count": 45
+        "count": 47
     },
     {
         "id": "A08-2021",
