@@ -20235,6 +20235,15 @@
     ],
     "com.castsoftware.securityanalyzer": [
         {
+            "version": "1.0.9-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.8-funcrel",
             "addedRules": [
                 
