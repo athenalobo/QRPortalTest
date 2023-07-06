@@ -18,5 +18,15 @@
         "technologyNames": [
             "ALL TECHNOLOGIES"
         ]
+    },
+    {
+        "id": 1106044,
+        "name": "Ensure PL/SQL packages UTL_MAIL and UTL_SMTP are not used",
+        "href": "AIP/quality-rules/1106044",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
     }
 ]

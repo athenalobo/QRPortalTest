@@ -58,5 +58,155 @@
         "technologyNames": [
             "SQL"
         ]
+    },
+    {
+        "id": 1106046,
+        "name": "Ensure CREATE FUNCTION is not used",
+        "href": "AIP/quality-rules/1106046",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SQL"
+        ]
+    },
+    {
+        "id": 1106048,
+        "name": "Ensure CREATE PROCEDURE is not used",
+        "href": "AIP/quality-rules/1106048",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SQL"
+        ]
+    },
+    {
+        "id": 1106050,
+        "name": "Ensure CREATE TRIGGER is not used",
+        "href": "AIP/quality-rules/1106050",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SQL"
+        ]
+    },
+    {
+        "id": 1106072,
+        "name": "Ensure DB2 Scalar Function DATE is not used",
+        "href": "AIP/quality-rules/1106072",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106074,
+        "name": "Ensure DB2 Scalar Function SMALLINT is not used",
+        "href": "AIP/quality-rules/1106074",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106076,
+        "name": "Ensure DB2 Scalar Function LCASE is not used",
+        "href": "AIP/quality-rules/1106076",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106078,
+        "name": "Ensure DB2 Scalar Function POSSTR is not used",
+        "href": "AIP/quality-rules/1106078",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106080,
+        "name": "Ensure DB2 Scalar Function RAND is not used",
+        "href": "AIP/quality-rules/1106080",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106082,
+        "name": "Ensure DB2 Scalar Function TIMESTAMP is not used",
+        "href": "AIP/quality-rules/1106082",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106084,
+        "name": "Ensure DB2 Scalar Function CHAR is not used",
+        "href": "AIP/quality-rules/1106084",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106086,
+        "name": "Ensure DB2 Scalar Function CONCAT is not used",
+        "href": "AIP/quality-rules/1106086",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106088,
+        "name": "Ensure DB2 Scalar Function YEAR is not used",
+        "href": "AIP/quality-rules/1106088",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106090,
+        "name": "Ensure DB2 Scalar Function MONTH is not used",
+        "href": "AIP/quality-rules/1106090",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106092,
+        "name": "Ensure DB2 Scalar Functions DAY/DAYS are not used",
+        "href": "AIP/quality-rules/1106092",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106094,
+        "name": "Ensure DB2 Scalar Functions DECIMAL/DEC are not used",
+        "href": "AIP/quality-rules/1106094",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
     }
 ]

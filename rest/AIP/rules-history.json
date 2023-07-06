@@ -19756,6 +19756,15 @@
     ],
     "com.castsoftware.rpg.missingtable": [
         {
+            "version": "1.0.0-beta2",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.0-beta1",
             "addedRules": [
                 
@@ -22494,6 +22503,118 @@
         }
     ],
     "com.castsoftware.sql.movetocloud": [
+        {
+            "version": "1.0.0-beta4",
+            "addedRules": [
+                {
+                    "id": 1106094,
+                    "name": "Ensure DB2 Scalar Functions DECIMAL/DEC are not used"
+                },
+                {
+                    "id": 1106092,
+                    "name": "Ensure DB2 Scalar Functions DAY/DAYS are not used"
+                },
+                {
+                    "id": 1106090,
+                    "name": "Ensure DB2 Scalar Function MONTH is not used"
+                },
+                {
+                    "id": 1106088,
+                    "name": "Ensure DB2 Scalar Function YEAR is not used"
+                },
+                {
+                    "id": 1106086,
+                    "name": "Ensure DB2 Scalar Function CONCAT is not used"
+                },
+                {
+                    "id": 1106084,
+                    "name": "Ensure DB2 Scalar Function CHAR is not used"
+                },
+                {
+                    "id": 1106082,
+                    "name": "Ensure DB2 Scalar Function TIMESTAMP is not used"
+                },
+                {
+                    "id": 1106080,
+                    "name": "Ensure DB2 Scalar Function RAND is not used"
+                },
+                {
+                    "id": 1106078,
+                    "name": "Ensure DB2 Scalar Function POSSTR is not used"
+                },
+                {
+                    "id": 1106076,
+                    "name": "Ensure DB2 Scalar Function LCASE is not used"
+                },
+                {
+                    "id": 1106074,
+                    "name": "Ensure DB2 Scalar Function SMALLINT is not used"
+                },
+                {
+                    "id": 1106072,
+                    "name": "Ensure DB2 Scalar Function DATE is not used"
+                },
+                {
+                    "id": 1106070,
+                    "name": "Ensure DECFLOAT data type is not used"
+                },
+                {
+                    "id": 1106068,
+                    "name": "Ensure FLOAT data type is not used"
+                },
+                {
+                    "id": 1106066,
+                    "name": "Ensure GRAPHIC data type is not used"
+                },
+                {
+                    "id": 1106064,
+                    "name": "Ensure NCHAR VARYING data type is not used"
+                },
+                {
+                    "id": 1106062,
+                    "name": "Ensure NCHAR data type is not used"
+                },
+                {
+                    "id": 1106060,
+                    "name": "Ensure NVARCHAR data type is not used"
+                },
+                {
+                    "id": 1106058,
+                    "name": "Ensure VARCHAR(n) FOR BIT DATA data type is not used"
+                },
+                {
+                    "id": 1106056,
+                    "name": "Ensure DBCLOB data type is not used"
+                },
+                {
+                    "id": 1106054,
+                    "name": "Ensure CLOB data type is not used"
+                },
+                {
+                    "id": 1106052,
+                    "name": "Ensure BLOB data type is not used"
+                },
+                {
+                    "id": 1106050,
+                    "name": "Ensure CREATE TRIGGER is not used"
+                },
+                {
+                    "id": 1106048,
+                    "name": "Ensure CREATE PROCEDURE is not used"
+                },
+                {
+                    "id": 1106046,
+                    "name": "Ensure CREATE FUNCTION is not used"
+                },
+                {
+                    "id": 1106044,
+                    "name": "Ensure PL/SQL packages UTL_MAIL and UTL_SMTP are not used"
+                }
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "1.0.0-beta3",
             "addedRules": [

@@ -3,7 +3,7 @@
         "id": "AIP-M2C-AWS",
         "name": "Amazon Web Services",
         "href": "AIP/quality-standards/AIP/items/AIP-M2C-AWS",
-        "count": 2
+        "count": 3
     },
     {
         "id": "AIP-M2C-Azure",
@@ -15,7 +15,7 @@
         "id": "AIP-M2C-DataType",
         "name": "Data Type Remediation",
         "href": "AIP/quality-standards/AIP/items/AIP-M2C-DataType",
-        "count": 4
+        "count": 14
     },
     {
         "id": "AIP-M2C-GCP",
@@ -27,7 +27,7 @@
         "id": "AIP-M2C-ObjectType",
         "name": "Object Type Remediation",
         "href": "AIP/quality-standards/AIP/items/AIP-M2C-ObjectType",
-        "count": 16
+        "count": 17
     },
     {
         "id": "AIP-M2C-Oracle",
@@ -45,7 +45,7 @@
         "id": "AIP-M2C-Replatform",
         "name": "Replatform Recommendation",
         "href": "AIP/quality-standards/AIP/items/AIP-M2C-Replatform",
-        "count": 19
+        "count": 45
     },
     {
         "id": "AIP-M2C-Retain",
@@ -63,6 +63,6 @@
         "id": "AIP-M2C-Syntax",
         "name": "Syntax Remediation",
         "href": "AIP/quality-standards/AIP/items/AIP-M2C-Syntax",
-        "count": 6
+        "count": 21
     }
 ]
