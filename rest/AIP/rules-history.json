@@ -13284,6 +13284,15 @@
     ],
     "com.castsoftware.nodejs.missingtable": [
         {
+            "version": "1.0.0-beta1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.0-alpha2",
             "addedRules": [
                 
@@ -18214,6 +18223,15 @@
         }
     ],
     "com.castsoftware.python.missingtable": [
+        {
+            "version": "1.0.0-beta3",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "1.0.0-beta2",
             "addedRules": [
