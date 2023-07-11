@@ -87,6 +87,16 @@
                 "name": "Google Cloud"
             },
             "technology": {
+                "href": "HL/cloud-ready/technologies/17",
+                "name": "Ruby"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/4",
+                "name": "Google Cloud"
+            },
+            "technology": {
                 "href": "HL/cloud-ready/technologies/8",
                 "name": "SWIFT"
             }

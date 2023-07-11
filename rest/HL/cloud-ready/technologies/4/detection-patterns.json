@@ -120,9 +120,9 @@
         "href": "HL/cloud-ready/detection-patterns/1200092"
     },
     {
-        "id": 1200100,
+        "id": 1200068,
         "name": "Using a Cloud-based Active Directory",
-        "href": "HL/cloud-ready/detection-patterns/1200100"
+        "href": "HL/cloud-ready/detection-patterns/1200068"
     },
     {
         "id": 1200076,
@@ -135,14 +135,14 @@
         "href": "HL/cloud-ready/detection-patterns/1200086"
     },
     {
-        "id": 1200087,
-        "name": "Using a Cloud-based data storage",
-        "href": "HL/cloud-ready/detection-patterns/1200087"
-    },
-    {
         "id": 1200077,
         "name": "Using a Cloud-based data storage",
         "href": "HL/cloud-ready/detection-patterns/1200077"
+    },
+    {
+        "id": 1200087,
+        "name": "Using a Cloud-based data storage",
+        "href": "HL/cloud-ready/detection-patterns/1200087"
     },
     {
         "id": 1200084,

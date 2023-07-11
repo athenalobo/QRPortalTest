@@ -6624,6 +6624,15 @@
     ],
     "com.castsoftware.highlight2mri": [
         {
+            "version": "1.0.3-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.2-funcrel",
             "addedRules": [
                 

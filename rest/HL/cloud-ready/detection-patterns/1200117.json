@@ -83,6 +83,16 @@
         },
         {
             "platform": {
+                "href": "HL/cloud-ready/platforms/1",
+                "name": "AWS"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/17",
+                "name": "Ruby"
+            }
+        },
+        {
+            "platform": {
                 "href": "HL/cloud-ready/platforms/2",
                 "name": "Azure"
             },

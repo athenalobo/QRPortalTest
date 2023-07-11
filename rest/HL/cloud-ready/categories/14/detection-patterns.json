@@ -45,11 +45,6 @@
         "href": "HL/cloud-ready/detection-patterns/1200061"
     },
     {
-        "id": 1200100,
-        "name": "Using a Cloud-based Active Directory",
-        "href": "HL/cloud-ready/detection-patterns/1200100"
-    },
-    {
         "id": 1200068,
         "name": "Using a Cloud-based Active Directory",
         "href": "HL/cloud-ready/detection-patterns/1200068"

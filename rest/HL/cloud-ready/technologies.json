@@ -60,10 +60,16 @@
         "count": 36
     },
     {
+        "id": 17,
+        "name": "Ruby",
+        "href": "HL/cloud-ready/technologies/17",
+        "count": 42
+    },
+    {
         "id": 8,
         "name": "SWIFT",
         "href": "HL/cloud-ready/technologies/8",
-        "count": 37
+        "count": 36
     },
     {
         "id": 13,

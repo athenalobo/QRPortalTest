@@ -33,6 +33,26 @@
         },
         {
             "platform": {
+                "href": "HL/cloud-ready/platforms/2",
+                "name": "Azure"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/14",
+                "name": "Clojure"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/2",
+                "name": "Azure"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/16",
+                "name": "Go"
+            }
+        },
+        {
+            "platform": {
                 "href": "HL/cloud-ready/platforms/1",
                 "name": "AWS"
             },
@@ -43,6 +63,26 @@
         },
         {
             "platform": {
+                "href": "HL/cloud-ready/platforms/2",
+                "name": "Azure"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/4",
+                "name": "JavaScript"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/2",
+                "name": "Azure"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/5",
+                "name": "Kotlin"
+            }
+        },
+        {
+            "platform": {
                 "href": "HL/cloud-ready/platforms/1",
                 "name": "AWS"
             },
@@ -79,6 +119,16 @@
             "technology": {
                 "href": "HL/cloud-ready/technologies/7",
                 "name": "Python"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/2",
+                "name": "Azure"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/17",
+                "name": "Ruby"
             }
         },
         {
@@ -89,6 +139,26 @@
             "technology": {
                 "href": "HL/cloud-ready/technologies/8",
                 "name": "SWIFT"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/2",
+                "name": "Azure"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/8",
+                "name": "SWIFT"
+            }
+        },
+        {
+            "platform": {
+                "href": "HL/cloud-ready/platforms/2",
+                "name": "Azure"
+            },
+            "technology": {
+                "href": "HL/cloud-ready/technologies/10",
+                "name": "TypeScript"
             }
         },
         {
