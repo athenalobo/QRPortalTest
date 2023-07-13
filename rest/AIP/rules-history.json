@@ -17684,6 +17684,26 @@
     ],
     "com.castsoftware.python": [
         {
+            "version": "1.6.0-alpha2",
+            "addedRules": [
+                {
+                    "id": 1021088,
+                    "name": "Avoid uncontrolled sleep calls to prevent DoS attacks (Python)"
+                },
+                {
+                    "id": 1021084,
+                    "name": "Avoid XPath injection (Python)"
+                },
+                {
+                    "id": 1021082,
+                    "name": "Avoid LDAP injection (Python)"
+                }
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.6.0-alpha1",
             "addedRules": [
                 {

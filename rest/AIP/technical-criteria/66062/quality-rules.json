@@ -1750,6 +1750,36 @@
         ]
     },
     {
+        "id": 1021082,
+        "name": "Avoid LDAP injection (Python)",
+        "href": "AIP/quality-rules/1021082",
+        "critical": true,
+        "weight": 9,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
+        "id": 1021084,
+        "name": "Avoid XPath injection (Python)",
+        "href": "AIP/quality-rules/1021084",
+        "critical": true,
+        "weight": 9,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
+        "id": 1021088,
+        "name": "Avoid uncontrolled sleep calls to prevent DoS attacks (Python)",
+        "href": "AIP/quality-rules/1021088",
+        "critical": true,
+        "weight": 9,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
         "id": 1024002,
         "name": "Always have read permission to read data of Content Provider",
         "href": "AIP/quality-rules/1024002",
