@@ -21743,6 +21743,15 @@
     ],
     "com.castsoftware.springbatch": [
         {
+            "version": "3.1.5-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "3.1.4-funcrel",
             "addedRules": [
                 
