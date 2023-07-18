@@ -366,6 +366,12 @@
         "href": "AIP/extensions/com.castsoftware.jquery"
     },
     {
+        "qualityModel": false,
+        "transactionsConfiguration": false,
+        "name": "com.castsoftware.kbportablerootpaths",
+        "href": "AIP/extensions/com.castsoftware.kbportablerootpaths"
+    },
+    {
         "qualityModel": true,
         "transactionsConfiguration": true,
         "name": "com.castsoftware.kotlin",
