@@ -290,6 +290,12 @@
     {
         "qualityModel": false,
         "transactionsConfiguration": false,
+        "name": "com.castsoftware.java.internal",
+        "href": "AIP/extensions/com.castsoftware.java.internal"
+    },
+    {
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.java.jdbi",
         "href": "AIP/extensions/com.castsoftware.java.jdbi"
     },

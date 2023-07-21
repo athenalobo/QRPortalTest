@@ -8495,6 +8495,17 @@
             ]
         }
     ],
+    "com.castsoftware.java.internal": [
+        {
+            "version": "1.0.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        }
+    ],
     "com.castsoftware.java.jdbi": [
         {
             "version": "1.0.0-beta1",
