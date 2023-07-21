@@ -3,6 +3,7 @@
         "id": 1043006,
         "name": "Avoid disabling ValidateInput on ASP.NET Http Post/Put Request",
         "href": "AIP/quality-rules/1043006",
+        "status": "renewed",
         "critical": true,
         "severity": 20,
         "technologyNames": [
@@ -14,6 +15,7 @@
         "id": 1043008,
         "name": "Avoid disabling ValidateInput on controller",
         "href": "AIP/quality-rules/1043008",
+        "status": "renewed",
         "critical": true,
         "severity": 20,
         "technologyNames": [
@@ -25,6 +27,7 @@
         "id": 1043010,
         "name": "Avoid creating cookie without setting httpOnly option (C#)",
         "href": "AIP/quality-rules/1043010",
+        "status": "renewed",
         "critical": true,
         "severity": 20,
         "technologyNames": [
@@ -36,6 +39,7 @@
         "id": 1043012,
         "name": "Avoid creating cookie without setting httpOnly option in Config file (ASP.NET)",
         "href": "AIP/quality-rules/1043012",
+        "status": "renewed",
         "critical": true,
         "severity": 20,
         "technologyNames": [
@@ -47,6 +51,7 @@
         "id": 1043014,
         "name": "Avoid disabling ValidateRequest in Config file (ASP.NET)",
         "href": "AIP/quality-rules/1043014",
+        "status": "renewed",
         "critical": true,
         "severity": 20,
         "technologyNames": [
@@ -58,6 +63,7 @@
         "id": 1043016,
         "name": "Avoid disabling ValidateRequest in ASPX page",
         "href": "AIP/quality-rules/1043016",
+        "status": "renewed",
         "critical": true,
         "severity": 20,
         "technologyNames": [
@@ -68,6 +74,7 @@
         "id": 1043018,
         "name": "Avoid storing passwords in the config files",
         "href": "AIP/quality-rules/1043018",
+        "status": "renewed",
         "critical": true,
         "severity": 20,
         "technologyNames": [
@@ -79,6 +86,7 @@
         "id": 1043020,
         "name": "Avoid having applications with the debug mode activated",
         "href": "AIP/quality-rules/1043020",
+        "status": "renewed",
         "critical": false,
         "severity": 10,
         "technologyNames": [
@@ -90,6 +98,7 @@
         "id": 1043022,
         "name": "Avoid using unsecured cookie (C#)",
         "href": "AIP/quality-rules/1043022",
+        "status": "renewed",
         "critical": false,
         "severity": 10,
         "technologyNames": [
@@ -101,6 +110,7 @@
         "id": 1043024,
         "name": "Always enable RequireSSL attribute for cookies in Config file (ASP.NET)",
         "href": "AIP/quality-rules/1043024",
+        "status": "renewed",
         "critical": false,
         "severity": 10,
         "technologyNames": [
@@ -112,6 +122,7 @@
         "id": 1043026,
         "name": "Avoid disabling EnableViewStateMac in Config file (ASP.NET)",
         "href": "AIP/quality-rules/1043026",
+        "status": "renewed",
         "critical": false,
         "severity": 10,
         "technologyNames": [
@@ -123,6 +134,7 @@
         "id": 1043028,
         "name": "Avoid disabling EnableViewStateMac in ASPX page",
         "href": "AIP/quality-rules/1043028",
+        "status": "renewed",
         "critical": false,
         "severity": 10,
         "technologyNames": [
@@ -133,6 +145,7 @@
         "id": 1043030,
         "name": "Ensure the X-Frame-Options header is setup (ASP.NET)",
         "href": "AIP/quality-rules/1043030",
+        "status": "renewed",
         "critical": true,
         "severity": 20,
         "technologyNames": [
@@ -144,6 +157,7 @@
         "id": 1043032,
         "name": "Avoid having ASPX pages with tracing activated",
         "href": "AIP/quality-rules/1043032",
+        "status": "renewed",
         "critical": false,
         "severity": 10,
         "technologyNames": [
@@ -154,6 +168,7 @@
         "id": 1043034,
         "name": "Avoid having applications with the tracing activated in the web config file",
         "href": "AIP/quality-rules/1043034",
+        "status": "renewed",
         "critical": false,
         "severity": 10,
         "technologyNames": [
@@ -165,6 +180,7 @@
         "id": 1043036,
         "name": "Avoid using Impersonate identity (ASP.NET)",
         "href": "AIP/quality-rules/1043036",
+        "status": "renewed",
         "critical": false,
         "severity": 10,
         "technologyNames": [
@@ -176,6 +192,7 @@
         "id": 1043038,
         "name": "Avoid having applications with the tracing activated in the source code",
         "href": "AIP/quality-rules/1043038",
+        "status": "renewed",
         "critical": false,
         "severity": 10,
         "technologyNames": [
@@ -187,6 +204,7 @@
         "id": 1043044,
         "name": "Avoid disabling the XSRF/CSRF Protection (ASP.NET MVC)",
         "href": "AIP/quality-rules/1043044",
+        "status": "renewed",
         "critical": true,
         "severity": 30,
         "technologyNames": [
@@ -198,6 +216,7 @@
         "id": 1043046,
         "name": "Avoid creating cookie with overly broad path (C#)",
         "href": "AIP/quality-rules/1043046",
+        "status": "renewed",
         "critical": true,
         "severity": 30,
         "technologyNames": [
@@ -209,6 +228,7 @@
         "id": 1043048,
         "name": "Avoid having cookie with an overly broad domain (C#)",
         "href": "AIP/quality-rules/1043048",
+        "status": "renewed",
         "critical": true,
         "severity": 30,
         "technologyNames": [
@@ -220,6 +240,7 @@
         "id": 1043050,
         "name": "Avoid having long timeout for HttpCookie (> 5 mn)",
         "href": "AIP/quality-rules/1043050",
+        "status": "renewed",
         "critical": false,
         "severity": 10,
         "technologyNames": [
@@ -231,6 +252,7 @@
         "id": 1043052,
         "name": "Ensure aspnet:UseLegacyFormsAuthenticationTicketCompatibility is set to true",
         "href": "AIP/quality-rules/1043052",
+        "status": "renewed",
         "critical": false,
         "severity": 10,
         "technologyNames": [
@@ -242,6 +264,7 @@
         "id": 1043054,
         "name": "Avoid overly permissive Cross-Origin Resource Sharing (CORS) policy",
         "href": "AIP/quality-rules/1043054",
+        "status": "renewed",
         "critical": false,
         "severity": 10,
         "technologyNames": [
@@ -253,6 +276,7 @@
         "id": 1043058,
         "name": "Avoid disabling Header Checking flag in config file",
         "href": "AIP/quality-rules/1043058",
+        "status": "renewed",
         "critical": false,
         "severity": 10,
         "technologyNames": [
@@ -264,6 +288,7 @@
         "id": 1043060,
         "name": "Avoid disabling HMAC signature verification (C#)",
         "href": "AIP/quality-rules/1043060",
+        "status": "renewed",
         "critical": true,
         "severity": 20,
         "technologyNames": [
@@ -275,6 +300,7 @@
         "id": 1043062,
         "name": "Avoid having all users accessing resources (.NET)",
         "href": "AIP/quality-rules/1043062",
+        "status": "renewed",
         "critical": false,
         "severity": 10,
         "technologyNames": [
@@ -283,9 +309,54 @@
         ]
     },
     {
+        "id": 1043066,
+        "name": "Always use HTTPS Redirection Middleware and HSTS Middleware in your ASP.NET Core application",
+        "href": "AIP/quality-rules/1043066",
+        "status": "renewed",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#"
+        ]
+    },
+    {
+        "id": 1043068,
+        "name": "Avoid using RequireHttpsAttribute on Web APIs that receive sensitive information",
+        "href": "AIP/quality-rules/1043068",
+        "status": "renewed",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "C#"
+        ]
+    },
+    {
+        "id": 1043070,
+        "name": "Avoid disabling the XSRF/CSRF Protection (ASP.NET Core MVC)",
+        "href": "AIP/quality-rules/1043070",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#"
+        ]
+    },
+    {
+        "id": 1043072,
+        "name": "Avoid creating unsecured HTTPS GET metadata endpoint in code",
+        "href": "AIP/quality-rules/1043072",
+        "status": "renewed",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#"
+        ]
+    },
+    {
         "id": 1043074,
         "name": "Avoid creating unsecured HTTPS GET metadata endpoint in configuration",
         "href": "AIP/quality-rules/1043074",
+        "status": "renewed",
         "critical": true,
         "severity": 20,
         "technologyNames": [
@@ -296,6 +367,7 @@
         "id": 1043076,
         "name": "Avoid disabling custom errors mode to prevent exposure of exceptions and error data",
         "href": "AIP/quality-rules/1043076",
+        "status": "renewed",
         "critical": false,
         "severity": 10,
         "technologyNames": [
@@ -307,6 +379,7 @@
         "id": 1043078,
         "name": "Avoid debug binaries that include detailed debug information",
         "href": "AIP/quality-rules/1043078",
+        "status": "renewed",
         "critical": false,
         "severity": 10,
         "technologyNames": [
@@ -318,6 +391,7 @@
         "id": 1043080,
         "name": "Avoid disabling OR not defining encryption behavior for encryption when connecting with Database",
         "href": "AIP/quality-rules/1043080",
+        "status": "renewed",
         "critical": true,
         "severity": 20,
         "technologyNames": [
@@ -328,6 +402,7 @@
         "id": 1043082,
         "name": "Avoid client provided dictionaries to have high request sizes",
         "href": "AIP/quality-rules/1043082",
+        "status": "renewed",
         "critical": false,
         "severity": 10,
         "technologyNames": [
@@ -338,6 +413,7 @@
         "id": 1043084,
         "name": "Avoid XML schemas with unbounded occurrences",
         "href": "AIP/quality-rules/1043084",
+        "status": "renewed",
         "critical": false,
         "severity": 10,
         "technologyNames": [
@@ -349,83 +425,12 @@
         "id": 1043086,
         "name": "Avoid using Html.Raw() or HtmlHelper.Raw()",
         "href": "AIP/quality-rules/1043086",
+        "status": "added",
         "critical": true,
         "severity": 20,
         "technologyNames": [
             "ASP.NET",
             "C#"
-        ]
-    },
-    {
-        "id": 1101958,
-        "name": "Avoid artifacts having db.collection.ensureIndex() to create new indexes",
-        "href": "AIP/quality-rules/1101958",
-        "critical": false,
-        "severity": 10,
-        "technologyNames": [
-            "ASP.NET",
-            "C#",
-            "VB.NET"
-        ]
-    },
-    {
-        "id": 1101962,
-        "name": "Avoid using explain() in production code",
-        "href": "AIP/quality-rules/1101962",
-        "critical": false,
-        "severity": 10,
-        "technologyNames": [
-            "ASP.NET",
-            "C#",
-            "VB.NET"
-        ]
-    },
-    {
-        "id": 1101964,
-        "name": "When using compound indexes, avoid having different index ordering in collection access",
-        "href": "AIP/quality-rules/1101964",
-        "critical": false,
-        "severity": 10,
-        "technologyNames": [
-            "ASP.NET",
-            "C#",
-            "VB.NET"
-        ]
-    },
-    {
-        "id": 1101968,
-        "name": "Avoid having multiple Artifacts updating data on the same NoSQL Collection",
-        "href": "AIP/quality-rules/1101968",
-        "critical": false,
-        "severity": 10,
-        "technologyNames": [
-            "ASP.NET",
-            "C#",
-            "VB.NET"
-        ]
-    },
-    {
-        "id": 1101970,
-        "name": "Avoid having multiple Artifacts inserting data on the same NoSQL Collection",
-        "href": "AIP/quality-rules/1101970",
-        "critical": false,
-        "severity": 10,
-        "technologyNames": [
-            "ASP.NET",
-            "C#",
-            "VB.NET"
-        ]
-    },
-    {
-        "id": 1101972,
-        "name": "Avoid having multiple artifacts deleting data on the same NoSQL collection",
-        "href": "AIP/quality-rules/1101972",
-        "critical": false,
-        "severity": 10,
-        "technologyNames": [
-            "ASP.NET",
-            "C#",
-            "VB.NET"
         ]
     }
 ]

@@ -4274,6 +4274,18 @@
     ],
     "com.castsoftware.dotnetweb": [
         {
+            "version": "1.4.11-funcrel",
+            "addedRules": [
+                {
+                    "id": 1043086,
+                    "name": "Avoid using Html.Raw() or HtmlHelper.Raw()"
+                }
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.4.10-funcrel",
             "addedRules": [
                 
@@ -7997,6 +8009,15 @@
         }
     ],
     "com.castsoftware.internal.platform": [
+        {
+            "version": "0.9.18",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "0.9.17",
             "addedRules": [

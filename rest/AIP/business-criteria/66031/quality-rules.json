@@ -12752,6 +12752,17 @@
         ]
     },
     {
+        "id": 1043086,
+        "name": "Avoid using Html.Raw() or HtmlHelper.Raw()",
+        "href": "AIP/quality-rules/1043086",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "ASP.NET",
+            "C#"
+        ]
+    },
+    {
         "id": 1050000,
         "name": "Avoid using the call of web service with iOS/Objective-C API inside a loop",
         "href": "AIP/quality-rules/1050000",
