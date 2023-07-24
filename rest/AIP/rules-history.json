@@ -2813,6 +2813,15 @@
     ],
     "com.castsoftware.dotnet": [
         {
+            "version": "1.5.0-beta4",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.5.0-beta3",
             "addedRules": [
                 {
@@ -2835,6 +2844,15 @@
         },
         {
             "version": "1.5.0-beta1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
+            "version": "1.4.17",
             "addedRules": [
                 
             ],

@@ -1,5 +1,12 @@
 [
     {
+        "name": "1.5.0-beta4",
+        "href": "AIP/extensions/com.castsoftware.dotnet/versions/1.5.0-beta4",
+        "metaModelCRC": 717998515,
+        "rulesCRC": 2800505748,
+        "transactionsConfigurationCRC": 446627177
+    },
+    {
         "name": "1.5.0-beta3",
         "href": "AIP/extensions/com.castsoftware.dotnet/versions/1.5.0-beta3",
         "metaModelCRC": 717998515,
@@ -16,6 +23,13 @@
     {
         "name": "1.5.0-beta1",
         "href": "AIP/extensions/com.castsoftware.dotnet/versions/1.5.0-beta1",
+        "metaModelCRC": 0,
+        "rulesCRC": 1601078173,
+        "transactionsConfigurationCRC": 446627177
+    },
+    {
+        "name": "1.4.17",
+        "href": "AIP/extensions/com.castsoftware.dotnet/versions/1.4.17",
         "metaModelCRC": 0,
         "rulesCRC": 1601078173,
         "transactionsConfigurationCRC": 446627177
