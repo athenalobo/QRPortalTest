@@ -4205,6 +4205,17 @@
             ]
         }
     ],
+    "com.castsoftware.dotnet.msappblocksdata": [
+        {
+            "version": "1.0.0-alpha1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        }
+    ],
     "com.castsoftware.dotnet.nhibernate": [
         {
             "version": "1.0.0-beta3",
