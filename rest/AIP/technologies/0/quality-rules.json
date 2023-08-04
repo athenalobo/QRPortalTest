@@ -777,5 +777,85 @@
         "technologyNames": [
             "ALL TECHNOLOGIES"
         ]
+    },
+    {
+        "id": 1106098,
+        "name": "Ensure CASE Expression is not used",
+        "href": "AIP/quality-rules/1106098",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106100,
+        "name": "Ensure DECLARE cursor is not used",
+        "href": "AIP/quality-rules/1106100",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106102,
+        "name": "Ensure DECLARE variable is not used",
+        "href": "AIP/quality-rules/1106102",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106104,
+        "name": "Ensure SYSIBM.SYSDUMMY1 table is not used",
+        "href": "AIP/quality-rules/1106104",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106106,
+        "name": "Ensure VALUES statement is not used",
+        "href": "AIP/quality-rules/1106106",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106108,
+        "name": "Ensure SET variable Statement is not used",
+        "href": "AIP/quality-rules/1106108",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106110,
+        "name": "Ensure MERGE statement is not used",
+        "href": "AIP/quality-rules/1106110",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106112,
+        "name": "Ensure FROM keyword is used in DELETE Statement",
+        "href": "AIP/quality-rules/1106112",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
     }
 ]

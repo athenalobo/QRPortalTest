@@ -928,5 +928,15 @@
         "technologyNames": [
             "SQL"
         ]
+    },
+    {
+        "id": 1106096,
+        "name": "Ensure PARTITION is not used in ALTER TABLE statements",
+        "href": "AIP/quality-rules/1106096",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SQL"
+        ]
     }
 ]

@@ -39,7 +39,7 @@
         "id": "AIP-CORE-RULE",
         "name": "RESERVED TAG - DO NOT USE",
         "href": "AIP/quality-standards/AIP/items/AIP-CORE-RULE",
-        "count": 2500
+        "count": 2509
     },
     {
         "id": "AIP-SYSTEM-LEVEL",
@@ -99,7 +99,7 @@
         "id": "AIP-M2C-AWS",
         "name": "Amazon Web Services",
         "href": "AIP/quality-standards/AIP/items/AIP-M2C-AWS",
-        "count": 3
+        "count": 4
     },
     {
         "id": "AIP-M2C-DataType",
@@ -117,19 +117,19 @@
         "id": "AIP-M2C-Oracle",
         "name": "Oracle",
         "href": "AIP/quality-standards/AIP/items/AIP-M2C-Oracle",
-        "count": 6
+        "count": 7
     },
     {
         "id": "AIP-M2C-Replatform",
         "name": "Replatform Recommendation",
         "href": "AIP/quality-standards/AIP/items/AIP-M2C-Replatform",
-        "count": 45
+        "count": 54
     },
     {
         "id": "AIP-M2C-Syntax",
         "name": "Syntax Remediation",
         "href": "AIP/quality-standards/AIP/items/AIP-M2C-Syntax",
-        "count": 21
+        "count": 30
     },
     {
         "id": "AIP-GDPR",

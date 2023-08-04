@@ -22866,6 +22866,50 @@
     ],
     "com.castsoftware.sql.movetocloud": [
         {
+            "version": "1.0.0-beta5",
+            "addedRules": [
+                {
+                    "id": 1106112,
+                    "name": "Ensure FROM keyword is used in DELETE Statement"
+                },
+                {
+                    "id": 1106110,
+                    "name": "Ensure MERGE statement is not used"
+                },
+                {
+                    "id": 1106108,
+                    "name": "Ensure SET variable Statement is not used"
+                },
+                {
+                    "id": 1106106,
+                    "name": "Ensure VALUES statement is not used"
+                },
+                {
+                    "id": 1106104,
+                    "name": "Ensure SYSIBM.SYSDUMMY1 table is not used"
+                },
+                {
+                    "id": 1106102,
+                    "name": "Ensure DECLARE variable is not used"
+                },
+                {
+                    "id": 1106100,
+                    "name": "Ensure DECLARE cursor is not used"
+                },
+                {
+                    "id": 1106098,
+                    "name": "Ensure CASE Expression is not used"
+                },
+                {
+                    "id": 1106096,
+                    "name": "Ensure PARTITION is not used in ALTER TABLE statements"
+                }
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.0-beta4",
             "addedRules": [
                 {

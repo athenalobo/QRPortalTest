@@ -19,5 +19,12 @@
         "description": "Database Migration - Oracle Database to PostgreSQL",
         "href": "AIP/technical-criteria/61045",
         "weight": 5
+    },
+    {
+        "id": 61046,
+        "name": "Database Migration - SQL Server Database to PostgreSQL",
+        "description": "Database Migration - SQL Server Database to PostgreSQL",
+        "href": "AIP/technical-criteria/61046",
+        "weight": 5
     }
 ]

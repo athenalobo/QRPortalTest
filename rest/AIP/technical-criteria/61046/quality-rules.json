@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1106110,
+        "name": "Ensure MERGE statement is not used",
+        "href": "AIP/quality-rules/1106110",
+        "critical": false,
+        "weight": 1,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106112,
+        "name": "Ensure FROM keyword is used in DELETE Statement",
+        "href": "AIP/quality-rules/1106112",
+        "critical": false,
+        "weight": 1,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    }
+]

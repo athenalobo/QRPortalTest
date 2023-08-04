@@ -4,7 +4,7 @@
     "name": "com.castsoftware.sql.movetocloud",
     "href": "AIP/extensions/com.castsoftware.sql.movetocloud",
     "title": "RDBMS Move to Cloud",
-    "description": "The extension provides a specific set of checks in order to prepare moving RDBMS to the Cloud. The current version supports Oracle Database to Oracle Cloud, Oracle Database to AWS Aurora strategies.",
+    "description": "The extension provides a specific set of checks in order to prepare moving RDBMS to the Cloud. The current version supports Oracle Database to Oracle Cloud strategies and Oracle, DB2 and SQL Server Databases to AWS Aurora strategies.",
     "iconUrl": "https://raw.githubusercontent.com/CAST-Extend/resources/master/com.castsoftware.sql.movetocloud.png",
     "versions": {
         "name": "versions from latest to oldest",
