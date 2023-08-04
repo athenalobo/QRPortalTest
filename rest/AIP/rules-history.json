@@ -2802,6 +2802,15 @@
     ],
     "com.castsoftware.cpp.missingtable": [
         {
+            "version": "1.0.0-beta3",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.0-beta2",
             "addedRules": [
                 
@@ -4195,6 +4204,15 @@
         }
     ],
     "com.castsoftware.dotnet.missingtable": [
+        {
+            "version": "1.0.0-beta3",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "1.0.0-beta2",
             "addedRules": [
