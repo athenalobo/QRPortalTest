@@ -10628,6 +10628,15 @@
     ],
     "com.castsoftware.jee.missingtable": [
         {
+            "version": "1.0.0-beta4",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.0-beta3",
             "addedRules": [
                 
@@ -18549,6 +18558,15 @@
         }
     ],
     "com.castsoftware.python.missingtable": [
+        {
+            "version": "1.0.0-beta4",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "1.0.0-beta3",
             "addedRules": [
