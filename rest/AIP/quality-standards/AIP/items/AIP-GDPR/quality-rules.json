@@ -258,18 +258,6 @@
         ]
     },
     {
-        "id": 8440,
-        "name": "Avoid reflection injection",
-        "href": "AIP/quality-rules/8440",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "C#",
-            "JEE",
-            "VB.NET"
-        ]
-    },
-    {
         "id": 8442,
         "name": "Avoid resource injection",
         "href": "AIP/quality-rules/8442",

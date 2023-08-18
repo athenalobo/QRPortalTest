@@ -128,40 +128,10 @@
             "standard": "CISQ"
         },
         {
-            "id": "CWE-78",
-            "name": "Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
-            "href": "AIP/quality-standards/CWE/items/CWE-78",
+            "id": "CWE-470",
+            "name": "Use of Externally-Controlled Input to Select Classes or Code ('Unsafe Reflection')",
+            "href": "AIP/quality-standards/CWE/items/CWE-470",
             "standard": "CWE"
-        },
-        {
-            "id": "CWE-88",
-            "name": "Improper Neutralization of Argument Delimiters in a Command ('Argument Injection')",
-            "href": "AIP/quality-standards/CWE/items/CWE-88",
-            "standard": "CWE"
-        },
-        {
-            "id": "CWE-94",
-            "name": "Improper Control of Generation of Code ('Code Injection')",
-            "href": "AIP/quality-standards/CWE/items/CWE-94",
-            "standard": "CWE"
-        },
-        {
-            "id": "CWE-95",
-            "name": "Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection')",
-            "href": "AIP/quality-standards/CWE/items/CWE-95",
-            "standard": "CWE"
-        },
-        {
-            "id": "CWE-78",
-            "name": "Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
-            "href": "AIP/quality-standards/ISO-5055/items/CWE-78",
-            "standard": "ISO-5055"
-        },
-        {
-            "id": "CWE-88",
-            "name": "Improper Neutralization of Argument Delimiters in a Command ('Argument Injection')",
-            "href": "AIP/quality-standards/ISO-5055/items/CWE-88",
-            "standard": "ISO-5055"
         },
         {
             "id": "NIST-SI-2",
@@ -174,18 +144,6 @@
             "name": "Flaw Remediation",
             "href": "AIP/quality-standards/NIST-SP-800-53R4/items/NIST-SI-2",
             "standard": "NIST-SP-800-53R4"
-        },
-        {
-            "id": "CWE-78",
-            "name": "Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
-            "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-78",
-            "standard": "OMG-ASCQM"
-        },
-        {
-            "id": "CWE-88",
-            "name": "Improper Neutralization of Argument Delimiters in a Command ('Argument Injection')",
-            "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-88",
-            "standard": "OMG-ASCQM"
         },
         {
             "id": "A1-2013",
