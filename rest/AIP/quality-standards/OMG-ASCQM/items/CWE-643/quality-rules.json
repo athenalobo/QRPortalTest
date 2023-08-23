@@ -24,6 +24,16 @@
         ]
     },
     {
+        "id": 1021084,
+        "name": "Avoid XPath injection (Python)",
+        "href": "AIP/quality-rules/1021084",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
         "id": 1025002,
         "name": "Avoid second order XPath injection",
         "href": "AIP/quality-rules/1025002",

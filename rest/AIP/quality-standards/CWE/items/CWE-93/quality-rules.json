@@ -116,15 +116,5 @@
         "technologyNames": [
             "PHP"
         ]
-    },
-    {
-        "id": 1034020,
-        "name": "Avoid improper neutralization of HTTP headers (PHP)",
-        "href": "AIP/quality-rules/1034020",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "PHP"
-        ]
     }
 ]
