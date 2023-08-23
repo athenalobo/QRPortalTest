@@ -273,7 +273,7 @@
     },
     {
         "id": 1034012,
-        "name": "Avoid code injection (PHP)",
+        "name": "Avoid reflection injection (PHP)",
         "href": "AIP/quality-rules/1034012",
         "critical": true,
         "severity": 30,

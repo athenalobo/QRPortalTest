@@ -35,7 +35,7 @@
     },
     {
         "id": 1034010,
-        "name": "Avoid eval injection (PHP)",
+        "name": "Avoid code injection (PHP)",
         "href": "AIP/quality-rules/1034010",
         "critical": false,
         "weight": 5,
@@ -45,7 +45,7 @@
     },
     {
         "id": 1034012,
-        "name": "Avoid code injection (PHP)",
+        "name": "Avoid reflection injection (PHP)",
         "href": "AIP/quality-rules/1034012",
         "critical": false,
         "weight": 5,

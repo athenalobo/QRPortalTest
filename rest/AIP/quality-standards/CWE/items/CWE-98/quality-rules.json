@@ -11,7 +11,7 @@
     },
     {
         "id": 1034008,
-        "name": "Avoid PHP Remote File Inclusion (PHP)",
+        "name": "Avoid PHP Remote File Inclusion",
         "href": "AIP/quality-rules/1034008",
         "critical": true,
         "severity": 20,

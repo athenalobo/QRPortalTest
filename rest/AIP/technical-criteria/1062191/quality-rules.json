@@ -423,7 +423,7 @@
     },
     {
         "id": 1034016,
-        "name": "Avoid reflected cross-site scripting (PHP)",
+        "name": "Avoid reflected cross-site scripting (non persistent) (PHP)",
         "href": "AIP/quality-rules/1034016",
         "critical": false,
         "weight": 5,

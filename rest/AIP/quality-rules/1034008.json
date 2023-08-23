@@ -1,6 +1,6 @@
 {
     "id": 1034008,
-    "name": "Avoid PHP Remote File Inclusion (PHP)",
+    "name": "Avoid PHP Remote File Inclusion",
     "href": "AIP/quality-rules/1034008",
     "critical": true,
     "severity": 20,
@@ -10,7 +10,7 @@
         "href": "AIP/extensions/com.castsoftware.php.security"
     },
     "associatedValueName": "Number of violation occurrences",
-    "description": "This metric uses Psalm data-flow engine to detect a call path where input data from the user is to include a file without prior validation and sanitization.\n\nUser input sanitizations can be specified to Psalm data-flow engine using the \"@psalm-taint-escape include\" annotation.",
+    "description": "This metric uses Psalm data-flow engine to detect a call path where input data from the user is used as \"include\" (or similar function) without prior validation and sanitization.\n\nUser input sanitizations can be specified to Psalm data-flow engine using the \"@psalm-taint-escape include\" annotation.",
     "output": "Associated to each violation, the following information is provided:\n- The number of violation occurrences\n- Bookmarks for violation occurrences found in the source code",
     "rationale": "The software does not properly neutralize special elements that are part of paths or file names used in XXXX\n\nPassing untrusted user input to include calls is dangerous, as it can allow an attacker to execute arbitrary scripts on your server.\n\nThis can lead to local file inclusion (LFI) or remote file inclusion (RFI) if user input reaches this statement. LFI and RFI could lead to sensitive files being obtained by attackers.",
     "reference": "CWE-98: Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion')\nhttps://cwe.mitre.org/data/definitions/98.html\n\nhttps://www.php.net/manual/en/function.include.php\nhttps://github.com/FloeDesignTechnologies/phpcs-security-audit/blob/master/Security/Sniffs/BadFunctions/EasyRFISniff.php\nhttps://en.wikipedia.org/wiki/File_inclusion_vulnerability#Types_of_Inclusion\n\nOpen Web Application Security Project (OWASP) \nOWASP Top Ten 2017 Category A1:2017-Injection\nhttps://www.owasp.org/index.php/Top_10-2017_A1-Injection\n\nOWASP Top Ten 2021 Category A03:2021 - Injection\nhttps://owasp.org/Top10/A03_2021-Injection/",

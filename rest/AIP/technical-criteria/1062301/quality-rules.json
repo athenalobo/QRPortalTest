@@ -929,7 +929,7 @@
     },
     {
         "id": 1034008,
-        "name": "Avoid PHP Remote File Inclusion (PHP)",
+        "name": "Avoid PHP Remote File Inclusion",
         "href": "AIP/quality-rules/1034008",
         "critical": false,
         "weight": 5,
@@ -939,7 +939,7 @@
     },
     {
         "id": 1034010,
-        "name": "Avoid eval injection (PHP)",
+        "name": "Avoid code injection (PHP)",
         "href": "AIP/quality-rules/1034010",
         "critical": false,
         "weight": 5,
@@ -949,7 +949,7 @@
     },
     {
         "id": 1034012,
-        "name": "Avoid code injection (PHP)",
+        "name": "Avoid reflection injection (PHP)",
         "href": "AIP/quality-rules/1034012",
         "critical": false,
         "weight": 5,
@@ -969,7 +969,7 @@
     },
     {
         "id": 1034020,
-        "name": "Avoid improper neutralization of HTTP headers (PHP)",
+        "name": "Avoid HTTP header injection (PHP)",
         "href": "AIP/quality-rules/1034020",
         "critical": false,
         "weight": 5,
