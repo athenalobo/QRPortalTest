@@ -20282,6 +20282,15 @@
     ],
     "com.castsoftware.sap": [
         {
+            "version": "1.0.12-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.11-funcrel",
             "addedRules": [
                 
