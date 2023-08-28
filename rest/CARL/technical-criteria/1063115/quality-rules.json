@@ -424,6 +424,17 @@
         ]
     },
     {
+        "id": 1027022,
+        "name": "Avoid using \"new Guid()\"",
+        "href": "AIP/quality-rules/1027022",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "C#",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1027024,
         "name": "Avoid comparing passwords against hard-coded strings",
         "href": "AIP/quality-rules/1027024",

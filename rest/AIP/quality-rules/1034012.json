@@ -57,23 +57,9 @@
             "critical": false
         },
         {
-            "id": 1066178,
-            "name": "CWE-78 - Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
-            "href": "AIP/technical-criteria/1066178",
-            "weight": 5,
-            "critical": false
-        },
-        {
             "id": 1061016,
             "name": "CWE-88 - Improper Neutralization of Argument Delimiters in a Command ('Argument Injection')",
             "href": "AIP/technical-criteria/1061016",
-            "weight": 5,
-            "critical": false
-        },
-        {
-            "id": 1066194,
-            "name": "CWE-94 - Improper Control of Generation of Code ('Code Injection')",
-            "href": "AIP/technical-criteria/1066194",
             "weight": 5,
             "critical": false
         },

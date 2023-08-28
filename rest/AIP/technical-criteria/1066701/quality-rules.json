@@ -36,6 +36,16 @@
         ]
     },
     {
+        "id": 1034020,
+        "name": "Avoid HTTP header injection (PHP)",
+        "href": "AIP/quality-rules/1034020",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
         "id": 1039016,
         "name": "Avoid Unvalidated URL Redirect",
         "href": "AIP/quality-rules/1039016",

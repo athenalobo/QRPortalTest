@@ -96,6 +96,27 @@
         ]
     },
     {
+        "id": 1021088,
+        "name": "Avoid uncontrolled sleep calls to prevent DoS attacks (Python)",
+        "href": "AIP/quality-rules/1021088",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
+        "id": 1027102,
+        "name": "Avoid using Regex constructor or static method without timeout",
+        "href": "AIP/quality-rules/1027102",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "C#",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1039070,
         "name": "Avoid using URL.equals(Object obj) or URL.hashCode()",
         "href": "AIP/quality-rules/1039070",

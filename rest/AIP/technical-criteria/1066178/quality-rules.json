@@ -270,15 +270,5 @@
         "technologyNames": [
             "PHP"
         ]
-    },
-    {
-        "id": 1034012,
-        "name": "Avoid reflection injection (PHP)",
-        "href": "AIP/quality-rules/1034012",
-        "critical": false,
-        "weight": 5,
-        "technologyNames": [
-            "PHP"
-        ]
     }
 ]
