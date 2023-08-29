@@ -14198,6 +14198,15 @@
     ],
     "com.castsoftware.nosqljava": [
         {
+            "version": "1.8.0-beta2",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.8.0-beta1",
             "addedRules": [
                 
