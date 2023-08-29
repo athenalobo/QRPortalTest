@@ -18985,6 +18985,15 @@
     ],
     "com.castsoftware.rpg": [
         {
+            "version": "3.3.0-beta1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "3.3.0-alpha3",
             "addedRules": [
                 

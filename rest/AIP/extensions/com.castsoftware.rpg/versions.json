@@ -1,5 +1,12 @@
 [
     {
+        "name": "3.3.0-beta1",
+        "href": "AIP/extensions/com.castsoftware.rpg/versions/3.3.0-beta1",
+        "metaModelCRC": 2394277740,
+        "rulesCRC": 210177044,
+        "transactionsConfigurationCRC": 3162328991
+    },
+    {
         "name": "3.3.0-alpha3",
         "href": "AIP/extensions/com.castsoftware.rpg/versions/3.3.0-alpha3",
         "metaModelCRC": 3166488518,
