@@ -17,7 +17,7 @@
     "remediation": "PostgreSQL does not provide an equivalent to the READ ONLY mode supported in Oracle.\nThe following alternatives could be used as workarounds:\nl \u201cRead-only\u201d User or Role.\nl \u201cRead-only\u201d database.\nl Creating a \u201cread-only\u201d database trigger or a using a \u201cread-only\u201d constraint.",
     "remediationSample": "Remove ALTER TABLE ... READ ONLY statements.",
     "sample": "Oracle 11g allows tables to be marked as read-only using the ALTER TABLE command:\nALTER TABLE table_name READ ONLY;\n\nSample of CREATE table with read-only:\nCREATE TABLE Skant (id  NUMBER);\nINSERT INTO Skant VALUES (1);\nALTER TABLE Skant READ ONLY;",
-    "total": "Number of SQL Tables",
+    "total": "Number of SQL Tables and Artifacts with SQL code",
     "alternativeName": "Ensure READ ONLY Table is not used",
     "businessCriteria": [
         {

@@ -1,6 +1,6 @@
 {
     "id": 1106102,
-    "name": "Ensure DECLARE variable is not used",
+    "name": "Ensure DB2 DECLARE variable is not used",
     "href": "AIP/quality-rules/1106102",
     "critical": false,
     "severity": 10,
@@ -10,9 +10,9 @@
         "href": "AIP/extensions/com.castsoftware.sql.movetocloud"
     },
     "associatedValueName": "Number of violation occurrences",
-    "description": "This rules checks Variable declaration Statement 'DECLARE var' in DB2 SQL files.",
+    "description": "This rule checks the variable declaration in DB2 Database(s).",
     "output": "Associated to each violation, the following information is provided:\n- The number of violation occurrences\n- Bookmarks for violation occurrences found in the source code",
-    "rationale": "As you decide to migrate from DB2 to PostgreSQL, it is important to note the changes to be taken care of during the migration process. Without adaptation, the SQL script won\u2019t compile on Postgresql, leading to error",
+    "rationale": "As you decide to migrate from DB2 to PostgreSQL, it is important to note the changes to be taken care of during the migration process. Without adaptation, the SQL script won\u2019t compile on Postgresql, leading to error.",
     "reference": "https://www.sqlines.com/db2-to-postgresql",
     "remediation": "Variable declarations statements used in DML files, stored procedures, functions and triggers should be converted before re-platforming your DB2 Database to PostgreSQL:\n\n1- Declarations are inside BEGIN END block   Should be before BEGIN END block\n2- DECLARE var datatype DEFAULT value        Should be replaced by var datatype DEFAULT value\n3- DECLARE var, var2, \u2026 datatype   Should be replaced by  var datatype; var2 datatype; \u2026",
     "remediationSample": "var datatype DEFAULT value\nvar datatype; var2 datatype; \u2026",

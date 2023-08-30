@@ -241,7 +241,7 @@
     },
     {
         "id": 1106102,
-        "name": "Ensure DECLARE variable is not used",
+        "name": "Ensure DB2 DECLARE variable is not used",
         "href": "AIP/quality-rules/1106102",
         "critical": false,
         "severity": 10,
@@ -271,7 +271,7 @@
     },
     {
         "id": 1106108,
-        "name": "Ensure SET variable Statement is not used",
+        "name": "Ensure DB2 SET variable is not used",
         "href": "AIP/quality-rules/1106108",
         "critical": false,
         "severity": 10,

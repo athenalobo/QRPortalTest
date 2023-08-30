@@ -17,7 +17,7 @@
     "remediation": "PostgreSQL doesn\u2019t support marking table columns as unused. However, when running the ALTER TABLE\u2026 DROP COLUMN command, the drop column statement doesn\u2019t physically remove the column; it only makes it invisible to SQL operations",
     "remediationSample": "1 and 2\nRemove both ALTER TABLE ... SET UNUSED ... statements.\n\n3.\nALTER TABLE EMPLOYEES DROP COLUMN COMMISSION_PCT;\n4.\nALTER TABLE EMPLOYEES\n   ADD (CONSTRAINT EMPLOYEES_CHECK_JOB_ID CHECK (JOB_ID > 0));",
     "sample": "1.\nALTER TABLE EMPLOYEES SET UNUSED (COMMISSION_PCT);\n2.\nALTER TABLE EMPLOYEES SET UNUSED (JOB_ID, COMMISSION_PCT);\n3.\nALTER TABLE EMPLOYEES DROP COLUMN COMMISSION_PCT SET UNUSED (JOB_ID);\n4.\nALTER TABLE EMPLOYEES SET UNUSED (COMMISSION_PCT) \n   ADD (CONSTRAINT EMPLOYEES_CHECK_JOB_ID CHECK (JOB_ID > 0));",
-    "total": "Number of SQL Tables",
+    "total": "Number of SQL Tables and Artifacts with SQL code",
     "alternativeName": "Ensure Unused Column is not used",
     "businessCriteria": [
         {

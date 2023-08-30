@@ -168,5 +168,85 @@
         "technologyNames": [
             "ALL TECHNOLOGIES"
         ]
+    },
+    {
+        "id": 1106132,
+        "name": "Ensure SQL server Scalar Function CONVERT is not used",
+        "href": "AIP/quality-rules/1106132",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106134,
+        "name": "Ensure SQL server Scalar Function DATEADD is not used",
+        "href": "AIP/quality-rules/1106134",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106136,
+        "name": "Ensure SQL server Scalar Function DATEDIFF is not used",
+        "href": "AIP/quality-rules/1106136",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106138,
+        "name": "Ensure SQL server Scalar Function GETDATE is not used",
+        "href": "AIP/quality-rules/1106138",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106140,
+        "name": "Ensure SQL server Scalar Function ISNULL is not used",
+        "href": "AIP/quality-rules/1106140",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106142,
+        "name": "Ensure IDENTITY Columns is not used",
+        "href": "AIP/quality-rules/1106142",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106144,
+        "name": "Ensure SQL Server SET/SELECT variable is not used",
+        "href": "AIP/quality-rules/1106144",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106146,
+        "name": "Ensure SQL Server DECLARE variable is not used",
+        "href": "AIP/quality-rules/1106146",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
     }
 ]
