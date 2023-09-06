@@ -6858,6 +6858,15 @@
     ],
     "com.castsoftware.html5": [
         {
+            "version": "2.1.28-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "2.1.27-funcrel",
             "addedRules": [
                 
@@ -17533,6 +17542,74 @@
     ],
     "com.castsoftware.php.security": [
         {
+            "version": "1.1.0-alpha1",
+            "addedRules": [
+                {
+                    "id": 1034052,
+                    "name": "Avoid second order XPath injection (PHP)"
+                },
+                {
+                    "id": 1034050,
+                    "name": "Avoid XPath injection (PHP)"
+                },
+                {
+                    "id": 1034048,
+                    "name": "Avoid using insufficient random generator (PHP)"
+                },
+                {
+                    "id": 1034046,
+                    "name": "Avoid second order reflection injection (PHP)"
+                },
+                {
+                    "id": 1034044,
+                    "name": "Avoid second order server-side request forgery (PHP)"
+                },
+                {
+                    "id": 1034042,
+                    "name": "Avoid second order HTTP header injection (PHP)"
+                },
+                {
+                    "id": 1034040,
+                    "name": "Avoid second order deserialization injection (PHP)"
+                },
+                {
+                    "id": 1034038,
+                    "name": "Avoid cross-site scripting (persistent) (PHP)"
+                },
+                {
+                    "id": 1034036,
+                    "name": "Avoid second order file path manipulation (PHP)"
+                },
+                {
+                    "id": 1034034,
+                    "name": "Avoid second order cookie injection (PHP)"
+                },
+                {
+                    "id": 1034032,
+                    "name": "Avoid second order PHP Remote File Inclusion"
+                },
+                {
+                    "id": 1034030,
+                    "name": "Avoid second order OS command injection (PHP)"
+                },
+                {
+                    "id": 1034028,
+                    "name": "Avoid second order LDAP injection (PHP)"
+                },
+                {
+                    "id": 1034026,
+                    "name": "Avoid second order code injection (PHP)"
+                },
+                {
+                    "id": 1034024,
+                    "name": "Avoid second order SQL injection (PHP)"
+                }
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.1-funcrel",
             "addedRules": [
                 
@@ -18081,6 +18158,38 @@
         }
     ],
     "com.castsoftware.python": [
+        {
+            "version": "1.6.0-alpha3",
+            "addedRules": [
+                {
+                    "id": 1021100,
+                    "name": "Avoid URL redirection to untrusted site (Python)"
+                },
+                {
+                    "id": 1021098,
+                    "name": "Avoid HTTP header injection (Python)"
+                },
+                {
+                    "id": 1021096,
+                    "name": "Avoid second order LDAP injection (Python)"
+                },
+                {
+                    "id": 1021094,
+                    "name": "Avoid cross-site scripting (persistent) (Python)"
+                },
+                {
+                    "id": 1021092,
+                    "name": "Avoid reflected cross-site scripting (Python)"
+                },
+                {
+                    "id": 1021090,
+                    "name": "Avoid using insufficient random generator (Python)"
+                }
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "1.6.0-alpha2",
             "addedRules": [

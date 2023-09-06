@@ -9,7 +9,7 @@
         "id": "CWE-22",
         "name": "Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
         "href": "AIP/quality-standards/CWE/items/CWE-22",
-        "count": 4
+        "count": 5
     },
     {
         "id": "CWE-77",
@@ -21,19 +21,19 @@
         "id": "CWE-78",
         "name": "Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
         "href": "AIP/quality-standards/CWE/items/CWE-78",
-        "count": 25
+        "count": 27
     },
     {
         "id": "CWE-79",
         "name": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
         "href": "AIP/quality-standards/CWE/items/CWE-79",
-        "count": 52
+        "count": 56
     },
     {
         "id": "CWE-89",
         "name": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
         "href": "AIP/quality-standards/CWE/items/CWE-89",
-        "count": 16
+        "count": 17
     },
     {
         "id": "CWE-94",
@@ -117,7 +117,7 @@
         "id": "CWE-502",
         "name": "Deserialization of Untrusted Data",
         "href": "AIP/quality-standards/CWE/items/CWE-502",
-        "count": 12
+        "count": 13
     },
     {
         "id": "CWE-611",

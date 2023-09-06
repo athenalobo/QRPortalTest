@@ -34,6 +34,16 @@
         ]
     },
     {
+        "id": 1021090,
+        "name": "Avoid using insufficient random generator (Python)",
+        "href": "AIP/quality-rules/1021090",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
         "id": 1027010,
         "name": "Avoid weak encryption providing insufficient key size (.NET)",
         "href": "AIP/quality-rules/1027010",

@@ -165,6 +165,16 @@
         ]
     },
     {
+        "id": 1034036,
+        "name": "Avoid second order file path manipulation (PHP)",
+        "href": "AIP/quality-rules/1034036",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
         "id": 1040016,
         "name": "PermitAll or user role should be specified to access URL(s) of the application",
         "href": "AIP/quality-rules/1040016",

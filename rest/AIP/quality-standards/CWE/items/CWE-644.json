@@ -5,7 +5,7 @@
     "url": "https://cwe.mitre.org/data/definitions/644.html",
     "description": "The application does not neutralize or incorrectly neutralizes web scripting syntax in HTTP headers that can be used by web browser components that can process raw headers, such as Flash.",
     "isoPatterns": null,
-    "count": 1,
+    "count": 3,
     "qualityRules": {
         "name": "Quality Rules in numeric ID order",
         "href": "AIP/quality-standards/CWE/items/CWE-644/quality-rules"

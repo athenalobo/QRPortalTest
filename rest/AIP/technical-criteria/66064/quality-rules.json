@@ -660,6 +660,16 @@
         ]
     },
     {
+        "id": 1021090,
+        "name": "Avoid using insufficient random generator (Python)",
+        "href": "AIP/quality-rules/1021090",
+        "critical": false,
+        "weight": 8,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
         "id": 1022000,
         "name": "DEPRECATED: Avoid weak encryption algorithm as DES and triple DES",
         "href": "AIP/quality-rules/1022000",
@@ -904,6 +914,16 @@
         "weight": 7,
         "technologyNames": [
             "Kotlin"
+        ]
+    },
+    {
+        "id": 1034048,
+        "name": "Avoid using insufficient random generator (PHP)",
+        "href": "AIP/quality-rules/1034048",
+        "critical": false,
+        "weight": 8,
+        "technologyNames": [
+            "PHP"
         ]
     },
     {

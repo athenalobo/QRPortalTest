@@ -11,7 +11,7 @@
     },
     {
         "id": 7748,
-        "name": "Ensure your application does not run OS commande without sanitization",
+        "name": "Ensure your application does not run OS command without sanitization",
         "href": "AIP/quality-rules/7748",
         "critical": true,
         "severity": 30,

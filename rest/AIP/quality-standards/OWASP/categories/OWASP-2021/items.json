@@ -3,25 +3,25 @@
         "id": "A01-2021",
         "name": "Broken Access Control",
         "href": "AIP/quality-standards/OWASP/items/A01-2021",
-        "count": 45
+        "count": 46
     },
     {
         "id": "A02-2021",
         "name": "Cryptographic Failures",
         "href": "AIP/quality-standards/OWASP/items/A02-2021",
-        "count": 60
+        "count": 62
     },
     {
         "id": "A03-2021",
         "name": "Injection",
         "href": "AIP/quality-standards/OWASP/items/A03-2021",
-        "count": 138
+        "count": 153
     },
     {
         "id": "A04-2021",
         "name": "Insecure Design",
         "href": "AIP/quality-standards/OWASP/items/A04-2021",
-        "count": 34
+        "count": 35
     },
     {
         "id": "A05-2021",
@@ -45,7 +45,7 @@
         "id": "A08-2021",
         "name": "Software and Data Integrity Failures",
         "href": "AIP/quality-standards/OWASP/items/A08-2021",
-        "count": 14
+        "count": 15
     },
     {
         "id": "A09-2021",

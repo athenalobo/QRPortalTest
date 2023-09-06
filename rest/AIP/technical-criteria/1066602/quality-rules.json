@@ -77,6 +77,16 @@
         ]
     },
     {
+        "id": 1034040,
+        "name": "Avoid second order deserialization injection (PHP)",
+        "href": "AIP/quality-rules/1034040",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
         "id": 1039056,
         "name": "Avoid insecure use of YAML deserialization when using SnakeYaml (JEE)",
         "href": "AIP/quality-rules/1039056",

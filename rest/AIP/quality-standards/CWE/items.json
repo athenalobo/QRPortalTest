@@ -3,25 +3,25 @@
         "id": "CWE-22",
         "name": "Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
         "href": "AIP/quality-standards/CWE/items/CWE-22",
-        "count": 4
+        "count": 5
     },
     {
         "id": "CWE-78",
         "name": "Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
         "href": "AIP/quality-standards/CWE/items/CWE-78",
-        "count": 25
+        "count": 27
     },
     {
         "id": "CWE-79",
         "name": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
         "href": "AIP/quality-standards/CWE/items/CWE-79",
-        "count": 52
+        "count": 56
     },
     {
         "id": "CWE-89",
         "name": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
         "href": "AIP/quality-standards/CWE/items/CWE-89",
-        "count": 16
+        "count": 17
     },
     {
         "id": "CWE-120",
@@ -93,7 +93,7 @@
         "id": "CWE-601",
         "name": "URL Redirection to Untrusted Site ('Open Redirect')",
         "href": "AIP/quality-standards/CWE/items/CWE-601",
-        "count": 5
+        "count": 7
     },
     {
         "id": "CWE-676",
@@ -195,7 +195,7 @@
         "id": "CWE-502",
         "name": "Deserialization of Untrusted Data",
         "href": "AIP/quality-standards/CWE/items/CWE-502",
-        "count": 12
+        "count": 13
     },
     {
         "id": "CWE-611",
@@ -273,19 +273,19 @@
         "id": "CWE-23",
         "name": "Relative Path Traversal",
         "href": "AIP/quality-standards/CWE/items/CWE-23",
-        "count": 3
+        "count": 4
     },
     {
         "id": "CWE-36",
         "name": "Absolute Path Traversal",
         "href": "AIP/quality-standards/CWE/items/CWE-36",
-        "count": 3
+        "count": 4
     },
     {
         "id": "CWE-73",
         "name": "External Control of File Name or Path",
         "href": "AIP/quality-standards/CWE/items/CWE-73",
-        "count": 5
+        "count": 6
     },
     {
         "id": "CWE-74",
@@ -309,25 +309,25 @@
         "id": "CWE-88",
         "name": "Improper Neutralization of Argument Delimiters in a Command ('Argument Injection')",
         "href": "AIP/quality-standards/CWE/items/CWE-88",
-        "count": 12
+        "count": 14
     },
     {
         "id": "CWE-90",
         "name": "Improper Neutralization of Special Elements used in an LDAP Query ('LDAP Injection')",
         "href": "AIP/quality-standards/CWE/items/CWE-90",
-        "count": 5
+        "count": 7
     },
     {
         "id": "CWE-91",
         "name": "XML Injection (aka Blind XPath Injection)",
         "href": "AIP/quality-standards/CWE/items/CWE-91",
-        "count": 5
+        "count": 7
     },
     {
         "id": "CWE-93",
         "name": "Improper Neutralization of CRLF Sequences ('CRLF Injection')",
         "href": "AIP/quality-standards/CWE/items/CWE-93",
-        "count": 10
+        "count": 12
     },
     {
         "id": "CWE-95",
@@ -345,7 +345,7 @@
         "id": "CWE-98",
         "name": "Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion')",
         "href": "AIP/quality-standards/CWE/items/CWE-98",
-        "count": 2
+        "count": 3
     },
     {
         "id": "CWE-99",
@@ -411,7 +411,7 @@
         "id": "CWE-113",
         "name": "Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting')",
         "href": "AIP/quality-standards/CWE/items/CWE-113",
-        "count": 8
+        "count": 11
     },
     {
         "id": "CWE-114",
@@ -567,7 +567,7 @@
         "id": "CWE-330",
         "name": "Use of Insufficiently Random Values",
         "href": "AIP/quality-standards/CWE/items/CWE-330",
-        "count": 2
+        "count": 4
     },
     {
         "id": "CWE-336",
@@ -585,7 +585,7 @@
         "id": "CWE-338",
         "name": "Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG)",
         "href": "AIP/quality-standards/CWE/items/CWE-338",
-        "count": 1
+        "count": 3
     },
     {
         "id": "CWE-345",
@@ -729,7 +729,7 @@
         "id": "CWE-470",
         "name": "Use of Externally-Controlled Input to Select Classes or Code ('Unsafe Reflection')",
         "href": "AIP/quality-standards/CWE/items/CWE-470",
-        "count": 3
+        "count": 4
     },
     {
         "id": "CWE-472",
@@ -855,7 +855,7 @@
         "id": "CWE-564",
         "name": "SQL Injection: Hibernate",
         "href": "AIP/quality-standards/CWE/items/CWE-564",
-        "count": 3
+        "count": 4
     },
     {
         "id": "CWE-567",
@@ -987,13 +987,13 @@
         "id": "CWE-643",
         "name": "Improper Neutralization of Data within XPath Expressions ('XPath Injection')",
         "href": "AIP/quality-standards/CWE/items/CWE-643",
-        "count": 4
+        "count": 6
     },
     {
         "id": "CWE-644",
         "name": "Improper Neutralization of HTTP Headers for Scripting Syntax",
         "href": "AIP/quality-standards/CWE/items/CWE-644",
-        "count": 1
+        "count": 3
     },
     {
         "id": "CWE-652",
