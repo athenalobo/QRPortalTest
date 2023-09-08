@@ -182,6 +182,12 @@
     {
         "qualityModel": false,
         "transactionsConfiguration": false,
+        "name": "com.castsoftware.dotnet.odata",
+        "href": "AIP/extensions/com.castsoftware.dotnet.odata"
+    },
+    {
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.dotnet.rabbitmq",
         "href": "AIP/extensions/com.castsoftware.dotnet.rabbitmq"
     },

@@ -1,0 +1,13 @@
+{
+    "qualityModel": false,
+    "transactionsConfiguration": false,
+    "name": "com.castsoftware.dotnet.odata",
+    "href": "AIP/extensions/com.castsoftware.dotnet.odata",
+    "title": "OData Client for .Net",
+    "description": "This extension provides support for OData client libraries for .Net",
+    "iconUrl": "https://raw.githubusercontent.com/CAST-Extend/resources/master/com.castsoftware.dotnetodata.png",
+    "versions": {
+        "name": "versions from latest to oldest",
+        "href": "AIP/extensions/com.castsoftware.dotnet.odata/versions"
+    }
+}
