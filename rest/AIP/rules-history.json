@@ -1440,6 +1440,15 @@
     ],
     "com.castsoftware.birt.missingtable": [
         {
+            "version": "1.0.0-beta4",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.0-beta3",
             "addedRules": [
                 
@@ -23239,6 +23248,15 @@
         }
     ],
     "com.castsoftware.sql.movetocloud": [
+        {
+            "version": "1.0.0-beta7",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "1.0.0-beta6",
             "addedRules": [
