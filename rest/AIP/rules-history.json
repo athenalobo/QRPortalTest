@@ -18944,6 +18944,15 @@
     ],
     "com.castsoftware.reactjs": [
         {
+            "version": "1.2.15-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.2.14-funcrel",
             "addedRules": [
                 
