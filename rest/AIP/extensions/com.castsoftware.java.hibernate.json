@@ -4,7 +4,7 @@
     "name": "com.castsoftware.java.hibernate",
     "href": "AIP/extensions/com.castsoftware.java.hibernate",
     "title": "Java Persistence Frameworks",
-    "description": "This extension provides support for JPA, Hibernate, EBean ORM, Apache OpenJPA, Spring Hibernate, EJB.",
+    "description": "This extension provides support for JPA, Hibernate, EBean ORM, Apache OpenJPA, Spring Hibernate, EJB, EclipseLink.",
     "iconUrl": "https://raw.githubusercontent.com/CAST-Extend/resources/master/com.castsoftware.javapersistence.png",
     "versions": {
         "name": "versions from latest to oldest",

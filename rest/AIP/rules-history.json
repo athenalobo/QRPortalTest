@@ -8645,6 +8645,15 @@
     ],
     "com.castsoftware.java.hibernate": [
         {
+            "version": "1.0.0-beta7",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.0-beta6",
             "addedRules": [
                 
