@@ -1088,6 +1088,15 @@
     ],
     "com.castsoftware.awsdotnet": [
         {
+            "version": "1.0.3-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.2-funcrel",
             "addedRules": [
                 
