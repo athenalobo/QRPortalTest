@@ -1,12 +1,5 @@
 [
     {
-        "name": "1.0.0-funcrel",
-        "href": "AIP/extensions/com.castsoftware.dotnet.msappblocksdata/versions/1.0.0-funcrel",
-        "metaModelCRC": 95075546,
-        "rulesCRC": 0,
-        "transactionsConfigurationCRC": null
-    },
-    {
         "name": "1.0.0-beta1",
         "href": "AIP/extensions/com.castsoftware.dotnet.msappblocksdata/versions/1.0.0-beta1",
         "metaModelCRC": 95075546,
