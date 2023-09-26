@@ -4297,6 +4297,15 @@
     ],
     "com.castsoftware.dotnet.msappblocksdata": [
         {
+            "version": "1.0.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.0-beta1",
             "addedRules": [
                 
