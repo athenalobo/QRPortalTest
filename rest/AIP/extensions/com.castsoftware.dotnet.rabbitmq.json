@@ -4,7 +4,7 @@
     "name": "com.castsoftware.dotnet.rabbitmq",
     "href": "AIP/extensions/com.castsoftware.dotnet.rabbitmq",
     "title": "RabbitMQ .Net",
-    "description": "This extension provides support for Rabbit Message Queues for .Net",
+    "description": "This extension provides support for RabbitMQ and EasyNetQ on .Net",
     "iconUrl": "https://raw.githubusercontent.com/CAST-Extend/resources/master/com.castsoftware.dotnet.rabbitmq.png",
     "versions": {
         "name": "versions from latest to oldest",
