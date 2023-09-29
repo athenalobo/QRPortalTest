@@ -3,19 +3,19 @@
         "id": "CWE-22",
         "name": "Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
         "href": "AIP/quality-standards/ISO-5055/items/CWE-22",
-        "count": 5
+        "count": 6
     },
     {
         "id": "CWE-23",
         "name": "Relative Path Traversal",
         "href": "AIP/quality-standards/ISO-5055/items/CWE-23",
-        "count": 4
+        "count": 5
     },
     {
         "id": "CWE-36",
         "name": "Absolute Path Traversal",
         "href": "AIP/quality-standards/ISO-5055/items/CWE-36",
-        "count": 4
+        "count": 5
     },
     {
         "id": "CWE-77",
@@ -273,7 +273,7 @@
         "id": "CWE-611",
         "name": "Improper Restriction of XML External Entity Reference",
         "href": "AIP/quality-standards/ISO-5055/items/CWE-611",
-        "count": 9
+        "count": 10
     },
     {
         "id": "CWE-643",

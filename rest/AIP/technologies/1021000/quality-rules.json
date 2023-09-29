@@ -574,6 +574,56 @@
         ]
     },
     {
+        "id": 1021102,
+        "name": "Avoid parsing XML data without restriction of XML External Entity Reference (XXE) (Python)",
+        "href": "AIP/quality-rules/1021102",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
+        "id": 1021104,
+        "name": "Avoid file path manipulation (Python)",
+        "href": "AIP/quality-rules/1021104",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
+        "id": 1021106,
+        "name": "Avoid server-side request forgery (Python)",
+        "href": "AIP/quality-rules/1021106",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
+        "id": 1021108,
+        "name": "Avoid unsafe access to object attributes",
+        "href": "AIP/quality-rules/1021108",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
+        "id": 1021110,
+        "name": "Avoid using regular expression vulnerable to ReDoS (Python)",
+        "href": "AIP/quality-rules/1021110",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
         "id": 1101036,
         "name": "Use ANSI standard operators in SQL WHERE clauses",
         "href": "AIP/quality-rules/1101036",

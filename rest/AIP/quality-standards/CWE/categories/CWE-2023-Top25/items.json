@@ -9,7 +9,7 @@
         "id": "CWE-22",
         "name": "Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
         "href": "AIP/quality-standards/CWE/items/CWE-22",
-        "count": 5
+        "count": 6
     },
     {
         "id": "CWE-77",
@@ -147,6 +147,6 @@
         "id": "CWE-918",
         "name": "Server-Side Request Forgery (SSRF)",
         "href": "AIP/quality-standards/CWE/items/CWE-918",
-        "count": 3
+        "count": 4
     }
 ]

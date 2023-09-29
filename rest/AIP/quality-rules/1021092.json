@@ -9,6 +9,7 @@
         "name": "com.castsoftware.python",
         "href": "AIP/extensions/com.castsoftware.python"
     },
+    "associatedValueName": "Number of violation occurrences",
     "description": "The software does not neutralize or incorrectly neutralizes user-controllable input before it is placed in a web page that is served to other users.\n\nThis metric detects paths from user input methods to HTML response of supported frameworks which are open vulnerabilities to Reflected cross-site scripting injection (XSS - Type 1).\nSupported frameworks are: FastAPI, Flask.",
     "output": "List all methods that make resource calls potentially forged by user input.\n\nAssociated to each violation, the following information is provided:\n- The number of violation occurrences\n- Bookmarks for violation occurrences of user input source",
     "rationale": "Reflected XSS: The server reads data directly from the HTTP request and reflects it back in the HTTP response. Reflected XSS exploits occur when an attacker causes a victim to supply dangerous content to a vulnerable web application, which is then reflected back to the victim and executed by the web browser.\nOnce the malicious script is injected, the attacker can perform a variety of malicious activities, such as: get private information, send malicious requests to a web site on behalf of the victim.\n\nThe most common mechanism for delivering malicious content is to include it as a parameter in a URL that is posted publicly or e-mailed directly to the victim.",

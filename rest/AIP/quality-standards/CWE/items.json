@@ -3,7 +3,7 @@
         "id": "CWE-22",
         "name": "Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
         "href": "AIP/quality-standards/CWE/items/CWE-22",
-        "count": 5
+        "count": 6
     },
     {
         "id": "CWE-78",
@@ -183,7 +183,7 @@
         "id": "CWE-400",
         "name": "Uncontrolled Resource Consumption",
         "href": "AIP/quality-standards/CWE/items/CWE-400",
-        "count": 15
+        "count": 16
     },
     {
         "id": "CWE-476",
@@ -201,7 +201,7 @@
         "id": "CWE-611",
         "name": "Improper Restriction of XML External Entity Reference",
         "href": "AIP/quality-standards/CWE/items/CWE-611",
-        "count": 9
+        "count": 10
     },
     {
         "id": "CWE-772",
@@ -237,7 +237,7 @@
         "id": "CWE-918",
         "name": "Server-Side Request Forgery (SSRF)",
         "href": "AIP/quality-standards/CWE/items/CWE-918",
-        "count": 3
+        "count": 4
     },
     {
         "id": "CWE-8",
@@ -273,19 +273,19 @@
         "id": "CWE-23",
         "name": "Relative Path Traversal",
         "href": "AIP/quality-standards/CWE/items/CWE-23",
-        "count": 4
+        "count": 5
     },
     {
         "id": "CWE-36",
         "name": "Absolute Path Traversal",
         "href": "AIP/quality-standards/CWE/items/CWE-36",
-        "count": 4
+        "count": 5
     },
     {
         "id": "CWE-73",
         "name": "External Control of File Name or Path",
         "href": "AIP/quality-standards/CWE/items/CWE-73",
-        "count": 6
+        "count": 7
     },
     {
         "id": "CWE-74",
@@ -729,7 +729,7 @@
         "id": "CWE-470",
         "name": "Use of Externally-Controlled Input to Select Classes or Code ('Unsafe Reflection')",
         "href": "AIP/quality-standards/CWE/items/CWE-470",
-        "count": 4
+        "count": 5
     },
     {
         "id": "CWE-472",
@@ -1137,7 +1137,7 @@
         "id": "CWE-827",
         "name": "Improper Control of Document Type Definition",
         "href": "AIP/quality-standards/CWE/items/CWE-827",
-        "count": 7
+        "count": 8
     },
     {
         "id": "CWE-833",
@@ -1149,7 +1149,7 @@
         "id": "CWE-915",
         "name": "Improperly Controlled Modification of Dynamically-Determined Object Attributes",
         "href": "AIP/quality-standards/CWE/items/CWE-915",
-        "count": 2
+        "count": 3
     },
     {
         "id": "CWE-916",
@@ -1533,6 +1533,12 @@
         "id": "CWE-1322",
         "name": "Use of Blocking Code in Single-threaded, Non-blocking Context",
         "href": "AIP/quality-standards/CWE/items/CWE-1322",
+        "count": 1
+    },
+    {
+        "id": "CWE-1333",
+        "name": "Inefficient Regular Expression Complexity",
+        "href": "AIP/quality-standards/CWE/items/CWE-1333",
         "count": 1
     }
 ]

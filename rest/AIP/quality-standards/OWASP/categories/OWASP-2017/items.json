@@ -21,13 +21,13 @@
         "id": "A4-2017",
         "name": "XML External Entities (XXE)",
         "href": "AIP/quality-standards/OWASP/items/A4-2017",
-        "count": 8
+        "count": 9
     },
     {
         "id": "A5-2017",
         "name": "Broken Access Control",
         "href": "AIP/quality-standards/OWASP/items/A5-2017",
-        "count": 34
+        "count": 35
     },
     {
         "id": "A6-2017",

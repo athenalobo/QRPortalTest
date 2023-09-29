@@ -11,13 +11,13 @@
     },
     "associatedValueName": "Number of violation occurrences",
     "description": "The software receives a user input, but it does not restrict or incorrectly restricts the input before it is used as an identifier for a resource that may be outside the intended sphere of control.\nInputs detected are receiving web service requests and upstream components.\nResources analyzed are database connection parameters and connection strings.",
-    "output": "List all methods that make resource calls potentially forged by user input.\n\nAssociated to each violation, the following information is provided:\n- The number of violation occurrences\n- Bookmarks for violation occurrences of user input source",
+    "output": "Associated to each violation, the following information is provided:\n- The number of violation occurrences\n- Bookmarks for violation occurrences of user input source",
     "rationale": "The software receives a user input, but it does not restrict or incorrectly restricts the input before it is used as an identifier for a resource that may be outside the intended sphere of control.\nThis may enable an attacker to access or modify otherwise protected system resources.",
     "reference": "CWE-99: Improper Control of Resource Identifiers ('Resource Injection')\nhttps://cwe.mitre.org/data/definitions/99.html\n\nOpen Web Application Security Project (OWASP) \nhttps://www.owasp.org/index.php/Top_10_2013-A4-Insecure_Direct_Object_References\n\nCISQ rule: ASCSM-CWE-99.",
     "remediation": "Assume all input is malicious. \nAvoid using inputs. If it is not possible, use an \"accept known good\" input validation strategy, i.e., use stringent white-lists that limit the value set based on the expected value of the parameter in the request. This will indirectly limit the scope of an attack.",
     "remediationSample": "db = {\"A\": \"...\", \"B\": \"...\", }\n\nalias = input(\"Enter database alias\")\ndatabase = db.get(alias, \"unknown\")\n\nconn_string = 'DRIVER={ODBC Driver 18 for SQL Server};SERVER=' + server + ';DATABASE=' + db + ';ENCRYPT=yes;UID=' + username + ';PWD=' + pwd\ncnx = pyodbc.connect(conn_string)",
     "sample": "database = input(\"Enter database name\")  # resource violation\n\nconn_string = 'DRIVER={ODBC Driver 18 for SQL Server};SERVER=' + server + ';DATABASE=' + db + ';ENCRYPT=yes;UID=' + username + ';PWD=' + pwd\ncnx = pyodbc.connect(conn_string)  # main violation",
-    "total": "Number of potentially vulnerable methods",
+    "total": "Number of Python artifacts",
     "alternativeName": "Ensure you have sanitized the data received from resources",
     "businessCriteria": [
         {

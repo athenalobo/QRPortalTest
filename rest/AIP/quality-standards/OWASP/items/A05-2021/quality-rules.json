@@ -342,6 +342,16 @@
         ]
     },
     {
+        "id": 1021102,
+        "name": "Avoid parsing XML data without restriction of XML External Entity Reference (XXE) (Python)",
+        "href": "AIP/quality-rules/1021102",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
         "id": 1025016,
         "name": "Avoid using cookie without the HttpOnly flag",
         "href": "AIP/quality-rules/1025016",

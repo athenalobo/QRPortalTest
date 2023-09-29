@@ -39,7 +39,7 @@
         "id": "A7-2013",
         "name": "Missing Function Level Access Control",
         "href": "AIP/quality-standards/OWASP/items/A7-2013",
-        "count": 27
+        "count": 28
     },
     {
         "id": "A8-2013",
@@ -81,13 +81,13 @@
         "id": "A4-2017",
         "name": "XML External Entities (XXE)",
         "href": "AIP/quality-standards/OWASP/items/A4-2017",
-        "count": 8
+        "count": 9
     },
     {
         "id": "A5-2017",
         "name": "Broken Access Control",
         "href": "AIP/quality-standards/OWASP/items/A5-2017",
-        "count": 34
+        "count": 35
     },
     {
         "id": "A6-2017",
@@ -135,19 +135,19 @@
         "id": "A03-2021",
         "name": "Injection",
         "href": "AIP/quality-standards/OWASP/items/A03-2021",
-        "count": 153
+        "count": 154
     },
     {
         "id": "A04-2021",
         "name": "Insecure Design",
         "href": "AIP/quality-standards/OWASP/items/A04-2021",
-        "count": 35
+        "count": 36
     },
     {
         "id": "A05-2021",
         "name": "Security Misconfiguration",
         "href": "AIP/quality-standards/OWASP/items/A05-2021",
-        "count": 86
+        "count": 87
     },
     {
         "id": "A06-2021",
@@ -177,7 +177,7 @@
         "id": "A10-2021",
         "name": "Server-Side Request Forgery (SSRF)",
         "href": "AIP/quality-standards/OWASP/items/A10-2021",
-        "count": 3
+        "count": 4
     },
     {
         "id": "API1-2019",
@@ -225,7 +225,7 @@
         "id": "API8-2019",
         "name": "Injection",
         "href": "AIP/quality-standards/OWASP/items/API8-2019",
-        "count": 112
+        "count": 113
     },
     {
         "id": "API9-2019",

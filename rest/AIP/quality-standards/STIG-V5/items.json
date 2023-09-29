@@ -45,7 +45,7 @@
         "id": "STIG-V-222604",
         "name": "The application must protect from command injection.",
         "href": "AIP/quality-standards/STIG-V5/items/STIG-V-222604",
-        "count": 72
+        "count": 73
     },
     {
         "id": "STIG-V-222607",
@@ -57,7 +57,7 @@
         "id": "STIG-V-222608",
         "name": "The application must not be vulnerable to XML-oriented attacks.",
         "href": "AIP/quality-standards/STIG-V5/items/STIG-V-222608",
-        "count": 8
+        "count": 9
     },
     {
         "id": "STIG-V-222609",
@@ -165,7 +165,7 @@
         "id": "STIG-V-222593",
         "name": "XML-based applications must mitigate DoS attacks by using XML filters, parser options, or gateways.",
         "href": "AIP/quality-standards/STIG-V5/items/STIG-V-222593",
-        "count": 9
+        "count": 10
     },
     {
         "id": "STIG-V-222598",

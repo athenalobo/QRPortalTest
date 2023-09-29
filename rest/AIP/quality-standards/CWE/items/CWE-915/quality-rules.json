@@ -1,5 +1,15 @@
 [
     {
+        "id": 1021108,
+        "name": "Avoid unsafe access to object attributes",
+        "href": "AIP/quality-rules/1021108",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
         "id": 1040048,
         "name": "Avoid unsafe object binding (Spring)",
         "href": "AIP/quality-rules/1040048",

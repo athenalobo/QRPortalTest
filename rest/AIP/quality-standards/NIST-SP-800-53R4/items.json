@@ -3,7 +3,7 @@
         "id": "NIST-AC-3",
         "name": "Access Enforcement",
         "href": "AIP/quality-standards/NIST-SP-800-53R4/items/NIST-AC-3",
-        "count": 65
+        "count": 66
     },
     {
         "id": "NIST-AC-6",
@@ -51,7 +51,7 @@
         "id": "NIST-SC-5",
         "name": "Denial-of-service Protection",
         "href": "AIP/quality-standards/NIST-SP-800-53R4/items/NIST-SC-5",
-        "count": 14
+        "count": 15
     },
     {
         "id": "NIST-SC-12",
@@ -75,7 +75,7 @@
         "id": "NIST-SI-10",
         "name": "Information Input Validation",
         "href": "AIP/quality-standards/NIST-SP-800-53R4/items/NIST-SI-10",
-        "count": 169
+        "count": 172
     },
     {
         "id": "NIST-SI-11",
