@@ -9042,6 +9042,15 @@
     ],
     "com.castsoftware.java.spark": [
         {
+            "version": "1.0.2-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.1-funcrel",
             "addedRules": [
                 
