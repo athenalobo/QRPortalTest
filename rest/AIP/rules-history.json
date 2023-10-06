@@ -2829,6 +2829,15 @@
     ],
     "com.castsoftware.cpp.missingtable": [
         {
+            "version": "1.0.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.0-beta4",
             "addedRules": [
                 
