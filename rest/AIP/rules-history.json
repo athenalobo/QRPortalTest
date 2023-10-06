@@ -4342,6 +4342,15 @@
     ],
     "com.castsoftware.dotnet.msappblocksdata": [
         {
+            "version": "1.0.1-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.0-funcrel",
             "addedRules": [
                 
@@ -9061,6 +9070,15 @@
         }
     ],
     "com.castsoftware.java.sql": [
+        {
+            "version": "1.0.1-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "1.0.0-funcrel",
             "addedRules": [
