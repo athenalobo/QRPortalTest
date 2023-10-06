@@ -24029,6 +24029,15 @@
     ],
     "com.castsoftware.sqlanalyzer": [
         {
+            "version": "3.7.0-beta1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "3.6.16-funcrel",
             "addedRules": [
                 
