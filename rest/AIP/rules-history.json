@@ -10974,6 +10974,15 @@
     ],
     "com.castsoftware.jee.missingtable": [
         {
+            "version": "1.0.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.0-beta5",
             "addedRules": [
                 
@@ -12565,6 +12574,15 @@
     ],
     "com.castsoftware.mainframe.missingtable": [
         {
+            "version": "1.0.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.0-beta4",
             "addedRules": [
                 
@@ -13989,6 +14007,15 @@
         }
     ],
     "com.castsoftware.nodejs.missingtable": [
+        {
+            "version": "1.0.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "1.0.0-beta4",
             "addedRules": [
@@ -19195,6 +19222,15 @@
     ],
     "com.castsoftware.python.missingtable": [
         {
+            "version": "1.0.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.0-beta5",
             "addedRules": [
                 
@@ -20834,6 +20870,15 @@
         }
     ],
     "com.castsoftware.rpg.missingtable": [
+        {
+            "version": "1.0.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "1.0.0-beta4",
             "addedRules": [
