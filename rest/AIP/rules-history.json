@@ -13104,6 +13104,15 @@
     ],
     "com.castsoftware.msenterpriselibrary": [
         {
+            "version": "1.0.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.0-beta1",
             "addedRules": [
                 
@@ -26652,6 +26661,15 @@
         }
     ],
     "com.castsoftware.typescript": [
+        {
+            "version": "1.13.0-beta1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "1.12.0-funcrel",
             "addedRules": [
