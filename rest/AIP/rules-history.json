@@ -12275,6 +12275,15 @@
     ],
     "com.castsoftware.mainframe": [
         {
+            "version": "1.2.0-beta1",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.2.0-alpha2",
             "addedRules": [
                 
