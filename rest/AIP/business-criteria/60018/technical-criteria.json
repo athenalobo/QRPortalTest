@@ -26,5 +26,12 @@
         "description": "Database Migration - SQL Server Database to PostgreSQL",
         "href": "AIP/technical-criteria/61046",
         "weight": 5
+    },
+    {
+        "id": 61048,
+        "name": "Database Migration - DB2 Database to MySQL",
+        "description": "Database Migration - DB2 Database to MySQL",
+        "href": "AIP/technical-criteria/61048",
+        "weight": 5
     }
 ]

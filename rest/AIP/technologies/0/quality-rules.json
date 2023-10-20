@@ -1027,5 +1027,45 @@
         "technologyNames": [
             "ALL TECHNOLOGIES"
         ]
+    },
+    {
+        "id": 1106148,
+        "name": "Ensure VALUES statement is not used",
+        "href": "AIP/quality-rules/1106148",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106150,
+        "name": "Ensure SYSIBM.SYSDUMMY1 table is not used",
+        "href": "AIP/quality-rules/1106150",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106152,
+        "name": "Ensure TIMESTAMP data type is not used",
+        "href": "AIP/quality-rules/1106152",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106176,
+        "name": "Ensure DB2 Built-in Function CURRENT DATE is not used",
+        "href": "AIP/quality-rules/1106176",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
     }
 ]

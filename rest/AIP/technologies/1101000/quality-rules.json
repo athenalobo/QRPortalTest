@@ -938,5 +938,115 @@
         "technologyNames": [
             "SQL"
         ]
+    },
+    {
+        "id": 1106154,
+        "name": "Ensure VARCHAR(n) with implicit default values is not used",
+        "href": "AIP/quality-rules/1106154",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SQL"
+        ]
+    },
+    {
+        "id": 1106156,
+        "name": "Ensure NUMERIC(p, s) with implicit default values is not used",
+        "href": "AIP/quality-rules/1106156",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SQL"
+        ]
+    },
+    {
+        "id": 1106158,
+        "name": "Ensure INTEGER with implicit default values is not used",
+        "href": "AIP/quality-rules/1106158",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SQL"
+        ]
+    },
+    {
+        "id": 1106160,
+        "name": "Ensure DECIMAL(p, s) with implicit default values is not used",
+        "href": "AIP/quality-rules/1106160",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SQL"
+        ]
+    },
+    {
+        "id": 1106162,
+        "name": "Ensure DATE with implicit default values is not used",
+        "href": "AIP/quality-rules/1106162",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SQL"
+        ]
+    },
+    {
+        "id": 1106164,
+        "name": "Ensure CHAR(n) with implicit default values is not used",
+        "href": "AIP/quality-rules/1106164",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SQL"
+        ]
+    },
+    {
+        "id": 1106166,
+        "name": "Ensure FOR BIT DATA column clause is not used",
+        "href": "AIP/quality-rules/1106166",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SQL"
+        ]
+    },
+    {
+        "id": 1106168,
+        "name": "Ensure FOR SBCS | MIXED DATA column clause is not used",
+        "href": "AIP/quality-rules/1106168",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SQL"
+        ]
+    },
+    {
+        "id": 1106170,
+        "name": "Ensure CCSID ASCII | UNICODE | EBCDIC column clause is not used",
+        "href": "AIP/quality-rules/1106170",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SQL"
+        ]
+    },
+    {
+        "id": 1106172,
+        "name": "Ensure CCSID num column clause is not used",
+        "href": "AIP/quality-rules/1106172",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SQL"
+        ]
+    },
+    {
+        "id": 1106174,
+        "name": "Ensure GENERATED AS IDENTITY is not used",
+        "href": "AIP/quality-rules/1106174",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SQL"
+        ]
     }
 ]
