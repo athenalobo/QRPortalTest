@@ -310,6 +310,26 @@
         ]
     },
     {
+        "id": 1106162,
+        "name": "Ensure DATE with implicit default values is not used",
+        "href": "AIP/quality-rules/1106162",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SQL"
+        ]
+    },
+    {
+        "id": 1106166,
+        "name": "Ensure FOR BIT DATA column clause is not used",
+        "href": "AIP/quality-rules/1106166",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SQL"
+        ]
+    },
+    {
         "id": 1106168,
         "name": "Ensure FOR SBCS | MIXED DATA column clause is not used",
         "href": "AIP/quality-rules/1106168",

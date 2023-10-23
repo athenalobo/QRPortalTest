@@ -228,5 +228,65 @@
         "technologyNames": [
             "ALL TECHNOLOGIES"
         ]
+    },
+    {
+        "id": 1106152,
+        "name": "Ensure TIMESTAMP data type is not used",
+        "href": "AIP/quality-rules/1106152",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
+        "id": 1106154,
+        "name": "Ensure VARCHAR(n) with implicit default values is not used",
+        "href": "AIP/quality-rules/1106154",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SQL"
+        ]
+    },
+    {
+        "id": 1106156,
+        "name": "Ensure NUMERIC(p, s) with implicit default values is not used",
+        "href": "AIP/quality-rules/1106156",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SQL"
+        ]
+    },
+    {
+        "id": 1106158,
+        "name": "Ensure INTEGER with implicit default values is not used",
+        "href": "AIP/quality-rules/1106158",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SQL"
+        ]
+    },
+    {
+        "id": 1106160,
+        "name": "Ensure DECIMAL(p, s) with implicit default values is not used",
+        "href": "AIP/quality-rules/1106160",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SQL"
+        ]
+    },
+    {
+        "id": 1106164,
+        "name": "Ensure CHAR(n) with implicit default values is not used",
+        "href": "AIP/quality-rules/1106164",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SQL"
+        ]
     }
 ]

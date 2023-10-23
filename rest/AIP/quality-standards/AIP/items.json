@@ -105,13 +105,13 @@
         "id": "AIP-M2C-DataType",
         "name": "Data Type Remediation",
         "href": "AIP/quality-standards/AIP/items/AIP-M2C-DataType",
-        "count": 23
+        "count": 29
     },
     {
         "id": "AIP-M2C-ObjectType",
         "name": "Object Type Remediation",
         "href": "AIP/quality-standards/AIP/items/AIP-M2C-ObjectType",
-        "count": 25
+        "count": 26
     },
     {
         "id": "AIP-M2C-Oracle",
@@ -129,7 +129,7 @@
         "id": "AIP-M2C-Syntax",
         "name": "Syntax Remediation",
         "href": "AIP/quality-standards/AIP/items/AIP-M2C-Syntax",
-        "count": 36
+        "count": 38
     },
     {
         "id": "AIP-GDPR",
