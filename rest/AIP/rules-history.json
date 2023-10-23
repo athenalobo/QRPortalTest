@@ -15425,6 +15425,15 @@
     ],
     "com.castsoftware.omg-ascqm-index": [
         {
+            "version": "20231018.0.0-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "20230521.0.0-funcrel",
             "addedRules": [
                 
