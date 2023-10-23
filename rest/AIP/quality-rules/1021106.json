@@ -33,6 +33,27 @@
     ],
     "technicalCriteria": [
         {
+            "id": 1067018,
+            "name": "CWE-918 - Server-Side Request Forgery (SSRF)",
+            "href": "AIP/technical-criteria/1067018",
+            "weight": 5,
+            "critical": false
+        },
+        {
+            "id": 1062350,
+            "name": "OWASP-2021-A10 - Server-Side Request Forgery (SSRF)",
+            "href": "AIP/technical-criteria/1062350",
+            "weight": 5,
+            "critical": false
+        },
+        {
+            "id": 1063114,
+            "name": "PCI-Requirement-6.5.1 - Injection flaws, particularly SQL injection",
+            "href": "AIP/technical-criteria/1063114",
+            "weight": 5,
+            "critical": false
+        },
+        {
             "id": 66062,
             "name": "Secure Coding - Input Validation",
             "href": "AIP/technical-criteria/66062",

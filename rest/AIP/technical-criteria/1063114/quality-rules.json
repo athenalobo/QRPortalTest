@@ -1004,6 +1004,36 @@
         ]
     },
     {
+        "id": 1021100,
+        "name": "Avoid URL redirection to untrusted site (Python)",
+        "href": "AIP/quality-rules/1021100",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
+        "id": 1021102,
+        "name": "Avoid parsing XML data without restriction of XML External Entity Reference (XXE) (Python)",
+        "href": "AIP/quality-rules/1021102",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
+        "id": 1021106,
+        "name": "Avoid server-side request forgery (Python)",
+        "href": "AIP/quality-rules/1021106",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
         "id": 1025000,
         "name": "Avoid second order OS command injection",
         "href": "AIP/quality-rules/1025000",
@@ -1318,6 +1348,26 @@
         "id": 1034046,
         "name": "Avoid second order reflection injection (PHP)",
         "href": "AIP/quality-rules/1034046",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
+        "id": 1034050,
+        "name": "Avoid XPath injection (PHP)",
+        "href": "AIP/quality-rules/1034050",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
+        "id": 1034052,
+        "name": "Avoid second order XPath injection (PHP)",
+        "href": "AIP/quality-rules/1034052",
         "critical": false,
         "weight": 5,
         "technologyNames": [

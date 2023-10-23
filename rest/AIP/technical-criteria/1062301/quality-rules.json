@@ -1100,6 +1100,26 @@
         ]
     },
     {
+        "id": 1034050,
+        "name": "Avoid XPath injection (PHP)",
+        "href": "AIP/quality-rules/1034050",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
+        "id": 1034052,
+        "name": "Avoid second order XPath injection (PHP)",
+        "href": "AIP/quality-rules/1034052",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
         "id": 1039056,
         "name": "Avoid insecure use of YAML deserialization when using SnakeYaml (JEE)",
         "href": "AIP/quality-rules/1039056",

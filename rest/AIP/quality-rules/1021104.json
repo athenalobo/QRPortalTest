@@ -33,6 +33,41 @@
     ],
     "technicalCriteria": [
         {
+            "id": 1066122,
+            "name": "CWE-22 - Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+            "href": "AIP/technical-criteria/1066122",
+            "weight": 5,
+            "critical": false
+        },
+        {
+            "id": 1062307,
+            "name": "OWASP-2013-A7 - Missing Function Level Access Control",
+            "href": "AIP/technical-criteria/1062307",
+            "weight": 5,
+            "critical": false
+        },
+        {
+            "id": 1062325,
+            "name": "OWASP-2017-A5 - Broken Access Control",
+            "href": "AIP/technical-criteria/1062325",
+            "weight": 5,
+            "critical": false
+        },
+        {
+            "id": 1062344,
+            "name": "OWASP-2021-A04 - Insecure Design",
+            "href": "AIP/technical-criteria/1062344",
+            "weight": 5,
+            "critical": false
+        },
+        {
+            "id": 1063122,
+            "name": "PCI-Requirement-6.5.8 - Improper access control",
+            "href": "AIP/technical-criteria/1063122",
+            "weight": 5,
+            "critical": false
+        },
+        {
             "id": 66062,
             "name": "Secure Coding - Input Validation",
             "href": "AIP/technical-criteria/66062",

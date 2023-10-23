@@ -1156,6 +1156,16 @@
         ]
     },
     {
+        "id": 1021108,
+        "name": "Avoid unsafe access to object attributes",
+        "href": "AIP/quality-rules/1021108",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
         "id": 1025000,
         "name": "Avoid second order OS command injection",
         "href": "AIP/quality-rules/1025000",
@@ -1456,6 +1466,26 @@
         "id": 1034046,
         "name": "Avoid second order reflection injection (PHP)",
         "href": "AIP/quality-rules/1034046",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
+        "id": 1034050,
+        "name": "Avoid XPath injection (PHP)",
+        "href": "AIP/quality-rules/1034050",
+        "critical": false,
+        "weight": 5,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
+        "id": 1034052,
+        "name": "Avoid second order XPath injection (PHP)",
+        "href": "AIP/quality-rules/1034052",
         "critical": false,
         "weight": 5,
         "technologyNames": [

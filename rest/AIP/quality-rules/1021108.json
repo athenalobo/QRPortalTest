@@ -33,6 +33,20 @@
     ],
     "technicalCriteria": [
         {
+            "id": 1062343,
+            "name": "OWASP-2021-A03 - Injection",
+            "href": "AIP/technical-criteria/1062343",
+            "weight": 5,
+            "critical": false
+        },
+        {
+            "id": 1063122,
+            "name": "PCI-Requirement-6.5.8 - Improper access control",
+            "href": "AIP/technical-criteria/1063122",
+            "weight": 5,
+            "critical": false
+        },
+        {
             "id": 66062,
             "name": "Secure Coding - Input Validation",
             "href": "AIP/technical-criteria/66062",
