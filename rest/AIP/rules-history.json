@@ -26829,6 +26829,15 @@
     ],
     "com.castsoftware.typescript": [
         {
+            "version": "1.13.0-beta2",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.13.0-beta1",
             "addedRules": [
                 
