@@ -1,10 +1,10 @@
 {
     "qualityModel": false,
-    "transactionsConfiguration": false,
+    "transactionsConfiguration": true,
     "name": "com.castsoftware.dotnet.rabbitmq",
     "href": "AIP/extensions/com.castsoftware.dotnet.rabbitmq",
     "title": "RabbitMQ .Net",
-    "description": "This extension provides support for RabbitMQ and EasyNetQ on .Net",
+    "description": "This extension provides RabbitMQ support for libraries RabbitMQ.Client,EasyNetQ,MassTransit.RabbitMQ and CAP.RabbitMQ on .Net",
     "iconUrl": "https://raw.githubusercontent.com/CAST-Extend/resources/master/com.castsoftware.dotnet.rabbitmq.png",
     "versions": {
         "name": "versions from latest to oldest",
