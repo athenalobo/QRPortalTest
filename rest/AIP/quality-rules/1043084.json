@@ -92,6 +92,12 @@
             "standard": "NIST-SP-800-53R4"
         },
         {
+            "id": "A04-2021",
+            "name": "Insecure Design",
+            "href": "AIP/quality-standards/OWASP/items/A04-2021",
+            "standard": "OWASP"
+        },
+        {
             "id": "API4-2019",
             "name": "Lack of Resources & Rate Limiting",
             "href": "AIP/quality-standards/OWASP/items/API4-2019",

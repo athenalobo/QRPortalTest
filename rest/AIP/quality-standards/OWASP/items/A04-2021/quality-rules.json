@@ -376,6 +376,17 @@
         ]
     },
     {
+        "id": 1043084,
+        "name": "Avoid XML schemas with unbounded occurrences",
+        "href": "AIP/quality-rules/1043084",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ASP.NET",
+            "C#"
+        ]
+    },
+    {
         "id": 1060114,
         "name": "Always enable authorization checks at function level for functions called on by APIs based with Spring Application",
         "href": "AIP/quality-rules/1060114",
