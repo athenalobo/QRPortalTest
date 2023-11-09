@@ -1,5 +1,12 @@
 [
     {
+        "name": "1.7.28-funcrel",
+        "href": "AIP/extensions/com.castsoftware.wbslinker/versions/1.7.28-funcrel",
+        "metaModelCRC": 719816243,
+        "rulesCRC": 651582172,
+        "transactionsConfigurationCRC": null
+    },
+    {
         "name": "1.7.27-funcrel",
         "href": "AIP/extensions/com.castsoftware.wbslinker/versions/1.7.27-funcrel",
         "metaModelCRC": 719816243,
