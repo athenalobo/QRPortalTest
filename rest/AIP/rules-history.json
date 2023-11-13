@@ -23018,6 +23018,15 @@
     ],
     "com.castsoftware.springdata": [
         {
+            "version": "2.1.0-alpha2",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "2.1.0-alpha1",
             "addedRules": [
                 
