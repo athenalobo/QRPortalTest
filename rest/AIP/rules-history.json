@@ -24340,6 +24340,15 @@
             ]
         },
         {
+            "version": "3.6.16",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "3.6.16-funcrel",
             "addedRules": [
                 

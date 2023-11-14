@@ -14,6 +14,13 @@
         "transactionsConfigurationCRC": 842304535
     },
     {
+        "name": "3.6.16",
+        "href": "AIP/extensions/com.castsoftware.sqlanalyzer/versions/3.6.16",
+        "metaModelCRC": 3555508091,
+        "rulesCRC": 4164679601,
+        "transactionsConfigurationCRC": 842304535
+    },
+    {
         "name": "3.6.16-funcrel",
         "href": "AIP/extensions/com.castsoftware.sqlanalyzer/versions/3.6.16-funcrel",
         "metaModelCRC": 3555508091,
