@@ -8448,6 +8448,15 @@
     ],
     "com.castsoftware.internal.platform": [
         {
+            "version": "0.9.20",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "0.9.19",
             "addedRules": [
                 
