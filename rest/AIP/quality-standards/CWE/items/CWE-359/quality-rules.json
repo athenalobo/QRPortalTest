@@ -1,5 +1,15 @@
 [
     {
+        "id": 1021116,
+        "name": "Avoid logging sensitive data (Python)",
+        "href": "AIP/quality-rules/1021116",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
         "id": 1024026,
         "name": "Avoid using MODE_WORLD_READABLE and MODE_WORLD_WRITEABLE",
         "href": "AIP/quality-rules/1024026",

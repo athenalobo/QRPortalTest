@@ -381,7 +381,7 @@
         "id": "CWE-78",
         "name": "Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
         "href": "AIP/quality-standards/CWE/items/CWE-78",
-        "count": 27
+        "count": 28
     },
     {
         "id": "CWE-79",
@@ -1719,7 +1719,7 @@
         "id": "CWE-319",
         "name": "Cleartext Transmission of Sensitive Information",
         "href": "AIP/quality-standards/CWE/items/CWE-319",
-        "count": 8
+        "count": 9
     },
     {
         "id": "CWE-321",
@@ -1875,7 +1875,7 @@
         "id": "CWE-346",
         "name": "Origin Validation Error",
         "href": "AIP/quality-standards/CWE/items/CWE-346",
-        "count": 0
+        "count": 1
     },
     {
         "id": "CWE-347",
@@ -1947,7 +1947,7 @@
         "id": "CWE-359",
         "name": "Exposure of Private Personal Information to an Unauthorized Actor",
         "href": "AIP/quality-standards/CWE/items/CWE-359",
-        "count": 2
+        "count": 3
     },
     {
         "id": "CWE-360",
@@ -2811,7 +2811,7 @@
         "id": "CWE-532",
         "name": "Insertion of Sensitive Information into Log File",
         "href": "AIP/quality-standards/CWE/items/CWE-532",
-        "count": 4
+        "count": 5
     },
     {
         "id": "CWE-533",

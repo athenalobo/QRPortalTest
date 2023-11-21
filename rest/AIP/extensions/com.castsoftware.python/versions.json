@@ -1,5 +1,12 @@
 [
     {
+        "name": "1.6.0-alpha5",
+        "href": "AIP/extensions/com.castsoftware.python/versions/1.6.0-alpha5",
+        "metaModelCRC": 2550262236,
+        "rulesCRC": 2377958097,
+        "transactionsConfigurationCRC": 1807142905
+    },
+    {
         "name": "1.6.0-alpha4",
         "href": "AIP/extensions/com.castsoftware.python/versions/1.6.0-alpha4",
         "metaModelCRC": 2550262236,

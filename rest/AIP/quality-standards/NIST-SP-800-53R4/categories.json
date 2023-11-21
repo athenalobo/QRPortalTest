@@ -8,7 +8,7 @@
     {
         "name": "NIST-SP-800-53R4-AU",
         "href": "AIP/quality-standards/NIST-SP-800-53R4/categories/NIST-SP-800-53R4-AU",
-        "count": 12,
+        "count": 13,
         "description": "Audit and Accountability"
     },
     {
@@ -38,7 +38,7 @@
     {
         "name": "NIST-SP-800-53R4-SC",
         "href": "AIP/quality-standards/NIST-SP-800-53R4/categories/NIST-SP-800-53R4-SC",
-        "count": 58,
+        "count": 59,
         "description": "System and Communication Protection"
     },
     {

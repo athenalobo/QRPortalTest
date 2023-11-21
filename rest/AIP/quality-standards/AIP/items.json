@@ -39,7 +39,7 @@
         "id": "AIP-CORE-RULE",
         "name": "RESERVED TAG - DO NOT USE",
         "href": "AIP/quality-standards/AIP/items/AIP-CORE-RULE",
-        "count": 2565
+        "count": 2568
     },
     {
         "id": "AIP-SYSTEM-LEVEL",
@@ -135,7 +135,7 @@
         "id": "AIP-GDPR",
         "name": "General Data Protection Regulation",
         "href": "AIP/quality-standards/AIP/items/AIP-GDPR",
-        "count": 173
+        "count": 174
     },
     {
         "id": "AIP-MISCONFIGURATION",
@@ -159,7 +159,7 @@
         "id": "DATA-SAFETY",
         "name": "Data Safety",
         "href": "AIP/quality-standards/AIP/items/DATA-SAFETY",
-        "count": 33
+        "count": 34
     },
     {
         "id": "SQL-INJECTION",
