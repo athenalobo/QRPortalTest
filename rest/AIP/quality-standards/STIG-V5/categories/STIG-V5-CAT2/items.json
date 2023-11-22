@@ -1113,7 +1113,7 @@
         "id": "STIG-V-222606",
         "name": "The application must validate all input.",
         "href": "AIP/quality-standards/STIG-V5/items/STIG-V-222606",
-        "count": 1
+        "count": 2
     },
     {
         "id": "STIG-V-222610",

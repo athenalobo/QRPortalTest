@@ -8,5 +8,15 @@
         "technologyNames": [
             "JEE"
         ]
+    },
+    {
+        "id": 1021088,
+        "name": "Avoid uncontrolled sleep calls to prevent DoS attacks (Python)",
+        "href": "AIP/quality-rules/1021088",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "Python"
+        ]
     }
 ]
