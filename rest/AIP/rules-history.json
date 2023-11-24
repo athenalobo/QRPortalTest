@@ -14282,6 +14282,15 @@
     ],
     "com.castsoftware.nosqldotnet": [
         {
+            "version": "1.8.1-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.8.0-funcrel",
             "addedRules": [
                 
@@ -14824,6 +14833,15 @@
         }
     ],
     "com.castsoftware.nosqljava": [
+        {
+            "version": "1.8.1-funcrel",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
         {
             "version": "1.8.0-funcrel",
             "addedRules": [
