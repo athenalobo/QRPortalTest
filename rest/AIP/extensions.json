@@ -482,6 +482,12 @@
     {
         "qualityModel": false,
         "transactionsConfiguration": false,
+        "name": "com.castsoftware.ormlite",
+        "href": "AIP/extensions/com.castsoftware.ormlite"
+    },
+    {
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.owasp-index",
         "href": "AIP/extensions/com.castsoftware.owasp-index"
     },
