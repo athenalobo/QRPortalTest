@@ -1,709 +1,709 @@
 [
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.android",
         "href": "AIP/extensions/com.castsoftware.android"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.angularjs",
         "href": "AIP/extensions/com.castsoftware.angularjs"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.applicationinformation",
         "href": "AIP/extensions/com.castsoftware.applicationinformation"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.architecture",
         "href": "AIP/extensions/com.castsoftware.architecture"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.asp",
         "href": "AIP/extensions/com.castsoftware.asp"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.awsdotnet",
         "href": "AIP/extensions/com.castsoftware.awsdotnet"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.awsjava",
         "href": "AIP/extensions/com.castsoftware.awsjava"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.azure.dotnet",
         "href": "AIP/extensions/com.castsoftware.azure.dotnet"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.azure.java",
         "href": "AIP/extensions/com.castsoftware.azure.java"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.birt",
         "href": "AIP/extensions/com.castsoftware.birt"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.birt.missingtable",
         "href": "AIP/extensions/com.castsoftware.birt.missingtable"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.bpel",
         "href": "AIP/extensions/com.castsoftware.bpel"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.businessobject",
         "href": "AIP/extensions/com.castsoftware.businessobject"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.camel",
         "href": "AIP/extensions/com.castsoftware.camel"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.cassandra",
         "href": "AIP/extensions/com.castsoftware.cassandra"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.cfamily",
         "href": "AIP/extensions/com.castsoftware.cfamily"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.cisq-index",
         "href": "AIP/extensions/com.castsoftware.cisq-index"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.cloudconfig",
         "href": "AIP/extensions/com.castsoftware.cloudconfig"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.coremetrics",
         "href": "AIP/extensions/com.castsoftware.coremetrics"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.cpp",
         "href": "AIP/extensions/com.castsoftware.cpp"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.cpp.missingtable",
         "href": "AIP/extensions/com.castsoftware.cpp.missingtable"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.dotnet",
         "href": "AIP/extensions/com.castsoftware.dotnet"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.dotnet.ado",
         "href": "AIP/extensions/com.castsoftware.dotnet.ado"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.dotnet.dapper",
         "href": "AIP/extensions/com.castsoftware.dotnet.dapper"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.dotnet.gcp",
         "href": "AIP/extensions/com.castsoftware.dotnet.gcp"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.dotnet.grpc",
         "href": "AIP/extensions/com.castsoftware.dotnet.grpc"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.dotnet.kafka",
         "href": "AIP/extensions/com.castsoftware.dotnet.kafka"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.dotnet.missingtable",
         "href": "AIP/extensions/com.castsoftware.dotnet.missingtable"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.dotnet.msappblocksdata",
         "href": "AIP/extensions/com.castsoftware.dotnet.msappblocksdata"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.dotnet.nhibernate",
         "href": "AIP/extensions/com.castsoftware.dotnet.nhibernate"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.dotnet.odata",
         "href": "AIP/extensions/com.castsoftware.dotnet.odata"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.dotnet.rabbitmq",
         "href": "AIP/extensions/com.castsoftware.dotnet.rabbitmq"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.dotnet.service",
         "href": "AIP/extensions/com.castsoftware.dotnet.service"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.dotnetweb",
         "href": "AIP/extensions/com.castsoftware.dotnetweb"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.dwr",
         "href": "AIP/extensions/com.castsoftware.dwr"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.ead4j",
         "href": "AIP/extensions/com.castsoftware.ead4j"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.egl",
         "href": "AIP/extensions/com.castsoftware.egl"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.entity",
         "href": "AIP/extensions/com.castsoftware.entity"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.flex",
         "href": "AIP/extensions/com.castsoftware.flex"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.fortran",
         "href": "AIP/extensions/com.castsoftware.fortran"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.greenit",
         "href": "AIP/extensions/com.castsoftware.greenit"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.grpcjava",
         "href": "AIP/extensions/com.castsoftware.grpcjava"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.gwt",
         "href": "AIP/extensions/com.castsoftware.gwt"
     },
     {
-        "qualityModel": null,
+        "qualityModel": false,
         "transactionsConfiguration": null,
         "name": "com.castsoftware.highlight2mri",
         "href": "AIP/extensions/com.castsoftware.highlight2mri"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.html5",
         "href": "AIP/extensions/com.castsoftware.html5"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.ibatis",
         "href": "AIP/extensions/com.castsoftware.ibatis"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.internal.platform",
         "href": "AIP/extensions/com.castsoftware.internal.platform"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.java.cassandra",
         "href": "AIP/extensions/com.castsoftware.java.cassandra"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.java.freemarker",
         "href": "AIP/extensions/com.castsoftware.java.freemarker"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.java.gcp",
         "href": "AIP/extensions/com.castsoftware.java.gcp"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.java.hibernate",
         "href": "AIP/extensions/com.castsoftware.java.hibernate"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.java.internal",
         "href": "AIP/extensions/com.castsoftware.java.internal"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.java.jdbi",
         "href": "AIP/extensions/com.castsoftware.java.jdbi"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.java.reactive",
         "href": "AIP/extensions/com.castsoftware.java.reactive"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.java.service",
         "href": "AIP/extensions/com.castsoftware.java.service"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.java.spark",
         "href": "AIP/extensions/com.castsoftware.java.spark"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.java.sql",
         "href": "AIP/extensions/com.castsoftware.java.sql"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.java.velocity",
         "href": "AIP/extensions/com.castsoftware.java.velocity"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.java2program",
         "href": "AIP/extensions/com.castsoftware.java2program"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.jaxrs",
         "href": "AIP/extensions/com.castsoftware.jaxrs"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.jaxws",
         "href": "AIP/extensions/com.castsoftware.jaxws"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.jee",
         "href": "AIP/extensions/com.castsoftware.jee"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.jee.missingtable",
         "href": "AIP/extensions/com.castsoftware.jee.missingtable"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.jeerules",
         "href": "AIP/extensions/com.castsoftware.jeerules"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.jooq",
         "href": "AIP/extensions/com.castsoftware.jooq"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.jquery",
         "href": "AIP/extensions/com.castsoftware.jquery"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.kbportablerootpaths",
         "href": "AIP/extensions/com.castsoftware.kbportablerootpaths"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.kotlin",
         "href": "AIP/extensions/com.castsoftware.kotlin"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.mainframe",
         "href": "AIP/extensions/com.castsoftware.mainframe"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.mainframe.missingtable",
         "href": "AIP/extensions/com.castsoftware.mainframe.missingtable"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.mips-redux-index",
         "href": "AIP/extensions/com.castsoftware.mips-redux-index"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.moduledefinitiontypes",
         "href": "AIP/extensions/com.castsoftware.moduledefinitiontypes"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.mqe",
         "href": "AIP/extensions/com.castsoftware.mqe"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.msenterpriselibrary",
         "href": "AIP/extensions/com.castsoftware.msenterpriselibrary"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.nodejs",
         "href": "AIP/extensions/com.castsoftware.nodejs"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.nodejs.missingtable",
         "href": "AIP/extensions/com.castsoftware.nodejs.missingtable"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.nosqldotnet",
         "href": "AIP/extensions/com.castsoftware.nosqldotnet"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.nosqljava",
         "href": "AIP/extensions/com.castsoftware.nosqljava"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.omg-ascqm-index",
         "href": "AIP/extensions/com.castsoftware.omg-ascqm-index"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.omg-atdm",
         "href": "AIP/extensions/com.castsoftware.omg-atdm"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.ormlite",
         "href": "AIP/extensions/com.castsoftware.ormlite"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.owasp-index",
         "href": "AIP/extensions/com.castsoftware.owasp-index"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.peoplesoft",
         "href": "AIP/extensions/com.castsoftware.peoplesoft"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.php",
         "href": "AIP/extensions/com.castsoftware.php"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.php.security",
         "href": "AIP/extensions/com.castsoftware.php.security"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.pl1",
         "href": "AIP/extensions/com.castsoftware.pl1"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.python",
         "href": "AIP/extensions/com.castsoftware.python"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.python.missingtable",
         "href": "AIP/extensions/com.castsoftware.python.missingtable"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.reactjs",
         "href": "AIP/extensions/com.castsoftware.reactjs"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.rpg",
         "href": "AIP/extensions/com.castsoftware.rpg"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.rpg.missingtable",
         "href": "AIP/extensions/com.castsoftware.rpg.missingtable"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.sap",
         "href": "AIP/extensions/com.castsoftware.sap"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.sap.hybris",
         "href": "AIP/extensions/com.castsoftware.sap.hybris"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.sapui5",
         "href": "AIP/extensions/com.castsoftware.sapui5"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.securityanalyzer",
         "href": "AIP/extensions/com.castsoftware.securityanalyzer"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.shell",
         "href": "AIP/extensions/com.castsoftware.shell"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.siebel",
         "href": "AIP/extensions/com.castsoftware.siebel"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.silverlight",
         "href": "AIP/extensions/com.castsoftware.silverlight"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.springbatch",
         "href": "AIP/extensions/com.castsoftware.springbatch"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.springdata",
         "href": "AIP/extensions/com.castsoftware.springdata"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.springmvc",
         "href": "AIP/extensions/com.castsoftware.springmvc"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.springsecurity",
         "href": "AIP/extensions/com.castsoftware.springsecurity"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.springwebflow",
         "href": "AIP/extensions/com.castsoftware.springwebflow"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.sql.movetocloud",
         "href": "AIP/extensions/com.castsoftware.sql.movetocloud"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.sqlanalyzer",
         "href": "AIP/extensions/com.castsoftware.sqlanalyzer"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.struts",
         "href": "AIP/extensions/com.castsoftware.struts"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.swift",
         "href": "AIP/extensions/com.castsoftware.swift"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.swing",
         "href": "AIP/extensions/com.castsoftware.swing"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.systemlevelrules",
         "href": "AIP/extensions/com.castsoftware.systemlevelrules"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.tibco",
         "href": "AIP/extensions/com.castsoftware.tibco"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.typescript",
         "href": "AIP/extensions/com.castsoftware.typescript"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.vaadin",
         "href": "AIP/extensions/com.castsoftware.vaadin"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.vuejs",
         "href": "AIP/extensions/com.castsoftware.vuejs"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.wbslinker",
         "href": "AIP/extensions/com.castsoftware.wbslinker"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": true,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.wcf",
         "href": "AIP/extensions/com.castsoftware.wcf"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.wicket",
         "href": "AIP/extensions/com.castsoftware.wicket"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.wpf",
         "href": "AIP/extensions/com.castsoftware.wpf"
     },
     {
-        "qualityModel": null,
-        "transactionsConfiguration": null,
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.xset",
         "href": "AIP/extensions/com.castsoftware.xset"
     }
