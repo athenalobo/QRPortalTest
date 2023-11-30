@@ -56,6 +56,13 @@
         "transactionsConfigurationCRC": null
     },
     {
+        "name": "1.0.0-beta10",
+        "href": "AIP/extensions/com.castsoftware.java.hibernate/versions/1.0.0-beta10",
+        "metaModelCRC": 4064799141,
+        "rulesCRC": 0,
+        "transactionsConfigurationCRC": null
+    },
+    {
         "name": "1.0.0-beta1",
         "href": "AIP/extensions/com.castsoftware.java.hibernate/versions/1.0.0-beta1",
         "metaModelCRC": 243272558,

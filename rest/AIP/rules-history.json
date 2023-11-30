@@ -8978,6 +8978,15 @@
             ]
         },
         {
+            "version": "1.0.0-beta10",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.0-beta1",
             "addedRules": [
                 
