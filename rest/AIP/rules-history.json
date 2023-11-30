@@ -24003,6 +24003,15 @@
     ],
     "com.castsoftware.sql.movetocloud": [
         {
+            "version": "1.0.0-beta9",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.0-beta8",
             "addedRules": [
                 {
