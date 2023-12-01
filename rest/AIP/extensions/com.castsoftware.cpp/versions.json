@@ -187,5 +187,12 @@
         "metaModelCRC": 0,
         "rulesCRC": 3342824835,
         "transactionsConfigurationCRC": null
+    },
+    {
+        "name": "2.0.0-alpha2",
+        "href": "AIP/extensions/com.castsoftware.cpp/versions/2.0.0-alpha2",
+        "metaModelCRC": 0,
+        "rulesCRC": 0,
+        "transactionsConfigurationCRC": null
     }
 ]

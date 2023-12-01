@@ -31,6 +31,12 @@
     },
     {
         "qualityModel": false,
+        "transactionsConfiguration": false,
+        "name": "com.castsoftware.automaticlinksvalidator",
+        "href": "AIP/extensions/com.castsoftware.automaticlinksvalidator"
+    },
+    {
+        "qualityModel": false,
         "transactionsConfiguration": true,
         "name": "com.castsoftware.awsdotnet",
         "href": "AIP/extensions/com.castsoftware.awsdotnet"
@@ -110,6 +116,12 @@
     {
         "qualityModel": false,
         "transactionsConfiguration": false,
+        "name": "com.castsoftware.consoleinformation",
+        "href": "AIP/extensions/com.castsoftware.consoleinformation"
+    },
+    {
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.coremetrics",
         "href": "AIP/extensions/com.castsoftware.coremetrics"
     },
@@ -124,6 +136,12 @@
         "transactionsConfiguration": false,
         "name": "com.castsoftware.cpp.missingtable",
         "href": "AIP/extensions/com.castsoftware.cpp.missingtable"
+    },
+    {
+        "qualityModel": false,
+        "transactionsConfiguration": false,
+        "name": "com.castsoftware.deltatool",
+        "href": "AIP/extensions/com.castsoftware.deltatool"
     },
     {
         "qualityModel": true,
@@ -220,6 +238,12 @@
         "transactionsConfiguration": true,
         "name": "com.castsoftware.egl",
         "href": "AIP/extensions/com.castsoftware.egl"
+    },
+    {
+        "qualityModel": false,
+        "transactionsConfiguration": false,
+        "name": "com.castsoftware.ejb",
+        "href": "AIP/extensions/com.castsoftware.ejb"
     },
     {
         "qualityModel": false,
@@ -422,6 +446,12 @@
     {
         "qualityModel": false,
         "transactionsConfiguration": false,
+        "name": "com.castsoftware.mainframe.sensitivedata",
+        "href": "AIP/extensions/com.castsoftware.mainframe.sensitivedata"
+    },
+    {
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.mips-redux-index",
         "href": "AIP/extensions/com.castsoftware.mips-redux-index"
     },
@@ -504,6 +534,12 @@
         "href": "AIP/extensions/com.castsoftware.php"
     },
     {
+        "qualityModel": false,
+        "transactionsConfiguration": false,
+        "name": "com.castsoftware.php.runtime82",
+        "href": "AIP/extensions/com.castsoftware.php.runtime82"
+    },
+    {
         "qualityModel": true,
         "transactionsConfiguration": false,
         "name": "com.castsoftware.php.security",
@@ -568,6 +604,12 @@
         "transactionsConfiguration": false,
         "name": "com.castsoftware.securityanalyzer",
         "href": "AIP/extensions/com.castsoftware.securityanalyzer"
+    },
+    {
+        "qualityModel": false,
+        "transactionsConfiguration": false,
+        "name": "com.castsoftware.securityforjava",
+        "href": "AIP/extensions/com.castsoftware.securityforjava"
     },
     {
         "qualityModel": true,
