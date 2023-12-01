@@ -22582,6 +22582,15 @@
     ],
     "com.castsoftware.shell": [
         {
+            "version": "1.3.4",
+            "addedRules": [
+                
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.3.3-funcrel",
             "addedRules": [
                 
