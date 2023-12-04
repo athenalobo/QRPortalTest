@@ -9,13 +9,13 @@
         "id": "A02-2021",
         "name": "Cryptographic Failures",
         "href": "AIP/quality-standards/OWASP/items/A02-2021",
-        "count": 63
+        "count": 64
     },
     {
         "id": "A03-2021",
         "name": "Injection",
         "href": "AIP/quality-standards/OWASP/items/A03-2021",
-        "count": 155
+        "count": 156
     },
     {
         "id": "A04-2021",
@@ -27,7 +27,7 @@
         "id": "A05-2021",
         "name": "Security Misconfiguration",
         "href": "AIP/quality-standards/OWASP/items/A05-2021",
-        "count": 87
+        "count": 88
     },
     {
         "id": "A06-2021",

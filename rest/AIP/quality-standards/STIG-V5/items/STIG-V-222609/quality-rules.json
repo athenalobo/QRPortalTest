@@ -195,6 +195,16 @@
         ]
     },
     {
+        "id": 1034058,
+        "name": "Avoid uncontrolled sleep calls (PHP)",
+        "href": "AIP/quality-rules/1034058",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
         "id": 1043084,
         "name": "Avoid XML schemas with unbounded occurrences",
         "href": "AIP/quality-rules/1043084",

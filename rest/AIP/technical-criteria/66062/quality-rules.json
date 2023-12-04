@@ -2488,6 +2488,26 @@
         ]
     },
     {
+        "id": 1034054,
+        "name": "Avoid parsing XML data without restriction of XML External Entity Reference (XXE) (PHP)",
+        "href": "AIP/quality-rules/1034054",
+        "critical": true,
+        "weight": 9,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
+        "id": 1034058,
+        "name": "Avoid uncontrolled sleep calls (PHP)",
+        "href": "AIP/quality-rules/1034058",
+        "critical": true,
+        "weight": 9,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
         "id": 1039012,
         "name": "Avoid using referer header field in HTTP request",
         "href": "AIP/quality-rules/1039012",

@@ -1503,6 +1503,16 @@
         ]
     },
     {
+        "id": 1034058,
+        "name": "Avoid uncontrolled sleep calls (PHP)",
+        "href": "AIP/quality-rules/1034058",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
         "id": 1040006,
         "name": "Always set Content-Security-Policy for spring application",
         "href": "AIP/quality-rules/1040006",

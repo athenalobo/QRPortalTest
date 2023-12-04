@@ -33,7 +33,7 @@
         "id": "STIG-V-222596",
         "name": "The application must protect the confidentiality and integrity of transmitted information.",
         "href": "AIP/quality-standards/STIG-V5/items/STIG-V-222596",
-        "count": 56
+        "count": 57
     },
     {
         "id": "STIG-V-222602",
@@ -57,13 +57,13 @@
         "id": "STIG-V-222608",
         "name": "The application must not be vulnerable to XML-oriented attacks.",
         "href": "AIP/quality-standards/STIG-V5/items/STIG-V-222608",
-        "count": 9
+        "count": 10
     },
     {
         "id": "STIG-V-222609",
         "name": "The application must not be subject to input handling vulnerabilities.",
         "href": "AIP/quality-standards/STIG-V5/items/STIG-V-222609",
-        "count": 19
+        "count": 20
     },
     {
         "id": "STIG-V-222612",
@@ -165,7 +165,7 @@
         "id": "STIG-V-222593",
         "name": "XML-based applications must mitigate DoS attacks by using XML filters, parser options, or gateways.",
         "href": "AIP/quality-standards/STIG-V5/items/STIG-V-222593",
-        "count": 10
+        "count": 11
     },
     {
         "id": "STIG-V-222598",
@@ -189,7 +189,7 @@
         "id": "STIG-V-222606",
         "name": "The application must validate all input.",
         "href": "AIP/quality-standards/STIG-V5/items/STIG-V-222606",
-        "count": 2
+        "count": 3
     },
     {
         "id": "STIG-V-222610",

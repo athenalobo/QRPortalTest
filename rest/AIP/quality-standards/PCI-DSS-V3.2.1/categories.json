@@ -20,13 +20,13 @@
     {
         "name": "PCI-DSS-Req-4",
         "href": "AIP/quality-standards/PCI-DSS-V3.2.1/categories/PCI-DSS-Req-4",
-        "count": 41,
+        "count": 42,
         "description": "Encrypt transmission of cardholder data across open, public networks."
     },
     {
         "name": "PCI-DSS-Req-6",
         "href": "AIP/quality-standards/PCI-DSS-V3.2.1/categories/PCI-DSS-Req-6",
-        "count": 676,
+        "count": 678,
         "description": "Develop and maintain secure systems and applications."
     },
     {

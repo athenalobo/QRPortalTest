@@ -20,6 +20,16 @@
         ]
     },
     {
+        "id": 1034054,
+        "name": "Avoid parsing XML data without restriction of XML External Entity Reference (XXE) (PHP)",
+        "href": "AIP/quality-rules/1034054",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
         "id": 1039032,
         "name": "Avoid using DocumentBuilder without restriction of XML External Entity Reference (XXE)",
         "href": "AIP/quality-rules/1039032",
