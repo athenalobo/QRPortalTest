@@ -1,5 +1,12 @@
 [
     {
+        "name": "1.2.4-funcrel",
+        "href": "AIP/extensions/com.castsoftware.awsjava/versions/1.2.4-funcrel",
+        "metaModelCRC": 3244277383,
+        "rulesCRC": 0,
+        "transactionsConfigurationCRC": 4052024923
+    },
+    {
         "name": "1.2.3-funcrel",
         "href": "AIP/extensions/com.castsoftware.awsjava/versions/1.2.3-funcrel",
         "metaModelCRC": 3244277383,
