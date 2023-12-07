@@ -283,7 +283,7 @@
     },
     {
         "qualityModel": false,
-        "transactionsConfiguration": null,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.highlight2mri",
         "href": "AIP/extensions/com.castsoftware.highlight2mri"
     },
