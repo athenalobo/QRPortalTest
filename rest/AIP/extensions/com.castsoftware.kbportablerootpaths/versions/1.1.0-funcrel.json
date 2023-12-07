@@ -1,0 +1,15 @@
+{
+    "extension": {
+        "name": "com.castsoftware.kbportablerootpaths",
+        "href": "AIP/extensions/com.castsoftware.kbportablerootpaths"
+    },
+    "name": "1.1.0-funcrel",
+    "href": "AIP/extensions/com.castsoftware.kbportablerootpaths/versions/1.1.0-funcrel",
+    "publishedTime": null,
+    "qualityModel": false,
+    "transactionsConfiguration": false,
+    "transactionsConfigurationCRC": null,
+    "metaModelCRC": 0,
+    "rulesCRC": 0,
+    "qualityRules": null
+}
