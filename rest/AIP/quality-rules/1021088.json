@@ -18,7 +18,7 @@
     "remediationSample": "import time\n\n# solution 1\nduration = get_waiting_duration() # tainted_source\nwaiting_time = {\n    \"short\": 1,\n    \"medium\": 3,\n    \"long\": 10,\n}\nseconds = waiting_time[duration]  # range of acceptable durations\ntime.sleep(seconds)\n\n\n# solution 2\nmax_waiting_time = 10\nmin_waiting_time = 1\nseconds = get_waiting_duration() # tainted_source\nseconds = min(seconds, max_waiting_time)  # establish upper limit\nseconds = max(seconds, min_waiting_time)  # establish lower limit\ntime.sleep(seconds)",
     "sample": "import time\n\nseconds = get_waiting_duration() # tainted_source\ntime.sleep(seconds)",
     "total": "Number of Python artifacts",
-    "alternativeName": "Avoid uncontrolled sleep calls to prevent DoS attacks (Python)",
+    "alternativeName": "Avoid uncontrolled sleep calls (Python)",
     "businessCriteria": [
         {
             "id": 66031,
