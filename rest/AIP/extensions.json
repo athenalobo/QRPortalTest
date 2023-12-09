@@ -14,26 +14,8 @@
     {
         "qualityModel": false,
         "transactionsConfiguration": false,
-        "name": "com.castsoftware.applicationinformation",
-        "href": "AIP/extensions/com.castsoftware.applicationinformation"
-    },
-    {
-        "qualityModel": false,
-        "transactionsConfiguration": false,
-        "name": "com.castsoftware.architecture",
-        "href": "AIP/extensions/com.castsoftware.architecture"
-    },
-    {
-        "qualityModel": false,
-        "transactionsConfiguration": false,
         "name": "com.castsoftware.asp",
         "href": "AIP/extensions/com.castsoftware.asp"
-    },
-    {
-        "qualityModel": false,
-        "transactionsConfiguration": false,
-        "name": "com.castsoftware.automaticlinksvalidator",
-        "href": "AIP/extensions/com.castsoftware.automaticlinksvalidator"
     },
     {
         "qualityModel": false,
@@ -114,18 +96,6 @@
         "href": "AIP/extensions/com.castsoftware.cloudconfig"
     },
     {
-        "qualityModel": false,
-        "transactionsConfiguration": false,
-        "name": "com.castsoftware.consoleinformation",
-        "href": "AIP/extensions/com.castsoftware.consoleinformation"
-    },
-    {
-        "qualityModel": false,
-        "transactionsConfiguration": false,
-        "name": "com.castsoftware.coremetrics",
-        "href": "AIP/extensions/com.castsoftware.coremetrics"
-    },
-    {
         "qualityModel": true,
         "transactionsConfiguration": true,
         "name": "com.castsoftware.cpp",
@@ -136,12 +106,6 @@
         "transactionsConfiguration": false,
         "name": "com.castsoftware.cpp.missingtable",
         "href": "AIP/extensions/com.castsoftware.cpp.missingtable"
-    },
-    {
-        "qualityModel": false,
-        "transactionsConfiguration": false,
-        "name": "com.castsoftware.deltatool",
-        "href": "AIP/extensions/com.castsoftware.deltatool"
     },
     {
         "qualityModel": true,
@@ -282,12 +246,6 @@
         "href": "AIP/extensions/com.castsoftware.gwt"
     },
     {
-        "qualityModel": false,
-        "transactionsConfiguration": false,
-        "name": "com.castsoftware.highlight2mri",
-        "href": "AIP/extensions/com.castsoftware.highlight2mri"
-    },
-    {
         "qualityModel": true,
         "transactionsConfiguration": true,
         "name": "com.castsoftware.html5",
@@ -420,12 +378,6 @@
         "href": "AIP/extensions/com.castsoftware.jquery"
     },
     {
-        "qualityModel": false,
-        "transactionsConfiguration": false,
-        "name": "com.castsoftware.kbportablerootpaths",
-        "href": "AIP/extensions/com.castsoftware.kbportablerootpaths"
-    },
-    {
         "qualityModel": true,
         "transactionsConfiguration": true,
         "name": "com.castsoftware.kotlin",
@@ -454,12 +406,6 @@
         "transactionsConfiguration": false,
         "name": "com.castsoftware.mips-redux-index",
         "href": "AIP/extensions/com.castsoftware.mips-redux-index"
-    },
-    {
-        "qualityModel": false,
-        "transactionsConfiguration": false,
-        "name": "com.castsoftware.moduledefinitiontypes",
-        "href": "AIP/extensions/com.castsoftware.moduledefinitiontypes"
     },
     {
         "qualityModel": false,
@@ -506,12 +452,6 @@
     {
         "qualityModel": false,
         "transactionsConfiguration": false,
-        "name": "com.castsoftware.omg-atdm",
-        "href": "AIP/extensions/com.castsoftware.omg-atdm"
-    },
-    {
-        "qualityModel": false,
-        "transactionsConfiguration": false,
         "name": "com.castsoftware.ormlite",
         "href": "AIP/extensions/com.castsoftware.ormlite"
     },
@@ -532,12 +472,6 @@
         "transactionsConfiguration": true,
         "name": "com.castsoftware.php",
         "href": "AIP/extensions/com.castsoftware.php"
-    },
-    {
-        "qualityModel": false,
-        "transactionsConfiguration": false,
-        "name": "com.castsoftware.php.runtime82",
-        "href": "AIP/extensions/com.castsoftware.php.runtime82"
     },
     {
         "qualityModel": true,
@@ -742,11 +676,5 @@
         "transactionsConfiguration": true,
         "name": "com.castsoftware.wpf",
         "href": "AIP/extensions/com.castsoftware.wpf"
-    },
-    {
-        "qualityModel": false,
-        "transactionsConfiguration": false,
-        "name": "com.castsoftware.xset",
-        "href": "AIP/extensions/com.castsoftware.xset"
     }
 ]
