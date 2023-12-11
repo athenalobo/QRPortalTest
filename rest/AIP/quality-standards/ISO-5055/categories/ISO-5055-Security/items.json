@@ -111,7 +111,7 @@
         "id": "CWE-134",
         "name": "Use of Externally-Controlled Format String",
         "href": "AIP/quality-standards/ISO-5055/items/CWE-134",
-        "count": 9
+        "count": 10
     },
     {
         "id": "CWE-194",

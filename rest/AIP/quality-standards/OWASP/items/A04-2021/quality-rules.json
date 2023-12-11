@@ -178,6 +178,16 @@
         ]
     },
     {
+        "id": 1021120,
+        "name": "Avoid mixing trusted and untrusted data in HTTP requests (Python)",
+        "href": "AIP/quality-rules/1021120",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
         "id": 1024020,
         "name": "Avoid using implicit intent",
         "href": "AIP/quality-rules/1024020",

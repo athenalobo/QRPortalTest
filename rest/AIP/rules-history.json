@@ -7066,6 +7066,30 @@
     ],
     "com.castsoftware.python": [
         {
+            "version": "1.6.0-alpha6",
+            "addedRules": [
+                {
+                    "id": 1021124,
+                    "name": "Avoid uncontrolled format string (Python)"
+                },
+                {
+                    "id": 1021122,
+                    "name": "Avoid cookie poisoning"
+                },
+                {
+                    "id": 1021120,
+                    "name": "Avoid mixing trusted and untrusted data in HTTP requests (Python)"
+                },
+                {
+                    "id": 1021118,
+                    "name": "Avoid disabling CSRF Protection in fastapi_jwt_auth"
+                }
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.6.0-alpha5",
             "addedRules": [
                 {

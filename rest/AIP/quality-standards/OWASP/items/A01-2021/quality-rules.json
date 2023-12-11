@@ -126,6 +126,16 @@
         ]
     },
     {
+        "id": 1021118,
+        "name": "Avoid disabling CSRF Protection in fastapi_jwt_auth",
+        "href": "AIP/quality-rules/1021118",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
         "id": 1024002,
         "name": "Always have read permission to read data of Content Provider",
         "href": "AIP/quality-rules/1024002",

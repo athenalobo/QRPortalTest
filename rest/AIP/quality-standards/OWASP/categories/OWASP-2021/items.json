@@ -3,7 +3,7 @@
         "id": "A01-2021",
         "name": "Broken Access Control",
         "href": "AIP/quality-standards/OWASP/items/A01-2021",
-        "count": 47
+        "count": 48
     },
     {
         "id": "A02-2021",
@@ -21,7 +21,7 @@
         "id": "A04-2021",
         "name": "Insecure Design",
         "href": "AIP/quality-standards/OWASP/items/A04-2021",
-        "count": 37
+        "count": 38
     },
     {
         "id": "A05-2021",

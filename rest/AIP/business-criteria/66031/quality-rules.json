@@ -11340,7 +11340,7 @@
     },
     {
         "id": 1021088,
-        "name": "Avoid uncontrolled sleep calls to prevent DoS attacks (Python)",
+        "name": "Avoid uncontrolled sleep calls (Python)",
         "href": "AIP/quality-rules/1021088",
         "critical": true,
         "severity": 20,
@@ -11452,6 +11452,46 @@
         "id": 1021112,
         "name": "Avoid OS command injection (Python)",
         "href": "AIP/quality-rules/1021112",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
+        "id": 1021118,
+        "name": "Avoid disabling CSRF Protection in fastapi_jwt_auth",
+        "href": "AIP/quality-rules/1021118",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
+        "id": 1021120,
+        "name": "Avoid mixing trusted and untrusted data in HTTP requests (Python)",
+        "href": "AIP/quality-rules/1021120",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
+        "id": 1021122,
+        "name": "Avoid cookie poisoning",
+        "href": "AIP/quality-rules/1021122",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
+        "id": 1021124,
+        "name": "Avoid uncontrolled format string (Python)",
+        "href": "AIP/quality-rules/1021124",
         "critical": true,
         "severity": 20,
         "technologyNames": [

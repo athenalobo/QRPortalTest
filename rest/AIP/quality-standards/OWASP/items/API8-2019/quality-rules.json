@@ -745,7 +745,7 @@
     },
     {
         "id": 1021088,
-        "name": "Avoid uncontrolled sleep calls to prevent DoS attacks (Python)",
+        "name": "Avoid uncontrolled sleep calls (Python)",
         "href": "AIP/quality-rules/1021088",
         "critical": true,
         "severity": 20,
@@ -787,6 +787,16 @@
         "id": 1021106,
         "name": "Avoid server-side request forgery (Python)",
         "href": "AIP/quality-rules/1021106",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "Python"
+        ]
+    },
+    {
+        "id": 1021120,
+        "name": "Avoid mixing trusted and untrusted data in HTTP requests (Python)",
+        "href": "AIP/quality-rules/1021120",
         "critical": true,
         "severity": 20,
         "technologyNames": [

@@ -39,7 +39,7 @@
         "id": "PCI-Requirement-6.5.1",
         "name": "Injection flaws, particularly SQL injection",
         "href": "AIP/quality-standards/PCI-DSS-V3.1/items/PCI-Requirement-6.5.1",
-        "count": 153
+        "count": 155
     },
     {
         "id": "PCI-Requirement-6.5.10",
@@ -93,7 +93,7 @@
         "id": "PCI-Requirement-6.5.9",
         "name": "Cross-site request forgery (CSRF)",
         "href": "AIP/quality-standards/PCI-DSS-V3.1/items/PCI-Requirement-6.5.9",
-        "count": 7
+        "count": 8
     },
     {
         "id": "PCI-Requirement-8.2.1",

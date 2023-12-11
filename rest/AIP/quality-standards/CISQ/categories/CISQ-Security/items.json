@@ -45,7 +45,7 @@
         "id": "ASCSM-CWE-134",
         "name": "Format String Improper Input Neutralization",
         "href": "AIP/quality-standards/CISQ/items/ASCSM-CWE-134",
-        "count": 9
+        "count": 10
     },
     {
         "id": "ASCSM-CWE-252-resource",

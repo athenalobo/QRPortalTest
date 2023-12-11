@@ -33,7 +33,7 @@
         "id": "A6-2013",
         "name": "Sensitive Data Exposure",
         "href": "AIP/quality-standards/OWASP/items/A6-2013",
-        "count": 121
+        "count": 122
     },
     {
         "id": "A7-2013",
@@ -45,7 +45,7 @@
         "id": "A8-2013",
         "name": "Cross-Site Request Forgery (CSRF)",
         "href": "AIP/quality-standards/OWASP/items/A8-2013",
-        "count": 7
+        "count": 8
     },
     {
         "id": "A9-2013",

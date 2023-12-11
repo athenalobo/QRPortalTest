@@ -33,13 +33,13 @@
         "id": "AIP-CAST-LITE",
         "name": "Rule implemented in CAST Lite product",
         "href": "AIP/quality-standards/AIP/items/AIP-CAST-LITE",
-        "count": 1345
+        "count": 1347
     },
     {
         "id": "AIP-CORE-RULE",
         "name": "RESERVED TAG - DO NOT USE",
         "href": "AIP/quality-standards/AIP/items/AIP-CORE-RULE",
-        "count": 2571
+        "count": 2575
     },
     {
         "id": "AIP-SYSTEM-LEVEL",
@@ -51,7 +51,7 @@
         "id": "AIP-TOP-PRIORITY",
         "name": "Top Priority Rule",
         "href": "AIP/quality-standards/AIP/items/AIP-TOP-PRIORITY",
-        "count": 235
+        "count": 236
     },
     {
         "id": "AIP-HA-FAILURES",
@@ -135,7 +135,7 @@
         "id": "AIP-GDPR",
         "name": "General Data Protection Regulation",
         "href": "AIP/quality-standards/AIP/items/AIP-GDPR",
-        "count": 174
+        "count": 176
     },
     {
         "id": "AIP-MISCONFIGURATION",
