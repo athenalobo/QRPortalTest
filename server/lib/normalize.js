@@ -1,5 +1,3 @@
-const jsonExt = '.json';
- 
 function normalize(url){
     if (/(AIP|CARL|AC|HL)/ig.test(url))
         return normalizeFileName(url);
@@ -10,7 +8,11 @@ function normalize(url){
  
 function normalizeFileName( fileName ){
     // add json as extension file name when required
-    return (/(\.json)/ig.test(fileName) ? fileName : fileName + jsonExt);
+    if (fileName.endsWith(".json"))
+        return fileName;
+    if (fileName.endsWith(".csv"))
+        return fileName;
+    return (fileName + ".json");
 }
  
 module.exports = normalize;
