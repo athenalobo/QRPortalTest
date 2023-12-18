@@ -6,5 +6,9 @@
     {
         "name": "CARL Quality Rules",
         "href": "CARL"
+    },
+    {
+        "name": "CSV Report of Analyzers API Qualified Names",
+        "href": "extend/reports/api-namespaces.csv"
     }
 ]
