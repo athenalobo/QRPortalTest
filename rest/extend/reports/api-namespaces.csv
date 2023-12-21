@@ -45,6 +45,10 @@ Enyim.Caching.Configuration,com.castsoftware.nosqldotnet,1.8.2-funcrel
 File,com.castsoftware.nodejs,2.9.0-beta1
 FluentNHibernate.Mapping,com.castsoftware.dotnet.nhibernate,1.0.0-alpha2
 Flurl.Http,com.castsoftware.dotnet.service,1.0.0-beta2
+Google.Cloud.Bigtable.Admin.V2,com.castsoftware.dotnet.gcp,1.0.1-funcrel
+Google.Cloud.Bigtable.V2,com.castsoftware.dotnet.gcp,1.0.1-funcrel
+Google.Cloud.PubSub.V1,com.castsoftware.dotnet.gcp,1.0.1-funcrel
+Google.Cloud.Storage.V1,com.castsoftware.dotnet.gcp,1.0.1-funcrel
 IBM.Data.DB2,com.castsoftware.dotnet.ado,1.0.0-beta1
 IBM.Data.DB2.Core,com.castsoftware.dotnet.ado,1.0.0-beta1
 IBM.Data.DB2.iSeries,com.castsoftware.dotnet.ado,1.0.0-beta1
