@@ -81,8 +81,48 @@
     },
     {
         "id": 1039040,
-        "name": "Avoid using XMLStreamReader without restriction of XML External Entity Reference (XXE)",
+        "name": "Avoid using XMLInputFactory without restriction of XML External Entity Reference (XXE)",
         "href": "AIP/quality-rules/1039040",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
+        "id": 1039078,
+        "name": "Avoid using SchemaFactory without restriction of XML External Entity Reference (XXE)",
+        "href": "AIP/quality-rules/1039078",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
+        "id": 1039080,
+        "name": "Avoid using TransformerFactory without restriction of XML External Entity Reference (XXE)",
+        "href": "AIP/quality-rules/1039080",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
+        "id": 1039082,
+        "name": "Avoid using SAXTransformerFactory without restriction of XML External Entity Reference (XXE)",
+        "href": "AIP/quality-rules/1039082",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
+        "id": 1039084,
+        "name": "Avoid using SAXBuilder without restriction of XML External Entity Reference (XXE)",
+        "href": "AIP/quality-rules/1039084",
         "critical": true,
         "severity": 20,
         "technologyNames": [

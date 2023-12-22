@@ -135,7 +135,7 @@
         "id": "STIG-V-222608",
         "name": "The application must not be vulnerable to XML-oriented attacks.",
         "href": "CARL/quality-standards/STIG-V5/items/STIG-V-222608",
-        "count": 5
+        "count": 9
     },
     {
         "id": "STIG-V-222609",

@@ -3261,7 +3261,7 @@
         "id": "CWE-611",
         "name": "Improper Restriction of XML External Entity Reference",
         "href": "AIP/quality-standards/CWE/items/CWE-611",
-        "count": 11
+        "count": 15
     },
     {
         "id": "CWE-612",
@@ -4107,7 +4107,7 @@
         "id": "CWE-827",
         "name": "Improper Control of Document Type Definition",
         "href": "AIP/quality-standards/CWE/items/CWE-827",
-        "count": 9
+        "count": 13
     },
     {
         "id": "CWE-828",

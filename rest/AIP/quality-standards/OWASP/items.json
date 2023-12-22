@@ -81,7 +81,7 @@
         "id": "A4-2017",
         "name": "XML External Entities (XXE)",
         "href": "AIP/quality-standards/OWASP/items/A4-2017",
-        "count": 10
+        "count": 14
     },
     {
         "id": "A5-2017",
@@ -147,7 +147,7 @@
         "id": "A05-2021",
         "name": "Security Misconfiguration",
         "href": "AIP/quality-standards/OWASP/items/A05-2021",
-        "count": 88
+        "count": 92
     },
     {
         "id": "A06-2021",

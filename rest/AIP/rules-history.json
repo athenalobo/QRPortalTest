@@ -4049,6 +4049,30 @@
     ],
     "com.castsoftware.jeerules": [
         {
+            "version": "1.5.0-beta2",
+            "addedRules": [
+                {
+                    "id": 1039084,
+                    "name": "Avoid using SAXBuilder without restriction of XML External Entity Reference (XXE)"
+                },
+                {
+                    "id": 1039082,
+                    "name": "Avoid using SAXTransformerFactory without restriction of XML External Entity Reference (XXE)"
+                },
+                {
+                    "id": 1039080,
+                    "name": "Avoid using TransformerFactory without restriction of XML External Entity Reference (XXE)"
+                },
+                {
+                    "id": 1039078,
+                    "name": "Avoid using SchemaFactory without restriction of XML External Entity Reference (XXE)"
+                }
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.5.0-alpha1",
             "addedRules": [
                 {

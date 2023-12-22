@@ -8,13 +8,13 @@
     {
         "name": "OWASP-2017",
         "href": "AIP/quality-standards/OWASP/categories/OWASP-2017",
-        "count": 510,
+        "count": 514,
         "description": "OWASP Top 10 most critical security risks to web applications - 2017"
     },
     {
         "name": "OWASP-2021",
         "href": "AIP/quality-standards/OWASP/categories/OWASP-2021",
-        "count": 535,
+        "count": 539,
         "description": "OWASP Top 10 most critical security risks to web applications - 2021"
     },
     {
