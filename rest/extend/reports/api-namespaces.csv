@@ -197,6 +197,7 @@ com.vaadin.flow.component.button,com.castsoftware.vaadin,1.0.0-alpha1
 com.vaadin.flow.component.checkbox,com.castsoftware.vaadin,1.0.0-beta1
 com.vaadin.flow.component.combobox,com.castsoftware.vaadin,1.0.0-beta1
 com.vaadin.ui,com.castsoftware.vaadin,1.0.0-alpha1
+com.westcoast.jbaclient.persistence,com.castsoftware.java.sql,1.0.2-funcrel
 dircache,com.castsoftware.python,1.6.0-alpha3
 django,com.castsoftware.python,1.6.0-alpha4
 django.core.validators,com.castsoftware.python,1.6.0-alpha4
