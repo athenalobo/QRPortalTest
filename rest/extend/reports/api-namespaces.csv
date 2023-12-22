@@ -237,6 +237,9 @@ javax.swing.tree,com.castsoftware.swing,1.0.0-funcrel
 javax.swing.undo,com.castsoftware.swing,1.0.0-funcrel
 javax.xml.parsers,com.castsoftware.jeerules,1.4.4-funcrel
 javax.xml.stream,com.castsoftware.jeerules,1.4.4-funcrel
+javax.xml.transform,com.castsoftware.jeerules,1.5.0-beta2
+javax.xml.transform.sax,com.castsoftware.jeerules,1.5.0-beta2
+javax.xml.validation,com.castsoftware.jeerules,1.5.0-beta2
 javax.xml.xpath,com.castsoftware.jeerules,1.4.4-funcrel
 libxml2,com.castsoftware.python,1.6.0-alpha2
 linecache,com.castsoftware.python,1.6.0-alpha3
@@ -290,6 +293,7 @@ org.hibernate.query.sqm.internal,com.castsoftware.java.hibernate,1.0.0-beta7
 org.jdbi.v3.core,com.castsoftware.java.jdbi,1.0.0-alpha1
 org.jdbi.v3.core.result,com.castsoftware.java.jdbi,1.0.0-alpha1
 org.jdbi.v3.core.statement,com.castsoftware.java.jdbi,1.0.0-alpha1
+org.jdom2.input,com.castsoftware.jeerules,1.5.0-beta2
 org.jooq,com.castsoftware.jooq,1.0.0-alpha1
 org.jooq.impl,com.castsoftware.jooq,1.0.0-beta1
 org.owasp.esapi,com.castsoftware.jeerules,1.5.0-beta1
