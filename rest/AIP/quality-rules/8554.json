@@ -3,7 +3,7 @@
     "name": "Avoid using insufficient random generator",
     "href": "AIP/quality-rules/8554",
     "critical": false,
-    "severity": 10,
+    "severity": 30,
     "maxWeight": 8,
     "associatedValueName": "Call stack of a method producing insufficiently random numbers",
     "description": "The application uses a Pseudo-Random Number Generator (PRNG), but the PRNG's algorithm is not cryptographically strong.",
