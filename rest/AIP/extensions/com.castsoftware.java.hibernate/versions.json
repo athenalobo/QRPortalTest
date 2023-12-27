@@ -1,5 +1,19 @@
 [
     {
+        "name": "1.0.0-beta92",
+        "href": "AIP/extensions/com.castsoftware.java.hibernate/versions/1.0.0-beta92",
+        "metaModelCRC": 4064799141,
+        "rulesCRC": 0,
+        "transactionsConfigurationCRC": null
+    },
+    {
+        "name": "1.0.0-beta10",
+        "href": "AIP/extensions/com.castsoftware.java.hibernate/versions/1.0.0-beta10",
+        "metaModelCRC": 4064799141,
+        "rulesCRC": 0,
+        "transactionsConfigurationCRC": null
+    },
+    {
         "name": "1.0.0-beta9",
         "href": "AIP/extensions/com.castsoftware.java.hibernate/versions/1.0.0-beta9",
         "metaModelCRC": 4064799141,
@@ -52,13 +66,6 @@
         "name": "1.0.0-beta2",
         "href": "AIP/extensions/com.castsoftware.java.hibernate/versions/1.0.0-beta2",
         "metaModelCRC": 243272558,
-        "rulesCRC": 0,
-        "transactionsConfigurationCRC": null
-    },
-    {
-        "name": "1.0.0-beta10",
-        "href": "AIP/extensions/com.castsoftware.java.hibernate/versions/1.0.0-beta10",
-        "metaModelCRC": 4064799141,
         "rulesCRC": 0,
         "transactionsConfigurationCRC": null
     },
