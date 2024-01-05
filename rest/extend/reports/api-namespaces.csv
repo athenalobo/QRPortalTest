@@ -158,6 +158,7 @@ Windows.Web.Http,com.castsoftware.dotnet.service,1.0.0-alpha1
 WindowsAzureMemcachedHelpers,com.castsoftware.nosqldotnet,1.8.2-funcrel
 Z.Dapper.Plus,com.castsoftware.dotnet.dapper,1.0.0-alpha3
 Z.EntityFramework.Plus,com.castsoftware.entity,2.2.5-funcrel
+aiohttp,com.castsoftware.python,1.6.0-alpha7
 asyncio,com.castsoftware.python,1.6.0-alpha2
 builtins,com.castsoftware.python,1.6.0-alpha3
 codecs,com.castsoftware.python,1.6.0-alpha3
@@ -229,6 +230,8 @@ fileinput,com.castsoftware.python,1.6.0-alpha3
 flask,com.castsoftware.python,1.6.0-alpha3
 freemarker.template,com.castsoftware.java.freemarker,1.0.0-alpha1
 glob,com.castsoftware.python,1.6.0-alpha3
+http.client,com.castsoftware.python,1.6.0-alpha7
+httpx,com.castsoftware.python,1.6.0-alpha7
 io,com.castsoftware.python,1.6.0-alpha3
 io.ebean,com.castsoftware.java.hibernate,1.0.0-beta2
 io.lettuce.core,com.castsoftware.nosqljava,1.8.2-funcrel
@@ -263,6 +266,8 @@ javax.xml.transform,com.castsoftware.jeerules,1.5.0-beta2
 javax.xml.transform.sax,com.castsoftware.jeerules,1.5.0-beta2
 javax.xml.validation,com.castsoftware.jeerules,1.5.0-beta2
 javax.xml.xpath,com.castsoftware.jeerules,1.4.4-funcrel
+ldap,com.castsoftware.python,1.6.0-alpha7
+ldap3,com.castsoftware.python,1.6.0-alpha7
 libxml2,com.castsoftware.python,1.6.0-alpha2
 linecache,com.castsoftware.python,1.6.0-alpha3
 logging,com.castsoftware.python,1.6.0-alpha5
@@ -388,6 +393,7 @@ reactor.core.publisher,com.castsoftware.azure.java,1.0.0-alpha2
 redis.clients.jedis,com.castsoftware.nosqljava,1.8.2-funcrel
 redis.clients.jedis.commands,com.castsoftware.nosqljava,1.8.2-funcrel
 regex,com.castsoftware.python,1.6.0-alpha4
+requests,com.castsoftware.python,1.6.0-alpha7
 sh,com.castsoftware.python,1.6.0-alpha5
 shutil,com.castsoftware.python,1.6.0-alpha5
 software.amazon.awssdk.awscore.client.builder,com.castsoftware.nosqljava,1.8.2-funcrel
@@ -406,6 +412,10 @@ subprocess,com.castsoftware.python,1.6.0-alpha5
 tarfile,com.castsoftware.python,1.6.0-alpha4
 threading,com.castsoftware.python,1.6.0-alpha2
 time,com.castsoftware.python,1.6.0-alpha2
+urllib,com.castsoftware.python,1.6.0-alpha7
+urllib2,com.castsoftware.python,1.6.0-alpha7
+urllib3,com.castsoftware.python,1.6.0-alpha7
+urllib3.connection,com.castsoftware.python,1.6.0-alpha7
 xml.dom,com.castsoftware.python,1.6.0-alpha4
 xml.etree.ElementTree,com.castsoftware.python,1.6.0-alpha2
 xml.sax.xmlreader,com.castsoftware.python,1.6.0-alpha4
