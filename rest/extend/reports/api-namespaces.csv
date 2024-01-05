@@ -288,6 +288,8 @@ org.apache.solr.client.solrj,com.castsoftware.nosqljava,1.8.2-funcrel
 org.apache.spark.sql,com.castsoftware.java.spark,1.0.0-alpha1
 org.apache.velocity,com.castsoftware.java.velocity,1.0.0-alpha1
 org.apache.velocity.app,com.castsoftware.java.velocity,1.0.0-alpha1
+org.apache.velocity.context,com.castsoftware.java.velocity,1.0.0-beta1
+org.apache.velocity.tools.view,com.castsoftware.java.velocity,1.0.0-beta1
 org.apache.wicket,com.castsoftware.wicket,1.0.0-alpha2
 org.apache.wicket.ajax,com.castsoftware.wicket,1.0.0-funcrel
 org.apache.wicket.ajax.markup.html,com.castsoftware.wicket,1.0.0-beta1
