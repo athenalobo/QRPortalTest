@@ -248,6 +248,9 @@ java.net,com.castsoftware.jeerules,1.5.0-alpha1
 java.security,com.castsoftware.jeerules,1.5.0-alpha1
 java.sql,com.castsoftware.java.sql,1.0.0-alpha1
 java.util,com.castsoftware.jeerules,1.5.0-alpha1
+javafx.fxml,com.castsoftware.swing,1.1.0-beta1
+javafx.scene,com.castsoftware.swing,1.1.0-beta1
+javafx.scene.control,com.castsoftware.swing,1.1.0-beta1
 javax.awt,com.castsoftware.swing,1.0.0-funcrel
 javax.batch.operations,com.castsoftware.springbatch,3.1.2-funcrel
 javax.crypto.spec,com.castsoftware.jeerules,1.5.0-alpha1
