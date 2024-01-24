@@ -286,6 +286,7 @@ net.sf.hibernate.jca,com.castsoftware.java.hibernate,1.0.0-beta6
 net.spy.memcached,com.castsoftware.nosqljava,1.8.2-funcrel
 org.apache.camel.builder,com.castsoftware.camel,1.0.0-alpha2
 org.apache.camel.model,com.castsoftware.camel,1.0.0-alpha2
+org.apache.commons.dbutils,com.castsoftware.java.commondbutils,1.0.0-alpha1
 org.apache.http,com.castsoftware.nosqljava,1.8.2-funcrel
 org.apache.kafka.clients.consumer,com.castsoftware.mqe,1.2.0-alpha5
 org.apache.kafka.clients.producer,com.castsoftware.mqe,1.2.0-alpha5
