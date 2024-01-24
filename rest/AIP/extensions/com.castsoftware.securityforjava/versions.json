@@ -1,5 +1,12 @@
 [
     {
+        "name": "1.6.14-funcrel",
+        "href": "AIP/extensions/com.castsoftware.securityforjava/versions/1.6.14-funcrel",
+        "metaModelCRC": 0,
+        "rulesCRC": 0,
+        "transactionsConfigurationCRC": null
+    },
+    {
         "name": "1.6.13-funcrel",
         "href": "AIP/extensions/com.castsoftware.securityforjava/versions/1.6.13-funcrel",
         "metaModelCRC": 0,
