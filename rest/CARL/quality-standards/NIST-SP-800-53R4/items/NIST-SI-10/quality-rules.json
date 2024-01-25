@@ -1166,6 +1166,56 @@
         ]
     },
     {
+        "id": 1039086,
+        "name": "Ensure to preceed the call of DOMParser by a call to the secure mode of the parser",
+        "href": "AIP/quality-rules/1039086",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
+        "id": 1039088,
+        "name": "Ensure to preceed the call of Validator by a call to the secure mode of the parser",
+        "href": "AIP/quality-rules/1039088",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
+        "id": 1039090,
+        "name": "Ensure using a safe or properly configured XML parser",
+        "href": "AIP/quality-rules/1039090",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
+        "id": 1039092,
+        "name": "Ensure to use JAXB Unmarshaller with a configurable secure parser",
+        "href": "AIP/quality-rules/1039092",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
+        "id": 1039094,
+        "name": "Ensure to use XPathExpression with a configurable secure parser",
+        "href": "AIP/quality-rules/1039094",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 1042026,
         "name": "Ensure note using wildcards for action mapping name to avoid executing arbitrary Java code on server side",
         "href": "AIP/quality-rules/1042026",

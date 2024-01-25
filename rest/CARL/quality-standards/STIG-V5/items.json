@@ -51,7 +51,7 @@
         "id": "STIG-V-222608",
         "name": "The application must not be vulnerable to XML-oriented attacks.",
         "href": "CARL/quality-standards/STIG-V5/items/STIG-V-222608",
-        "count": 9
+        "count": 14
     },
     {
         "id": "STIG-V-222609",
@@ -153,7 +153,7 @@
         "id": "STIG-V-222593",
         "name": "XML-based applications must mitigate DoS attacks by using XML filters, parser options, or gateways.",
         "href": "CARL/quality-standards/STIG-V5/items/STIG-V-222593",
-        "count": 10
+        "count": 15
     },
     {
         "id": "STIG-V-222598",
