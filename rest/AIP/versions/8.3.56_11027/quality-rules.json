@@ -1,29 +1,5 @@
 [
     {
-        "id": 8446,
-        "name": "Avoid URL redirection to untrusted site",
-        "href": "AIP/quality-rules/8446",
-        "status": "added",
-        "critical": true,
-        "severity": 30,
-        "technologyNames": [
-            "C#",
-            "JEE",
-            "VB.NET"
-        ]
-    },
-    {
-        "id": 2586,
-        "name": "Utilization of \"DoEvents\" inside a loop",
-        "href": null,
-        "status": "deprecated",
-        "critical": true,
-        "severity": 20,
-        "technologyNames": [
-            
-        ]
-    },
-    {
         "id": 3570,
         "name": "Avoid using Keywords as names",
         "href": null,
@@ -1076,7 +1052,7 @@
     },
     {
         "id": 3060,
-        "name": "Pages with less than 3 levels of inclusion",
+        "name": "Pages should not have too many levels of inclusion",
         "href": "AIP/quality-rules/3060",
         "status": "renewed",
         "critical": false,
@@ -2451,7 +2427,7 @@
     },
     {
         "id": 5138,
-        "name": "Avoid Programs with lines of more than 80 characters",
+        "name": "Avoid Programs with lines exceeding the maximum length of characters",
         "href": "AIP/quality-rules/5138",
         "status": "renewed",
         "critical": false,
@@ -3023,7 +2999,7 @@
     },
     {
         "id": 7082,
-        "name": "Avoid Function pools with more than 20 functions",
+        "name": "Avoid Function pools with too many functions",
         "href": "AIP/quality-rules/7082",
         "status": "renewed",
         "critical": false,
@@ -3056,7 +3032,7 @@
     },
     {
         "id": 7094,
-        "name": "Avoid Programs with more than 3 levels of inclusion",
+        "name": "Avoid Programs with too many levels of inclusion",
         "href": "AIP/quality-rules/7094",
         "status": "renewed",
         "critical": false,
@@ -4452,7 +4428,7 @@
     },
     {
         "id": 7526,
-        "name": "Avoid using hardcoded paths",
+        "name": "Avoid using hard-coded paths",
         "href": "AIP/quality-rules/7526",
         "status": "renewed",
         "critical": false,
@@ -5377,7 +5353,7 @@
     },
     {
         "id": 7742,
-        "name": "Avoid SQL injection vulnerabilities",
+        "name": "Avoid SQL injection",
         "href": "AIP/quality-rules/7742",
         "status": "renewed",
         "critical": true,
@@ -5390,7 +5366,7 @@
     },
     {
         "id": 7746,
-        "name": "Avoid LDAP injection vulnerabilities",
+        "name": "Avoid LDAP injection",
         "href": "AIP/quality-rules/7746",
         "status": "renewed",
         "critical": true,
@@ -5403,7 +5379,7 @@
     },
     {
         "id": 7748,
-        "name": "Avoid OS command injection vulnerabilities",
+        "name": "Avoid OS command injection",
         "href": "AIP/quality-rules/7748",
         "status": "renewed",
         "critical": true,
@@ -5416,7 +5392,7 @@
     },
     {
         "id": 7750,
-        "name": "Avoid XPath injection vulnerabilities",
+        "name": "Avoid XPath injection",
         "href": "AIP/quality-rules/7750",
         "status": "renewed",
         "critical": true,
@@ -5429,7 +5405,7 @@
     },
     {
         "id": 7752,
-        "name": "Avoid file path manipulation vulnerabilities",
+        "name": "Avoid file path manipulation",
         "href": "AIP/quality-rules/7752",
         "status": "renewed",
         "critical": true,
@@ -6329,7 +6305,7 @@
     },
     {
         "id": 7856,
-        "name": "Avoid Tables with more than 20 columns on an OLTP system",
+        "name": "Avoid Tables with too many columns on an OLTP system",
         "href": "AIP/quality-rules/7856",
         "status": "renewed",
         "critical": false,
@@ -6355,7 +6331,7 @@
     },
     {
         "id": 7860,
-        "name": "Avoid unreferenced Functions",
+        "name": "Avoid unreferenced Functions and Procedures",
         "href": "AIP/quality-rules/7860",
         "status": "renewed",
         "critical": false,
@@ -7335,7 +7311,7 @@
     },
     {
         "id": 8032,
-        "name": "Avoid using a break statement in 'for' loops",
+        "name": "Avoid using break statement in FOR loops",
         "href": "AIP/quality-rules/8032",
         "status": "renewed",
         "critical": false,
@@ -7351,7 +7327,7 @@
     },
     {
         "id": 8034,
-        "name": "Variables defined in Working-Storage section must be initialized before to be read",
+        "name": "Working-Storage variables must be initialized before being read",
         "href": "AIP/quality-rules/8034",
         "status": "renewed",
         "critical": false,
@@ -7407,7 +7383,7 @@
     },
     {
         "id": 8044,
-        "name": "Avoid log forging vulnerabilities",
+        "name": "Avoid log forging",
         "href": "AIP/quality-rules/8044",
         "status": "renewed",
         "critical": true,
@@ -8342,7 +8318,7 @@
     },
     {
         "id": 8430,
-        "name": "Avoid using hardcoded seed or no seed at all for random values generation",
+        "name": "Avoid using hard-coded seed or no seed at all for random values generation",
         "href": "AIP/quality-rules/8430",
         "status": "renewed",
         "critical": true,
@@ -8377,7 +8353,7 @@
     },
     {
         "id": 8436,
-        "name": "Avoid thread injection vulnerabilities",
+        "name": "Avoid thread injection",
         "href": "AIP/quality-rules/8436",
         "status": "renewed",
         "critical": true,
@@ -8438,6 +8414,635 @@
             "C#",
             "JEE",
             "VB.NET"
+        ]
+    },
+    {
+        "id": 8446,
+        "name": "Avoid URL redirection to untrusted site",
+        "href": "AIP/quality-rules/8446",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8464,
+        "name": "Avoid Open SQL SELECT queries without WHERE condition on XXL Tables",
+        "href": "AIP/quality-rules/8464",
+        "status": "renewed",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "ABAP"
+        ]
+    },
+    {
+        "id": 8468,
+        "name": "Program semantic should respect the logic of flow execution",
+        "href": "AIP/quality-rules/8468",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "Cobol"
+        ]
+    },
+    {
+        "id": 8470,
+        "name": "Avoid using STRING without overflow check",
+        "href": "AIP/quality-rules/8470",
+        "status": "renewed",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "Cobol"
+        ]
+    },
+    {
+        "id": 8476,
+        "name": "Avoid calling unsafe C library functions from COBOL",
+        "href": "AIP/quality-rules/8476",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "Cobol"
+        ]
+    },
+    {
+        "id": 8478,
+        "name": "Avoid Buffer Overruns when using ADD, SUBTRACT, MULTIPLY, DIVIDE & COMPUTE statement inside a loop",
+        "href": "AIP/quality-rules/8478",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "Cobol"
+        ]
+    },
+    {
+        "id": 8480,
+        "name": "Avoid using PREPARE STMT statement (Dynamic SQL) with STRING containing HOST variables",
+        "href": "AIP/quality-rules/8480",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "Cobol"
+        ]
+    },
+    {
+        "id": 8482,
+        "name": "Avoid cross-site scripting through API requests",
+        "href": "AIP/quality-rules/8482",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8484,
+        "name": "Avoid HTTP response splitting through API requests",
+        "href": "AIP/quality-rules/8484",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8486,
+        "name": "Avoid resource injection through API requests",
+        "href": "AIP/quality-rules/8486",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8488,
+        "name": "Avoid resource URL manipulation through API requests",
+        "href": "AIP/quality-rules/8488",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8490,
+        "name": "Avoid SQL injection through API requests",
+        "href": "AIP/quality-rules/8490",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8492,
+        "name": "Avoid LDAP injection through API requests",
+        "href": "AIP/quality-rules/8492",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8494,
+        "name": "Avoid OS command injection through API requests",
+        "href": "AIP/quality-rules/8494",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8496,
+        "name": "Avoid process control through API requests",
+        "href": "AIP/quality-rules/8496",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8498,
+        "name": "Avoid thread injection through API requests",
+        "href": "AIP/quality-rules/8498",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8500,
+        "name": "Avoid code injection through API requests",
+        "href": "AIP/quality-rules/8500",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8502,
+        "name": "Avoid reflection injection through API requests",
+        "href": "AIP/quality-rules/8502",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8504,
+        "name": "Avoid XPath injection through API requests",
+        "href": "AIP/quality-rules/8504",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8506,
+        "name": "Avoid file path manipulation through API requests",
+        "href": "AIP/quality-rules/8506",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8508,
+        "name": "Avoid log forging through API requests",
+        "href": "AIP/quality-rules/8508",
+        "status": "renewed",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8510,
+        "name": "Avoid uncontrolled format string through API requests",
+        "href": "AIP/quality-rules/8510",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8512,
+        "name": "Avoid mixing trusted and untrusted data in HTTP requests through API requests",
+        "href": "AIP/quality-rules/8512",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8514,
+        "name": "Avoid NoSQL injection through API requests",
+        "href": "AIP/quality-rules/8514",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8516,
+        "name": "Avoid URL redirection to untrusted site through API requests",
+        "href": "AIP/quality-rules/8516",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8518,
+        "name": "Avoid regular expression injection",
+        "href": "AIP/quality-rules/8518",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8520,
+        "name": "Avoid second order regular expression injection",
+        "href": "AIP/quality-rules/8520",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8522,
+        "name": "Avoid regular expression injection through API requests",
+        "href": "AIP/quality-rules/8522",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8524,
+        "name": "Avoid deserialization injection",
+        "href": "AIP/quality-rules/8524",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8526,
+        "name": "Avoid second order deserialization injection",
+        "href": "AIP/quality-rules/8526",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8528,
+        "name": "Avoid deserialization injection through API requests",
+        "href": "AIP/quality-rules/8528",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8530,
+        "name": "Avoid XQuery injection",
+        "href": "AIP/quality-rules/8530",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8532,
+        "name": "Avoid second order XQuery injection",
+        "href": "AIP/quality-rules/8532",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8534,
+        "name": "Avoid XQuery injection through API requests",
+        "href": "AIP/quality-rules/8534",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8536,
+        "name": "Avoid expression language injection",
+        "href": "AIP/quality-rules/8536",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
+        "id": 8538,
+        "name": "Avoid second order expression language injection",
+        "href": "AIP/quality-rules/8538",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
+        "id": 8540,
+        "name": "Avoid expression language injection through API requests",
+        "href": "AIP/quality-rules/8540",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
+        "id": 8542,
+        "name": "Avoid debug forging",
+        "href": "AIP/quality-rules/8542",
+        "status": "renewed",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8544,
+        "name": "Avoid debug forging through API requests",
+        "href": "AIP/quality-rules/8544",
+        "status": "renewed",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8546,
+        "name": "Avoid using ABAP command CALL 'SYSTEM'",
+        "href": "AIP/quality-rules/8546",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "ABAP"
+        ]
+    },
+    {
+        "id": 8548,
+        "name": "Avoid using ABAP command INSERT REPORT",
+        "href": "AIP/quality-rules/8548",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "ABAP"
+        ]
+    },
+    {
+        "id": 8550,
+        "name": "Avoid using ABAP command GENERATE SUBROUTINE POOL",
+        "href": "AIP/quality-rules/8550",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "ABAP"
+        ]
+    },
+    {
+        "id": 8552,
+        "name": "Avoid using ABAP command OPEN DATASET with the FILTER addition",
+        "href": "AIP/quality-rules/8552",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "ABAP"
+        ]
+    },
+    {
+        "id": 8554,
+        "name": "Avoid using insufficient random generator",
+        "href": "AIP/quality-rules/8554",
+        "status": "renewed",
+        "critical": false,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8556,
+        "name": "'XML GENERATE' should be used with 'WITH ENCODING'",
+        "href": "AIP/quality-rules/8556",
+        "status": "renewed",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "Cobol"
+        ]
+    },
+    {
+        "id": 8558,
+        "name": "Avoid using XML PARSE without 'VALIDATING'",
+        "href": "AIP/quality-rules/8558",
+        "status": "renewed",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "Cobol"
+        ]
+    },
+    {
+        "id": 8560,
+        "name": "Avoid server-side request forgery",
+        "href": "AIP/quality-rules/8560",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8562,
+        "name": "Avoid server-side request forgery through API requests",
+        "href": "AIP/quality-rules/8562",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8564,
+        "name": "Avoid second order server-side request forgery",
+        "href": "AIP/quality-rules/8564",
+        "status": "renewed",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
+        "id": 8566,
+        "name": "Avoid cyclic references in the definition of CDS views (S4/HAHA)",
+        "href": "AIP/quality-rules/8566",
+        "status": "renewed",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SAP SQL"
+        ]
+    },
+    {
+        "id": 8568,
+        "name": "Avoid calculated fields in WHERE-clauses and ON-clauses of CDS views (S4/HANA)",
+        "href": "AIP/quality-rules/8568",
+        "status": "renewed",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "SAP SQL"
         ]
     }
 ]
