@@ -243,6 +243,8 @@ io.searchbox.client.config.HttpClientConfig,com.castsoftware.nosqljava,1.8.2-fun
 jakarta.batch.operations,com.castsoftware.springbatch,3.1.6-funcrel
 jakarta.persistence,com.castsoftware.java.hibernate,1.0.0-beta4
 java.awt,com.castsoftware.swing,1.0.0-funcrel
+java.beans,com.castsoftware.jeerules,1.5.0-beta3
+java.io,com.castsoftware.jeerules,1.5.0-beta3
 java.lang,com.castsoftware.java2program,1.0.0-beta1
 java.net,com.castsoftware.jeerules,1.5.0-alpha1
 java.security,com.castsoftware.jeerules,1.5.0-alpha1
@@ -264,6 +266,7 @@ javax.swing.table,com.castsoftware.swing,1.0.0-funcrel
 javax.swing.text,com.castsoftware.swing,1.0.0-funcrel
 javax.swing.tree,com.castsoftware.swing,1.0.0-funcrel
 javax.swing.undo,com.castsoftware.swing,1.0.0-funcrel
+javax.xml.bind,com.castsoftware.jeerules,1.5.0-beta3
 javax.xml.parsers,com.castsoftware.jeerules,1.4.4-funcrel
 javax.xml.stream,com.castsoftware.jeerules,1.4.4-funcrel
 javax.xml.transform,com.castsoftware.jeerules,1.5.0-beta2
@@ -284,6 +287,7 @@ net.sf.hibernate.engine,com.castsoftware.java.hibernate,1.0.0-beta6
 net.sf.hibernate.impl,com.castsoftware.java.hibernate,1.0.0-beta6
 net.sf.hibernate.jca,com.castsoftware.java.hibernate,1.0.0-beta6
 net.spy.memcached,com.castsoftware.nosqljava,1.8.2-funcrel
+oracle.xml.parser.v2,com.castsoftware.jeerules,1.5.0-beta3
 org.apache.camel.builder,com.castsoftware.camel,1.0.0-alpha2
 org.apache.camel.model,com.castsoftware.camel,1.0.0-alpha2
 org.apache.commons.dbutils,com.castsoftware.java.commondbutils,1.0.0-alpha1
