@@ -15,8 +15,8 @@
     "rationale": "When the attribute 'HttpOnly' is set to true, the session cookie cannot be read by the client-side script, and so, limit XSS vulnerabilities.",
     "reference": "CWE-1004: Sensitive Cookie Without 'HttpOnly' Flag\nhttps://cwe.mitre.org/data/definitions/1004.html\n\nOWASP Top Ten 2021 Category A05:2021 - Security Misconfiguration\nhttps://cwe.mitre.org/data/definitions/1349.html",
     "remediation": "Always set the HttpOnly attribute to true.",
-    "remediationSample": "Cookie c = new Cookie(ACCOUNT_ID, acctID);\nc.setHttpOnly(true);\nresponse.addCookie(c); // OK",
-    "sample": "Cookie c = new Cookie(ACCOUNT_ID, acctID);\nresponse.addCookie(c); // Violation - cookie has not the HttpOnly set to true",
+    "remediationSample": "1) C#\nHttpCookie cookie = new HttpCookie(cookieName, cookieValue);\ncookie.HttpOnly = true;\ncookie.Secure = true;\nResponse.Cookies.Add(cookie); // OK\n\n\n2) Java\nCookie c = new Cookie(cookieName, cookieValue);\nc.setHttpOnly(true);\nc.setSecure(true);\nresponse.addCookie(c); // OK",
+    "sample": "1) C#\nHttpCookie cookie = new HttpCookie(cookieName, cookieValue);\ncookie.Secure = true;\nResponse.Cookies.Add(cookie); // Violation - cookie has not the HttpOnly set to true\n\n\n2) Java\nCookie c = new Cookie(cookieName, cookieValue);\nc.setSecure(true);\nresponse.addCookie(c); // Violation - cookie has not the HttpOnly set to true",
     "total": "Number of methods adding a cookie",
     "alternativeName": "Ensure you have set the HttpOnly flag for cookies",
     "businessCriteria": [

@@ -5,6 +5,10 @@
     "critical": true,
     "severity": 20,
     "maxWeight": 8,
+    "extension": {
+        "name": "com.castsoftware.securityanalyzer",
+        "href": "AIP/extensions/com.castsoftware.securityanalyzer"
+    },
     "associatedValueName": "Call stack from user input source down to the target log method",
     "description": "This metric uses CAST data-flow engine to detect a call path where input data from the user is written into the application logs without prior validation and sanitization.",
     "output": "List all methods that make resource calls forged by user input\n\nIt provides the following information:\n- Method full name\n- Call stack from user input source down to the target log method",

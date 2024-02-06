@@ -15,8 +15,8 @@
     "rationale": "Passwords that are stored in plaintext outside of a secure container would be trivial to read, if retrieved by an attacker. Leaked passwords could then be used to authenticate to other sensitive resources, to perform actions and retrieve additional information.",
     "reference": "CWE-256: Plaintext Storage of a Password\nhttp://cwe.mitre.org/data/definitions/256.html",
     "remediation": "Always use strong, modern algorithms for encryption, hashing to store password in configuration files.\nAlternatively, store secrets in a dedicated secrets management system (Azure Key Vault, Amazon KMS, Google KMS, HashiCorp Vault, ...) separate from the application or service consuming the secret values.",
-    "remediationSample": "Properties prop = new Properties();\nprop.load(new FileInputStream(\"config.properties\"));\nString passEnc = prop.getProperty(\"password\");\nString password = decrypt(passEnc);                    // Proof of the FIX\nDriverManager.getConnection(url, usr, password);       // FIXED",
-    "sample": "Properties prop = new Properties();\nprop.load(new FileInputStream(\"config.properties\"));\nString password = prop.getProperty(\"password\");\nDriverManager.getConnection(url, usr, password);    // VIOLATION: direct usage of the password denotes it has been stored unencrypted",
+    "remediationSample": "// Do not store the password in plain text using recent and proven encryption algorithms.",
+    "sample": "public Connection createConnection(Properties connectionProperties) throws SQLException\n{\n    String user = connectionProperties.getProperty(\"user\");\n    String password = connectionProperties.getProperty(\"password\");\n    Connection conn = DriverManager.getConnection(\"Connexion string\", user, password);        \n    return conn; \n}",
     "total": "Number of potentially vulnerable methods",
     "alternativeName": "Ensure you don't have hard-coded passwords in configuration files : password retrieved and delivered as is to the sendCredential method",
     "businessCriteria": [
