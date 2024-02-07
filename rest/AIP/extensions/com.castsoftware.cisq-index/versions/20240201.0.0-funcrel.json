@@ -3,9 +3,9 @@
         "name": "com.castsoftware.cisq-index",
         "href": "AIP/extensions/com.castsoftware.cisq-index"
     },
-    "name": "20210708.0.0-funcrel",
-    "href": "AIP/extensions/com.castsoftware.cisq-index/versions/20210708.0.0-funcrel",
-    "publishedTime": "2021-07-12T06:38:23+0000",
+    "name": "20240201.0.0-funcrel",
+    "href": "AIP/extensions/com.castsoftware.cisq-index/versions/20240201.0.0-funcrel",
+    "publishedTime": null,
     "qualityModel": false,
     "transactionsConfiguration": false,
     "transactionsConfigurationCRC": null,
