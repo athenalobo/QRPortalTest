@@ -14,7 +14,7 @@
     {
         "name": "CISQ",
         "href": "AIP/quality-standards/CISQ",
-        "count": 649,
+        "count": 650,
         "description": "The mission of the Consortium for Information & Software Quality (CISQ) is to develop international standards to automate software quality measurement and to promote the development and sustainment of secure, reliable, and trustworthy software."
     },
     {
@@ -64,6 +64,12 @@
         "href": "AIP/quality-standards/PCI-DSS-V3.2.1",
         "count": 783,
         "description": "The PCI Security Standards Council is an open global forum for the ongoing development, enhancement, storage, dissemination and implementation of security standards for account data protection."
+    },
+    {
+        "name": "PCI-DSS4",
+        "href": "AIP/quality-standards/PCI-DSS4",
+        "count": 783,
+        "description": null
     },
     {
         "name": "STIG-V5",
