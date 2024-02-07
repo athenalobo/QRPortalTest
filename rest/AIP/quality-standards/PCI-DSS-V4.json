@@ -1,13 +1,13 @@
 {
-    "name": "PCI-DSS4",
-    "href": "AIP/quality-standards/PCI-DSS4",
+    "name": "PCI-DSS-V4",
+    "href": "AIP/quality-standards/PCI-DSS-V4",
     "description": null,
     "categories": {
         "name": "Categories of references in alphabetic order",
-        "href": "AIP/quality-standards/PCI-DSS4/categories"
+        "href": "AIP/quality-standards/PCI-DSS-V4/categories"
     },
     "items": {
         "name": "References in natural order",
-        "href": "AIP/quality-standards/PCI-DSS4/items"
+        "href": "AIP/quality-standards/PCI-DSS-V4/items"
     }
 }

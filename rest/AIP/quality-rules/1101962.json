@@ -141,8 +141,8 @@
         {
             "id": "PCI-DSS4-Requirement-2.2.2",
             "name": "Vendor default accounts are managed",
-            "href": "AIP/quality-standards/PCI-DSS4/items/PCI-DSS4-Requirement-2.2.2",
-            "standard": "PCI-DSS4"
+            "href": "AIP/quality-standards/PCI-DSS-V4/items/PCI-DSS4-Requirement-2.2.2",
+            "standard": "PCI-DSS-V4"
         }
     ],
     "parameters": [

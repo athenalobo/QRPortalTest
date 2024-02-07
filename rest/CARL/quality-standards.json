@@ -66,8 +66,8 @@
         "description": "The PCI Security Standards Council is an open global forum for the ongoing development, enhancement, storage, dissemination and implementation of security standards for account data protection."
     },
     {
-        "name": "PCI-DSS4",
-        "href": "CARL/quality-standards/PCI-DSS4",
+        "name": "PCI-DSS-V4",
+        "href": "CARL/quality-standards/PCI-DSS-V4",
         "count": 491,
         "description": null
     },

@@ -140,8 +140,8 @@
         {
             "id": "PCI-DSS4-Requirement-3.6.1",
             "name": "Procedures are defined and implemented to protect cryptographic keys",
-            "href": "AIP/quality-standards/PCI-DSS4/items/PCI-DSS4-Requirement-3.6.1",
-            "standard": "PCI-DSS4"
+            "href": "AIP/quality-standards/PCI-DSS-V4/items/PCI-DSS4-Requirement-3.6.1",
+            "standard": "PCI-DSS-V4"
         },
         {
             "id": "STIG-V-222596",
