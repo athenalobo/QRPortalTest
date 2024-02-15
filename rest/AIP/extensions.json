@@ -122,6 +122,12 @@
     {
         "qualityModel": false,
         "transactionsConfiguration": false,
+        "name": "com.castsoftware.dotnet.adodb",
+        "href": "AIP/extensions/com.castsoftware.dotnet.adodb"
+    },
+    {
+        "qualityModel": false,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.dotnet.dapper",
         "href": "AIP/extensions/com.castsoftware.dotnet.dapper"
     },
