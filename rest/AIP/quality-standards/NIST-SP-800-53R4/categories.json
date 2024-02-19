@@ -26,7 +26,7 @@
     {
         "name": "NIST-SP-800-53R4-IA",
         "href": "AIP/quality-standards/NIST-SP-800-53R4/categories/NIST-SP-800-53R4-IA",
-        "count": 73,
+        "count": 74,
         "description": "Identification and Authentication"
     },
     {
@@ -38,7 +38,7 @@
     {
         "name": "NIST-SP-800-53R4-SC",
         "href": "AIP/quality-standards/NIST-SP-800-53R4/categories/NIST-SP-800-53R4-SC",
-        "count": 60,
+        "count": 61,
         "description": "System and Communication Protection"
     },
     {

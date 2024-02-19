@@ -7148,6 +7148,22 @@
     ],
     "com.castsoftware.python": [
         {
+            "version": "1.6.0-alpha8",
+            "addedRules": [
+                {
+                    "id": 1021128,
+                    "name": "Always protect against CSRF in Flask application"
+                },
+                {
+                    "id": 1021126,
+                    "name": "Ensure the HTTP Strict-Transport-Security header (HSTS) is set up for Flask (Python)"
+                }
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.6.0-alpha6",
             "addedRules": [
                 {

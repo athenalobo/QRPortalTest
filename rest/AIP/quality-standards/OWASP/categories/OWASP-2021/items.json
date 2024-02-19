@@ -3,13 +3,13 @@
         "id": "A01-2021",
         "name": "Broken Access Control",
         "href": "AIP/quality-standards/OWASP/items/A01-2021",
-        "count": 48
+        "count": 49
     },
     {
         "id": "A02-2021",
         "name": "Cryptographic Failures",
         "href": "AIP/quality-standards/OWASP/items/A02-2021",
-        "count": 64
+        "count": 65
     },
     {
         "id": "A03-2021",

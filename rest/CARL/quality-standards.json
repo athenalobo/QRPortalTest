@@ -69,7 +69,7 @@
         "name": "PCI-DSS-V4",
         "href": "CARL/quality-standards/PCI-DSS-V4",
         "count": 491,
-        "description": null
+        "description": "The PCI Security Standards Council is an open global forum for the ongoing development, enhancement, storage, dissemination and implementation of security standards for account data protection."
     },
     {
         "name": "STIG-V5",
