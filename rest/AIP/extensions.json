@@ -169,7 +169,7 @@
     },
     {
         "qualityModel": false,
-        "transactionsConfiguration": true,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.dotnet.nms",
         "href": "AIP/extensions/com.castsoftware.dotnet.nms"
     },
