@@ -1147,6 +1147,20 @@
         ]
     },
     {
+        "id": 7790,
+        "name": "Avoid Cursors inside a loop",
+        "href": "AIP/quality-rules/7790",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "Forms",
+            "Microsoft T-SQL",
+            "PL/SQL",
+            "SQL Server",
+            "Sybase T-SQL"
+        ]
+    },
+    {
         "id": 7792,
         "name": "Avoid Classes with a High Number Of Children",
         "href": "AIP/quality-rules/7792",
