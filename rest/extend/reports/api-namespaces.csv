@@ -362,6 +362,7 @@ org.hibernate.event,com.castsoftware.java.hibernate,1.0.0-beta5
 org.hibernate.event.spi,com.castsoftware.java.hibernate,1.0.0-beta10
 org.hibernate.impl,com.castsoftware.java.hibernate,1.0.0-beta5
 org.hibernate.internal,com.castsoftware.java.hibernate,1.0.0-beta6
+org.hibernate.procedure,com.castsoftware.java.hibernate,1.0.2-funcrel
 org.hibernate.query,com.castsoftware.java.hibernate,1.0.0-beta5
 org.hibernate.query.sqm.internal,com.castsoftware.java.hibernate,1.0.0-beta7
 org.jboss.resteasy.client,com.castsoftware.java.service,1.0.4-funcrel
