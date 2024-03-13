@@ -6120,10 +6120,6 @@
                     "name": "CWE-434: Avoid unrestricted file upload (PHP)"
                 },
                 {
-                    "id": 1007262,
-                    "name": "CWE-73: Avoid file name or path controlled by raw user input (PHP)"
-                },
-                {
                     "id": 1007260,
                     "name": "CWE-78: Avoid Command Injection - Improper Neutralization of Special Elements used in an OS Command (PHP)"
                 },
@@ -6137,7 +6133,10 @@
                 }
             ],
             "detachedRules": [
-                
+                {
+                    "id": 1007262,
+                    "name": "CWE-73: Avoid file name or path controlled by raw user input (PHP)"
+                }
             ]
         },
         {
@@ -6273,14 +6272,6 @@
                 {
                     "id": 1007172,
                     "name": "Avoid having constructors with a return value (PHP)"
-                },
-                {
-                    "id": 1007170,
-                    "name": "Avoid having call function return ignored (PHP)"
-                },
-                {
-                    "id": 1007168,
-                    "name": "Avoid having functions with no return (PHP)"
                 },
                 {
                     "id": 1007166,
@@ -6591,6 +6582,14 @@
                 {
                     "id": 1007174,
                     "name": "Avoid having the assignment to \"$this\" (PHP)"
+                },
+                {
+                    "id": 1007170,
+                    "name": "Avoid having call function return ignored (PHP)"
+                },
+                {
+                    "id": 1007168,
+                    "name": "Avoid having functions with no return (PHP)"
                 },
                 {
                     "id": 1007164,
