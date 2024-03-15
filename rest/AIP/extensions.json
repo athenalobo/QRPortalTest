@@ -127,7 +127,7 @@
     },
     {
         "qualityModel": false,
-        "transactionsConfiguration": true,
+        "transactionsConfiguration": false,
         "name": "com.castsoftware.dotnet.dapper",
         "href": "AIP/extensions/com.castsoftware.dotnet.dapper"
     },
