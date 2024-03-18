@@ -457,6 +457,16 @@ subprocess,com.castsoftware.python,1.6.0-alpha5
 tarfile,com.castsoftware.python,1.6.0-alpha4
 threading,com.castsoftware.python,1.6.0-alpha2
 time,com.castsoftware.python,1.6.0-alpha2
+tk.mybatis.mapper.common.base.delete,com.castsoftware.ibatis,1.3.0-beta1
+tk.mybatis.mapper.common.base.insert,com.castsoftware.ibatis,1.3.0-beta1
+tk.mybatis.mapper.common.base.select,com.castsoftware.ibatis,1.3.0-beta1
+tk.mybatis.mapper.common.base.update,com.castsoftware.ibatis,1.3.0-beta1
+tk.mybatis.mapper.common.condition,com.castsoftware.ibatis,1.3.0-beta1
+tk.mybatis.mapper.common.example,com.castsoftware.ibatis,1.3.0-beta1
+tk.mybatis.mapper.common.ids,com.castsoftware.ibatis,1.3.0-beta1
+tk.mybatis.mapper.common.rowbounds,com.castsoftware.ibatis,1.3.0-beta1
+tk.mybatis.mapper.common.special,com.castsoftware.ibatis,1.3.0-beta1
+tk.mybatis.mapper.common.sqlserver,com.castsoftware.ibatis,1.3.0-beta1
 urllib,com.castsoftware.python,1.6.0-alpha7
 urllib2,com.castsoftware.python,1.6.0-alpha7
 urllib3,com.castsoftware.python,1.6.0-alpha7
