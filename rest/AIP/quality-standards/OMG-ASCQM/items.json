@@ -501,7 +501,7 @@
         "id": "CWE-89",
         "name": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
         "href": "AIP/quality-standards/OMG-ASCQM/items/CWE-89",
-        "count": 17
+        "count": 16
     },
     {
         "id": "CWE-90",

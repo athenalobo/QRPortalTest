@@ -3165,13 +3165,13 @@
         {
             "version": "1.1.0-alpha1",
             "addedRules": [
+                
+            ],
+            "detachedRules": [
                 {
                     "id": 1677000,
                     "name": "Avoid string interpolations to prevent SQL injections (MyBatis/iBatis)"
                 }
-            ],
-            "detachedRules": [
-                
             ]
         }
     ],
