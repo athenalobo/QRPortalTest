@@ -141,7 +141,7 @@
         "id": "A04-2021",
         "name": "Insecure Design",
         "href": "AIP/quality-standards/OWASP/items/A04-2021",
-        "count": 37
+        "count": 38
     },
     {
         "id": "A05-2021",
@@ -183,7 +183,7 @@
         "id": "API1-2019",
         "name": "Broken Object Level Authorization",
         "href": "AIP/quality-standards/OWASP/items/API1-2019",
-        "count": 3
+        "count": 4
     },
     {
         "id": "API2-2019",
@@ -238,6 +238,12 @@
         "name": "Insufficient Logging & Monitoring",
         "href": "AIP/quality-standards/OWASP/items/API10-2019",
         "count": 3
+    },
+    {
+        "id": "API1-2023",
+        "name": "Broken Object Level Authorization",
+        "href": "AIP/quality-standards/OWASP/items/API1-2023",
+        "count": 2
     },
     {
         "id": "M1-2016",
