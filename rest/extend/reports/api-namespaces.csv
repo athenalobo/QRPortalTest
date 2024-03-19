@@ -427,7 +427,6 @@ org.springframework.web.client,com.castsoftware.java.service,1.0.4-funcrel
 org.springframework.web.reactive.function.client.WebClient,com.castsoftware.java.service,1.0.4-funcrel
 org.springframework.web.reactive.function.server,com.castsoftware.java.reactive,1.0.0-alpha1
 org.springframework.web.reactive.function.server.RouterFunctions,com.castsoftware.java.reactive,1.0.0-alpha2
-org.springframework.web.servlet.view,com.castsoftware.java.velocity,1.0.0-beta2
 org.springframework.web.servlet.view.velocity,com.castsoftware.java.velocity,1.0.0-beta2
 org.xml.sax,com.castsoftware.jeerules,1.4.4-funcrel
 os,com.castsoftware.python,1.6.0-alpha3
