@@ -307,7 +307,7 @@
     },
     {
         "qualityModel": false,
-        "transactionsConfiguration": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.java.hibernate",
         "href": "AIP/extensions/com.castsoftware.java.hibernate"
     },
