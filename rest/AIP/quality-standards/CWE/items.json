@@ -75,7 +75,7 @@
         "id": "CWE-352",
         "name": "Cross-Site Request Forgery (CSRF)",
         "href": "AIP/quality-standards/CWE/items/CWE-352",
-        "count": 9
+        "count": 10
     },
     {
         "id": "CWE-434",
@@ -456,6 +456,12 @@
         "count": 3
     },
     {
+        "id": "CWE-204",
+        "name": "Observable Response Discrepancy",
+        "href": "AIP/quality-standards/CWE/items/CWE-204",
+        "count": 1
+    },
+    {
         "id": "CWE-209",
         "name": "Generation of Error Message Containing Sensitive Information",
         "href": "AIP/quality-standards/CWE/items/CWE-209",
@@ -597,7 +603,7 @@
         "id": "CWE-346",
         "name": "Origin Validation Error",
         "href": "AIP/quality-standards/CWE/items/CWE-346",
-        "count": 2
+        "count": 3
     },
     {
         "id": "CWE-353",
@@ -948,6 +954,12 @@
         "count": 2
     },
     {
+        "id": "CWE-606",
+        "name": "Unchecked Input for Loop Condition",
+        "href": "AIP/quality-standards/CWE/items/CWE-606",
+        "count": 1
+    },
+    {
         "id": "CWE-609",
         "name": "Double-Checked Locking",
         "href": "AIP/quality-standards/CWE/items/CWE-609",
@@ -1152,6 +1164,12 @@
         "count": 1
     },
     {
+        "id": "CWE-835",
+        "name": "Loop with Unreachable Exit Condition ('Infinite Loop')",
+        "href": "AIP/quality-standards/CWE/items/CWE-835",
+        "count": 1
+    },
+    {
         "id": "CWE-915",
         "name": "Improperly Controlled Modification of Dynamically-Determined Object Attributes",
         "href": "AIP/quality-standards/CWE/items/CWE-915",
@@ -1191,7 +1209,7 @@
         "id": "CWE-942",
         "name": "Permissive Cross-domain Policy with Untrusted Domains",
         "href": "AIP/quality-standards/CWE/items/CWE-942",
-        "count": 1
+        "count": 2
     },
     {
         "id": "CWE-943",

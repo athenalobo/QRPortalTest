@@ -242,6 +242,7 @@ fastapi.responses,com.castsoftware.python,1.6.0-alpha6
 fastapi.templating,com.castsoftware.python,1.6.0-alpha6
 fileinput,com.castsoftware.python,1.6.0-alpha3
 flask,com.castsoftware.python,1.6.0-alpha3
+flask_cors,com.castsoftware.python,1.6.0-alpha9
 freemarker.template,com.castsoftware.java.freemarker,1.0.0-alpha1
 glob,com.castsoftware.python,1.6.0-alpha3
 http.client,com.castsoftware.python,1.6.0-alpha7

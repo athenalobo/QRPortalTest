@@ -3,7 +3,7 @@
         "id": "A01-2021",
         "name": "Broken Access Control",
         "href": "AIP/quality-standards/OWASP/items/A01-2021",
-        "count": 49
+        "count": 50
     },
     {
         "id": "A02-2021",
@@ -27,7 +27,7 @@
         "id": "A05-2021",
         "name": "Security Misconfiguration",
         "href": "AIP/quality-standards/OWASP/items/A05-2021",
-        "count": 97
+        "count": 98
     },
     {
         "id": "A06-2021",
