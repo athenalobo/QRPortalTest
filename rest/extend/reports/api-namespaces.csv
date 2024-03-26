@@ -374,6 +374,10 @@ org.jdom2.input,com.castsoftware.jeerules,1.5.0-beta2
 org.jongo,com.castsoftware.nosqljava,1.8.2-funcrel
 org.jooq,com.castsoftware.jooq,1.0.0-alpha1
 org.jooq.impl,com.castsoftware.jooq,1.0.0-beta1
+org.mongodb.morphia,com.castsoftware.nosqljava,1.9.0-beta1
+org.mongodb.morphia.dao,com.castsoftware.nosqljava,1.9.0-beta1
+org.mongodb.morphia.query,com.castsoftware.nosqljava,1.9.0-beta1
+org.mongojack,com.castsoftware.nosqljava,1.9.0-beta1
 org.owasp.esapi,com.castsoftware.jeerules,1.5.0-beta1
 org.resthub.web.Client,com.castsoftware.java.service,1.0.4-funcrel
 org.skife.jdbi.v2,com.castsoftware.java.jdbi,1.0.0-beta1
@@ -406,6 +410,7 @@ org.springframework.data.repository,com.castsoftware.nosqljava,1.8.2-funcrel
 org.springframework.data.repository,com.castsoftware.springdata,2.0.0-alpha1
 org.springframework.data.repository.query,com.castsoftware.springdata,2.1.0-alpha2
 org.springframework.data.repository.reactive,com.castsoftware.nosqljava,1.8.2-funcrel
+org.springframework.data.solr.core,com.castsoftware.nosqljava,1.9.0-beta1
 org.springframework.jdbc.core,com.castsoftware.springdata,2.0.5-funcrel
 org.springframework.jdbc.core.namedparam,com.castsoftware.springdata,2.0.5-funcrel
 org.springframework.jdbc.core.simple,com.castsoftware.springdata,2.0.5-funcrel
@@ -439,6 +444,7 @@ redis.clients.jedis,com.castsoftware.nosqljava,1.8.2-funcrel
 redis.clients.jedis.commands,com.castsoftware.nosqljava,1.8.2-funcrel
 regex,com.castsoftware.python,1.6.0-alpha4
 requests,com.castsoftware.python,1.6.0-alpha7
+rg.mongojack,com.castsoftware.nosqljava,1.9.0-beta1
 sh,com.castsoftware.python,1.6.0-alpha5
 shutil,com.castsoftware.python,1.6.0-alpha5
 software.amazon.awssdk.awscore.client.builder,com.castsoftware.nosqljava,1.8.2-funcrel
