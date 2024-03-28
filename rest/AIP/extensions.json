@@ -271,7 +271,7 @@
     },
     {
         "qualityModel": false,
-        "transactionsConfiguration": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.ibatis",
         "href": "AIP/extensions/com.castsoftware.ibatis"
     },
