@@ -3879,6 +3879,18 @@
         ]
     },
     {
+        "id": 1025056,
+        "name": "Avoid running SQL queries inside a loop",
+        "href": "AIP/quality-rules/1025056",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1039002,
         "name": "Avoid using deprecated SSL protocols to secure connection",
         "href": "AIP/quality-rules/1039002",

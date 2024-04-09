@@ -8688,6 +8688,18 @@
     ],
     "com.castsoftware.securityanalyzer": [
         {
+            "version": "1.0.11-funcrel",
+            "addedRules": [
+                {
+                    "id": 1025056,
+                    "name": "Avoid running SQL queries inside a loop"
+                }
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.10-funcrel",
             "addedRules": [
                 {
