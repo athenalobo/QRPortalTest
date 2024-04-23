@@ -218,6 +218,8 @@ com.microsoft.signalr,com.castsoftware.azure.java,1.0.0-beta3
 com.mongodb,com.castsoftware.nosqljava,1.8.2-funcrel
 com.mongodb.client,com.castsoftware.nosqljava,1.8.2-funcrel
 com.mongodb.client.MongoCollection,com.castsoftware.nosqljava,1.8.2-funcrel
+com.mysema.query.jpa,com.castsoftware.springdata,2.1.0-alpha4
+com.mysema.query.jpa.impl,com.castsoftware.springdata,2.1.0-alpha4
 com.querydsl.jpa,com.castsoftware.springdata,2.0.0-alpha1
 com.querydsl.jpa.impl,com.castsoftware.springdata,2.0.0-alpha1
 com.rabbitmq.client,com.castsoftware.mqe,1.2.3-funcrel
