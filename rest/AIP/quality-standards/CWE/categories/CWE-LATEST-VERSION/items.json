@@ -4251,7 +4251,7 @@
         "id": "CWE-914",
         "name": "Improper Control of Dynamically-Identified Variables",
         "href": "AIP/quality-standards/CWE/items/CWE-914",
-        "count": 0
+        "count": 1
     },
     {
         "id": "CWE-915",
@@ -4359,7 +4359,7 @@
         "id": "CWE-1004",
         "name": "Sensitive Cookie Without 'HttpOnly' Flag",
         "href": "AIP/quality-standards/CWE/items/CWE-1004",
-        "count": 8
+        "count": 10
     },
     {
         "id": "CWE-1007",

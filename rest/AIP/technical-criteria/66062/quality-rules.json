@@ -2568,6 +2568,16 @@
         ]
     },
     {
+        "id": 1034060,
+        "name": "Avoid uncontrolled import into the current symbol table (PHP)",
+        "href": "AIP/quality-rules/1034060",
+        "critical": true,
+        "weight": 9,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
         "id": 1039012,
         "name": "Avoid using referer header field in HTTP request",
         "href": "AIP/quality-rules/1039012",

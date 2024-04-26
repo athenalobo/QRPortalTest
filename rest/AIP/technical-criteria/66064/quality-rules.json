@@ -970,7 +970,7 @@
         "id": 1034048,
         "name": "Avoid using insufficient random generator (PHP)",
         "href": "AIP/quality-rules/1034048",
-        "critical": false,
+        "critical": true,
         "weight": 8,
         "technologyNames": [
             "PHP"
@@ -980,7 +980,27 @@
         "id": 1034056,
         "name": "Avoid using hard-coded HMAC keys (PHP)",
         "href": "AIP/quality-rules/1034056",
-        "critical": false,
+        "critical": true,
+        "weight": 8,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
+        "id": 1034062,
+        "name": "Avoid creating cookie without setting httpOnly option (PHP)",
+        "href": "AIP/quality-rules/1034062",
+        "critical": true,
+        "weight": 8,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
+        "id": 1034064,
+        "name": "Ensure httpOnly option is enabled when creating session (PHP)",
+        "href": "AIP/quality-rules/1034064",
+        "critical": true,
         "weight": 8,
         "technologyNames": [
             "PHP"

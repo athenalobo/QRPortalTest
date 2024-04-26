@@ -6628,6 +6628,26 @@
     ],
     "com.castsoftware.php.security": [
         {
+            "version": "1.1.0-alpha3",
+            "addedRules": [
+                {
+                    "id": 1034064,
+                    "name": "Ensure httpOnly option is enabled when creating session (PHP)"
+                },
+                {
+                    "id": 1034062,
+                    "name": "Avoid creating cookie without setting httpOnly option (PHP)"
+                },
+                {
+                    "id": 1034060,
+                    "name": "Avoid uncontrolled import into the current symbol table (PHP)"
+                }
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.1.0-alpha2",
             "addedRules": [
                 {
