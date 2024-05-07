@@ -2,25 +2,25 @@
     {
         "name": "OWASP-2013",
         "href": "CARL/quality-standards/OWASP/categories/OWASP-2013",
-        "count": 336,
+        "count": 337,
         "description": "OWASP Top 10 most critical security risks to web applications - 2013"
     },
     {
         "name": "OWASP-2017",
         "href": "CARL/quality-standards/OWASP/categories/OWASP-2017",
-        "count": 348,
+        "count": 349,
         "description": "OWASP Top 10 most critical security risks to web applications - 2017"
     },
     {
         "name": "OWASP-2021",
         "href": "CARL/quality-standards/OWASP/categories/OWASP-2021",
-        "count": 366,
+        "count": 367,
         "description": "OWASP Top 10 most critical security risks to web applications - 2021"
     },
     {
         "name": "OWASP-API-2019",
         "href": "CARL/quality-standards/OWASP/categories/OWASP-API-2019",
-        "count": 132,
+        "count": 133,
         "description": "OWASP Top 10 most critical security risks to API - 2019"
     },
     {
