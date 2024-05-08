@@ -439,7 +439,7 @@
     },
     {
         "qualityModel": false,
-        "transactionsConfiguration": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.msenterpriselibrary",
         "href": "AIP/extensions/com.castsoftware.msenterpriselibrary"
     },
