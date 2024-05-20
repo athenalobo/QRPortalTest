@@ -18,7 +18,7 @@
     "remediationSample": "public static class Person \n{\n   private String fname = null;\n   private String lname = null;\n\n   private final void readObject(ObjectInputStream aInputSteam) throws ClassNotFoundException, IOException\n   {\n      aInputSteam.defaultReadObject();\n   }\n}\n\n\n\ntry {\n\n   ObjectInputStream objectInputStream = new ObjectInputStream(new FileInputStream(\"test.txt\"));\n\n   Person personRead = (Person) objectInputStream.readObject(); // no violation because Person does implement readObject as private and final method that cannot be overwritten\n\n   objectInputStream.close();\n}",
     "sample": "public static class Person \n{\n   private String fname = null;\n   private String lname = null;\n}\n\n\n\ntry {\n\n   ObjectInputStream objectInputStream = new ObjectInputStream(new FileInputStream(\"test.txt\"));\n\n   Person personRead = (Person) objectInputStream.readObject(); // violation because Person does not implement readObject\n\n   objectInputStream.close();\n}",
     "total": "Number of Java Artifacts",
-    "alternativeName": "Ensure the readObject() has been implemented for class instantiated by ObjectInputStream to prevent untrusted deserialization",
+    "alternativeName": "Ensure the readObject() has been implemented for class instantiated by ObjectInputStream",
     "businessCriteria": [
         {
             "id": 20140522,
