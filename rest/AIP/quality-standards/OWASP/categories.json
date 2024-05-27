@@ -2,19 +2,19 @@
     {
         "name": "OWASP-2013",
         "href": "AIP/quality-standards/OWASP/categories/OWASP-2013",
-        "count": 505,
+        "count": 507,
         "description": "OWASP Top 10 most critical security risks to web applications - 2013"
     },
     {
         "name": "OWASP-2017",
         "href": "AIP/quality-standards/OWASP/categories/OWASP-2017",
-        "count": 525,
+        "count": 527,
         "description": "OWASP Top 10 most critical security risks to web applications - 2017"
     },
     {
         "name": "OWASP-2021",
         "href": "AIP/quality-standards/OWASP/categories/OWASP-2021",
-        "count": 550,
+        "count": 552,
         "description": "OWASP Top 10 most critical security risks to web applications - 2021"
     },
     {
@@ -32,7 +32,7 @@
     {
         "name": "OWASP-Mobile-2016",
         "href": "AIP/quality-standards/OWASP/categories/OWASP-Mobile-2016",
-        "count": 163,
+        "count": 164,
         "description": "OWASP Top 10 most critical security risks to mobile applications - 2016"
     }
 ]

@@ -388,6 +388,16 @@
         ]
     },
     {
+        "id": 1039096,
+        "name": "Ensure httpOnly option is enabled when creating session (JEE)",
+        "href": "AIP/quality-rules/1039096",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 1040008,
         "name": "Ensure declaring formLogin after requesting authorization and authentication",
         "href": "AIP/quality-rules/1040008",

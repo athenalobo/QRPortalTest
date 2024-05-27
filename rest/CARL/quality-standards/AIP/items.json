@@ -33,13 +33,13 @@
         "id": "AIP-CAST-LITE",
         "name": "Rule implemented in CAST Lite product",
         "href": "CARL/quality-standards/AIP/items/AIP-CAST-LITE",
-        "count": 1015
+        "count": 1017
     },
     {
         "id": "AIP-CORE-RULE",
         "name": "RESERVED TAG - DO NOT USE",
         "href": "CARL/quality-standards/AIP/items/AIP-CORE-RULE",
-        "count": 1015
+        "count": 1017
     },
     {
         "id": "AIP-SYSTEM-LEVEL",
@@ -93,7 +93,7 @@
         "id": "AIP-GDPR",
         "name": "General Data Protection Regulation",
         "href": "CARL/quality-standards/AIP/items/AIP-GDPR",
-        "count": 125
+        "count": 126
     },
     {
         "id": "AIP-MISCONFIGURATION",

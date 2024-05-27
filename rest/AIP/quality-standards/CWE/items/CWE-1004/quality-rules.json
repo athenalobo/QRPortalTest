@@ -82,6 +82,16 @@
         ]
     },
     {
+        "id": 1039096,
+        "name": "Ensure httpOnly option is enabled when creating session (JEE)",
+        "href": "AIP/quality-rules/1039096",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "JEE"
+        ]
+    },
+    {
         "id": 1043010,
         "name": "Avoid creating cookie without setting httpOnly option (C#)",
         "href": "AIP/quality-rules/1043010",
