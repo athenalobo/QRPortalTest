@@ -527,6 +527,16 @@
         ]
     },
     {
+        "id": 1106004,
+        "name": "Ensure CLOB data type is not used",
+        "href": "AIP/quality-rules/1106004",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
         "id": 1520732,
         "name": "Siebel eScript: Use DeleteRecord method only inside Loops located in Functions",
         "href": "AIP/quality-rules/1520732",
