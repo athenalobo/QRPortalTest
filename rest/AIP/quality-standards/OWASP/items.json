@@ -246,6 +246,12 @@
         "count": 2
     },
     {
+        "id": "API2-2023",
+        "name": "Broken Authentication",
+        "href": "AIP/quality-standards/OWASP/items/API2-2023",
+        "count": 23
+    },
+    {
         "id": "M1-2016",
         "name": "Improper Platform Usage",
         "href": "AIP/quality-standards/OWASP/items/M1-2016",
