@@ -295,6 +295,12 @@
     },
     {
         "qualityModel": false,
+        "transactionsConfiguration": true,
+        "name": "com.castsoftware.java.config.tcc",
+        "href": "AIP/extensions/com.castsoftware.java.config.tcc"
+    },
+    {
+        "qualityModel": false,
         "transactionsConfiguration": false,
         "name": "com.castsoftware.java.freemarker",
         "href": "AIP/extensions/com.castsoftware.java.freemarker"
