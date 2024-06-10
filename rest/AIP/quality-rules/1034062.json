@@ -3,7 +3,7 @@
     "name": "Avoid creating cookie without setting httpOnly option (PHP)",
     "href": "AIP/quality-rules/1034062",
     "critical": true,
-    "severity": 20,
+    "severity": 30,
     "maxWeight": 8,
     "extension": {
         "name": "com.castsoftware.php.security",

@@ -1389,7 +1389,7 @@
         "name": "Avoid file path manipulation (PHP)",
         "href": "AIP/quality-rules/1034014",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "PHP"
         ]
@@ -1429,7 +1429,7 @@
         "name": "Avoid second order file path manipulation (PHP)",
         "href": "AIP/quality-rules/1034036",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "PHP"
         ]
@@ -1449,7 +1449,7 @@
         "name": "Avoid using insufficient random generator (PHP)",
         "href": "AIP/quality-rules/1034048",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "PHP"
         ]

@@ -400,7 +400,7 @@
         "name": "Avoid parsing XML data without restriction of XML External Entity Reference (XXE) (PHP)",
         "href": "AIP/quality-rules/1034054",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "PHP"
         ]
@@ -410,7 +410,7 @@
         "name": "Avoid creating cookie without setting httpOnly option (PHP)",
         "href": "AIP/quality-rules/1034062",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "PHP"
         ]
@@ -420,7 +420,7 @@
         "name": "Ensure httpOnly option is enabled when creating session (PHP)",
         "href": "AIP/quality-rules/1034064",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "PHP"
         ]

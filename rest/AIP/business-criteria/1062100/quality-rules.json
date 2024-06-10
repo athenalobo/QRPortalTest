@@ -5528,7 +5528,7 @@
         "name": "Avoid file path manipulation (PHP)",
         "href": "AIP/quality-rules/1034014",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "PHP"
         ]
@@ -5538,7 +5538,7 @@
         "name": "Avoid reflected cross-site scripting (non persistent) (PHP)",
         "href": "AIP/quality-rules/1034016",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "PHP"
         ]
@@ -5548,7 +5548,7 @@
         "name": "Avoid server-side request forgery (PHP)",
         "href": "AIP/quality-rules/1034022",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "PHP"
         ]
@@ -5588,7 +5588,7 @@
         "name": "Avoid second order file path manipulation (PHP)",
         "href": "AIP/quality-rules/1034036",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "PHP"
         ]
@@ -5598,7 +5598,7 @@
         "name": "Avoid cross-site scripting (persistent) (PHP)",
         "href": "AIP/quality-rules/1034038",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "PHP"
         ]
@@ -5608,7 +5608,7 @@
         "name": "Avoid second order server-side request forgery (PHP)",
         "href": "AIP/quality-rules/1034044",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "PHP"
         ]

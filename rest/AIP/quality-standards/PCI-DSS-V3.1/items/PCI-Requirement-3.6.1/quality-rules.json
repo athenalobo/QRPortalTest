@@ -59,7 +59,7 @@
         "name": "Avoid using insufficient random generator (PHP)",
         "href": "AIP/quality-rules/1034048",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "PHP"
         ]
