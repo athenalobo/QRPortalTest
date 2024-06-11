@@ -410,6 +410,7 @@ org.springframework.data.jpa.repository,com.castsoftware.nosqljava,1.8.2-funcrel
 org.springframework.data.jpa.repository,com.castsoftware.springdata,2.0.0-alpha1
 org.springframework.data.mongodb,com.castsoftware.nosqljava,1.8.2-funcrel
 org.springframework.data.mongodb.core,com.castsoftware.nosqljava,1.8.2-funcrel
+org.springframework.data.querydsl,com.castsoftware.springdata,2.1.0-beta1
 org.springframework.data.redis.connection.jedis,com.castsoftware.nosqljava,1.8.2-funcrel
 org.springframework.data.redis.connection.lettuce,com.castsoftware.nosqljava,1.8.2-funcrel
 org.springframework.data.redis.core,com.castsoftware.nosqljava,1.8.2-funcrel
@@ -418,6 +419,7 @@ org.springframework.data.repository,com.castsoftware.nosqljava,1.8.2-funcrel
 org.springframework.data.repository,com.castsoftware.springdata,2.0.0-alpha1
 org.springframework.data.repository.query,com.castsoftware.springdata,2.1.0-alpha2
 org.springframework.data.repository.reactive,com.castsoftware.nosqljava,1.8.2-funcrel
+org.springframework.data.repository.reactive,com.castsoftware.springdata,2.1.0-beta1
 org.springframework.data.solr.core,com.castsoftware.nosqljava,1.9.0-beta1
 org.springframework.jdbc.core,com.castsoftware.springdata,2.0.5-funcrel
 org.springframework.jdbc.core.namedparam,com.castsoftware.springdata,2.0.5-funcrel
