@@ -18830,6 +18830,46 @@
         ]
     },
     {
+        "id": 1034066,
+        "name": "Avoid creating application cookie without SameSite option (PHP)",
+        "href": "AIP/quality-rules/1034066",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
+        "id": 1034068,
+        "name": "Ensure SameSite option is enabled when creating session (PHP)",
+        "href": "AIP/quality-rules/1034068",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
+        "id": 1034070,
+        "name": "Ensure strict mode is enabled when creating session (PHP)",
+        "href": "AIP/quality-rules/1034070",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
+        "id": 1034072,
+        "name": "Avoid mixing trusted and untrusted data in HTTP requests (PHP)",
+        "href": "AIP/quality-rules/1034072",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
         "id": 1039002,
         "name": "Avoid using deprecated SSL protocols to secure connection",
         "href": "AIP/quality-rules/1039002",

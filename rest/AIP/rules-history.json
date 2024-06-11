@@ -6644,6 +6644,30 @@
     ],
     "com.castsoftware.php.security": [
         {
+            "version": "1.1.0-beta1",
+            "addedRules": [
+                {
+                    "id": 1034072,
+                    "name": "Avoid mixing trusted and untrusted data in HTTP requests (PHP)"
+                },
+                {
+                    "id": 1034070,
+                    "name": "Ensure strict mode is enabled when creating session (PHP)"
+                },
+                {
+                    "id": 1034068,
+                    "name": "Ensure SameSite option is enabled when creating session (PHP)"
+                },
+                {
+                    "id": 1034066,
+                    "name": "Avoid creating application cookie without SameSite option (PHP)"
+                }
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.1.0-alpha3",
             "addedRules": [
                 {

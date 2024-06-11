@@ -2067,7 +2067,7 @@
         "id": "CWE-384",
         "name": "Session Fixation",
         "href": "AIP/quality-standards/CWE/items/CWE-384",
-        "count": 2
+        "count": 3
     },
     {
         "id": "CWE-385",
@@ -2667,7 +2667,7 @@
         "id": "CWE-501",
         "name": "Trust Boundary Violation",
         "href": "AIP/quality-standards/CWE/items/CWE-501",
-        "count": 3
+        "count": 4
     },
     {
         "id": "CWE-502",
@@ -5313,7 +5313,7 @@
         "id": "CWE-1275",
         "name": "Sensitive Cookie with Improper SameSite Attribute",
         "href": "AIP/quality-standards/CWE/items/CWE-1275",
-        "count": 0
+        "count": 2
     },
     {
         "id": "CWE-1276",

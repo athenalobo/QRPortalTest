@@ -33,7 +33,7 @@
         "id": "STIG-V-222596",
         "name": "The application must protect the confidentiality and integrity of transmitted information.",
         "href": "AIP/quality-standards/STIG-V5/items/STIG-V-222596",
-        "count": 59
+        "count": 60
     },
     {
         "id": "STIG-V-222602",
@@ -153,7 +153,7 @@
         "id": "STIG-V-222579",
         "name": "Applications must use system-generated session identifiers that protect against session fixation.",
         "href": "AIP/quality-standards/STIG-V5/items/STIG-V-222579",
-        "count": 1
+        "count": 2
     },
     {
         "id": "STIG-V-222581",

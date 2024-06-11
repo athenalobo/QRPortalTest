@@ -1007,6 +1007,26 @@
         ]
     },
     {
+        "id": 1034066,
+        "name": "Avoid creating application cookie without SameSite option (PHP)",
+        "href": "AIP/quality-rules/1034066",
+        "critical": true,
+        "weight": 8,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
+        "id": 1034068,
+        "name": "Ensure SameSite option is enabled when creating session (PHP)",
+        "href": "AIP/quality-rules/1034068",
+        "critical": true,
+        "weight": 8,
+        "technologyNames": [
+            "PHP"
+        ]
+    },
+    {
         "id": 1039002,
         "name": "Avoid using deprecated SSL protocols to secure connection",
         "href": "AIP/quality-rules/1039002",
