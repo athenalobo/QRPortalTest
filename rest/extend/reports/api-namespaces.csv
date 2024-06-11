@@ -262,6 +262,8 @@ io.searchbox.client.config.HttpClientConfig,com.castsoftware.nosqljava,1.8.2-fun
 io.vertx.core.http,com.castsoftware.java.service,1.0.4-funcrel
 io.vertx.ext.web.client,com.castsoftware.java.service,1.0.4-funcrel
 jakarta.batch.operations,com.castsoftware.springbatch,3.1.6-funcrel
+jakarta.jms,com.castsoftware.mqe,1.3.0-funcrel
+jakarta.jms.Message,com.castsoftware.mqe,1.3.0-funcrel
 jakarta.persistence,com.castsoftware.java.hibernate,1.0.0-beta4
 java.awt,com.castsoftware.swing,1.0.0-funcrel
 java.beans,com.castsoftware.jeerules,1.5.0-beta3
