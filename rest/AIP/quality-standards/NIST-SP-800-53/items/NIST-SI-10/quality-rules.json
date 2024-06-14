@@ -1903,6 +1903,46 @@
         ]
     },
     {
+        "id": 1050002,
+        "name": "Avoid using NSString stringWithFormat on behalf of NSURL instance",
+        "href": "AIP/quality-rules/1050002",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "Objective-C"
+        ]
+    },
+    {
+        "id": 1050004,
+        "name": "Avoid using NSPredicate predicateWithFormat",
+        "href": "AIP/quality-rules/1050004",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "Objective-C"
+        ]
+    },
+    {
+        "id": 1050006,
+        "name": "Avoid using NSException raise:format: and raise:format:arguments:",
+        "href": "AIP/quality-rules/1050006",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "Objective-C"
+        ]
+    },
+    {
+        "id": 1050008,
+        "name": "Avoid using NSMutableString appendFormat: on behalf of NSURL instance",
+        "href": "AIP/quality-rules/1050008",
+        "critical": true,
+        "severity": 20,
+        "technologyNames": [
+            "Objective-C"
+        ]
+    },
+    {
         "id": 1055032,
         "name": "Avoid using NSPredicate(format:) (Swift)",
         "href": "AIP/quality-rules/1055032",

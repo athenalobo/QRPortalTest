@@ -48,6 +48,12 @@
         "count": 1
     },
     {
+        "id": "NIST-CM-6",
+        "name": "Configuration Settings",
+        "href": "AIP/quality-standards/NIST-SP-800-53/items/NIST-CM-6",
+        "count": 1
+    },
+    {
         "id": "NIST-IA-9",
         "name": "Service Identification and Authentication",
         "href": "AIP/quality-standards/NIST-SP-800-53/items/NIST-IA-9",
@@ -93,7 +99,7 @@
         "id": "NIST-SI-10",
         "name": "Information Input Validation",
         "href": "AIP/quality-standards/NIST-SP-800-53/items/NIST-SI-10",
-        "count": 186
+        "count": 190
     },
     {
         "id": "NIST-SI-11",
