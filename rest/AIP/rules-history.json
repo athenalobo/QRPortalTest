@@ -8748,6 +8748,26 @@
     ],
     "com.castsoftware.securityanalyzer": [
         {
+            "version": "1.0.12-funcrel",
+            "addedRules": [
+                {
+                    "id": 1025062,
+                    "name": "Avoid numeric user inputs in SQL queries through API requests"
+                },
+                {
+                    "id": 1025060,
+                    "name": "Avoid second order numeric user inputs in SQL queries"
+                },
+                {
+                    "id": 1025058,
+                    "name": "Avoid numeric user inputs in SQL queries"
+                }
+            ],
+            "detachedRules": [
+                
+            ]
+        },
+        {
             "version": "1.0.11-funcrel",
             "addedRules": [
                 {
