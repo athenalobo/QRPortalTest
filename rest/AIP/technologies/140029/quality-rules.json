@@ -3895,7 +3895,7 @@
         "name": "Avoid numeric user inputs in SQL queries",
         "href": "AIP/quality-rules/1025058",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -3907,7 +3907,7 @@
         "name": "Avoid second order numeric user inputs in SQL queries",
         "href": "AIP/quality-rules/1025060",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",
@@ -3919,7 +3919,7 @@
         "name": "Avoid numeric user inputs in SQL queries through API requests",
         "href": "AIP/quality-rules/1025062",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",

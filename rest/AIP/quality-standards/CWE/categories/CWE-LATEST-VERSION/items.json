@@ -3003,7 +3003,7 @@
         "id": "CWE-566",
         "name": "Authorization Bypass Through User-Controlled SQL Primary Key",
         "href": "AIP/quality-standards/CWE/items/CWE-566",
-        "count": 0
+        "count": 3
     },
     {
         "id": "CWE-567",
@@ -3387,7 +3387,7 @@
         "id": "CWE-639",
         "name": "Authorization Bypass Through User-Controlled Key",
         "href": "AIP/quality-standards/CWE/items/CWE-639",
-        "count": 2
+        "count": 5
     },
     {
         "id": "CWE-640",

@@ -3,7 +3,7 @@
     "name": "Avoid numeric user inputs in SQL queries through API requests",
     "href": "AIP/quality-rules/1025062",
     "critical": true,
-    "severity": 20,
+    "severity": 30,
     "maxWeight": 9,
     "extension": {
         "name": "com.castsoftware.securityanalyzer",
@@ -17,7 +17,7 @@
     "remediationSample": "// ----------------------------------------------------------------------------\n// C#\n\nusing System;\nusing Microsoft.Data.SqlClient;\n\n// The argument userId should be hard-coded or checked using a specific\n// validation method if given by an API request\nprivate static void OutputPassword(int userId) //1. OK\n{\n    using var connection = new SqlConnection(GetConnectionString());\n    connection.Open();\n    var query = \"SELECT * FROM users WHERE id = @id\";\n    using var command = new SqlCommand(query, connection);\n    command.Parameters.AddWithValue(\"@id\", userId); // 2. OK\n    using var reader = command.ExecuteReader(); // 3. OK\n    while (reader.Read())\n    {\n        Console.WriteLine(\"Password=\" + reader[\"password\"]);\n    }\n}",
     "sample": "// ----------------------------------------------------------------------------\n// C#\n\nusing System;\nusing Microsoft.Data.SqlClient;\n\n// The argument userId is given by an API request\nprivate static void OutputPassword(int userId) // 1. Numeric user input\n{\n    using var connection = new SqlConnection(GetConnectionString());\n    connection.Open();\n    var query = \"SELECT * FROM users WHERE id = @id\";\n    using var command = new SqlCommand(query, connection);\n    command.Parameters.AddWithValue(\"@id\", userId); // 2. Numeric user input added\n    using var reader = command.ExecuteReader(); // 3. Numeric user input used in SQL query\n    while (reader.Read())\n    {\n        Console.WriteLine(\"Password=\" + reader[\"password\"]);\n    }\n}",
     "total": "Number of potentially vulnerable methods",
-    "alternativeName": null,
+    "alternativeName": "Ensure you don't include numeric user inputs to SQL databases",
     "businessCriteria": [
         {
             "id": 66031,
@@ -57,7 +57,78 @@
         }
     ],
     "qualityStandards": [
-        
+        {
+            "id": "CWE-566",
+            "name": "Authorization Bypass Through User-Controlled SQL Primary Key",
+            "href": "AIP/quality-standards/CWE/items/CWE-566",
+            "standard": "CWE"
+        },
+        {
+            "id": "CWE-639",
+            "name": "Authorization Bypass Through User-Controlled Key",
+            "href": "AIP/quality-standards/CWE/items/CWE-639",
+            "standard": "CWE"
+        },
+        {
+            "id": "NIST-SI-10",
+            "name": "Information Input Validation",
+            "href": "AIP/quality-standards/NIST-SP-800-53/items/NIST-SI-10",
+            "standard": "NIST-SP-800-53"
+        },
+        {
+            "id": "NIST-SI-10",
+            "name": "Information Input Validation",
+            "href": "AIP/quality-standards/NIST-SP-800-53R4/items/NIST-SI-10",
+            "standard": "NIST-SP-800-53R4"
+        },
+        {
+            "id": "A4-2013",
+            "name": "Insecure Direct Object References",
+            "href": "AIP/quality-standards/OWASP/items/A4-2013",
+            "standard": "OWASP"
+        },
+        {
+            "id": "A5-2017",
+            "name": "Broken Access Control",
+            "href": "AIP/quality-standards/OWASP/items/A5-2017",
+            "standard": "OWASP"
+        },
+        {
+            "id": "A01-2021",
+            "name": "Broken Access Control",
+            "href": "AIP/quality-standards/OWASP/items/A01-2021",
+            "standard": "OWASP"
+        },
+        {
+            "id": "API1-2019",
+            "name": "Broken Object Level Authorization",
+            "href": "AIP/quality-standards/OWASP/items/API1-2019",
+            "standard": "OWASP"
+        },
+        {
+            "id": "API1-2023",
+            "name": "Broken Object Level Authorization",
+            "href": "AIP/quality-standards/OWASP/items/API1-2023",
+            "standard": "OWASP"
+        },
+        {
+            "id": "PCI-Requirement-6.5.8",
+            "name": "Improper access control",
+            "href": "AIP/quality-standards/PCI-DSS-V3.1/items/PCI-Requirement-6.5.8",
+            "standard": "PCI-DSS-V3.1"
+        },
+        {
+            "id": "PCI-Requirement-6.5.8",
+            "name": "Improper access control",
+            "href": "AIP/quality-standards/PCI-DSS-V3.2.1/items/PCI-Requirement-6.5.8",
+            "standard": "PCI-DSS-V3.2.1"
+        },
+        {
+            "id": "PCI-DSS4-Requirement-6.2.4",
+            "name": "Software engineering techniques or other methods are defined and in use by software development personnel to prevent or mitigate common software attacks and related vulnerabilities",
+            "href": "AIP/quality-standards/PCI-DSS-V4/items/PCI-DSS4-Requirement-6.2.4",
+            "standard": "PCI-DSS-V4"
+        }
     ],
     "parameters": [
         
