@@ -139,6 +139,12 @@
     },
     {
         "qualityModel": false,
+        "transactionsConfiguration": false,
+        "name": "com.castsoftware.dotnet.devexpress.xpo",
+        "href": "AIP/extensions/com.castsoftware.dotnet.devexpress.xpo"
+    },
+    {
+        "qualityModel": false,
         "transactionsConfiguration": true,
         "name": "com.castsoftware.dotnet.gcp",
         "href": "AIP/extensions/com.castsoftware.dotnet.gcp"
