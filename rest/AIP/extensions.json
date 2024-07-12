@@ -163,6 +163,12 @@
     },
     {
         "qualityModel": false,
+        "transactionsConfiguration": true,
+        "name": "com.castsoftware.dotnet.mediatr",
+        "href": "AIP/extensions/com.castsoftware.dotnet.mediatr"
+    },
+    {
+        "qualityModel": false,
         "transactionsConfiguration": false,
         "name": "com.castsoftware.dotnet.missingtable",
         "href": "AIP/extensions/com.castsoftware.dotnet.missingtable"
