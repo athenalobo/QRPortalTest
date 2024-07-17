@@ -10654,6 +10654,16 @@
         ]
     },
     {
+        "id": 1101114,
+        "name": "Avoid \"SELECT *\" queries (SQL)",
+        "href": "AIP/quality-rules/1101114",
+        "critical": false,
+        "severity": 10,
+        "technologyNames": [
+            "ALL TECHNOLOGIES"
+        ]
+    },
+    {
         "id": 1101920,
         "name": "Avoid using explain() in production code (JEE)",
         "href": "AIP/quality-rules/1101920",
