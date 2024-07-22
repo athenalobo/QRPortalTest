@@ -497,6 +497,18 @@
         ]
     },
     {
+        "id": 1025056,
+        "name": "Avoid running SQL queries inside a loop",
+        "href": "AIP/quality-rules/1025056",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1030004,
         "name": "Avoid using \"foreach\" to iterate over a explicit range (Kotlin)",
         "href": "AIP/quality-rules/1030004",

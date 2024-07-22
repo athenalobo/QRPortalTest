@@ -3627,6 +3627,18 @@
         ]
     },
     {
+        "id": 1025056,
+        "name": "Ensure you don't have SQL queries inside loops",
+        "href": "AIP/quality-rules/1025056",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1025058,
         "name": "Ensure you don't include numeric user inputs to SQL databases",
         "href": "AIP/quality-rules/1025058",

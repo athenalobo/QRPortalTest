@@ -3883,7 +3883,7 @@
         "name": "Avoid running SQL queries inside a loop",
         "href": "AIP/quality-rules/1025056",
         "critical": true,
-        "severity": 20,
+        "severity": 30,
         "technologyNames": [
             "C#",
             "JEE",

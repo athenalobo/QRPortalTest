@@ -3023,6 +3023,18 @@
         ]
     },
     {
+        "id": 1025056,
+        "name": "Ensure you don't have SQL queries inside loops",
+        "href": "AIP/quality-rules/1025056",
+        "critical": true,
+        "severity": 30,
+        "technologyNames": [
+            "C#",
+            "JEE",
+            "VB.NET"
+        ]
+    },
+    {
         "id": 1027000,
         "name": "Avoid Managed type declaration for Win32 API using Overlapped IO",
         "href": "AIP/quality-rules/1027000",
