@@ -1128,7 +1128,7 @@
         "id": 1025058,
         "name": "Avoid numeric user inputs in SQL queries",
         "href": "AIP/quality-rules/1025058",
-        "status": "added",
+        "status": "renewed",
         "critical": true,
         "severity": 30,
         "technologyNames": [
@@ -1141,7 +1141,7 @@
         "id": 1025060,
         "name": "Avoid second order numeric user inputs in SQL queries",
         "href": "AIP/quality-rules/1025060",
-        "status": "added",
+        "status": "renewed",
         "critical": true,
         "severity": 30,
         "technologyNames": [
@@ -1154,7 +1154,7 @@
         "id": 1025062,
         "name": "Avoid numeric user inputs in SQL queries through API requests",
         "href": "AIP/quality-rules/1025062",
-        "status": "added",
+        "status": "renewed",
         "critical": true,
         "severity": 30,
         "technologyNames": [
