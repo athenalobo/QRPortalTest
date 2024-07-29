@@ -210,6 +210,12 @@
         "href": "AIP/extensions/com.castsoftware.dotnet.service"
     },
     {
+        "qualityModel": false,
+        "transactionsConfiguration": false,
+        "name": "com.castsoftware.dotnet.subsonic",
+        "href": "AIP/extensions/com.castsoftware.dotnet.subsonic"
+    },
+    {
         "qualityModel": true,
         "transactionsConfiguration": true,
         "name": "com.castsoftware.dotnetweb",
