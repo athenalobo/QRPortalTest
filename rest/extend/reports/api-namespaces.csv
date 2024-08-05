@@ -109,12 +109,14 @@ NHibernate,com.castsoftware.dotnet.nhibernate,1.0.0-alpha1
 NHibernate.AdoNet,com.castsoftware.dotnet.nhibernate,1.0.0-beta4
 NHibernate.Engine,com.castsoftware.dotnet.nhibernate,1.0.0-beta4
 NMS.AMQP,com.castsoftware.dotnet.nms,1.0.0-beta1
+NPoco,com.castsoftware.dotnet.petapoco,1.0.0-alpha1
 NServiceBus,com.castsoftware.dotnet.rabbitmq,1.0.0-funcrel
 Nest,com.castsoftware.nosqldotnet,1.8.2-funcrel
 Npgsql,com.castsoftware.dotnet.ado,1.0.0-beta1
 Oracle.DataAccess.Client,com.castsoftware.dotnet.ado,1.0.0-alpha2
 Oracle.ManagedDataAccess.Client,com.castsoftware.dotnet.ado,1.0.0-alpha2
 Owin,com.castsoftware.azure.dotnet,1.0.0-beta3
+PetaPoco,com.castsoftware.dotnet.petapoco,1.0.0-alpha1
 PubSub,com.castsoftware.nodejs,2.9.0-beta4
 PublisherClient,com.castsoftware.nodejs,2.9.0-beta3
 RabbitMQ.Client,com.castsoftware.dotnet.rabbitmq,1.0.0-beta2
