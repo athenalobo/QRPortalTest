@@ -1299,7 +1299,7 @@
         "id": "CWE-242",
         "name": "Use of Inherently Dangerous Function",
         "href": "CARL/quality-standards/CWE/items/CWE-242",
-        "count": 1
+        "count": 14
     },
     {
         "id": "CWE-243",
